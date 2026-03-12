@@ -1,0 +1,528 @@
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-sans);color:var(--color-text-primary);background:transparent}
+.hub{max-width:860px;margin:0 auto;padding:1rem 0}
+.top-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.25rem;flex-wrap:wrap;gap:8px}
+.top-title{font-size:15px;font-weight:500}
+.top-sub{font-size:12px;color:var(--color-text-secondary);margin-top:2px}
+.overall-badge{font-size:13px;font-weight:500;padding:4px 12px;border-radius:var(--border-radius-md);background:var(--color-background-secondary);border:0.5px solid var(--color-border-tertiary)}
+.tabs{display:flex;gap:4px;border-bottom:0.5px solid var(--color-border-tertiary);margin-bottom:1.25rem}
+.tab{padding:7px 14px;font-size:13px;font-weight:400;color:var(--color-text-secondary);background:transparent;border:none;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px;transition:color 0.15s}
+.tab.active{color:var(--color-text-primary);font-weight:500;border-bottom-color:var(--color-text-primary)}
+.tab:hover{color:var(--color-text-primary)}
+.panel{display:none}.panel.active{display:block}
+.domain-tabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:1rem}
+.dtab{padding:5px 11px;font-size:12px;border-radius:var(--border-radius-md);border:0.5px solid var(--color-border-tertiary);background:transparent;cursor:pointer;color:var(--color-text-secondary);transition:all 0.15s}
+.dtab.active{background:var(--color-background-secondary);color:var(--color-text-primary);border-color:var(--color-border-secondary)}
+.level-tabs{display:flex;gap:6px;margin-bottom:1rem}
+.ltab{padding:5px 14px;font-size:12px;border-radius:20px;border:0.5px solid var(--color-border-tertiary);background:transparent;cursor:pointer;color:var(--color-text-secondary);transition:all 0.15s}
+.ltab.active{background:var(--color-background-secondary);color:var(--color-text-primary)}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:600px){.two-col{grid-template-columns:1fr}}
+.card{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem}
+.card-label{font-size:11px;font-weight:500;color:var(--color-text-secondary);text-transform:uppercase;letter-spacing:0.07em;margin-bottom:10px}
+.learn-item{display:flex;gap:8px;align-items:flex-start;margin-bottom:8px;font-size:13px;line-height:1.5;color:var(--color-text-secondary)}
+.learn-arrow{color:var(--color-text-tertiary);flex-shrink:0;margin-top:2px}
+.milestone{display:flex;gap:10px;align-items:flex-start;padding:8px 10px;border-radius:var(--border-radius-md);cursor:pointer;border:0.5px solid transparent;transition:all 0.15s;margin-bottom:6px}
+.milestone:hover{background:var(--color-background-secondary)}
+.milestone.done{background:var(--color-background-success);border-color:var(--color-border-success)}
+.checkbox{width:17px;height:17px;border-radius:4px;border:1.5px solid var(--color-border-secondary);flex-shrink:0;margin-top:1px;display:flex;align-items:center;justify-content:center;transition:all 0.15s;font-size:11px;font-weight:500}
+.done .checkbox{background:var(--color-text-success);border-color:var(--color-text-success);color:white}
+.milestone-text{font-size:13px;line-height:1.5;color:var(--color-text-primary)}
+.done .milestone-text{color:var(--color-text-secondary);text-decoration:line-through}
+.level-complete{text-align:center;padding:10px;border-radius:var(--border-radius-md);background:var(--color-background-success);border:0.5px solid var(--color-border-success);font-size:13px;color:var(--color-text-success);margin-top:4px;font-weight:500}
+.prog-bar-wrap{height:4px;background:var(--color-background-tertiary);border-radius:2px;margin-top:6px;overflow:hidden}
+.prog-bar-fill{height:100%;border-radius:2px;background:var(--color-text-primary);transition:width 0.3s}
+.pct-label{font-size:11px;color:var(--color-text-secondary);margin-top:3px}
+.domain-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:1.25rem}
+@media(max-width:580px){.domain-grid{grid-template-columns:repeat(2,1fr)}}
+.domain-card{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:10px 12px;cursor:pointer;transition:border-color 0.15s}
+.domain-card.active{border-color:var(--color-border-primary)}
+.domain-emoji{font-size:16px;margin-bottom:4px}
+.domain-name{font-size:11px;font-weight:500;line-height:1.3;margin-bottom:6px}
+.item-row{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border-radius:var(--border-radius-lg);border:0.5px solid var(--color-border-tertiary);background:var(--color-background-primary);cursor:pointer;margin-bottom:6px;transition:all 0.15s}
+.item-row:hover{border-color:var(--color-border-secondary)}
+.item-row.done{background:var(--color-background-success);border-color:var(--color-border-success)}
+.item-info{flex:1;min-width:0}
+.item-title{font-size:13px;font-weight:500;margin-bottom:2px}
+.done .item-title{text-decoration:line-through;color:var(--color-text-secondary)}
+.item-meta{font-size:11px;color:var(--color-text-secondary)}
+.badge{display:inline-block;font-size:10px;padding:2px 7px;border-radius:var(--border-radius-md);background:var(--color-background-secondary);border:0.5px solid var(--color-border-tertiary);color:var(--color-text-secondary);margin-right:4px}
+.free-badge{background:var(--color-background-success);border-color:var(--color-border-success);color:var(--color-text-success)}
+.filter-row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
+.filter-btn{padding:4px 10px;font-size:11px;border-radius:var(--border-radius-md);border:0.5px solid var(--color-border-tertiary);background:transparent;cursor:pointer;color:var(--color-text-secondary);transition:all 0.15s}
+.filter-btn.active{background:var(--color-background-secondary);color:var(--color-text-primary);border-color:var(--color-border-secondary)}
+.stats-row{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:1.25rem}
+.stat-card{background:var(--color-background-secondary);border-radius:var(--border-radius-md);padding:12px 14px;text-align:center}
+.stat-num{font-size:26px;font-weight:500;line-height:1}
+.stat-lbl{font-size:11px;color:var(--color-text-secondary);margin-top:4px}
+.save-indicator{font-size:11px;color:var(--color-text-success);opacity:0;transition:opacity 0.4s;margin-left:8px}
+.save-indicator.show{opacity:1}
+.empty-state{text-align:center;padding:2rem;color:var(--color-text-secondary);font-size:13px}
+.ds-stab-bar{display:flex;gap:4px;margin-bottom:1rem;border-bottom:0.5px solid var(--color-border-tertiary);padding-bottom:1px}
+.ds-stab{padding:6px 14px;font-size:13px;font-weight:400;color:var(--color-text-secondary);background:transparent;border:none;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1.5px;transition:color 0.15s}
+.ds-stab.active{color:var(--color-text-primary);font-weight:500;border-bottom-color:var(--color-text-primary)}
+.ds-stab:hover{color:var(--color-text-primary)}
+.dirty-card{border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:12px;margin-bottom:8px;cursor:pointer;transition:all 0.15s;background:var(--color-background-primary)}
+.dirty-card:hover{border-color:var(--color-border-secondary)}
+.dirty-card.done{background:var(--color-background-success);border-color:var(--color-border-success)}
+.dirty-card-top{display:flex;gap:10px;align-items:flex-start}
+.dirty-card-body{padding:6px 0 0 27px;font-size:11px;color:var(--color-text-secondary);line-height:1.65}
+.dirty-issue::before{content:"→ ";color:var(--color-text-tertiary)}
+.done .dirty-card-body{opacity:0.6}
+</style>
+
+<div class="hub">
+<div class="top-bar">
+  <div>
+    <div class="top-title">Data Scientist Progress Hub <span class="save-indicator" id="save-ind">saved</span></div>
+    <div class="top-sub">Progress saves automatically to this conversation</div>
+  </div>
+  <div class="overall-badge" id="overall-badge">Loading...</div>
+</div>
+
+<div class="tabs">
+  <button class="tab active" onclick="switchTab('roadmap')">Skill Roadmap</button>
+  <button class="tab" onclick="switchTab('datasets')">Dataset Library</button>
+  <button class="tab" onclick="switchTab('courses')">Course Library</button>
+</div>
+
+<div class="panel active" id="panel-roadmap">
+  <div class="stats-row" id="roadmap-stats"></div>
+  <div class="domain-grid" id="domain-grid"></div>
+  <div class="level-tabs" id="level-tabs"></div>
+  <div class="two-col" id="level-content"></div>
+</div>
+
+<div class="panel" id="panel-datasets">
+  <div class="ds-stab-bar">
+    <button class="ds-stab active" onclick="switchDsTab('all')">All Datasets</button>
+    <button class="ds-stab" onclick="switchDsTab('dirty')">Dirty Datasets</button>
+  </div>
+  <div id="ds-view-all">
+    <div class="stats-row" id="ds-stats"></div>
+    <div class="filter-row" id="ds-filters"></div>
+    <div id="ds-list"></div>
+  </div>
+  <div id="ds-view-dirty" style="display:none">
+    <div class="stats-row" id="dirty-stats"></div>
+    <div id="dirty-list"></div>
+  </div>
+</div>
+
+<div class="panel" id="panel-courses">
+  <div class="stats-row" id="course-stats"></div>
+  <div class="filter-row" id="course-filters"></div>
+  <div id="course-list"></div>
+</div>
+</div>
+
+<script>
+const DOMAINS=[
+{id:"wrangling",icon:"⚙️",name:"Data Wrangling",color:"amber",levels:[
+{l:1,label:"Foundation",learn:["Python basics: variables, loops, functions","pandas: read CSV, filter, groupby basics","SQL: SELECT, WHERE, GROUP BY, JOIN, ORDER BY","Excel: VLOOKUP/XLOOKUP, pivot tables","Identify and handle nulls (dropna, fillna)"],ready:["Load a messy CSV and produce a clean summary table without Googling","Answer 'top 5 products by revenue last quarter' in both Python AND SQL","Build a pivot table in Excel from scratch in under 5 minutes","Explain what a NULL value is and 3 ways to handle it"]},
+{l:2,label:"Practitioner",learn:["pandas: merge/join DataFrames, apply(), pivot_table, melt","String manipulation, regex basics, datetime arithmetic","SQL: window functions (ROW_NUMBER, LAG/LEAD), CTEs, subqueries","Detecting & handling outliers (IQR, z-score)","Excel: INDEX/MATCH, dynamic arrays, SUMIFS"],ready:["Join 3+ tables in SQL with window functions for a cohort analysis","Take a raw dataset with mixed types and fully clean it in pandas without help","Write a reusable Python function that processes a new month of data with one call","Explain the difference between a CTE and a subquery and when to use each"]},
+{l:3,label:"Applied Scientist",learn:["Build automated data cleaning pipelines","Data profiling: ydata-profiling, great_expectations","Advanced pandas: chunking large files, memory optimization, vectorization","SQLAlchemy for Python-DB integration","Time series data manipulation: resampling, rolling windows"],ready:["Design a data pipeline from scratch given a business problem","Set up automated data quality checks that alert when data breaks","Optimize a slow pandas script by 5-10x using vectorization","Ingest data from a REST API, clean it, and load it into a database in one script"]},
+{l:4,label:"Master",learn:["Design scalable data models (star schema, data vault)","Orchestrate pipelines: Airflow/Prefect basics, cron scheduling","Implement data contracts and SLAs between teams","Build self-healing pipelines with error handling, retries, logging"],ready:["Architect the full data layer of a business solution end-to-end","Diagnose a broken pipeline, find root cause, add guardrails so it doesn't recur","Explain your data model to both a data engineer and a business stakeholder"]}
+]},
+{id:"stats",icon:"📐",name:"Statistics",color:"blue",levels:[
+{l:1,label:"Foundation",learn:["Descriptive stats: mean, median, mode, variance, std dev","Distributions: normal, uniform, skewed","Correlation vs. causation — the most important distinction","Basic probability: P(A), conditional probability","Percentiles and quartiles (IQR)"],ready:["Look at a distribution and describe it accurately (shape, center, spread, outliers)","Explain why correlation ≠ causation with a real example","Calculate mean, median, std from scratch without a library","Explain what a p-value is to a non-technical person"]},
+{l:2,label:"Practitioner",learn:["Hypothesis testing: t-test, chi-square, ANOVA","Confidence intervals and what they actually mean","A/B testing: sample size, statistical power, significance","Linear regression: assumptions, coefficients, R²","Central Limit Theorem and why it matters"],ready:["Design and evaluate an A/B test end-to-end including choosing sample size upfront","Run a linear regression, interpret every output number, and explain assumption violations","Decide which statistical test to use given a business question and data type","Explain Type I vs Type II error using a business example"]},
+{l:3,label:"Applied Scientist",learn:["Multivariate regression, interaction terms","Logistic regression: log-odds, decision boundaries","Bootstrap, cross-validation, permutation tests","Multiple testing correction: Bonferroni, FDR","Causal inference: DiD, regression discontinuity, IV"],ready:["Run a causal analysis (not just correlation) to answer 'did this intervention work?'","Identify and correct for multiple testing problems in an experiment suite","Explain when frequentist vs. Bayesian is preferable for a business decision","Set up and interpret a logistic regression for a classification business problem"]},
+{l:4,label:"Master",learn:["Design experiment platforms for organizations","Bayesian hierarchical models","Sensitivity analysis and robustness checks","Communicate statistical uncertainty to executives"],ready:["Design the statistics infrastructure for how a company runs experiments","Defend your statistical methodology to a skeptical senior data scientist","Translate statistical findings into business risk and dollar impact"]}
+]},
+{id:"ml",icon:"🧠",name:"Machine Learning",color:"purple",levels:[
+{l:1,label:"Foundation",learn:["Supervised vs unsupervised vs reinforcement learning","Train/validation/test split and why leakage is dangerous","Scikit-learn workflow: fit, predict, score","Decision trees: how they split, overfitting, depth control","Evaluation: accuracy, precision, recall, F1, RMSE, MAE"],ready:["Build a working classification model in scikit-learn from raw data to predictions","Explain why you'd use precision vs. recall depending on business context","Identify data leakage in a pipeline and explain why it makes results meaningless","Explain the bias-variance tradeoff using a non-technical analogy"]},
+{l:2,label:"Practitioner",learn:["Feature engineering: encoding, scaling, feature selection","Cross-validation: k-fold, stratified k-fold, time-series CV","Ensemble methods: Random Forest, XGBoost, LightGBM","Hyperparameter tuning: GridSearchCV, Optuna","Handling class imbalance: SMOTE, class weights, threshold tuning"],ready:["Take a business problem, frame it as ML, build a model, beat a baseline","Tune an XGBoost model and explain what each hyperparameter does","Handle a 95/5 class imbalance dataset and still get a meaningful model","Choose the right algorithm for a given dataset size, type, and business goal"]},
+{l:3,label:"Applied Scientist",learn:["Model interpretability: SHAP values, LIME, partial dependence plots","Neural networks: feedforward, PyTorch/Keras basics","Time series forecasting: ARIMA, Prophet, LSTM","Recommendation systems: collaborative filtering","MLflow: experiment tracking, model registry","Model monitoring: drift detection, performance degradation"],ready:["Explain any model's prediction to a business stakeholder using SHAP","Build a time series forecast for a business metric with confidence intervals","Track experiments systematically and reproduce any past result","Detect when a deployed model starts degrading and know what to do"]},
+{l:4,label:"Master",learn:["Full ML system design: problem framing to monitoring","Custom loss functions aligned to business outcomes","Multi-model architectures: stacking, blending","Cost-sensitive learning: tying decisions to real business value"],ready:["Scope, build, deploy, and maintain an ML system that improves a business KPI","Present the ROI of a model to a CFO (not just the accuracy score)","Design the retraining and monitoring strategy for a production ML system"]}
+]},
+{id:"viz",icon:"📊",name:"Visualization",color:"teal",levels:[
+{l:1,label:"Foundation",learn:["Chart selection: when to use bar, line, scatter, histogram","matplotlib/seaborn basics: labels, titles, colors","Tableau/Power BI: connect data source, build basic charts","Storytelling rule: one chart = one message","Color theory: avoid rainbow palettes, use colorblind-safe options"],ready:["Spot what's wrong with a misleading chart immediately","Build a clean, publication-ready chart in Python from scratch","Connect a dataset in Tableau and build a basic dashboard in under an hour","Explain why a pie chart with 8 slices is almost always wrong"]},
+{l:2,label:"Practitioner",learn:["Plotly/Altair for interactive charts","Dashboard design: layout, hierarchy, progressive disclosure","Tableau: calculated fields, LOD expressions, dashboard actions","Data storytelling: hook → tension → resolution narrative","Executive-level slide design: one insight per slide"],ready:["Build an interactive dashboard a non-analyst can explore on their own","Present a data analysis to a senior leader in 5 minutes and get a decision","Take a complex finding and write a one-paragraph summary a CEO would act on","Someone can understand the main insight in your dashboard in under 10 seconds"]},
+{l:3,label:"Applied Scientist",learn:["Build custom visualization components (D3.js or Plotly Dash)","Design BI reporting systems for business teams","Advanced Tableau: performance optimization, embedding","Metrics frameworks: choosing KPIs, north star metrics","Communicating uncertainty: confidence intervals in charts"],ready:["Design the analytics reporting structure for a department or product","Build a live Plotly Dash or Streamlit app that a business team uses daily","Facilitate a metrics workshop with stakeholders to define what 'good' looks like","Show uncertainty ranges in your charts without confusing your audience"]},
+{l:4,label:"Master",learn:["Design data storytelling culture for an organization","Build custom data products that democratize analytics access","Connect visualization strategy to decision-making frameworks"],ready:["Business leaders actively use dashboards you built to make weekly decisions","You can teach others your visualization framework and they improve immediately","You can influence the metrics culture of an organization, not just report numbers"]}
+]},
+{id:"engineering",icon:"🏗️",name:"Data Engineering",color:"red",levels:[
+{l:1,label:"Foundation",learn:["ETL vs. ELT and when each is used","Database basics: relational DBs, primary keys, indexes","File formats: CSV, JSON, Parquet — tradeoffs","APIs: call a REST API with Python (requests)","Git basics — commit, push, pull, branch, merge"],ready:["Call a public REST API, parse JSON, and save it to a database","Explain the difference between a fact table and a dimension table","Use Git for version control on a solo project without losing work","Write a Python script that reads from one source and writes to another"]},
+{l:2,label:"Practitioner",learn:["Cloud basics: AWS S3 / GCP BigQuery / Azure Blob","dbt: transformations as SQL models, testing, documentation","Data warehousing concepts: star schema, slowly changing dimensions","Docker basics: containerize a Python script","Scheduling scripts: cron jobs, task scheduling"],ready:["Build an ELT pipeline: API → cloud storage → dbt → clean table","Set up a working dbt project with models, tests, and documentation","Containerize a data script with Docker so anyone can run it","Explain the difference between a data warehouse and a data lake"]},
+{l:3,label:"Applied Scientist",learn:["Orchestration: Airflow or Prefect — DAGs, dependencies, retries","Streaming data basics: Kafka or Kinesis concepts","Data quality frameworks: great_expectations in pipelines","CI/CD for data pipelines: GitHub Actions basics","Columnar storage and query optimization for BigQuery/Snowflake"],ready:["Build an orchestrated pipeline with dependencies, error handling, and alerting","Explain when to use streaming vs. batch and architect accordingly","Implement automated data quality tests that block bad data downstream","Optimize a slow BigQuery query by 10x using partitioning and clustering"]},
+{l:4,label:"Master",learn:["Design modern data stack architecture for a company","Data mesh / data lakehouse concepts","Cost optimization for cloud data infrastructure","Data governance, lineage, and access control"],ready:["Recommend and implement the right data stack for a company of any size","Onboard a data team onto infrastructure you designed","Engineering and business teams trust your data — it's known to be reliable"]}
+]},
+{id:"ai",icon:"🤖",name:"AI / LLMs",color:"purple",levels:[
+{l:1,label:"Foundation",learn:["How LLMs work: tokens, context windows, temperature","Prompt engineering: clear instructions, role-setting, few-shot examples","Using the Anthropic/OpenAI API: send a message, parse a response","Embeddings: what they are, why similarity search works","LLM limitations: hallucinations, knowledge cutoffs, reasoning failures"],ready:["Call an LLM API from Python and build a simple Q&A tool","Write a prompt that reliably gets structured JSON output from an LLM","Explain what a hallucination is and two strategies to reduce it","Explain embeddings using an analogy a non-technical person would get"]},
+{l:2,label:"Practitioner",learn:["RAG: vector DBs (Chroma, Pinecone), chunking strategies","LangChain or LlamaIndex basics for LLM workflows","Function calling / tool use in LLM APIs","Evaluation: LLM-as-judge, human eval frameworks","Fine-tuning concepts: when it's worth it vs. better prompting"],ready:["Build a working RAG system over a document corpus from scratch","Use function calling to build an LLM that takes real actions","Evaluate an LLM pipeline's quality with a reproducible framework","Decide when RAG is the right solution vs. fine-tuning vs. prompt engineering"]},
+{l:3,label:"Applied Scientist",learn:["Agentic AI: multi-step reasoning, tool-calling agents, ReAct pattern","Multi-agent frameworks: CrewAI, AutoGen concepts","Advanced RAG: re-ranking, hybrid search, multi-hop retrieval","Guardrails and safety layers for production AI applications","LLM observability: tracing, logging, latency, cost tracking"],ready:["Build a multi-step AI agent that completes a business workflow end-to-end","Design the safety and reliability layer for a production LLM application","Debug an LLM pipeline and identify where it fails using tracing tools","Architect a RAG system that actually works well, not just technically correct"]},
+{l:4,label:"Master",learn:["Design AI product strategy: where AI adds real business value","Build production-grade AI applications with cost, latency, and reliability SLAs","Contribute to AI evaluation frameworks at an organizational level","Stay current with frontier model capabilities and apply them strategically"],ready:["Pitch, build, and launch an AI-powered product that solves a real business problem","Advise a leadership team on AI strategy with concrete ROI framing","Your AI applications are in production, being used, and measured"]}
+]},
+{id:"software",icon:"💻",name:"Software Eng.",color:"teal",levels:[
+{l:1,label:"Foundation",learn:["Python: functions, classes, modules, virtual environments","Git: branches, commits, pull requests, merge conflicts","Command line: navigate, run scripts, pipe commands","Code quality: readable names, docstrings, linting (pylint/flake8)","Reading and writing JSON, CSV, YAML files"],ready:["Write a Python script someone else can read and run without asking you questions","Use Git for a project with branches and pull requests","Navigate the terminal comfortably for data work","Your code passes a linter with no major errors"]},
+{l:2,label:"Practitioner",learn:["Unit testing: pytest basics, writing test cases, test coverage","REST APIs: build a simple Flask or FastAPI endpoint","Environment variables and secrets management","Error handling: try/except, logging, meaningful error messages","Streamlit: build and share a data app in hours"],ready:["Build a working REST API that returns data from a model or database","Write unit tests for your own functions and achieve >80% coverage","Deploy a Streamlit app that someone else can use in a browser","Handle errors gracefully — your scripts don't silently fail"]},
+{l:3,label:"Applied Scientist",learn:["Docker: build images, docker-compose for multi-container apps","Cloud deployment: AWS/GCP/Azure (EC2, Cloud Run, Lambda)","CI/CD: GitHub Actions for automated testing and deployment","Database connections from code: SQLAlchemy, connection pooling","Next.js or React basics: enough to build data-driven web apps"],ready:["Take a model or analysis and deploy it as a live web application","Set up CI/CD so tests run automatically on every code push","Deploy containerized applications to the cloud","Your deployed apps have proper logging, error tracking, and can be debugged remotely"]},
+{l:4,label:"Master",learn:["System design: design scalable architectures for data products","Performance optimization: profiling, caching, async programming","Security fundamentals for data applications","Infrastructure as code: Terraform basics"],ready:["Architect and deploy an end-to-end data product that's production-ready","A DevOps engineer can review your deployment and not have concerns","Your applications can scale without you manually intervening"]}
+]},
+{id:"business",icon:"🎯",name:"Business Strategy",color:"amber",levels:[
+{l:1,label:"Foundation",learn:["Business fundamentals: revenue, margin, churn, LTV, CAC","Problem framing: translate vague question into specific data question","Stakeholder communication: technical vs. non-technical audiences","Requirements gathering: asking the right clarifying questions","Difference between a metric, a KPI, and a goal"],ready:["Reframe 'we need more data' into a specific, answerable question","Explain LTV:CAC to a data person AND to a sales leader","Write a one-page summary of an analysis that gets to the point in sentence one","Ask 5 clarifying questions before starting any analysis to prevent wasted work"]},
+{l:2,label:"Practitioner",learn:["Product analytics: funnel analysis, cohort retention, feature adoption","Prioritization frameworks: ICE, RICE, opportunity scoring","Root cause analysis: 5 Whys, Fishbone","OKRs and metrics trees: connecting strategy to measurement","Building business cases: ROI framing for data projects"],ready:["Analyze a conversion funnel and identify the highest-leverage drop-off point","Build a business case for a data project that gets leadership buy-in","Run a root cause analysis on a metric drop and present findings within 48 hours","Scope a data project by difficulty, impact, and time — and be right most of the time"]},
+{l:3,label:"Applied Scientist",learn:["Strategic analysis: market sizing, competitive benchmarking","Data product management: requirements, user stories","Executive communication: board-level storytelling with data","Connecting ML/AI capabilities to P&L impact"],ready:["Present a data-driven recommendation to C-suite and drive a decision","Define the metrics and measurement framework for a new product launch","Translate a model's output into dollar impact without hand-waving","Stakeholders come to YOU with business questions before making decisions"]},
+{l:4,label:"Master",learn:["Design the data strategy for an organization","Thought leadership: articulate where AI/data is going","Build data-literate cultures across organizations","Lead cross-functional initiatives where data is the connective tissue"],ready:["You're the person leadership calls when they need data-driven strategy","Build an end-to-end solution that creates measurable business value — and prove it","Other analysts learn from how you work, not just what you produce"]}
+]}
+];
+
+const DATASETS=[
+{id:"retail",name:"Retail Sales Dirty",domain:"wrangling",tag:"CSV · 1,230 rows"},
+{id:"employee",name:"Employee HR Dirty",domain:"stats",tag:"CSV · 820 rows"},
+{id:"ecommerce",name:"E-Commerce Orders Dirty",domain:"wrangling",tag:"CSV · 2,050 rows"},
+{id:"patient",name:"Patient Health Records Dirty",domain:"stats",tag:"CSV · 1,525 rows"},
+{id:"marketing",name:"Marketing Campaigns Dirty",domain:"business",tag:"CSV · 915 rows"},
+{id:"realestate",name:"Real Estate Listings Dirty",domain:"ml",tag:"CSV · 1,840 rows"},
+{id:"student",name:"Student Performance Dirty",domain:"stats",tag:"CSV · 1,020 rows"},
+{id:"saas",name:"SaaS Subscriptions Dirty",domain:"business",tag:"CSV · 1,635 rows"},
+{id:"titanic",name:"Titanic Passenger Data",domain:"wrangling",tag:"CSV · 891 rows"},
+{id:"superstore",name:"Sample Superstore Sales",domain:"wrangling",tag:"Excel/CSV · 9,994 rows"},
+{id:"chinook",name:"Chinook Music Store DB",domain:"wrangling",tag:"SQLite · 11 tables"},
+{id:"iris",name:"Iris Flower Dataset",domain:"stats",tag:"CSV · 150 rows"},
+{id:"ab_test",name:"E-Commerce A/B Test Results",domain:"stats",tag:"CSV · 294k rows"},
+{id:"insurance",name:"Medical Insurance Costs",domain:"stats",tag:"CSV · 1,338 rows"},
+{id:"wine",name:"Wine Quality Dataset",domain:"ml",tag:"CSV · 6,497 rows"},
+{id:"house_prices",name:"Ames Housing Prices",domain:"ml",tag:"CSV · 2,919 rows"},
+{id:"fraud",name:"Credit Card Fraud Detection",domain:"ml",tag:"CSV · 284k rows"},
+{id:"energy",name:"Hourly Energy Consumption",domain:"ml",tag:"CSV · 120k rows"},
+{id:"movielens",name:"MovieLens 100K",domain:"ml",tag:"CSV · 100k ratings"},
+{id:"gapminder",name:"Gapminder World Data",domain:"viz",tag:"CSV · 1,704 rows"},
+{id:"spotify",name:"Spotify Tracks & Features",domain:"viz",tag:"CSV · 30k rows"},
+{id:"nyc_taxi",name:"NYC Yellow Taxi Trips",domain:"engineering",tag:"Parquet · 1B+ rows"},
+{id:"openweather",name:"OpenWeatherMap API",domain:"engineering",tag:"REST API"},
+{id:"imdb_reviews",name:"IMDB Movie Reviews",domain:"ai",tag:"CSV · 50k rows"},
+{id:"arxiv",name:"arXiv Papers Dataset",domain:"ai",tag:"JSON · 2M+ papers"},
+{id:"olist",name:"Brazilian E-Commerce (Olist)",domain:"business",tag:"CSV · 8 tables"},
+{id:"saas_metrics",name:"SaaS Revenue Metrics",domain:"business",tag:"CSV"}
+];
+
+const COURSES=[
+{id:"pandas",name:"The Complete Pandas Bootcamp 2025",platform:"Udemy",domain:"wrangling",free:false,tag:"36h"},
+{id:"sql",name:"The Complete SQL Bootcamp",platform:"Udemy",domain:"wrangling",free:false,tag:"9h"},
+{id:"mode",name:"Mode SQL Tutorial (Advanced)",platform:"Mode",domain:"wrangling",free:true,tag:"Self-paced"},
+{id:"angela",name:"100 Days of Code: Python Pro Bootcamp",platform:"Udemy",domain:"wrangling",free:false,tag:"60h"},
+{id:"stats365",name:"Statistics for Data Science and Business Analysis",platform:"Udemy",domain:"stats",free:false,tag:"9h"},
+{id:"statquest",name:"StatQuest with Josh Starmer",platform:"YouTube",domain:"stats",free:true,tag:"300+ videos"},
+{id:"abtest",name:"A/B Testing by Google",platform:"Udacity",domain:"stats",free:true,tag:"~8h"},
+{id:"causal",name:"Causal Inference: The Mixtape",platform:"Free Online",domain:"stats",free:true,tag:"Self-paced"},
+{id:"andng_ml",name:"Machine Learning Specialization — Andrew Ng",platform:"Coursera",domain:"ml",free:true,tag:"~100h"},
+{id:"portilla_ml",name:"Python for Data Science and ML Bootcamp",platform:"Udemy",domain:"ml",free:false,tag:"25h"},
+{id:"deeplearn",name:"Deep Learning Specialization — Andrew Ng",platform:"Coursera",domain:"ml",free:true,tag:"~80h"},
+{id:"fastai",name:"Practical Deep Learning for Coders",platform:"fast.ai",domain:"ml",free:true,tag:"~50h"},
+{id:"mlops",name:"MLOps Specialization — Andrew Ng",platform:"Coursera",domain:"ml",free:true,tag:"~40h"},
+{id:"tableau",name:"Tableau 2024 A-Z: Hands-On Training",platform:"Udemy",domain:"viz",free:false,tag:"9h"},
+{id:"colt_viz",name:"Python Data Analysis & Visualization Masterclass",platform:"Udemy",domain:"viz",free:false,tag:"22h"},
+{id:"swd",name:"Storytelling with Data (YouTube Series)",platform:"YouTube",domain:"viz",free:true,tag:"Self-paced"},
+{id:"de_zoom",name:"Data Engineering Zoomcamp",platform:"GitHub/YouTube",domain:"engineering",free:true,tag:"~60h"},
+{id:"dbt",name:"The Complete dbt Bootcamp: Zero to Hero",platform:"Udemy",domain:"engineering",free:false,tag:"10h"},
+{id:"de_project",name:"Data Engineering Project (Airflow, Docker)",platform:"Udemy",domain:"engineering",free:false,tag:"~12h"},
+{id:"gcp_de",name:"Google Cloud Data Engineer Certificate",platform:"Coursera",domain:"engineering",free:true,tag:"~60h"},
+{id:"deepai_short",name:"DeepLearning.AI Short Courses",platform:"DeepLearning.AI",domain:"ai",free:true,tag:"1-2h each"},
+{id:"llm_eng",name:"LLM Engineering: Master AI & LLMs",platform:"Udemy",domain:"ai",free:false,tag:"~35h"},
+{id:"langchain",name:"Agentic AI with LangChain & LangGraph",platform:"Udemy",domain:"ai",free:false,tag:"18h"},
+{id:"ibm_rag",name:"IBM RAG and Agentic AI Certificate",platform:"Coursera",domain:"ai",free:true,tag:"~80h"},
+{id:"flask",name:"REST APIs with Flask and Python",platform:"Udemy",domain:"software",free:false,tag:"17h"},
+{id:"docker",name:"Docker & Kubernetes: The Practical Guide",platform:"Udemy",domain:"software",free:false,tag:"24h"},
+{id:"git",name:"The Git & GitHub Bootcamp",platform:"Udemy",domain:"software",free:false,tag:"17h"},
+{id:"cs50py",name:"CS50's Intro to Programming with Python",platform:"edX/CS50",domain:"software",free:true,tag:"~20h"},
+{id:"biz_analytics",name:"Advanced Business Analytics Specialization",platform:"Coursera",domain:"business",free:true,tag:"~40h"},
+{id:"product_analytics",name:"Product Analytics by Mixpanel",platform:"Mixpanel",domain:"business",free:true,tag:"~8h"}
+];
+
+const DIRTY_DATASETS=[
+{id:"retail",name:"Retail Sales",file:"retail_sales_dirty.csv",rows:1229,domain:"wrangling",issues:["Missing values in sales_rep column","Inconsistent date formats (24/01/24 vs standard ISO)","Mixed case in category (ELECTRONICS vs electronics)","Possible duplicate order IDs"]},
+{id:"employee",name:"Employee HR",file:"employee_hr_dirty.csv",rows:820,domain:"stats",issues:["Missing manager_id and phone number fields","Salary values with excessive decimal precision","Age/date-of-birth inconsistencies to calculate and validate","Abbreviated department names (ops, eng, hr)"]},
+{id:"ecommerce",name:"E-Commerce Orders",file:"ecommerce_orders_dirty.csv",rows:2050,domain:"wrangling",issues:["Missing customer_name entries","Currency symbols embedded in order_value (€214.21)","Mixed date formats across order_date column","Numeric columns stored as float where integers expected"]},
+{id:"patient",name:"Patient Health Records",file:"patient_health_dirty.csv",rows:1525,domain:"stats",issues:["Height stored as string with units ('175.6 cm') instead of numeric","Missing cholesterol and readmission_30d values","Invalid ICD diagnosis codes to identify","Mixed formats in blood_pressure field"]},
+{id:"marketing",name:"Marketing Campaigns",file:"marketing_campaigns_dirty.csv",rows:915,domain:"business",issues:["Missing channel column values","Missing budget_usd and actual_spend_usd fields","Mixed date formats (06/09/2023 vs 01-Jul-2023)","CTR stored as string with % sign instead of numeric"]},
+{id:"realestate",name:"Real Estate Listings",file:"real_estate_listings_dirty.csv",rows:1840,domain:"ml",issues:["Sale price stored as string with k-suffix ('$517.0k')","Lot size stored as string with units ('1.718 acres')","Boolean columns stored as TRUE/FALSE strings","Inconsistent property_type capitalization"]},
+{id:"student",name:"Student Performance",file:"student_performance_dirty.csv",rows:1020,domain:"stats",issues:["Trailing whitespace and mixed case in name fields ('SAM', 'Patel ')","Missing final_score and gpa values","Passed column uses 'F'/'T' strings instead of boolean","Age stored as float (20.0) instead of integer"]},
+{id:"saas",name:"SaaS Subscriptions",file:"saas_subscriptions_dirty.csv",rows:1635,domain:"business",issues:["Missing monthly_active_users and usage_events values","Mixed date formats in signup_date and churn_date","NPS score outside valid 0-10 range on some rows","Seats vs. monthly_active_users ratio anomalies"]}
+];
+
+const DOMAIN_MAP={wrangling:"⚙️ Data Wrangling",stats:"📐 Statistics",ml:"🧠 Machine Learning",viz:"📊 Visualization",engineering:"🏗️ Data Engineering",ai:"🤖 AI / LLMs",software:"💻 Software Eng.",business:"🎯 Business"};
+
+let progress={roadmap:{},datasets:{},courses:{}};
+let dsTab="all";
+let activeDomain="wrangling", activeLevel=1, dsFilter="all", courseFilter="all", courseFree=false;
+
+async function loadProgress(){
+  try{
+    const r=await window.storage.get("progress-hub-v2");
+    if(r&&r.value) progress=JSON.parse(r.value);
+  }catch(e){}
+  renderAll();
+}
+
+async function saveProgress(){
+  try{
+    await window.storage.set("progress-hub-v2",JSON.stringify(progress));
+    const ind=document.getElementById("save-ind");
+    if(ind){ind.classList.add("show");setTimeout(()=>ind.classList.remove("show"),1500)}
+  }catch(e){}
+}
+
+function toggleRoadmap(domain,level,idx){
+  const k=`${domain}-${level}-${idx}`;
+  progress.roadmap[k]=!progress.roadmap[k];
+  saveProgress();
+  renderRoadmapContent();
+  renderRoadmapStats();
+  renderOverall();
+}
+function toggleDataset(id){
+  progress.datasets[id]=!progress.datasets[id];
+  saveProgress();
+  if(dsTab==="dirty"){renderDirtyStats();renderDirtyList();}
+  else{renderDsList();renderDsStats();}
+  renderOverall();
+}
+function toggleCourse(id){
+  progress.courses[id]=!progress.courses[id];
+  saveProgress();
+  renderCourseList();
+  renderCourseStats();
+  renderOverall();
+}
+
+function switchTab(t){
+  document.querySelectorAll(".tab").forEach((el,i)=>{el.classList.toggle("active",["roadmap","datasets","courses"][i]===t)});
+  document.querySelectorAll(".panel").forEach(el=>{el.classList.toggle("active",el.id===`panel-${t}`)});
+}
+
+function switchDsTab(t){
+  dsTab=t;
+  document.querySelectorAll(".ds-stab").forEach((el,i)=>{el.classList.toggle("active",["all","dirty"][i]===t)});
+  document.getElementById("ds-view-all").style.display=t==="all"?"block":"none";
+  document.getElementById("ds-view-dirty").style.display=t==="dirty"?"block":"none";
+  if(t==="dirty"){renderDirtyStats();renderDirtyList();}
+}
+
+function renderDirtyStats(){
+  const el=document.getElementById("dirty-stats");if(!el)return;
+  const done=DIRTY_DATASETS.filter(d=>progress.datasets[d.id]).length;
+  const total=DIRTY_DATASETS.length;
+  const domainCounts={};DIRTY_DATASETS.forEach(d=>{domainCounts[d.domain]=(domainCounts[d.domain]||0)+1;});
+  const totalRows=DIRTY_DATASETS.reduce((s,d)=>s+d.rows,0);
+  el.innerHTML=`
+    <div class="stat-card"><div class="stat-num">${done}/${total}</div><div class="stat-lbl">Datasets cleaned</div></div>
+    <div class="stat-card"><div class="stat-num">${totalRows.toLocaleString()}</div><div class="stat-lbl">Total rows to clean</div></div>
+    <div class="stat-card"><div class="stat-num">${total-done}</div><div class="stat-lbl">Remaining</div></div>
+  `;
+}
+
+function renderDirtyList(){
+  const el=document.getElementById("dirty-list");if(!el)return;
+  el.innerHTML=DIRTY_DATASETS.map(d=>{
+    const done=!!progress.datasets[d.id];
+    const dname=DOMAIN_MAP[d.domain]||d.domain;
+    return`<div class="dirty-card${done?" done":""}" onclick="toggleDataset('${d.id}')">
+      <div class="dirty-card-top">
+        <div class="checkbox" style="flex-shrink:0;margin-top:1px;width:17px;height:17px;border-radius:4px;border:1.5px solid var(--color-border-secondary);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;${done?"background:var(--color-text-success);border-color:var(--color-text-success);color:white":""}">${done?"✓":""}</div>
+        <div class="item-info">
+          <div class="item-title">${d.name}</div>
+          <div class="item-meta"><span class="badge">${dname}</span><span class="badge">CSV · ${d.rows.toLocaleString()} rows</span><span class="badge" style="font-family:monospace">${d.file}</span></div>
+        </div>
+      </div>
+      <div class="dirty-card-body">${d.issues.map(i=>`<div class="dirty-issue">${i}</div>`).join("")}</div>
+    </div>`;
+  }).join("");
+}
+
+function totalRoadmapDone(){
+  let done=0,total=0;
+  DOMAINS.forEach(d=>d.levels.forEach(l=>{total+=l.ready.length;l.ready.forEach((_,i)=>{if(progress.roadmap[`${d.id}-${l.l}-${i}`])done++})}));
+  return{done,total};
+}
+
+function renderOverall(){
+  const rm=totalRoadmapDone();
+  const ds=Object.values(progress.datasets).filter(Boolean).length;
+  const cr=Object.values(progress.courses).filter(Boolean).length;
+  const tot=rm.done+ds+cr, max=rm.total+DATASETS.length+COURSES.length;
+  const pct=max>0?Math.round(tot/max*100):0;
+  const el=document.getElementById("overall-badge");
+  if(el) el.textContent=`Overall: ${pct}% complete`;
+}
+
+function renderRoadmapStats(){
+  const el=document.getElementById("roadmap-stats");
+  if(!el)return;
+  const dom=DOMAINS.find(d=>d.id===activeDomain);
+  let domDone=0,domTotal=0;
+  dom.levels.forEach(l=>{domTotal+=l.ready.length;l.ready.forEach((_,i)=>{if(progress.roadmap[`${dom.id}-${l.l}-${i}`])domDone++})});
+  const rm=totalRoadmapDone();
+  const lvl=dom.levels.find(l=>l.l===activeLevel);
+  let lvlDone=0;lvl.ready.forEach((_,i)=>{if(progress.roadmap[`${dom.id}-${activeLevel}-${i}`])lvlDone++});
+  el.innerHTML=`
+    <div class="stat-card"><div class="stat-num">${rm.done}/${rm.total}</div><div class="stat-lbl">Total milestones</div></div>
+    <div class="stat-card"><div class="stat-num">${domDone}/${domTotal}</div><div class="stat-lbl">${dom.name} domain</div></div>
+    <div class="stat-card"><div class="stat-num">${lvlDone}/${lvl.ready.length}</div><div class="stat-lbl">Level ${activeLevel} milestones</div></div>
+  `;
+}
+
+function renderDomainGrid(){
+  const el=document.getElementById("domain-grid");if(!el)return;
+  el.innerHTML=DOMAINS.map(d=>{
+    let done=0,total=0;
+    d.levels.forEach(l=>{total+=l.ready.length;l.ready.forEach((_,i)=>{if(progress.roadmap[`${d.id}-${l.l}-${i}`])done++})});
+    const pct=total>0?Math.round(done/total*100):0;
+    return`<div class="domain-card${d.id===activeDomain?" active":""}" onclick="selectDomain('${d.id}')">
+      <div class="domain-emoji">${d.icon}</div>
+      <div class="domain-name">${d.name}</div>
+      <div class="prog-bar-wrap"><div class="prog-bar-fill" style="width:${pct}%"></div></div>
+      <div class="pct-label">${done}/${total}</div>
+    </div>`;
+  }).join("");
+}
+
+function selectDomain(id){activeDomain=id;activeLevel=1;renderRoadmapPanel();}
+
+function renderLevelTabs(){
+  const el=document.getElementById("level-tabs");if(!el)return;
+  const dom=DOMAINS.find(d=>d.id===activeDomain);
+  el.innerHTML=dom.levels.map(l=>{
+    let done=0;l.ready.forEach((_,i)=>{if(progress.roadmap[`${dom.id}-${l.l}-${i}`])done++});
+    const pct=Math.round(done/l.ready.length*100);
+    return`<button class="ltab${l.l===activeLevel?" active":""}" onclick="selectLevel(${l.l})">${l.label} (${pct}%)</button>`;
+  }).join("");
+}
+
+function selectLevel(l){activeLevel=l;renderRoadmapContent();renderRoadmapStats();}
+
+function renderRoadmapContent(){
+  const el=document.getElementById("level-content");if(!el)return;
+  const dom=DOMAINS.find(d=>d.id===activeDomain);
+  const lvl=dom.levels.find(l=>l.l===activeLevel);
+  const allDone=lvl.ready.every((_,i)=>progress.roadmap[`${dom.id}-${activeLevel}-${i}`]);
+  el.innerHTML=`
+    <div class="card">
+      <div class="card-label">What to learn</div>
+      ${lvl.learn.map(l=>`<div class="learn-item"><span class="learn-arrow">→</span><span>${l}</span></div>`).join("")}
+    </div>
+    <div class="card">
+      <div class="card-label">You're ready when...</div>
+      ${lvl.ready.map((r,i)=>{
+        const done=!!progress.roadmap[`${dom.id}-${activeLevel}-${i}`];
+        return`<div class="milestone${done?" done":""}" onclick="toggleRoadmap('${dom.id}',${activeLevel},${i})">
+          <div class="checkbox">${done?"✓":""}</div>
+          <div class="milestone-text">${r}</div>
+        </div>`;
+      }).join("")}
+      ${allDone?`<div class="level-complete">Level ${activeLevel} complete — move to ${dom.levels.find(l=>l.l===activeLevel+1)?.label||"the next domain"}!</div>`:""}
+    </div>
+  `;
+}
+
+function renderRoadmapPanel(){
+  renderRoadmapStats();
+  renderDomainGrid();
+  renderLevelTabs();
+  renderRoadmapContent();
+}
+
+function renderDsStats(){
+  const el=document.getElementById("ds-stats");if(!el)return;
+  const done=Object.values(progress.datasets).filter(Boolean).length;
+  const synthetic=["retail","employee","ecommerce","patient","marketing","realestate","student","saas"];
+  const synthDone=synthetic.filter(id=>progress.datasets[id]).length;
+  el.innerHTML=`
+    <div class="stat-card"><div class="stat-num">${done}/${DATASETS.length}</div><div class="stat-lbl">Datasets complete</div></div>
+    <div class="stat-card"><div class="stat-num">${synthDone}/8</div><div class="stat-lbl">Synthetic dirty datasets</div></div>
+    <div class="stat-card"><div class="stat-num">${DATASETS.length-done}</div><div class="stat-lbl">Remaining</div></div>
+  `;
+}
+
+function renderDsFilters(){
+  const el=document.getElementById("ds-filters");if(!el)return;
+  const filters=[{id:"all",label:"All"},
+    {id:"wrangling",label:"⚙️ Wrangling"},{id:"stats",label:"📐 Stats"},
+    {id:"ml",label:"🧠 ML"},{id:"viz",label:"📊 Viz"},
+    {id:"engineering",label:"🏗️ Engineering"},{id:"ai",label:"🤖 AI"},
+    {id:"business",label:"🎯 Business"}];
+  el.innerHTML=filters.map(f=>`<button class="filter-btn${dsFilter===f.id?" active":""}" onclick="setDsFilter('${f.id}')">${f.label}</button>`).join("")+
+    `<button class="filter-btn${!Object.values(progress.datasets).filter(Boolean).length?" active":""}" onclick="setDsFilter('remaining')" style="margin-left:4px">Remaining only</button>`;
+}
+
+function setDsFilter(f){dsFilter=f;renderDsList();}
+
+function renderDsList(){
+  const el=document.getElementById("ds-list");if(!el)return;
+  let list=DATASETS.filter(d=>{
+    const df=dsFilter==="all"||dsFilter===d.domain||(dsFilter==="remaining"&&!progress.datasets[d.id]);
+    return df;
+  });
+  if(!list.length){el.innerHTML=`<div class="empty-state">No datasets match this filter</div>`;return;}
+  el.innerHTML=list.map(d=>{
+    const done=!!progress.datasets[d.id];
+    const dname=DOMAIN_MAP[d.domain]||d.domain;
+    return`<div class="item-row${done?" done":""}" onclick="toggleDataset('${d.id}')">
+      <div class="checkbox">${done?"✓":""}</div>
+      <div class="item-info">
+        <div class="item-title">${d.name}</div>
+        <div class="item-meta"><span class="badge">${dname}</span><span class="badge">${d.tag}</span></div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function renderCourseStats(){
+  const el=document.getElementById("course-stats");if(!el)return;
+  const done=Object.values(progress.courses).filter(Boolean).length;
+  const freeDone=COURSES.filter(c=>c.free&&progress.courses[c.id]).length;
+  const freeTotal=COURSES.filter(c=>c.free).length;
+  el.innerHTML=`
+    <div class="stat-card"><div class="stat-num">${done}/${COURSES.length}</div><div class="stat-lbl">Courses complete</div></div>
+    <div class="stat-card"><div class="stat-num">${freeDone}/${freeTotal}</div><div class="stat-lbl">Free courses done</div></div>
+    <div class="stat-card"><div class="stat-num">${COURSES.length-done}</div><div class="stat-lbl">Remaining</div></div>
+  `;
+}
+
+function renderCourseFilters(){
+  const el=document.getElementById("course-filters");if(!el)return;
+  const filters=[{id:"all",label:"All"},
+    {id:"wrangling",label:"⚙️ Wrangling"},{id:"stats",label:"📐 Stats"},
+    {id:"ml",label:"🧠 ML"},{id:"viz",label:"📊 Viz"},
+    {id:"engineering",label:"🏗️ Engineering"},{id:"ai",label:"🤖 AI"},
+    {id:"software",label:"💻 Software"},{id:"business",label:"🎯 Business"}];
+  el.innerHTML=filters.map(f=>`<button class="filter-btn${courseFilter===f.id?" active":""}" onclick="setCourseFilter('${f.id}')">${f.label}</button>`).join("")+
+    `<button class="filter-btn${courseFree?" active":""}" onclick="toggleCourseFree()" style="margin-left:4px">Free only</button>`;
+}
+
+function setCourseFilter(f){courseFilter=f;renderCourseList();}
+function toggleCourseFree(){courseFree=!courseFree;document.querySelectorAll("#course-filters .filter-btn").forEach((b,i)=>i===0?null:null);renderCourseFilters();renderCourseList();}
+
+function renderCourseList(){
+  const el=document.getElementById("course-list");if(!el)return;
+  let list=COURSES.filter(c=>{
+    const df=courseFilter==="all"||courseFilter===c.domain;
+    const ff=!courseFree||c.free;
+    return df&&ff;
+  });
+  if(!list.length){el.innerHTML=`<div class="empty-state">No courses match this filter</div>`;return;}
+  el.innerHTML=list.map(c=>{
+    const done=!!progress.courses[c.id];
+    const dname=DOMAIN_MAP[c.domain]||c.domain;
+    return`<div class="item-row${done?" done":""}" onclick="toggleCourse('${c.id}')">
+      <div class="checkbox">${done?"✓":""}</div>
+      <div class="item-info">
+        <div class="item-title">${c.name}</div>
+        <div class="item-meta"><span class="badge">${dname}</span><span class="badge">${c.platform}</span><span class="badge">${c.tag}</span>${c.free?`<span class="badge free-badge">FREE</span>`:""}</div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function renderAll(){
+  renderRoadmapPanel();
+  renderDsStats();renderDsFilters();renderDsList();
+  renderCourseStats();renderCourseFilters();renderCourseList();
+  renderOverall();
+}
+
+loadProgress();
+</script>

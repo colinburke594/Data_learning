@@ -1,0 +1,1231 @@
+order_id,order_date,product_name,category,region,sales_rep,unit_price,quantity,discount_pct,payment_method,customer_rating
+ORD-1548,24/01/24,Monitor,ELECTRONICS,North,,839.26,14,5,paypal,4
+ORD-1704,18-02-2023,headphones,electronics,North,Carol White,"$1,195.99 ",12,0,CASH,1
+ORD-1244,5/17/23,usb hub,Accessories,West,Carol White,$85.90 ,10,20,paypal,1
+ORD-1552,8/22/24,Laptop,ELECTRONICS,NORTH,Carol White,874.8,6,0,,2
+ORD-2164,,headphones,accessories,North,bob smith,$873.87 ,9,15,Debit,1
+ORD-2049,26/01/23,Laptop,accessories,south ,Carol White,$344.48 ,2,0,Debit Card,3
+ORD-1901,28/11/23,Webcam,ACCESSORIES,East,,$158.73 ,11,25,,4
+ORD-1589,25-Apr-23,Monitor,Electronics,SOUTH,Alice Johnson,1307.91,-19,0,,5
+ORD-1101,6/3/24,keyboard,ACCESSORIES,west,dana lee,"$1,361.55 ",13,10,PAYPAL,4
+ORD-1128,5-Jul-24,headphones,Electronics,East ,Alice Johnson,USD 1386.6,23,157,,1
+ORD-1420,26-12-2024,keyboard,ELECTRONICS,north,Carol White,$888.03 ,-24,5,Debit,4
+ORD-1977,14/12/23,Mouse,electronics,East,,$33.07 ,14,10,Cash,3
+ORD-1210,27/01/23,Monitor,ELECTRONICS,west,CAROL WHITE,987.77,3,15,Debit,1
+ORD-2092,5/14/23,usb hub,Electronics, East,bob smith,"$1,187.16 ",3,0,PayPal,99
+ORD-1541,12/8/23,usb hub,accessories,West,,"$1,130.72 ",11,129,Credit Card,4
+ORD-1415,12/13/24,Headphones,accessories,south ,Alice Johnson,"$1,202.29 ",5,0,Credit Card,
+ORD-1869,13-Aug-24,LAPTOP,accessories,West,Alice Johnson,$284.50 ,8,0,Credit Card,1
+ORD-1365,6/2/24,headphones,ELECTRONICS,Central,Alice Johnson,"$1,089.85 ",24,0,Debit Card,3
+ORD-1899,27/09/24,keyboard,ACCESSORIES,west,bob smith,"$1,021.17 ",21,5,,2
+ORD-1328,28-12-2023,usb hub,Accessories,South,Bob Smith,$898.67 ,4,10,CREDIT CARD,
+ORD-2131,6/17/23,Mouse,ELECTRONICS,south ,Carol White,"$1,088.17 ",22,10,Debit Card,4
+ORD-1323,,Mouse,ACCESSORIES,NORTH,bob smith,928.78,11,0,paypal,5
+ORD-2119,6/6/24,usb hub,Electronics,NORTH,CAROL WHITE,$564.91 ,8,0,PayPal,5
+ORD-2139,5-Jun-24,usb hub,ELECTRONICS,Central,Alice Johnson,146.82,9,0,debit card,3
+ORD-1265,15-10-2023,Keyboard,accessories,West,Carol White,$352.61 ,9,25,credit card,4
+ORD-1736,4/2/23,LAPTOP,ACCESSORIES, East,dana lee,"$1,011.92 ",21,0,PAYPAL,2
+ORD-1788,9/24/24,Keyboard,electronics,East,CAROL WHITE,$263.79 ,1,5,Debit,4
+ORD-2167,22/12/23,keyboard,Electronics,South,Carol White,$254.01 ,9,0,paypal,3
+ORD-1049,16-Jul-23,LAPTOP,ELECTRONICS,East ,Bob Smith,$478.52 ,20,5,credit card,3
+ORD-1043,14/03/23,LAPTOP,ACCESSORIES,West,dana lee,"$1,470.50 ",18,0,CASH,1
+ORD-1192,6-Feb-24,laptop,Electronics,west,dana lee,"$1,097.36 ",5,5,PayPal,2
+ORD-1875,9-Dec-24,webcam,ACCESSORIES,North,alice johnson,$807.66 ,-7,20,Cash,3
+ORD-1113,30-Jun-24,Webcam,electronics,SOUTH,CAROL WHITE,110.59,13,105,credit card,5
+ORD-1355,19-02-2024,laptop,accessories, East,Dana Lee,$332.79 ,20,5,Debit,5
+ORD-1610,25-Aug-24,Monitor,ACCESSORIES,East ,Carol White,"$1,258.86 ",17,10,,99
+ORD-1732,30/01/23,webcam,electronics,Central,alice johnson,$419.12 ,12,20,Debit,5
+ORD-2098,9/23/24,usb hub,Electronics,NORTH,Alice Johnson,$892.31 ,8,0,paypal,4
+ORD-1107,,Headphones,electronics,Central,Dana Lee,$883.07 ,9,15,CASH,5
+ORD-1988,10/17/23,Laptop,electronics,SOUTH,Alice Johnson,"$1,120.89 ",6,10,Debit,4
+ORD-1155,3/24/24,Monitor,Electronics,WEST,Dana Lee,$262.99 ,8,0,,2
+ORD-1905,9/4/23,LAPTOP,Electronics,WEST,bob smith,"$1,034.12 ",10,25,PayPal,4
+ORD-1711,6/7/24,Monitor,ACCESSORIES,East,CAROL WHITE,$91.33 ,14,10,Credit Card,
+ORD-1432,31/07/23,Keyboard,ELECTRONICS,west,dana lee,$770.87 ,1,0,debit card,2
+ORD-2061,12/6/24,usb hub,Accessories,SOUTH,bob smith,USD 1056.96,8,10,Debit,3
+ORD-1168,23-Nov-24,headphones,accessories,West,Alice Johnson,$338.03 ,1,10,debit card,
+ORD-1233,7/12/24,usb hub,Electronics,East ,alice johnson,$363.92 ,21,0,CREDIT CARD,1
+ORD-1614,26/01/23,laptop,accessories,north,bob smith,$98.39 ,10,0,Debit,3
+ORD-1921,28-Jun-23,keyboard,accessories,East,alice johnson,$29.25 ,6,15,PAYPAL,5
+ORD-1327,3/1/24,Laptop,ELECTRONICS,SOUTH,Alice Johnson,$500.12 ,5,10,PayPal,4
+ORD-1911,14/03/24,usb hub,Accessories,South,,$737.03 ,5,10,,1
+ORD-2054,1-Mar-24,Mouse,ELECTRONICS,south ,Alice Johnson,"$1,229.63 ",1,5,CASH,3
+ORD-1885,30-03-2024,Mouse,electronics,South,alice johnson,"$1,226.12 ",18,25,Cash,5
+ORD-1306,8/31/23,Mouse,electronics,Central,,USD 645.92,6,15,credit card,2
+ORD-1044,7/16/24,usb hub,Accessories,Central,Carol White,"$1,470.23 ",5,15,PayPal,4
+ORD-1290,25/04/23,Keyboard,accessories,west,bob smith,$432.35 ,4,5,Credit Card,4
+ORD-1609,4/24/23,usb hub,Accessories, East,Dana Lee,$683.84 ,8,20,Debit Card,3
+ORD-1063,23-06-2024,Monitor,electronics,west,,$54.10 ,19,10,paypal,4
+ORD-1344,3/10/24,Laptop,ELECTRONICS,north,,$763.88 ,10,0,PAYPAL,
+ORD-1036,22-Sep-23,usb hub,accessories,East,Carol White,$264.10 ,12,0,PayPal,
+ORD-1982,25-04-2023,Headphones,electronics,NORTH,Alice Johnson,250.91,9,15,PAYPAL,-1
+ORD-1306,8/31/23,Mouse,electronics,Central,,USD 645.92,6,15,credit card,2
+ORD-1728,19-06-2024,LAPTOP,Accessories,North,alice johnson,209.96,18,0,Credit Card,5
+ORD-1922,1/9/23,usb hub,electronics,west,bob smith,"$1,005.24 ",19,10,PAYPAL,2
+ORD-2132,16-07-2024,laptop,Electronics, East,,$254.59 ,16,15,credit card,4
+ORD-1777,9/11/24,usb hub,Accessories,north,Carol White,$666.15 ,6,0,CREDIT CARD,2
+ORD-1739,27/07/23,Monitor,accessories,North,Alice Johnson,$20.67 ,3,10,debit card,3
+ORD-1538,6-Jul-23,usb hub,Accessories,west,bob smith,$550.14 ,1,15,debit card,2
+ORD-1868,18-Apr-24,Webcam,ACCESSORIES,South,CAROL WHITE,$899.36 ,17,15,PAYPAL,4
+ORD-1076,9/12/24,keyboard,Electronics,south ,dana lee,$909.09 ,22,15,Debit,3
+ORD-1765,1/10/24,Mouse,Electronics,NORTH,,"$1,173.73 ",17,0,credit card,3
+ORD-1932,6/8/23,usb hub,ACCESSORIES,East,alice johnson,$873.22 ,5,10,PayPal,3
+ORD-2118,5/30/24,Laptop,ELECTRONICS,west,Alice Johnson,1259.34,7,15,,4
+ORD-1078,,usb hub,ELECTRONICS,South,,894.8,-6,0,PayPal,4
+ORD-1594,,Monitor,Electronics,WEST,dana lee,$942.50 ,13,0,PayPal,1
+ORD-1494,13-Oct-24,Mouse,Electronics,South,Bob Smith,842.25,11,0,credit card,2
+ORD-1493,6/9/23,headphones,electronics,WEST,alice johnson,$481.18 ,4,0,Credit Card,2
+ORD-1754,10/1/23,Laptop,Electronics,south ,Bob Smith,"$1,247.07 ",6,0,PayPal,2
+ORD-1243,20/12/24,Monitor,accessories,WEST,Alice Johnson,$167.56 ,6,15,Cash,99
+ORD-1950,11/30/24,Headphones,accessories,SOUTH,Bob Smith,1286.76,18,10,credit card,2
+ORD-2013,5/18/23,usb hub,ACCESSORIES,north,Bob Smith,$587.89 ,22,147,CASH,5
+ORD-2063,3/22/24,usb hub,ELECTRONICS,East ,,$127.01 ,8,10,credit card,5
+ORD-1543,7/27/23,usb hub,ACCESSORIES,East,alice johnson,$461.09 ,22,10,paypal,99
+ORD-1070,27/12/24,LAPTOP,ELECTRONICS,SOUTH,dana lee,"$1,433.46 ",19,0,PayPal,4
+ORD-1542,2/26/24,usb hub,ELECTRONICS,North,Bob Smith,"$1,457.64 ",7,10,debit card,4
+ORD-1023,12-Nov-23,laptop,Electronics,north,Alice Johnson,USD 1179.29,12,15,Debit Card,3
+ORD-1807,31-01-2024,Webcam,ELECTRONICS,SOUTH,bob smith,"$1,386.56 ",6,20,Debit Card,1
+ORD-2173,4/14/23,laptop,ELECTRONICS,Central,Carol White,993.45,14,0,PAYPAL,2
+ORD-1058,10/31/23,keyboard,Electronics,NORTH,alice johnson,"$1,057.51 ",7,25,debit card,99
+ORD-2024,7/26/23,Monitor,electronics,west,Alice Johnson,$577.73 ,1,198,CREDIT CARD,4
+ORD-1948,7/14/23,headphones,electronics,WEST,bob smith,"$1,493.69 ",24,20,PayPal,2
+ORD-2120,10/1/24,keyboard,ACCESSORIES,Central,bob smith,$768.49 ,19,10,CASH,5
+ORD-1626,1-Apr-24,Keyboard,electronics,West,,250.01,8,0,paypal,1
+ORD-1081,,LAPTOP,ACCESSORIES,south ,Carol White,"$1,091.39 ",19,25,Debit Card,3
+ORD-1371,25-12-2023,Webcam,ELECTRONICS,SOUTH,CAROL WHITE,$628.76 ,-19,0,debit card,4
+ORD-2035,5/24/23,headphones,Electronics,East,,1392.95,6,20,PayPal,4
+ORD-1174,5/7/24,Webcam,electronics,East,alice johnson,"$1,264.67 ",6,10,Debit,4
+ORD-1303,30-10-2024,usb hub,electronics,north,Dana Lee,"$1,430.26 ",6,15,Debit Card,99
+ORD-1806,23-11-2024,Webcam,Electronics,East ,alice johnson,$498.66 ,19,0,PAYPAL,2
+ORD-1522,11/9/24,usb hub,Accessories,WEST,,$113.42 ,8,10,,4
+ORD-2048,14/01/24,LAPTOP,Electronics, East,Carol White,"$1,273.91 ",20,5,CASH,4
+ORD-1881,21-May-23,laptop,Electronics,Central,,"$1,078.12 ",23,5,PayPal,3
+ORD-1170,8/6/24,LAPTOP,electronics,NORTH,Dana Lee,353.8,6,10,credit card,4
+ORD-2179,10/24/24,Headphones,accessories,NORTH,bob smith,"$1,498.45 ",-2,0,Credit Card,4
+ORD-2070,31-Jul-24,Webcam,electronics,NORTH,,"$1,394.43 ",20,10,PAYPAL,4
+ORD-1051,7/1/24,usb hub,Electronics,north,Bob Smith,"$1,438.05 ",9,15,CREDIT CARD,1
+ORD-1482,12/10/23,Keyboard,ACCESSORIES,Central,bob smith,$437.16 ,13,15,,4
+ORD-2055,29-Dec-24,Headphones,Accessories,WEST,bob smith,$276.51 ,17,5,PAYPAL,4
+ORD-1014,4/21/23,Laptop,ELECTRONICS,west,alice johnson,"$1,369.37 ",5,5,Debit Card,3
+ORD-2066,10/21/23,Monitor,ACCESSORIES,West,Bob Smith,USD 408.73,14,25,debit card,4
+ORD-1900,10/1/23,usb hub,ELECTRONICS, East,CAROL WHITE,$46.89 ,17,20,debit card,
+ORD-1123,3/14/23,usb hub,Accessories,NORTH,dana lee,$607.87 ,2,10,Debit,-1
+ORD-1209,19/06/24,webcam,Accessories,west,alice johnson,"$1,344.29 ",21,15,PAYPAL,5
+ORD-1480,12/31/23,usb hub,accessories,East ,Alice Johnson,$332.89 ,20,0,CASH,99
+ORD-1054,6/4/24,Monitor,ACCESSORIES,WEST,Dana Lee,$445.16 ,6,10,Debit Card,4
+ORD-1731,3/7/24,usb hub,ELECTRONICS,North,Alice Johnson,,22,10,CREDIT CARD,4
+ORD-1363,11/17/23,usb hub,electronics,North,bob smith,"$1,204.67 ",20,10,paypal,99
+ORD-1717,20/12/23,Headphones,ACCESSORIES,Central,Dana Lee,"$1,396.05 ",10,0,Credit Card,5
+ORD-1056,11/11/23,webcam,accessories,North,bob smith,$884.80 ,22,0,Credit Card,4
+ORD-1086,9/10/24,Webcam,accessories,East,,$303.14 ,9,0,Debit,1
+ORD-1513,23-Apr-24,usb hub,electronics,WEST,dana lee,$394.59 ,2,15,,4
+ORD-1798,8/7/23,Webcam,electronics,west,Bob Smith,$432.23 ,7,10,paypal,4
+ORD-1109,19-Jul-24,Webcam,accessories, East,dana lee,$113.75 ,23,0,PAYPAL,3
+ORD-1817,3/6/23,Headphones,ELECTRONICS,South,bob smith,$129.61 ,16,0,Cash,2
+ORD-2192,12/7/24,headphones,ELECTRONICS,East ,Carol White,303.56,5,15,,2
+ORD-1839,1/6/23,Mouse,Electronics,west,alice johnson,$916.75 ,9,10,Debit Card,5
+ORD-1572,8/31/23,Webcam,accessories,North,CAROL WHITE,,21,10,,
+ORD-1936,25-12-2023,keyboard,Electronics,West,Bob Smith,$900.67 ,13,10,paypal,4
+ORD-1423,15-09-2024,keyboard,ELECTRONICS,Central,Alice Johnson,"$1,114.75 ",10,0,PayPal,1
+ORD-1904,9/7/24,Headphones,ELECTRONICS,Central,Alice Johnson,USD 577.4,17,25,paypal,3
+ORD-1862,12-May-23,LAPTOP,accessories,East,bob smith,"$1,092.68 ",4,10,debit card,5
+ORD-1962,20/04/24,laptop,ELECTRONICS,NORTH,Dana Lee,"$1,450.72 ",2,159,PayPal,3
+ORD-2094,4/14/23,webcam,ACCESSORIES,west,Carol White,,13,169,Cash,2
+ORD-1428,18-04-2023,Mouse,ELECTRONICS, East,Dana Lee,300.9,18,0,Debit,2
+ORD-1429,16-Oct-24,webcam,accessories,SOUTH,CAROL WHITE,"$1,083.00 ",4,15,Credit Card,5
+ORD-1636,19-Nov-23,Headphones,ACCESSORIES,NORTH,,$873.09 ,13,0,paypal,2
+ORD-1424,5/9/24,keyboard,Accessories, East,Alice Johnson,$47.16 ,20,0,Credit Card,5
+ORD-1048,20-07-2024,headphones,ELECTRONICS,East ,,$885.97 ,8,10,credit card,3
+ORD-2101,4/24/23,keyboard,Electronics,NORTH,alice johnson,$153.80 ,9,10,paypal,5
+ORD-1676,8/12/24,Headphones,ACCESSORIES, East,Alice Johnson,$561.78 ,24,10,Credit Card,4
+ORD-1707,1/9/24,LAPTOP,electronics,East,bob smith,166.56,16,0,Debit Card,4
+ORD-1832,19/01/23,headphones,electronics,north,Alice Johnson,$269.62 ,14,15,paypal,2
+ORD-1377,4/16/23,laptop,electronics,Central,,1062.29,11,0,PAYPAL,3
+ORD-1294,12/15/24,Monitor,accessories,WEST,Bob Smith,$128.45 ,19,20,Debit,1
+ORD-1005,1/27/23,Headphones,electronics,NORTH,Alice Johnson,"$1,168.06 ",16,20,Cash,3
+ORD-2004,16-02-2023,Mouse,accessories,East,bob smith,$273.92 ,13,135,PayPal,1
+ORD-1321,15-06-2024,laptop,accessories,west,Carol White,$742.42 ,-14,25,paypal,3
+ORD-1529,9-Mar-24,Laptop,Electronics, East,Dana Lee,"$1,093.68 ",5,0,Cash,5
+ORD-1945,30-12-2024,Webcam,ACCESSORIES,west,bob smith,"$1,214.94 ",14,0,Credit Card,4
+ORD-1438,11/6/23,webcam,electronics, East,Bob Smith,$694.19 ,24,15,Debit,3
+ORD-1286,3/16/24,LAPTOP,accessories,North,,$888.78 ,2,10,credit card,5
+ORD-2074,24-12-2023,usb hub,Accessories,Central,bob smith,$323.34 ,12,20,,4
+ORD-1413,12/4/24,Keyboard,accessories,East ,CAROL WHITE,$391.10 ,14,0,paypal,5
+ORD-1961,11/2/23,Keyboard,accessories,north,Alice Johnson,$344.26 ,18,10,Debit Card,4
+ORD-1879,6/7/23,usb hub,electronics,East ,bob smith,979.3,17,0,Debit,4
+ORD-1908,1-Oct-23,Headphones,accessories,Central,bob smith,"$1,169.12 ",8,5,,5
+ORD-1661,2/8/23,usb hub,Accessories,East,Carol White,$626.34 ,22,0,credit card,5
+ORD-1382,20/05/24,Monitor,accessories,north,bob smith,$771.84 ,20,20,paypal,4
+ORD-1410,5/5/24,Keyboard,electronics,NORTH,alice johnson,$162.51 ,5,15,Credit Card,1
+ORD-2152,8/25/24,headphones,accessories,North,Dana Lee,$442.77 ,24,20,CREDIT CARD,2
+ORD-1010,23/05/24,usb hub,ELECTRONICS,West,Bob Smith,"$1,363.78 ",12,25,,99
+ORD-1147,3/2/23,usb hub,ELECTRONICS,south ,bob smith,$694.96 ,18,10,debit card,3
+ORD-1999,6/28/24,usb hub,accessories, East,Alice Johnson,$873.92 ,3,0,Debit Card,1
+ORD-1966,8/2/24,Keyboard,ACCESSORIES,Central,Alice Johnson,$167.58 ,13,10,PAYPAL,99
+ORD-1453,21/04/23,usb hub,electronics,East,,$495.68 ,11,10,CASH,2
+ORD-2160,12/6/24,usb hub,Electronics,West,,"$1,046.35 ",18,0,paypal,3
+ORD-1958,27-Sep-24,LAPTOP,Electronics,south ,Bob Smith,"$1,119.11 ",9,5,PayPal,5
+ORD-1566,27-Dec-24,usb hub,ELECTRONICS,East ,bob smith,$699.90 ,19,0,Cash,4
+ORD-2072,7/31/23,LAPTOP,ELECTRONICS,South,bob smith,$546.34 ,22,15,PAYPAL,4
+ORD-1514,8/30/23,Monitor,electronics, East,bob smith,$240.74 ,15,0,paypal,99
+ORD-1727,4/4/23,LAPTOP,accessories,South,CAROL WHITE,$749.63 ,7,0,Debit,4
+ORD-1270,29-Dec-23,laptop,Electronics,north,alice johnson,$792.38 ,11,0,Cash,5
+ORD-1275,26/12/23,keyboard,electronics,NORTH,,USD 1311.12,5,0,CASH,1
+ORD-1677,3/7/23,Headphones,Electronics,East ,bob smith,$895.90 ,7,15,Cash,99
+ORD-1628,13-Nov-23,keyboard,ACCESSORIES,SOUTH,bob smith,$796.44 ,17,166,CASH,3
+ORD-1277,12/16/24,usb hub,ELECTRONICS,West,Bob Smith,"$1,241.34 ",19,10,Cash,3
+ORD-1802,2/12/24,Monitor,Accessories,south ,CAROL WHITE,769.25,19,20,paypal,5
+ORD-1135,16-Dec-23,Monitor,ACCESSORIES,South,alice johnson,$70.18 ,24,0,debit card,1
+ORD-1208,9/7/23,laptop,Accessories,Central,bob smith,USD 143.69,8,25,PAYPAL,5
+ORD-1220,5/20/24,laptop,Accessories,south ,dana lee,"$1,160.06 ",13,10,paypal,3
+ORD-2092,5/14/23,usb hub,Electronics, East,bob smith,"$1,187.16 ",3,0,PayPal,99
+ORD-2146,11/15/24,LAPTOP,electronics, East,Carol White,$683.21 ,10,25,Debit,4
+ORD-1007,6/25/24,usb hub,Electronics,East ,Alice Johnson,$246.53 ,17,0,paypal,
+ORD-1158,2/22/24,headphones,electronics,south ,Alice Johnson,USD 1491.17,14,15,paypal,2
+ORD-1140,8/20/24,Monitor,ELECTRONICS,west,CAROL WHITE,$778.47 ,6,25,,4
+ORD-1198,1/24/23,usb hub,Electronics,SOUTH,Carol White,"$1,217.34 ",1,137,PAYPAL,5
+ORD-1292,6/6/24,Headphones,electronics,Central,bob smith,$827.83 ,23,15,paypal,4
+ORD-1196,2/9/23,Monitor,Accessories,East ,Bob Smith,$739.00 ,7,10,CASH,4
+ORD-1768,18-Apr-23,keyboard,ACCESSORIES,East ,dana lee,$398.49 ,7,0,PayPal,3
+ORD-1247,17/07/24,usb hub,ACCESSORIES,south ,Alice Johnson,"$1,369.18 ",16,20,Cash,4
+ORD-1654,9-Aug-24,headphones,ACCESSORIES,North,Bob Smith,$841.34 ,22,5,CASH,3
+ORD-1916,1/15/24,Mouse,ELECTRONICS,North,bob smith,$826.89 ,1,157,CASH,3
+ORD-1497,11/14/23,keyboard,electronics,Central,Alice Johnson,$86.84 ,11,5,CREDIT CARD,5
+ORD-1561,8/7/23,headphones,ELECTRONICS,SOUTH,CAROL WHITE,"$1,371.94 ",5,10,CREDIT CARD,99
+ORD-1296,21-Jun-23,usb hub,ACCESSORIES,North,Carol White,$907.59 ,16,0,Credit Card,1
+ORD-1447,4-Mar-23,Webcam,ELECTRONICS,WEST,CAROL WHITE,$252.49 ,22,15,PayPal,4
+ORD-1358,9/5/23,Monitor,electronics,WEST,,$201.59 ,6,10,Debit Card,5
+ORD-1006,4/13/24,laptop,Electronics,NORTH,alice johnson,$401.73 ,12,15,debit card,4
+ORD-1184,6-Nov-23,Monitor,Accessories,south ,bob smith,$199.56 ,8,20,Debit Card,
+ORD-1266,5/5/23,usb hub,ACCESSORIES,west,Dana Lee,"$1,486.39 ",10,5,,5
+ORD-1035,23-09-2024,webcam,Accessories,West,,$890.80 ,15,10,credit card,5
+ORD-1163,31-Jan-24,laptop,Electronics,East,CAROL WHITE,$932.18 ,8,0,credit card,4
+ORD-1433,4/15/23,webcam,Electronics,West,CAROL WHITE,$54.44 ,6,20,CREDIT CARD,2
+ORD-1983,13/11/24,webcam,Electronics,west,Bob Smith,$329.70 ,1,0,Cash,2
+ORD-1156,6/14/23,Headphones,electronics,WEST,CAROL WHITE,$404.41 ,20,0,paypal,3
+ORD-1486,27-Mar-24,LAPTOP,electronics,Central,,943.71,15,20,,99
+ORD-1367,14-Aug-23,webcam,Accessories,East,bob smith,$424.43 ,1,25,CREDIT CARD,4
+ORD-1361,14-Mar-24,webcam,Accessories,west,Alice Johnson,$80.59 ,12,20,CREDIT CARD,3
+ORD-1240,10/9/23,Webcam,Accessories,north,Alice Johnson,"$1,083.11 ",16,15,Credit Card,4
+ORD-1199,31/08/24,headphones,Electronics,SOUTH,bob smith,$43.17 ,23,15,debit card,1
+ORD-1710,22-03-2024,laptop,Electronics,East ,Alice Johnson,$677.96 ,2,10,CREDIT CARD,
+ORD-1987,5/7/23,LAPTOP,ACCESSORIES, East,Alice Johnson,"$1,387.19 ",3,0,debit card,2
+ORD-1660,3/5/23,usb hub,Accessories, East,bob smith,$688.63 ,13,0,Debit Card,5
+ORD-1738,24-03-2024,LAPTOP,electronics,WEST,Alice Johnson,USD 1235.73,13,0,,1
+ORD-1321,15-06-2024,laptop,accessories,west,Carol White,$742.42 ,-14,25,paypal,3
+ORD-1545,4/1/23,Monitor,Accessories,Central,Alice Johnson,"$1,473.51 ",4,20,,5
+ORD-2041,5/16/23,Keyboard,ACCESSORIES,South,Bob Smith,$221.44 ,22,0,,3
+ORD-1231,2/22/24,LAPTOP,accessories,south ,Dana Lee,$87.10 ,20,20,Debit,4
+ORD-1218,3/27/23,Keyboard,ACCESSORIES,SOUTH,CAROL WHITE,$515.12 ,16,0,paypal,3
+ORD-1714,4/8/24,Mouse,accessories,South,,$972.80 ,4,10,paypal,5
+ORD-1458,1/18/23,usb hub,ACCESSORIES,SOUTH,Alice Johnson,$685.08 ,7,10,Credit Card,4
+ORD-2176,12/9/23,usb hub,ELECTRONICS,NORTH,bob smith,$171.36 ,13,10,debit card,5
+ORD-1297,3-Oct-23,usb hub,Electronics,south ,dana lee,$284.61 ,14,20,Cash,4
+ORD-1350,4/2/24,Headphones,Accessories,west,dana lee,"$1,086.48 ",10,15,CASH,3
+ORD-2010,20-Jul-23,usb hub,electronics,East,Dana Lee,"$1,481.17 ",14,10,Debit,2
+ORD-1289,25-08-2023,Monitor,Electronics,SOUTH,,USD 511.2,17,15,Debit Card,3
+ORD-1588,23-Apr-24,Monitor,Accessories,north,CAROL WHITE,$97.40 ,24,10,,5
+ORD-2198,10/24/24,Monitor,electronics,West,Alice Johnson,"$1,015.27 ",23,0,Cash,4
+ORD-1535,,webcam,electronics,SOUTH,,$201.14 ,-17,5,credit card,3
+ORD-1096,31-Oct-24,Webcam,ACCESSORIES,NORTH,dana lee,"$1,115.00 ",9,20,debit card,5
+ORD-1478,23/09/23,keyboard,electronics,NORTH,bob smith,"$1,499.57 ",8,5,Debit,5
+ORD-1865,6/2/24,Webcam,ELECTRONICS,North,,$476.72 ,13,15,Debit,5
+ORD-1178,29-Mar-23,headphones,accessories, East,CAROL WHITE,$778.36 ,2,20,CASH,2
+ORD-1031,5/4/24,Monitor,electronics, East,Dana Lee,$726.55 ,22,5,Credit Card,3
+ORD-1560,15/03/23,keyboard,electronics,west,Carol White,"$1,360.40 ",8,20,CREDIT CARD,4
+ORD-1903,12/9/23,Laptop,Accessories,NORTH,Alice Johnson,"$1,443.94 ",4,177,Debit Card,99
+ORD-1996,31-Jul-23,usb hub,electronics,West,alice johnson,"$1,187.95 ",12,10,CREDIT CARD,99
+ORD-2146,11/15/24,LAPTOP,electronics, East,Carol White,$683.21 ,10,25,Debit,4
+ORD-1309,16/09/23,Monitor,ACCESSORIES,south ,Alice Johnson,,2,25,CASH,
+ORD-1342,22-03-2024,usb hub,Electronics,East,Alice Johnson,"$1,080.07 ",16,5,Cash,-1
+ORD-1629,8-Mar-24,Monitor,accessories,North,alice johnson,$172.53 ,11,10,,4
+ORD-1333,30-Jan-24,Laptop,Accessories,south ,,$91.02 ,13,0,,3
+ORD-1808,24-01-2023,Headphones,electronics, East,Bob Smith,"$1,491.94 ",23,20,Credit Card,3
+ORD-1088,5/10/24,Laptop,Electronics,West,Carol White,$727.41 ,3,5,PAYPAL,99
+ORD-2144,20/01/24,Monitor,ACCESSORIES,north,,"$1,160.33 ",1,0,debit card,4
+ORD-1298,8/4/24,Monitor,ACCESSORIES,west,Carol White,"$1,378.80 ",19,0,paypal,2
+ORD-1376,4/10/24,usb hub,accessories,west,CAROL WHITE,$362.03 ,17,5,Credit Card,5
+ORD-1753,10/27/24,Monitor,ACCESSORIES,NORTH,dana lee,"$1,013.09 ",16,0,Cash,3
+ORD-2068,23-02-2023,Monitor,ACCESSORIES, East,CAROL WHITE,"$1,276.37 ",13,0,,99
+ORD-2182,1/24/24,keyboard,accessories,Central,bob smith,$910.66 ,18,10,Debit,4
+ORD-1425,1/9/24,LAPTOP,ACCESSORIES,south ,CAROL WHITE,"$1,316.98 ",18,0,Debit,99
+ORD-1644,25-Jun-23,laptop,ACCESSORIES,Central,alice johnson,$723.73 ,5,0,credit card,3
+ORD-1599,7/1/24,Webcam,ELECTRONICS,West,Carol White,$18.07 ,6,0,debit card,2
+ORD-1259,23/08/24,Laptop,ACCESSORIES,Central,,"$1,200.13 ",1,25,Debit,3
+ORD-1894,9-Jan-23,Monitor,ELECTRONICS,East ,Alice Johnson,$751.51 ,9,5,CREDIT CARD,4
+ORD-1760,7/30/23,Webcam,ELECTRONICS,north,CAROL WHITE,$51.69 ,7,0,credit card,
+ORD-1721,6/11/24,usb hub,ELECTRONICS,North,CAROL WHITE,"$1,346.68 ",19,0,Debit,3
+ORD-1308,16/02/23,Keyboard,ACCESSORIES,West,,901.8,8,0,Debit Card,5
+ORD-1059,3/31/24,Webcam,electronics,East,alice johnson,1301.52,19,5,debit card,5
+ORD-1978,8/1/23,Mouse,ACCESSORIES,north,Dana Lee,$967.19 ,-23,15,paypal,4
+ORD-1735,9/22/23,webcam,Accessories,Central,,"$1,273.92 ",24,10,CASH,4
+ORD-2060,8/9/24,usb hub,ACCESSORIES, East,Dana Lee,895.81,6,10,,4
+ORD-2050,7/24/23,Keyboard,Electronics,WEST,Dana Lee,"$1,007.77 ",4,10,CASH,3
+ORD-1481,3/30/23,keyboard,Accessories,East ,dana lee,$617.80 ,24,0,Credit Card,5
+ORD-1461,12/9/24,Keyboard,ELECTRONICS,South,alice johnson,$889.64 ,9,0,PAYPAL,3
+ORD-1422,17/11/24,laptop,electronics,north,Carol White,"$1,183.90 ",1,15,PAYPAL,1
+ORD-1352,21/12/24,Mouse,electronics,WEST,Alice Johnson,1403.96,6,0,paypal,4
+ORD-1464,1/19/24,LAPTOP,accessories,west,Carol White,$929.51 ,11,0,Cash,4
+ORD-1755,23-Mar-23,webcam,accessories,WEST,Dana Lee,$699.88 ,14,5,paypal,
+ORD-1332,11/18/23,LAPTOP,electronics,WEST,dana lee,"$1,361.71 ",13,15,CREDIT CARD,2
+ORD-1083,10/11/24,usb hub,Accessories,South,Bob Smith,$326.09 ,9,20,CASH,4
+ORD-1129,19/02/24,Laptop,ELECTRONICS,South,,$502.76 ,19,0,credit card,4
+ORD-1651,8/4/23,Webcam,Electronics,South,Dana Lee,"$1,438.59 ",15,5,debit card,5
+ORD-1465,13/12/23,Monitor,Electronics,East,,1484.26,10,5,credit card,4
+ORD-1947,2/26/23,Mouse,accessories,East,Dana Lee,$81.65 ,11,0,Debit,5
+ORD-1467,23-11-2023,Monitor,electronics,East ,bob smith,$420.73 ,19,25,PAYPAL,5
+ORD-1260,30-04-2024,Keyboard,ACCESSORIES,North,Alice Johnson,$852.53 ,13,15,CASH,5
+ORD-1558,9/2/23,usb hub,Accessories,North,bob smith,$95.85 ,15,10,Cash,-1
+ORD-1850,12/16/24,Webcam,Electronics,north,dana lee,1488.26,9,5,Debit Card,-1
+ORD-1925,16-07-2023,Keyboard,electronics,west,dana lee,$317.16 ,12,5,debit card,2
+ORD-1583,12/4/24,keyboard,accessories,WEST,dana lee,"$1,044.62 ",6,0,PayPal,-1
+ORD-1138,2/4/24,keyboard,Accessories,west,bob smith,"$1,195.71 ",4,5,credit card,3
+ORD-1973,2/16/24,headphones,ELECTRONICS,South,Alice Johnson,$152.60 ,4,0,Debit Card,2
+ORD-1141,9/23/23,Monitor,electronics,WEST,Dana Lee,$810.45 ,22,0,Debit Card,1
+ORD-1573,9/22/24,Keyboard,ELECTRONICS,WEST,alice johnson,$972.55 ,17,0,Cash,3
+ORD-2141,7/28/24,Headphones,accessories,north,alice johnson,"$1,009.88 ",15,0,,99
+ORD-1405,8-Feb-23,headphones,Accessories,north,Alice Johnson,$716.87 ,10,0,CREDIT CARD,3
+ORD-1139,,Webcam,ELECTRONICS,North,Carol White,USD 593.34,9,5,CASH,-1
+ORD-1390,11/18/23,Mouse,Electronics,north,bob smith,1469.63,14,142,Cash,5
+ORD-1884,27-Sep-24,LAPTOP,ACCESSORIES,WEST,Carol White,1047.04,14,10,credit card,3
+ORD-1224,22-May-23,headphones,Electronics,West,,"$1,065.18 ",24,0,,
+ORD-1935,8/8/23,Laptop,Electronics,north,Alice Johnson,"$1,376.79 ",12,20,CREDIT CARD,3
+ORD-1274,2/24/23,headphones,accessories,SOUTH,bob smith,1497.35,1,0,credit card,1
+ORD-1409,8/12/24,laptop,ELECTRONICS,South,CAROL WHITE,165.15,20,10,credit card,5
+ORD-1730,3/17/23,Monitor,accessories,South,Alice Johnson,"$1,434.16 ",15,10,PAYPAL,1
+ORD-1602,5/2/24,laptop,ACCESSORIES,NORTH,bob smith,74.27,11,10,credit card,4
+ORD-1394,17/07/24,LAPTOP,electronics,East,Dana Lee,823.74,16,0,Credit Card,2
+ORD-1598,12/11/23,Keyboard,Electronics,SOUTH,,$206.39 ,10,0,CASH,3
+ORD-2145,1/11/23,Webcam,Accessories,WEST,,$667.84 ,4,163,Cash,3
+ORD-1700,22-01-2023,usb hub,Electronics,north,Alice Johnson,$872.03 ,24,10,Debit Card,3
+ORD-1823,3/25/23,Monitor,ACCESSORIES,NORTH,alice johnson,$677.08 ,11,0,CASH,4
+ORD-2193,1/31/24,Laptop,ELECTRONICS,west,bob smith,"$1,471.22 ",1,0,PAYPAL,3
+ORD-1605,5/4/23,Monitor,Accessories,NORTH,CAROL WHITE,$938.07 ,7,15,Debit Card,5
+ORD-1398,30/12/24,headphones,electronics,west,bob smith,$53.31 ,5,10,debit card,5
+ORD-1759,18/11/23,Keyboard,electronics,north,Alice Johnson,$970.47 ,1,20,PayPal,2
+ORD-1620,15-Nov-23,LAPTOP,accessories,NORTH,Bob Smith,"$1,073.57 ",13,20,PayPal,4
+ORD-1331,25-06-2023,usb hub,accessories,NORTH,dana lee,$52.22 ,24,20,Cash,5
+ORD-1667,,Laptop,ELECTRONICS,west,,$194.01 ,5,10,,1
+ORD-1886,11/9/24,Keyboard,electronics,WEST,bob smith,$127.90 ,1,20,credit card,4
+ORD-1720,31-03-2024,LAPTOP,Electronics,south ,dana lee,"$1,429.88 ",4,5,PayPal,4
+ORD-1039,2/2/24,laptop,ELECTRONICS,North,dana lee,"$1,495.57 ",3,0,Debit,1
+ORD-1030,13-11-2023,usb hub,ACCESSORIES, East,dana lee,$631.16 ,12,0,PayPal,99
+ORD-1242,3/9/24,LAPTOP,Accessories,East ,bob smith,"$1,087.74 ",21,0,Debit Card,4
+ORD-1845,2/6/23,keyboard,ACCESSORIES,West,alice johnson,$240.22 ,5,0,paypal,5
+ORD-1136,1/4/23,laptop,ACCESSORIES,Central,bob smith,$242.07 ,21,20,Debit Card,3
+ORD-1310,5/19/24,Keyboard,Accessories,west,bob smith,1301.83,18,20,paypal,5
+ORD-2026,30-May-24,Mouse,electronics, East,Alice Johnson,$34.12 ,16,0,,2
+ORD-1526,11/26/24,Monitor,electronics,west,Bob Smith,$364.59 ,5,0,credit card,-1
+ORD-2085,1/3/23,Mouse,Accessories,west,,1404.49,7,10,debit card,3
+ORD-1003,11/4/24,keyboard,accessories,North,Dana Lee,"$1,451.58 ",18,0,PayPal,4
+ORD-1914,9/7/24,LAPTOP,ACCESSORIES, East,alice johnson,"$1,412.43 ",11,15,Cash,4
+ORD-2090,29-07-2024,Keyboard,accessories,North,CAROL WHITE,$549.05 ,11,5,CASH,3
+ORD-2062,28/06/24,Laptop,Accessories,north,Alice Johnson,$977.01 ,7,5,Credit Card,4
+ORD-1816,22/01/23,usb hub,electronics,west,bob smith,$104.41 ,14,20,Debit Card,2
+ORD-1864,8-Mar-24,laptop,Accessories,East ,Alice Johnson,1175.06,5,20,credit card,99
+ORD-1780,29-07-2023,usb hub,Accessories,SOUTH,Carol White,$391.95 ,11,0,Debit Card,4
+ORD-1919,13/11/24,Monitor,Electronics,Central,bob smith,"$1,158.55 ",19,0,Debit,2
+ORD-1314,20-Aug-24,Keyboard,accessories, East,Alice Johnson,$502.58 ,7,15,CASH,2
+ORD-1490,5/29/23,webcam,electronics,North,Alice Johnson,$802.34 ,6,10,paypal,3
+ORD-1319,26-08-2023,Monitor,ELECTRONICS,East,Carol White,"$1,439.92 ",4,10,PAYPAL,3
+ORD-1578,5/8/24,webcam,accessories,West,,$798.22 ,14,10,credit card,1
+ORD-1439,12/7/24,Webcam,Accessories, East,Carol White,$792.12 ,13,25,PAYPAL,5
+ORD-1005,8/30/24,usb hub,electronics,WEST,Carol White,$20.96 ,5,10,PAYPAL,2
+ORD-1100,22-Jul-23,usb hub,ACCESSORIES,NORTH,,$801.80 ,24,0,credit card,5
+ORD-1670,26-02-2023,LAPTOP,ELECTRONICS,NORTH,bob smith,$310.70 ,11,25,,2
+ORD-1533,11/29/24,Mouse,accessories,SOUTH,bob smith,$800.29 ,23,10,paypal,5
+ORD-2023,6/11/23,webcam,electronics,West,Alice Johnson,$943.33 ,16,0,Debit Card,3
+ORD-1852,4/3/23,usb hub,ELECTRONICS,west,Bob Smith,1299.61,11,124,CASH,
+ORD-1462,6/2/24,webcam,Accessories,west,bob smith,$396.32 ,20,5,,5
+ORD-1722,1/2/23,usb hub,accessories,South,Alice Johnson,$808.98 ,21,5,credit card,3
+ORD-1984,,webcam,Electronics,East ,,"$1,499.19 ",13,10,CASH,4
+ORD-1227,7/9/24,headphones,ACCESSORIES,Central,,$109.79 ,1,0,Debit Card,4
+ORD-1838,1/28/23,Monitor,ACCESSORIES,SOUTH,Dana Lee,$282.11 ,14,25,debit card,4
+ORD-1551,11/2/23,usb hub,accessories,SOUTH,Bob Smith,$401.22 ,17,0,,4
+ORD-1671,5/12/23,usb hub,Electronics,south ,Carol White,USD 330.37,8,0,paypal,
+ORD-1746,1/7/24,Laptop,Accessories,East ,Carol White,"$1,092.04 ",17,0,CREDIT CARD,99
+ORD-1066,10/4/23,LAPTOP,ELECTRONICS,north,Bob Smith,$554.40 ,2,0,PAYPAL,5
+ORD-1067,19-02-2023,LAPTOP,Accessories, East,bob smith,$815.87 ,24,0,debit card,4
+ORD-1435,6/19/24,Laptop,accessories,WEST,alice johnson,"$1,264.93 ",1,10,PayPal,1
+ORD-1211,4/26/24,Mouse,Electronics,South,,$405.16 ,11,5,Debit Card,4
+ORD-1012,5/28/23,usb hub,Electronics,East,bob smith,880.3,3,0,CASH,2
+ORD-1532,,laptop,Electronics, East,Alice Johnson,$413.09 ,24,0,PayPal,2
+ORD-1679,4/16/24,Monitor,electronics,East,bob smith,$413.52 ,2,5,paypal,5
+ORD-1299,7/1/23,Monitor,Electronics,south ,Alice Johnson,$331.19 ,13,5,debit card,2
+ORD-1617,30-05-2023,usb hub,Electronics,East ,bob smith,"$1,067.03 ",21,25,PAYPAL,4
+ORD-1796,20-11-2024,Monitor,electronics,SOUTH,alice johnson,"$1,068.63 ",14,20,paypal,4
+ORD-2103,3/7/24,LAPTOP,Electronics,East ,Bob Smith,"$1,234.31 ",4,5,PAYPAL,2
+ORD-1198,1/24/23,usb hub,Electronics,SOUTH,Carol White,"$1,217.34 ",1,137,PAYPAL,5
+ORD-2022,5/4/23,Headphones,Electronics,Central,dana lee,$289.83 ,2,10,Debit,1
+ORD-1012,7/9/24,Webcam,ACCESSORIES,East,CAROL WHITE,$602.89 ,8,0,debit card,1
+ORD-1380,2/27/24,keyboard,ELECTRONICS,East,bob smith,"$1,275.58 ",24,0,Debit Card,4
+ORD-1554,1/21/24,Laptop,ELECTRONICS,East ,bob smith,$989.17 ,17,20,paypal,4
+ORD-1724,4/8/23,usb hub,electronics,West,Carol White,"$1,110.09 ",6,20,PAYPAL,3
+ORD-2148,29-12-2024,usb hub,ELECTRONICS, East,bob smith,"$1,174.33 ",10,5,PAYPAL,4
+ORD-1596,6/13/24,Headphones,ELECTRONICS,Central,alice johnson,$106.96 ,9,10,debit card,3
+ORD-1906,5/2/23,Laptop,ELECTRONICS,East ,alice johnson,"$1,364.90 ",19,0,debit card,1
+ORD-1273,3/27/23,Monitor,ELECTRONICS,west,Carol White,"$1,255.43 ",18,25,,5
+ORD-1427,21/12/23,Monitor,electronics,East,dana lee,$887.26 ,11,0,,5
+ORD-1362,1/19/23,webcam,Accessories,North,bob smith,"$1,008.43 ",20,20,PayPal,5
+ORD-1237,10/7/24,Mouse,Accessories,west,bob smith,$304.98 ,3,0,credit card,5
+ORD-1622,17/07/24,LAPTOP,ELECTRONICS,WEST,bob smith,$713.35 ,14,5,paypal,4
+ORD-1002,1/5/23,Monitor,Electronics,North,alice johnson,$538.23 ,19,20,PayPal,4
+ORD-1006,17-11-2023,LAPTOP,electronics,Central,bob smith,$711.92 ,17,15,credit card,
+ORD-1451,11/11/23,Laptop,Electronics,East,bob smith,"$1,015.99 ",8,0,,2
+ORD-1311,24/09/23,Laptop,ELECTRONICS, East,alice johnson,"$1,297.46 ",4,114,paypal,4
+ORD-2057,22/11/23,Webcam,electronics,north,bob smith,$640.04 ,8,0,PayPal,4
+ORD-1381,26-06-2024,Headphones,Electronics,North,Alice Johnson,,8,10,CASH,4
+ORD-1519,27-12-2024,keyboard,accessories,West,Carol White,$526.96 ,7,0,paypal,1
+ORD-1820,27/05/24,laptop,Accessories,South,Dana Lee,$732.07 ,22,10,credit card,3
+ORD-1215,4-Oct-23,LAPTOP,electronics, East,Carol White,"$1,406.20 ",3,0,debit card,2
+ORD-1411,28-01-2024,Monitor,accessories,East,Bob Smith,$311.69 ,11,0,CREDIT CARD,1
+ORD-1027,1/8/24,usb hub,ELECTRONICS,Central,,$74.77 ,21,0,PAYPAL,4
+ORD-2186,4/3/23,Keyboard,ACCESSORIES,North,alice johnson,$237.33 ,3,5,Cash,3
+ORD-2027,9/26/23,usb hub,Electronics, East,bob smith,"$1,153.34 ",14,0,,-1
+ORD-1593,11/28/24,usb hub,Accessories,west,Alice Johnson,$735.20 ,-21,0,CREDIT CARD,5
+ORD-1842,11/19/24,Headphones,ACCESSORIES,west,,$880.25 ,3,0,Credit Card,4
+ORD-1990,23-05-2024,laptop,electronics,East ,dana lee,$994.01 ,19,0,CASH,4
+ORD-1673,10/17/24,Keyboard,Accessories, East,bob smith,USD 1020.02,8,0,Credit Card,4
+ORD-1771,26/06/23,LAPTOP,Electronics,Central,CAROL WHITE,$35.76 ,22,118,CREDIT CARD,2
+ORD-1970,6/30/24,usb hub,accessories,NORTH,CAROL WHITE,"$1,239.47 ",13,10,CREDIT CARD,4
+ORD-1354,20-Jul-24,LAPTOP,ACCESSORIES,west,alice johnson,"$1,011.92 ",22,0,Debit,1
+ORD-2078,8/11/23,usb hub,Accessories, East,Alice Johnson,"$1,345.10 ",7,10,Credit Card,5
+ORD-1442,16/12/24,headphones,electronics,SOUTH,bob smith,$136.30 ,6,15,,2
+ORD-1256,5/1/24,headphones,Electronics,NORTH,Carol White,"$1,292.71 ",14,20,Debit,4
+ORD-1291,2/23/24,Monitor,accessories,North,Alice Johnson,"$1,067.89 ",6,10,PayPal,1
+ORD-1025,5-Oct-24,Monitor,accessories,East ,Dana Lee,895.7,2,0,paypal,2
+ORD-1336,11/3/24,Webcam,accessories,East ,CAROL WHITE,$552.89 ,3,10,paypal,1
+ORD-1430,29-02-2024,Monitor,ACCESSORIES,north,Carol White,$243.94 ,21,177,debit card,3
+ORD-1047,8/7/23,Laptop,Accessories,WEST,bob smith,$716.45 ,11,10,credit card,5
+ORD-1318,19-Jul-23,Keyboard,accessories, East,dana lee,74.02,14,0,CREDIT CARD,99
+ORD-1106,24-Aug-23,Headphones,electronics,west,Alice Johnson,"$1,467.51 ",1,15,credit card,3
+ORD-1844,1/2/23,Mouse,accessories,WEST,Alice Johnson,$809.13 ,19,25,Cash,2
+ORD-1055,24-Oct-23,LAPTOP,electronics,SOUTH,Bob Smith,1146.72,17,5,Credit Card,4
+ORD-1549,28-Sep-24,Keyboard,electronics,south ,Dana Lee,$666.26 ,6,10,Cash,1
+ORD-1213,1/6/23,Keyboard,electronics,WEST,bob smith,"$1,451.70 ",19,0,Credit Card,99
+ORD-1120,4-Jun-23,keyboard,ACCESSORIES,WEST,Dana Lee,USD 719.37,21,0,debit card,2
+ORD-2143,6/15/24,Mouse,ACCESSORIES,NORTH,Dana Lee,$638.67 ,18,10,,-1
+ORD-1534,4-Aug-23,laptop,ELECTRONICS,East,CAROL WHITE,"$1,216.55 ",2,0,debit card,2
+ORD-1712,18-Oct-24,Webcam,Accessories,NORTH,bob smith,"$1,067.68 ",6,0,PayPal,2
+ORD-1072,17-Aug-23,headphones,Electronics,north,,176.97,10,5,Cash,3
+ORD-1634,3/13/23,Laptop,Electronics,west,CAROL WHITE,"$1,304.05 ",-12,25,Credit Card,3
+ORD-2195,14-01-2024,usb hub,Accessories,North,Dana Lee,$577.19 ,-6,20,paypal,2
+ORD-2006,30/06/23,laptop,accessories,North,Carol White,$570.06 ,10,15,Debit Card,4
+ORD-1752,4/6/24,Monitor,accessories,West,CAROL WHITE,"$1,445.84 ",-5,25,,4
+ORD-1943,4/21/23,Keyboard,electronics, East,Bob Smith,25.14,11,10,CREDIT CARD,5
+ORD-1889,8-Feb-24,Laptop,accessories,WEST,Alice Johnson,$722.46 ,23,0,Debit,2
+ORD-1581,2-Jul-23,usb hub,ELECTRONICS,Central,Carol White,,10,0,credit card,
+ORD-1591,8/26/24,usb hub,ACCESSORIES,South,Dana Lee,$153.14 ,10,5,CREDIT CARD,
+ORD-1582,,laptop,ELECTRONICS,South,Dana Lee,$651.03 ,6,0,,3
+ORD-1528,6/21/24,Mouse,ACCESSORIES,west,dana lee,$833.59 ,4,0,CASH,3
+ORD-1325,10/9/24,Monitor,ACCESSORIES,Central,bob smith,$371.57 ,11,5,CREDIT CARD,2
+ORD-1570,9/9/24,Monitor,Accessories,SOUTH,Carol White,"$1,009.69 ",22,10,PAYPAL,2
+ORD-1976,26/01/23,Webcam,ELECTRONICS,WEST,bob smith,"$1,023.70 ",15,0,debit card,-1
+ORD-1316,27/06/23,LAPTOP,Electronics,East ,alice johnson,$489.89 ,9,10,PAYPAL,5
+ORD-1650,10-Mar-23,Monitor,Accessories,south ,Alice Johnson,117.26,3,0,PayPal,3
+ORD-1876,27-Mar-24,Laptop,accessories, East,Alice Johnson,"$1,125.60 ",12,0,credit card,5
+ORD-1829,13-11-2023,usb hub,accessories,South,Alice Johnson,$237.88 ,7,0,Debit Card,4
+ORD-1024,,Monitor,electronics,Central,CAROL WHITE,$772.18 ,14,0,Cash,4
+ORD-2052,2-Jun-24,Mouse,Electronics,south ,bob smith,$262.49 ,1,25,debit card,1
+ORD-1581,2-Jul-23,usb hub,ELECTRONICS,Central,Carol White,,10,0,credit card,
+ORD-1575,4/24/23,webcam,Accessories,Central,Carol White,"$1,179.95 ",18,0,credit card,4
+ORD-1060,12/9/24,Mouse,accessories,North,dana lee,USD 526.26,18,5,credit card,1
+ORD-1228,8/30/24,Webcam,Electronics,west,,$571.33 ,14,0,Credit Card,1
+ORD-1092,17-07-2024,Monitor,Electronics,west,bob smith,$626.21 ,2,10,debit card,2
+ORD-1907,26/03/23,usb hub,electronics,WEST,,$386.94 ,24,5,Debit,5
+ORD-1536,1/23/23,laptop,Accessories,East,Carol White,"$1,369.74 ",22,0,Debit,3
+ORD-1351,6/17/23,laptop,Accessories,West,Dana Lee,139.32,20,20,Credit Card,4
+ORD-1986,12/11/23,Headphones,Electronics,NORTH,dana lee,1260.8,11,10,debit card,4
+ORD-1280,7/7/24,headphones,ACCESSORIES,Central,bob smith,165.32,10,10,PAYPAL,
+ORD-1568,10/30/23,Keyboard,ELECTRONICS,NORTH,Carol White,1134.87,20,10,PAYPAL,3
+ORD-1767,26/04/24,Headphones,accessories,North,Carol White,"$1,187.50 ",11,0,Debit,3
+ORD-1359,9/30/23,usb hub,accessories,WEST,bob smith,$861.55 ,8,0,CREDIT CARD,1
+ORD-1678,3/20/23,LAPTOP,Electronics, East,,"$1,462.38 ",8,10,Cash,4
+ORD-1314,20-Aug-24,Keyboard,accessories, East,Alice Johnson,$502.58 ,7,15,CASH,2
+ORD-2036,6/15/23,usb hub,ELECTRONICS,East,bob smith,$296.13 ,20,5,Debit,4
+ORD-1553,5/30/24,webcam,Accessories,south ,bob smith,1201.19,22,129,credit card,5
+ORD-1774,30/05/24,headphones,ELECTRONICS,WEST,alice johnson,$120.31 ,19,0,credit card,4
+ORD-1762,3/10/23,laptop,ACCESSORIES, East,Carol White,$308.71 ,11,10,CREDIT CARD,99
+ORD-1182,6/10/24,Keyboard,accessories,west,CAROL WHITE,"$1,400.06 ",21,5,paypal,99
+ORD-1718,12-Nov-23,usb hub,ACCESSORIES,south ,CAROL WHITE,$990.36 ,9,20,Debit,3
+ORD-1479,14-Jun-23,laptop,ACCESSORIES,South,dana lee,"$1,190.66 ",18,0,CASH,4
+ORD-1110,11-Apr-23,Mouse,ACCESSORIES, East,Carol White,$832.75 ,6,10,Debit,-1
+ORD-1017,7/7/24,keyboard,ELECTRONICS,south ,alice johnson,$200.53 ,23,0,credit card,4
+ORD-1239,5/10/23,Headphones,ACCESSORIES,north,,$248.97 ,24,5,CASH,4
+ORD-1938,22-08-2024,Laptop,Accessories,west,alice johnson,$839.48 ,16,15,Debit,5
+ORD-2087,15-01-2023,Keyboard,accessories,South,alice johnson,"$1,131.94 ",6,10,CASH,4
+ORD-2111,5/20/24,webcam,accessories, East,alice johnson,$75.89 ,10,10,paypal,
+ORD-1204,23-Jan-23,webcam,Accessories,East,,"$1,077.95 ",12,20,Debit Card,
+ORD-1811,10-Oct-23,Monitor,ACCESSORIES,North,dana lee,"$1,462.41 ",4,0,,4
+ORD-2137,4/30/24,Laptop,electronics,west,CAROL WHITE,$333.43 ,24,5,credit card,3
+ORD-1261,19-Mar-23,Monitor,ACCESSORIES,north,CAROL WHITE,$114.46 ,18,10,,4
+ORD-1523,22-Jul-24,Keyboard,electronics,WEST,bob smith,"$1,393.17 ",22,5,CREDIT CARD,99
+ORD-1682,18-Jan-24,laptop,Accessories,SOUTH,bob smith,$855.35 ,-15,0,PAYPAL,2
+ORD-1339,8/12/23,keyboard,Electronics,WEST,Dana Lee,$833.47 ,10,15,credit card,5
+ORD-1701,7/5/23,usb hub,ACCESSORIES,WEST,dana lee,"$1,199.07 ",-14,5,Credit Card,4
+ORD-1803,2/3/23,Keyboard,ELECTRONICS,west,Dana Lee,"$1,387.63 ",3,5,debit card,
+ORD-1506,,keyboard,Accessories,East,Dana Lee,$16.37 ,5,5,Debit,5
+ORD-1183,2/29/24,Mouse,Accessories,west,CAROL WHITE,$410.99 ,20,5,credit card,3
+ORD-1137,31/07/24,usb hub,Electronics,Central,dana lee,$436.20 ,5,0,Credit Card,99
+ORD-2189,11/8/23,webcam,Electronics,south ,CAROL WHITE,$116.60 ,15,10,debit card,4
+ORD-2108,11/13/23,Monitor,Accessories,South,Alice Johnson,"$1,315.44 ",24,5,PayPal,3
+ORD-1665,12/13/24,headphones,ACCESSORIES,East,Bob Smith,$838.00 ,5,5,Credit Card,4
+ORD-1080,10/17/24,usb hub,electronics,NORTH,Alice Johnson,"$1,256.00 ",5,0,Cash,4
+ORD-1527,1/5/23,Laptop,electronics, East,CAROL WHITE,$656.26 ,12,0,PAYPAL,3
+ORD-1836,1/22/24,Headphones,ACCESSORIES,NORTH,Bob Smith,$930.06 ,6,5,,3
+ORD-2180,29-10-2024,webcam,Electronics,SOUTH,CAROL WHITE,"$1,357.41 ",6,5,CASH,5
+ORD-1029,25-03-2024,keyboard,electronics, East,alice johnson,$210.47 ,19,5,Debit Card,2
+ORD-2175,4/8/23,Monitor,electronics,south ,bob smith,$120.16 ,24,20,debit card,3
+ORD-1471,27-02-2024,webcam,Electronics,west,bob smith,$815.44 ,22,0,PAYPAL,3
+ORD-1165,30/08/24,headphones,Electronics,South,alice johnson,"$1,370.59 ",19,10,Debit,5
+ORD-1040,20-01-2024,Headphones,Electronics,East ,alice johnson,"$1,437.55 ",1,15,Debit Card,2
+ORD-1307,10/19/24,usb hub,ACCESSORIES,East ,CAROL WHITE,"$1,494.05 ",2,10,debit card,
+ORD-1455,12/5/24,Webcam,Electronics,Central,alice johnson,$630.92 ,3,20,Debit Card,4
+ORD-2156,10-Sep-23,Monitor,electronics,NORTH,bob smith,1051.91,11,0,PAYPAL,2
+ORD-1346,1/30/24,usb hub,ACCESSORIES,East ,CAROL WHITE,$345.61 ,22,5,debit card,4
+ORD-1334,7/19/23,Keyboard,accessories,SOUTH,CAROL WHITE,$609.88 ,16,5,PayPal,4
+ORD-1285,18-04-2024,usb hub,accessories,West,alice johnson,$689.80 ,-8,115,Credit Card,4
+ORD-2005,9/5/24,webcam,ACCESSORIES,Central,Alice Johnson,$65.89 ,10,15,debit card,5
+ORD-1010,9/12/23,Monitor,accessories,North,bob smith,"$1,192.51 ",20,5,paypal,4
+ORD-1764,9/10/24,headphones,Accessories,East ,bob smith,$372.39 ,22,0,PayPal,4
+ORD-2065,13/01/24,keyboard,ELECTRONICS,south ,Alice Johnson,$416.68 ,22,10,Cash,2
+ORD-1965,7/1/23,Headphones,Electronics, East,bob smith,$322.99 ,14,0,Debit,2
+ORD-1631,9/2/23,Monitor,electronics,East,Bob Smith,$741.33 ,7,10,CASH,2
+ORD-1715,7-Nov-24,Monitor,accessories,East ,Alice Johnson,$801.66 ,12,0,credit card,3
+ORD-1643,15-Jul-23,webcam,electronics,East ,alice johnson,$655.34 ,15,5,PayPal,5
+ORD-1847,3/14/24,usb hub,ELECTRONICS, East,Bob Smith,767.89,8,0,PAYPAL,
+ORD-1963,19-10-2023,webcam,ACCESSORIES,north,alice johnson,$584.92 ,12,5,Credit Card,5
+ORD-1723,3/25/24,Webcam,electronics,SOUTH,Dana Lee,USD 1418.04,10,5,,
+ORD-1065,20/07/23,laptop,Electronics, East,Bob Smith,$617.82 ,13,25,Debit,2
+ORD-1668,4/16/24,laptop,Electronics,WEST,Alice Johnson,$933.75 ,21,5,,1
+ORD-1783,9-Sep-24,Laptop,Accessories,south ,Bob Smith,"$1,287.34 ",16,20,Credit Card,4
+ORD-1597,10/6/24,usb hub,accessories,NORTH,bob smith,1469.85,24,10,PAYPAL,5
+ORD-2112,28-Aug-24,Webcam,ELECTRONICS,South,bob smith,$374.30 ,13,0,Credit Card,4
+ORD-1038,25-Feb-23,Laptop,ACCESSORIES, East,Carol White,"$1,307.21 ",23,10,,1
+ORD-1302,6/12/23,Monitor,ELECTRONICS,WEST,bob smith,"$1,313.48 ",5,25,PayPal,2
+ORD-1254,11/26/23,laptop,ACCESSORIES,North,Alice Johnson,$616.21 ,23,5,Credit Card,4
+ORD-2031,31/10/23,laptop,accessories,SOUTH,bob smith,$252.54 ,19,20,credit card,99
+ORD-1985,,Headphones,accessories,NORTH,,$504.88 ,-17,5,Cash,3
+ORD-1312,27-Feb-24,Keyboard,Electronics,North,bob smith,$239.90 ,3,15,paypal,1
+ORD-2096,7/10/24,usb hub,accessories,Central,,"$1,208.83 ",22,5,paypal,1
+ORD-1221,23-Dec-24,webcam,ELECTRONICS,East ,bob smith,"$1,480.19 ",17,0,PayPal,5
+ORD-1477,8/4/24,laptop,Electronics, East,Dana Lee,587.37,22,10,PayPal,3
+ORD-1388,4/5/23,usb hub,electronics,South,CAROL WHITE,"$1,431.23 ",14,0,Credit Card,4
+ORD-1235,22/03/24,Monitor,Electronics,Central,Carol White,"$1,190.47 ",15,20,Credit Card,99
+ORD-1855,26-Jan-23,webcam,Electronics,north,Alice Johnson,$15.87 ,17,0,Credit Card,5
+ORD-2102,1/7/23,LAPTOP,ACCESSORIES,East ,Alice Johnson,"$1,112.99 ",5,15,PayPal,4
+ORD-1305,7/6/23,Headphones,Electronics,NORTH,bob smith,$251.64 ,23,5,PayPal,99
+ORD-1812,17/02/23,usb hub,electronics,south ,Bob Smith,$596.07 ,15,0,Debit Card,5
+ORD-1969,27/08/24,Laptop,ACCESSORIES,South,dana lee,"$1,300.33 ",-6,0,Debit Card,4
+ORD-1249,1/8/24,Webcam,ACCESSORIES,West,Alice Johnson,$796.03 ,22,0,Credit Card,99
+ORD-1873,1/18/24,laptop,Accessories,East ,dana lee,$365.94 ,3,0,CASH,99
+ORD-1071,10/1/24,Headphones,ACCESSORIES,west,bob smith,778.96,19,10,Debit,
+ORD-1094,17-11-2024,Webcam,Accessories,south ,Carol White,$197.23 ,5,25,,
+ORD-1867,10/6/24,keyboard,ACCESSORIES,WEST,dana lee,$131.59 ,14,0,credit card,5
+ORD-1033,12/6/24,Headphones,Electronics,South,dana lee,"$1,438.72 ",4,10,credit card,1
+ORD-1809,5/4/23,Monitor,ACCESSORIES,south ,,"$1,098.48 ",4,10,CREDIT CARD,3
+ORD-1448,4/28/24,usb hub,accessories,SOUTH,Dana Lee,"$1,276.28 ",19,10,,2
+ORD-1445,10/6/23,Webcam,accessories,East,Carol White,1028.07,-2,0,PAYPAL,-1
+ORD-2115,11/4/24,Laptop,Electronics,West,CAROL WHITE,$265.82 ,5,15,,1
+ORD-1615,15-07-2024,keyboard,Electronics,Central,CAROL WHITE,"$1,337.25 ",13,20,Debit,3
+ORD-1716,11/6/24,Monitor,electronics,East,Bob Smith,$473.96 ,15,20,Debit Card,
+ORD-1077,12/19/24,Monitor,electronics,North,bob smith,$126.37 ,21,0,PAYPAL,5
+ORD-1084,9/12/23,headphones,electronics,South,Alice Johnson,$165.87 ,-19,15,Debit Card,3
+ORD-1567,21/08/24,LAPTOP,ELECTRONICS,south ,dana lee,$600.25 ,22,15,,1
+ORD-1082,2/18/24,headphones,electronics,Central,alice johnson,$150.16 ,19,10,Cash,99
+ORD-1457,17-Sep-24,usb hub,electronics,North,Carol White,993.57,7,20,CASH,3
+ORD-1135,16-Dec-23,Monitor,ACCESSORIES,South,alice johnson,$70.18 ,24,0,debit card,1
+ORD-1436,5/29/24,Keyboard,ELECTRONICS,East,Alice Johnson,$637.15 ,20,0,Cash,-1
+ORD-1618,4/25/23,Keyboard,Electronics,Central,Bob Smith,$904.48 ,24,20,PayPal,3
+ORD-1941,6/3/23,headphones,ACCESSORIES,SOUTH,dana lee,$280.22 ,12,10,credit card,2
+ORD-1404,15/04/23,headphones,ACCESSORIES,SOUTH,CAROL WHITE,$40.34 ,13,20,PayPal,
+ORD-2073,14-11-2024,webcam,ELECTRONICS,West,,"$1,378.98 ",10,20,Cash,5
+ORD-1813,,Webcam,Accessories,west,bob smith,694.08,23,5,Debit,3
+ORD-1858,20-07-2023,LAPTOP,Electronics,East,Carol White,$855.32 ,18,20,CASH,5
+ORD-1026,13/08/23,usb hub,Electronics,East ,Carol White,$487.52 ,16,0,Debit Card,99
+ORD-1584,25-Jun-23,Monitor,Accessories,East ,,"$1,453.79 ",17,0,debit card,3
+ORD-1857,,Mouse,ELECTRONICS,WEST,alice johnson,"$1,147.14 ",2,0,PAYPAL,5
+ORD-1062,30-09-2023,Headphones,ACCESSORIES,WEST,bob smith,"$1,299.52 ",-18,0,PayPal,4
+ORD-1281,,Laptop,electronics,NORTH,dana lee,$381.82 ,23,0,Debit Card,4
+ORD-1695,28-08-2024,headphones,ELECTRONICS,Central,Carol White,$102.82 ,14,0,,4
+ORD-1238,2/13/23,Keyboard,Electronics,West,Dana Lee,"$1,080.33 ",20,0,PAYPAL,5
+ORD-1223,23/12/23,Monitor,accessories,SOUTH,bob smith,$290.27 ,11,10,Credit Card,3
+ORD-1145,12-Mar-24,Mouse,accessories,west,Carol White,$708.81 ,24,5,PAYPAL,4
+ORD-2147,7/5/24,Webcam,electronics, East,dana lee,"$1,121.95 ",5,0,CASH,5
+ORD-1373,,webcam,ELECTRONICS,West,Carol White,"$1,031.88 ",7,15,paypal,3
+ORD-1118,10-Nov-24,Monitor,accessories,WEST,Alice Johnson,$734.42 ,15,5,debit card,4
+ORD-1848,13-Jan-24,headphones,electronics,North,Dana Lee,434.02,13,0,CASH,3
+ORD-1250,1/10/23,Headphones,electronics,Central,dana lee,434.97,14,10,PayPal,1
+ORD-2185,12/5/24,Laptop,ELECTRONICS,South,dana lee,"$1,485.10 ",5,20,paypal,4
+ORD-1009,3/7/23,usb hub,Accessories,north,Dana Lee,$236.94 ,12,0,paypal,99
+ORD-1449,28-09-2024,LAPTOP,Electronics,West,dana lee,"$1,097.42 ",12,0,PayPal,4
+ORD-1924,11-Apr-24,keyboard,ACCESSORIES,North,alice johnson,USD 1464.01,13,0,Debit Card,5
+ORD-1389,16-04-2023,keyboard,accessories,south ,CAROL WHITE,$140.13 ,15,0,Debit,-1
+ORD-1874,6/5/24,usb hub,Accessories,East ,bob smith,$616.15 ,6,5,credit card,3
+ORD-1952,17/02/23,laptop,ELECTRONICS,west,alice johnson,"$1,221.71 ",13,140,paypal,1
+ORD-1557,10/13/24,Monitor,accessories,north,dana lee,"$1,282.58 ",15,0,debit card,5
+ORD-1460,16-Aug-24,Webcam,accessories, East,CAROL WHITE,$647.55 ,3,0,CREDIT CARD,2
+ORD-2133,7/30/24,usb hub,electronics,NORTH,Alice Johnson,$527.33 ,10,0,PayPal,2
+ORD-1144,11/14/24,usb hub,Electronics,SOUTH,CAROL WHITE,"$1,492.26 ",11,5,PayPal,1
+ORD-1501,9/7/23,Laptop,accessories,West,Alice Johnson,833.29,14,0,Debit Card,4
+ORD-2136,19/11/23,headphones,Electronics,south ,Bob Smith,$336.36 ,1,5,debit card,5
+ORD-1539,5/3/23,usb hub,accessories,North,Bob Smith,"$1,471.85 ",15,0,PayPal,3
+ORD-1177,5-Dec-23,laptop,Accessories,WEST,bob smith,"$1,143.02 ",14,5,,5
+ORD-2187,23-02-2023,Webcam,ACCESSORIES,south ,alice johnson,$182.43 ,4,0,Credit Card,4
+ORD-1778,1/4/23,Mouse,accessories,West,alice johnson,$350.97 ,2,0,credit card,99
+ORD-1003,25-04-2023,LAPTOP,Accessories,West,CAROL WHITE,65.62,20,0,Debit,5
+ORD-1220,5/20/24,laptop,Accessories,south ,dana lee,"$1,160.06 ",13,10,paypal,3
+ORD-1007,9/11/23,Monitor,Electronics,south ,bob smith,$329.72 ,11,20,debit card,4
+ORD-1585,11/6/23,LAPTOP,ELECTRONICS,North,CAROL WHITE,1003.96,17,25,credit card,4
+ORD-1939,6/27/24,Webcam,ACCESSORIES,West,alice johnson,837.06,2,0,,5
+ORD-1357,2-Jan-24,Monitor,ELECTRONICS,WEST,Alice Johnson,$631.40 ,4,0,PAYPAL,3
+ORD-1329,8/18/23,laptop,ELECTRONICS,Central,alice johnson,"$1,284.18 ",1,116,Debit,5
+ORD-1826,1/12/23,Keyboard,Electronics,NORTH,dana lee,$987.15 ,21,0,Cash,1
+ORD-2122,11/10/23,headphones,Electronics,East ,CAROL WHITE,"$1,135.29 ",6,0,Debit,
+ORD-1258,30/07/23,Mouse,Electronics,East ,Dana Lee,$321.81 ,6,10,PayPal,5
+ORD-1918,20/02/24,usb hub,ACCESSORIES,SOUTH,CAROL WHITE,$114.11 ,15,5,debit card,5
+ORD-1942,20-02-2024,usb hub,Accessories,East,Carol White,$765.12 ,23,25,Debit Card,1
+ORD-1892,26/01/23,Mouse,ELECTRONICS, East,Carol White,$205.95 ,13,0,Cash,3
+ORD-1630,25-May-24,Webcam,ACCESSORIES,WEST,bob smith,"$1,258.58 ",22,0,credit card,3
+ORD-2006,30/06/23,laptop,accessories,North,Carol White,$570.06 ,10,15,Debit Card,4
+ORD-1525,3/7/24,keyboard,Electronics,north,,$978.81 ,15,0,Credit Card,5
+ORD-2009,19/05/23,Monitor,accessories,south ,dana lee,753.53,22,15,paypal,3
+ORD-1859,21-10-2023,usb hub,Accessories,WEST,CAROL WHITE,$214.56 ,22,0,Cash,4
+ORD-2008,4/4/23,Monitor,ACCESSORIES,West,bob smith,$79.01 ,12,10,paypal,5
+ORD-2169,27/03/24,webcam,Electronics, East,Carol White,"$1,226.41 ",14,25,paypal,2
+ORD-1440,3/8/23,Keyboard,accessories,south ,Dana Lee,$38.08 ,19,10,PAYPAL,5
+ORD-1531,20-08-2023,Laptop,accessories,WEST,,1100.18,11,0,Cash,5
+ORD-2015,13/12/24,Mouse,ACCESSORIES,west,Alice Johnson,$743.43 ,7,5,CREDIT CARD,5
+ORD-1228,8/30/24,Webcam,Electronics,west,,$571.33 ,14,0,Credit Card,1
+ORD-2069,17-Sep-23,usb hub,Electronics,East,dana lee,1144.18,8,5,paypal,
+ORD-1212,7/2/23,Headphones,ACCESSORIES,north,Carol White,$393.47 ,11,0,credit card,99
+ORD-1079,4/2/23,Monitor,accessories,East,dana lee,$199.09 ,14,5,,4
+ORD-1148,16-02-2024,keyboard,Electronics, East,Bob Smith,"$1,434.50 ",3,0,credit card,2
+ORD-1621,9/29/24,Mouse,ELECTRONICS, East,bob smith,"$1,036.31 ",22,15,debit card,4
+ORD-1743,3/14/24,usb hub,ACCESSORIES,west,,$930.79 ,24,0,,3
+ORD-1849,12/23/24,webcam,Accessories,south ,Bob Smith,1423.66,21,0,Credit Card,3
+ORD-1133,2/29/24,Mouse,accessories,WEST,alice johnson,$788.14 ,12,0,CREDIT CARD,5
+ORD-1887,1-Oct-24,Laptop,ACCESSORIES,west,dana lee,,9,0,credit card,1
+ORD-1408,4/4/23,Monitor,electronics,Central,bob smith,$921.51 ,14,10,Debit,99
+ORD-1706,12/15/24,usb hub,electronics,north,Alice Johnson,1224.74,15,10,Credit Card,2
+ORD-1507,8/29/23,Monitor,electronics,SOUTH,Bob Smith,$800.40 ,1,10,PAYPAL,-1
+ORD-1927,29-May-23,headphones,accessories,WEST,bob smith,$383.38 ,23,10,Credit Card,-1
+ORD-1504,11/3/23,headphones,Accessories,NORTH,Dana Lee,$888.39 ,8,0,CASH,5
+ORD-1708,3/3/24,Mouse,accessories,SOUTH,alice johnson,$553.21 ,19,5,Credit Card,4
+ORD-1347,7/25/23,usb hub,Electronics,North,bob smith,$783.64 ,9,15,PayPal,4
+ORD-1386,5/16/23,keyboard,accessories,SOUTH,bob smith,$643.87 ,9,10,CREDIT CARD,3
+ORD-1000,3/7/23,Laptop,ACCESSORIES,SOUTH,Bob Smith,$663.92 ,19,10,PayPal,4
+ORD-1360,3/10/24,Monitor,accessories,south ,,"$1,428.90 ",9,123,CREDIT CARD,3
+ORD-2162,26-10-2023,Monitor,Accessories,East,alice johnson,$728.43 ,11,5,PayPal,5
+ORD-1475,7/20/24,usb hub,electronics,west,dana lee,$44.65 ,14,20,credit card,2
+ORD-1841,,laptop,accessories,SOUTH,CAROL WHITE,$945.57 ,18,5,,2
+ORD-1793,3/25/24,headphones,ELECTRONICS,East ,Dana Lee,$106.99 ,3,0,Cash,2
+ORD-1172,27-08-2024,Laptop,electronics,SOUTH,bob smith,,5,0,,5
+ORD-1450,9/5/23,Laptop,ACCESSORIES, East,Bob Smith,"$1,480.01 ",23,10,Debit Card,5
+ORD-1125,10/18/23,laptop,ACCESSORIES,East,Alice Johnson,$618.91 ,11,20,CASH,4
+ORD-1672,16/12/23,laptop,ELECTRONICS,WEST,dana lee,$849.57 ,16,10,Debit Card,
+ORD-1530,1/21/23,Laptop,accessories,WEST,bob smith,"$1,399.37 ",1,25,Debit,4
+ORD-1090,18/12/24,Headphones,ELECTRONICS,North,Carol White,$818.11 ,13,0,Credit Card,3
+ORD-2190,8/9/23,laptop,electronics,South,Dana Lee,$133.88 ,16,0,CASH,5
+ORD-1181,20/09/23,Laptop,ACCESSORIES,SOUTH,dana lee,$343.67 ,24,0,Credit Card,4
+ORD-1692,22-03-2024,Keyboard,ACCESSORIES,north,dana lee,$799.44 ,8,5,credit card,5
+ORD-1414,3-Dec-23,Laptop,Electronics,East,Dana Lee,$986.40 ,13,15,CASH,1
+ORD-1251,5/20/24,usb hub,accessories,South,dana lee,$158.92 ,12,0,PayPal,4
+ORD-1069,6/26/23,usb hub,electronics,SOUTH,alice johnson,$719.61 ,23,15,credit card,4
+ORD-1131,28/06/23,LAPTOP,electronics,NORTH,CAROL WHITE,"$1,473.39 ",14,5,Debit Card,3
+ORD-1300,17-Jul-23,usb hub,ACCESSORIES,south ,alice johnson,1100.11,2,15,Cash,4
+ORD-2170,8/3/24,Monitor,accessories,East,Alice Johnson,$530.08 ,20,10,CREDIT CARD,5
+ORD-1326,25/09/23,laptop,ACCESSORIES,west,Carol White,$164.22 ,17,15,Debit,1
+ORD-1190,,usb hub,Accessories,west,CAROL WHITE,"$1,389.26 ",11,0,Credit Card,99
+ORD-1499,7/5/24,Mouse,ACCESSORIES,south ,Bob Smith,$925.45 ,1,5,paypal,4
+ORD-2079,1-Jan-23,keyboard,Electronics,north,bob smith,"$1,364.47 ",14,0,debit card,4
+ORD-1971,4/23/24,Mouse,accessories,west,Alice Johnson,"$1,065.72 ",1,0,,3
+ORD-1495,10/23/24,Mouse,Electronics,East ,dana lee,$225.91 ,8,5,Debit Card,3
+ORD-1338,10/10/23,LAPTOP,ELECTRONICS,North,,"$1,129.46 ",7,10,CASH,4
+ORD-2019,24-Mar-24,usb hub,Accessories,West,,"$1,400.98 ",15,10,Debit,99
+ORD-1164,19/12/24,Webcam,ACCESSORIES,North,Alice Johnson,"$1,232.54 ",18,0,CREDIT CARD,3
+ORD-1028,10/14/24,headphones,Accessories,NORTH,CAROL WHITE,1251.84,3,0,Credit Card,4
+ORD-1516,27-08-2023,Monitor,accessories,East ,CAROL WHITE,"$1,479.37 ",8,0,credit card,3
+ORD-1193,9/11/24,headphones,accessories,North,Dana Lee,$701.23 ,15,0,Cash,99
+ORD-1666,3/6/23,laptop,Accessories,north,CAROL WHITE,$642.29 ,23,0,debit card,4
+ORD-2003,1-Jan-23,LAPTOP,ELECTRONICS,East ,Bob Smith,$120.28 ,11,5,credit card,5
+ORD-1169,9/6/24,usb hub,electronics,west,Bob Smith,1418.26,10,0,paypal,5
+ORD-1745,4/13/23,Monitor,ELECTRONICS,Central,alice johnson,$490.72 ,2,15,,3
+ORD-1652,30/07/24,webcam,accessories,SOUTH,Alice Johnson,$720.71 ,20,15,Debit Card,2
+ORD-1173,13-Aug-23,laptop,ACCESSORIES,South,bob smith,$787.96 ,16,5,Debit Card,2
+ORD-1518,23-Feb-23,Laptop,accessories,South,Alice Johnson,"$1,091.67 ",15,0,Credit Card,3
+ORD-2088,8/1/24,Monitor,Accessories,SOUTH,Alice Johnson,$888.06 ,21,0,paypal,4
+ORD-1737,2/22/24,Webcam,accessories,NORTH,Carol White,"$1,159.21 ",19,0,paypal,99
+ORD-1491,10-Mar-24,Webcam,ACCESSORIES, East,Carol White,"$1,261.49 ",23,10,Debit,1
+ORD-1073,21-09-2024,Laptop,Electronics,south ,Alice Johnson,$371.29 ,22,0,Debit Card,2
+ORD-2030,5/31/24,headphones,electronics,East,Dana Lee,$264.84 ,-2,15,credit card,4
+ORD-1587,28-02-2024,Monitor,Accessories,Central,Bob Smith,$753.01 ,-15,15,Debit,2
+ORD-1657,24-Oct-23,usb hub,accessories,East,bob smith,$941.56 ,21,0,Debit,1
+ORD-1234,9/12/24,usb hub,ACCESSORIES,WEST,,"$1,136.54 ",15,0,Cash,4
+ORD-1214,11/17/24,Monitor,Electronics,SOUTH,bob smith,$850.14 ,3,0,PAYPAL,4
+ORD-2002,1/11/23,Mouse,ACCESSORIES,Central,dana lee,1043.33,13,15,credit card,5
+ORD-1132,5/30/24,Mouse,electronics,East ,bob smith,1312.75,8,5,PAYPAL,1
+ORD-1818,5/6/23,Monitor,ELECTRONICS,West,bob smith,"$1,011.03 ",-14,15,CASH,99
+ORD-1770,29/07/23,usb hub,accessories,Central,dana lee,$303.33 ,8,10,Debit Card,4
+ORD-1036,9/1/23,Mouse,Electronics,South,Carol White,$323.40 ,8,0,Cash,4
+ORD-1185,12/13/24,usb hub,electronics,south ,Carol White,$273.72 ,-8,0,,2
+ORD-1041,1/4/23,Headphones,Electronics,North,bob smith,$86.96 ,1,15,credit card,5
+ORD-1108,10/27/23,keyboard,electronics,north,CAROL WHITE,216.1,17,25,CREDIT CARD,-1
+ORD-1898,7/10/23,usb hub,ACCESSORIES,NORTH,,$787.93 ,9,5,CREDIT CARD,3
+ORD-1568,10/30/23,Keyboard,ELECTRONICS,NORTH,Carol White,1134.87,20,10,PAYPAL,3
+ORD-2084,30-04-2024,keyboard,Accessories,NORTH,Dana Lee,$560.93 ,11,0,CREDIT CARD,2
+ORD-2042,3/10/24,usb hub,ELECTRONICS,South,Bob Smith,$871.37 ,22,10,PayPal,3
+ORD-2183,7-Oct-23,Mouse,ACCESSORIES,NORTH,,$543.74 ,19,5,Credit Card,3
+ORD-1483,7/7/24,Monitor,ELECTRONICS,North,Bob Smith,289.9,10,25,debit card,4
+ORD-1468,23-04-2024,Mouse,ACCESSORIES,West,Alice Johnson,$213.87 ,4,0,paypal,4
+ORD-1024,3/28/23,usb hub,ACCESSORIES,East,dana lee,$644.55 ,9,20,credit card,2
+ORD-1693,15/10/23,LAPTOP,ACCESSORIES,East,alice johnson,$320.16 ,20,15,debit card,4
+ORD-1713,7/16/24,headphones,ELECTRONICS,East ,Alice Johnson,"$1,399.39 ",4,15,Credit Card,5
+ORD-1920,4/17/23,LAPTOP,accessories,north,Dana Lee,$266.36 ,9,5,CREDIT CARD,5
+ORD-2040,8/30/23,usb hub,accessories,SOUTH,Alice Johnson,"$1,189.43 ",21,0,,2
+ORD-1366,3/8/24,headphones,Electronics,Central,bob smith,"$1,315.82 ",19,0,Cash,3
+ORD-1888,10-Oct-23,Keyboard,ACCESSORIES,West,Dana Lee,"$1,380.25 ",14,15,CREDIT CARD,5
+ORD-2081,6/9/23,webcam,ELECTRONICS,East ,,"$1,032.45 ",4,20,CREDIT CARD,
+ORD-1383,18-Jul-24,Headphones,accessories,SOUTH,CAROL WHITE,$334.57 ,11,0,PayPal,2
+ORD-1454,1-Apr-23,Webcam,electronics,Central,bob smith,USD 715.9,1,20,PAYPAL,2
+ORD-1264,6/7/23,webcam,ELECTRONICS,East,dana lee,$57.89 ,23,10,Debit,5
+ORD-1998,25/10/23,usb hub,Electronics,north,CAROL WHITE,"$1,101.22 ",3,10,Debit Card,
+ORD-1232,13-07-2023,usb hub,electronics,SOUTH,CAROL WHITE,$497.07 ,12,0,paypal,4
+ORD-1444,15-03-2023,keyboard,ACCESSORIES,SOUTH,bob smith,82.5,9,5,credit card,3
+ORD-1395,5/5/24,keyboard,electronics,SOUTH,Alice Johnson,$726.02 ,23,0,CREDIT CARD,4
+ORD-1004,18-Mar-23,Mouse,accessories,East ,Alice Johnson,1274.19,20,0,CREDIT CARD,99
+ORD-1176,3/26/24,LAPTOP,ELECTRONICS,West,dana lee,1027.05,17,5,paypal,5
+ORD-1018,26-Mar-23,headphones,Electronics,South,dana lee,$480.72 ,13,10,,2
+ORD-1741,4/27/24,usb hub,Accessories,NORTH,bob smith,"$1,360.20 ",-16,10,,99
+ORD-1861,11/4/23,Monitor,accessories,East ,dana lee,"$1,016.88 ",2,15,Debit Card,3
+ORD-1595,16-May-24,Mouse,Accessories,East,Alice Johnson,$742.49 ,20,0,,-1
+ORD-1061,12-Jun-23,Webcam,accessories,West,Dana Lee,"$1,205.06 ",14,105,PAYPAL,5
+ORD-1272,4/29/23,Mouse,accessories, East,bob smith,211.47,12,0,Debit Card,3
+ORD-2194,17-01-2023,Headphones,accessories,SOUTH,Alice Johnson,$922.66 ,5,0,Debit Card,3
+ORD-1278,14/05/24,usb hub,accessories,West,,$375.57 ,19,0,Debit Card,5
+ORD-1890,20-Feb-23,usb hub,accessories,East ,Dana Lee,$999.29 ,8,10,CREDIT CARD,4
+ORD-1694,27/01/24,Laptop,Accessories,west,Alice Johnson,"$1,155.85 ",-21,0,PayPal,3
+ORD-1368,8-Nov-24,webcam,Accessories,south ,Dana Lee,$512.10 ,6,20,paypal,5
+ORD-1937,22-Jan-23,Monitor,Accessories,west,Carol White,227.68,3,10,Cash,4
+ORD-1893,19/12/24,usb hub,ACCESSORIES,Central,Bob Smith,$725.74 ,13,10,paypal,-1
+ORD-1909,8/25/24,usb hub,Accessories,East,Carol White,"$1,276.76 ",10,5,Debit Card,99
+ORD-1756,30-09-2023,headphones,electronics,north,Alice Johnson,$814.47 ,6,5,Cash,3
+ORD-1814,16-11-2024,usb hub,electronics,west,Dana Lee,$701.36 ,6,0,CREDIT CARD,3
+ORD-1547,28-Oct-24,Headphones,Electronics,south ,dana lee,$954.06 ,14,5,debit card,99
+ORD-1930,31/03/23,laptop,Electronics,NORTH,Dana Lee,"$1,125.39 ",16,10,Debit,5
+ORD-1688,4/30/24,Monitor,Electronics,Central,,1350.53,15,0,Cash,4
+ORD-2080,7/24/24,laptop,ACCESSORIES,East,bob smith,"$1,327.20 ",9,20,PayPal,3
+ORD-1456,30/04/23,Headphones,accessories,WEST,Alice Johnson,$873.08 ,2,15,CREDIT CARD,1
+ORD-1393,31-Oct-23,Webcam,accessories,south ,Alice Johnson,"$1,354.52 ",8,20,Debit,3
+ORD-1675,23-09-2024,usb hub,Electronics,West,,"$1,421.73 ",15,5,,5
+ORD-1964,3/2/23,Webcam,Electronics,West,dana lee,"$1,275.82 ",10,5,Cash,4
+ORD-2106,10/4/23,usb hub,Accessories,north,Dana Lee,103.15,22,0,CASH,99
+ORD-1375,20/12/24,usb hub,ACCESSORIES,west,Alice Johnson,"$1,194.58 ",1,10,Credit Card,5
+ORD-1412,20-05-2023,usb hub,accessories,WEST,bob smith,"$1,029.94 ",24,0,PayPal,2
+ORD-1074,17-12-2023,LAPTOP,ACCESSORIES,East ,Dana Lee,$80.58 ,8,0,,4
+ORD-2150,1/22/23,Mouse,accessories,South,Carol White,$892.87 ,14,0,Debit,5
+ORD-1912,16-03-2023,usb hub,accessories, East,dana lee,248.25,13,10,PayPal,1
+ORD-1500,7/1/24,Webcam,accessories,South,Carol White,1404.7,19,10,paypal,3
+ORD-1846,6/16/24,usb hub,Electronics,East ,Bob Smith,"$1,404.77 ",5,10,debit card,5
+ORD-1616,6/9/24,Monitor,Electronics,WEST,,"$1,448.06 ",20,5,PayPal,3
+ORD-1114,15-07-2023,Headphones,ELECTRONICS,south ,bob smith,$813.01 ,20,0,Debit,5
+ORD-1417,30-12-2023,keyboard,Electronics,north,Carol White,"$1,191.68 ",20,25,CREDIT CARD,
+ORD-1601,17/10/23,LAPTOP,ACCESSORIES,WEST,bob smith,$496.26 ,19,10,debit card,1
+ORD-1604,3/7/24,keyboard,Accessories,East,dana lee,$563.53 ,9,0,CREDIT CARD,5
+ORD-1089,1/12/24,Monitor,accessories, East,alice johnson,"$1,477.00 ",15,0,Cash,4
+ORD-1872,4/10/24,Headphones,accessories,west,Carol White,754.55,19,115,Cash,3
+ORD-2177,18-May-23,Mouse,electronics,East ,Alice Johnson,$98.87 ,23,10,PayPal,3
+ORD-1498,1/9/24,headphones,electronics,WEST,dana lee,$552.88 ,9,10,PAYPAL,3
+ORD-1926,5/10/23,Laptop,ACCESSORIES,south ,Carol White,"$1,422.99 ",14,0,credit card,3
+ORD-1933,13/01/23,usb hub,ACCESSORIES,WEST,Carol White,$272.07 ,20,20,Debit Card,1
+ORD-1931,11/5/23,Webcam,Electronics,South,,$132.35 ,15,0,Debit Card,4
+ORD-1011,5/25/24,Laptop,ACCESSORIES,South,bob smith,$689.10 ,17,10,credit card,4
+ORD-1396,25-12-2023,usb hub,ACCESSORIES,South,bob smith,"$1,244.00 ",11,0,Debit,2
+ORD-2114,2/11/23,LAPTOP,ELECTRONICS,West,alice johnson,$782.94 ,12,0,Cash,99
+ORD-1555,8/30/24,LAPTOP,Electronics,NORTH,Carol White,"$1,134.09 ",-10,0,CASH,2
+ORD-1042,9/9/24,Headphones,ELECTRONICS,west,CAROL WHITE,,17,10,PayPal,3
+ORD-1167,13/01/24,Monitor,Accessories,East ,bob smith,$580.34 ,19,20,debit card,5
+ORD-1416,14-02-2024,Keyboard,accessories,west,,"$1,434.71 ",12,25,CASH,3
+ORD-1576,1-Dec-24,Mouse,Accessories,West,Carol White,781.42,13,0,Debit,
+ORD-1267,1/9/23,Monitor,Accessories,South,Carol White,$213.62 ,4,0,PAYPAL,2
+ORD-1991,27-Jan-23,LAPTOP,electronics,East,dana lee,$433.97 ,19,20,CREDIT CARD,1
+ORD-1426,15-Jan-24,LAPTOP,accessories, East,Alice Johnson,$477.68 ,17,0,PAYPAL,4
+ORD-1690,30-Aug-23,Laptop,electronics,WEST,bob smith,$560.01 ,6,0,credit card,2
+ORD-1544,,Mouse,electronics,West,Carol White,$996.77 ,6,0,Debit Card,3
+ORD-2151,21-08-2024,Monitor,Accessories,East ,Carol White,1446.9,10,20,Credit Card,3
+ORD-1674,18-Nov-23,usb hub,accessories,NORTH,bob smith,$937.28 ,16,0,CREDIT CARD,
+ORD-1689,14-01-2023,laptop,electronics, East,Bob Smith,$137.08 ,5,25,Cash,-1
+ORD-2083,15-11-2023,usb hub,ELECTRONICS,East ,CAROL WHITE,$833.79 ,11,25,Debit,5
+ORD-1283,2/5/24,webcam,accessories,South,Carol White,919.32,14,0,Cash,-1
+ORD-1159,2/16/24,webcam,accessories,NORTH,bob smith,$724.32 ,10,10,Credit Card,2
+ORD-1934,8/19/24,webcam,ACCESSORIES,NORTH,Alice Johnson,$137.83 ,13,5,CASH,99
+ORD-1257,8/23/24,webcam,Electronics,East ,CAROL WHITE,$520.47 ,2,0,PAYPAL,4
+ORD-1989,11-Feb-24,Mouse,accessories,west,Alice Johnson,"$1,215.76 ",14,0,,5
+ORD-1029,19/10/24,Headphones,ELECTRONICS,Central,CAROL WHITE,379.36,24,0,PayPal,
+ORD-1015,9/23/23,keyboard,ACCESSORIES,South,Alice Johnson,1345.27,20,0,CASH,2
+ORD-1953,2/14/23,Headphones,ACCESSORIES,West,CAROL WHITE,"$1,482.40 ",18,0,PAYPAL,99
+ORD-1324,2-Aug-23,LAPTOP,accessories,WEST,alice johnson,$910.41 ,5,15,paypal,
+ORD-1607,27-Feb-23,headphones,electronics,NORTH,bob smith,$56.76 ,7,0,CASH,4
+ORD-2083,15-11-2023,usb hub,ELECTRONICS,East ,CAROL WHITE,$833.79 ,11,25,Debit,5
+ORD-1834,23-10-2023,Monitor,ACCESSORIES,NORTH,bob smith,$37.23 ,21,10,CASH,5
+ORD-1979,22-Mar-23,usb hub,electronics, East,Carol White,$915.30 ,19,15,PAYPAL,2
+ORD-1222,12-Mar-24,usb hub,Accessories,north,Bob Smith,$922.52 ,16,15,Cash,4
+ORD-1179,4/16/23,Mouse,Electronics,East,bob smith,$10.84 ,3,15,debit card,2
+ORD-1099,23-Feb-23,Keyboard,Accessories,west,Bob Smith,"$1,425.58 ",12,0,Debit,5
+ORD-1757,29/08/24,keyboard,Accessories,NORTH,Alice Johnson,$185.62 ,9,0,PAYPAL,3
+ORD-1521,10/23/23,Keyboard,accessories,west,,"$1,165.64 ",9,10,PAYPAL,4
+ORD-1761,11/9/23,usb hub,Accessories,East ,CAROL WHITE,"$1,094.05 ",3,10,Debit Card,3
+ORD-1022,31/12/23,Monitor,ELECTRONICS,South,Alice Johnson,$837.24 ,1,0,Debit,5
+ORD-1356,23/07/23,Laptop,Accessories,East ,Alice Johnson,$590.10 ,9,20,Debit Card,1
+ORD-1733,17-10-2023,laptop,ELECTRONICS,WEST,,$39.12 ,7,0,Cash,5
+ORD-2037,31/03/24,Laptop,ACCESSORIES,SOUTH,Bob Smith,$606.99 ,11,10,paypal,3
+ORD-2140,3/1/23,keyboard,Electronics,WEST,alice johnson,$366.40 ,22,5,paypal,3
+ORD-1611,5-Apr-24,Keyboard,electronics,north,dana lee,$928.21 ,24,15,Credit Card,4
+ORD-2047,10/3/24,usb hub,accessories,SOUTH,Carol White,"$1,137.98 ",8,10,PayPal,5
+ORD-1340,21-10-2024,laptop,electronics,SOUTH,CAROL WHITE,"$1,052.96 ",14,10,Debit,
+ORD-1431,29-09-2023,usb hub,ACCESSORIES,WEST,,$253.50 ,22,0,Credit Card,1
+ORD-1825,4/13/23,Keyboard,ELECTRONICS,South,Alice Johnson,$959.08 ,13,0,debit card,3
+ORD-1217,27/08/23,Webcam,electronics,East ,dana lee,$684.14 ,9,0,CREDIT CARD,
+ORD-1203,4-Jan-24,Headphones,Accessories,North,bob smith,$459.08 ,5,0,,3
+ORD-2197,4/22/24,webcam,Accessories, East,,$946.03 ,12,10,debit card,1
+ORD-1683,7/6/24,keyboard,Accessories,North,bob smith,"$1,060.68 ",19,25,PayPal,1
+ORD-1093,25-11-2023,Webcam,Electronics,WEST,bob smith,$250.26 ,1,15,Debit,2
+ORD-1843,21-09-2023,Monitor,ACCESSORIES,north,,$791.59 ,14,5,Debit,3
+ORD-1068,27/07/23,Laptop,ACCESSORIES, East,bob smith,$456.07 ,21,0,Debit Card,3
+ORD-1946,7/1/24,usb hub,accessories,NORTH,alice johnson,$755.98 ,11,5,Credit Card,5
+ORD-1284,21-Dec-24,Monitor,electronics,south ,bob smith,$574.89 ,17,0,,4
+ORD-1696,28-05-2024,Monitor,Accessories,SOUTH,Bob Smith,$801.70 ,17,20,credit card,1
+ORD-1085,10/21/24,Monitor,ELECTRONICS,SOUTH,alice johnson,"$1,081.77 ",23,0,paypal,4
+ORD-1434,14/08/23,Webcam,ACCESSORIES,West,Carol White,459.65,8,20,CREDIT CARD,4
+ORD-2191,28/09/24,usb hub,ACCESSORIES,North,Alice Johnson,"$1,241.01 ",17,10,PayPal,5
+ORD-1153,28-Feb-24,webcam,accessories,south ,bob smith,$746.52 ,12,10,,5
+ORD-1075,11-Apr-23,keyboard,Electronics,north,alice johnson,889.38,17,10,,4
+ORD-2171,14-Oct-23,keyboard,electronics,East ,Carol White,$968.32 ,5,0,Debit Card,2
+ORD-1789,27-10-2023,usb hub,Electronics, East,Alice Johnson,$595.90 ,10,10,credit card,5
+ORD-1580,8/9/23,Webcam,accessories,North,dana lee,$471.05 ,15,10,Debit Card,4
+ORD-1446,,headphones,Electronics,SOUTH,alice johnson,$418.61 ,6,0,PAYPAL,3
+ORD-1703,10/9/23,Monitor,Accessories, East,Alice Johnson,541.66,17,0,Debit Card,4
+ORD-1188,24-Jun-24,usb hub,accessories,North,,$78.48 ,6,132,Debit,5
+ORD-1271,4/21/24,webcam,ACCESSORIES,south ,Alice Johnson,"$1,486.58 ",7,20,Debit,3
+ORD-1236,29-01-2024,keyboard,Electronics,East ,bob smith,"$1,462.13 ",17,5,Debit Card,99
+ORD-1487,20-Mar-23,Monitor,Accessories,East ,Carol White,$343.65 ,22,0,Cash,2
+ORD-2188,23-09-2024,usb hub,ACCESSORIES,East,Bob Smith,163.99,7,5,Cash,5
+ORD-1559,25-Mar-24,usb hub,Electronics,WEST,Dana Lee,$156.52 ,24,0,PayPal,3
+ORD-1117,12/12/23,keyboard,Accessories,East,Alice Johnson,$440.72 ,-16,10,PayPal,
+ORD-1637,10/2/24,usb hub,ELECTRONICS,north,,277.25,5,10,PAYPAL,1
+ORD-2105,2/6/23,Monitor,Electronics,Central,Alice Johnson,$102.34 ,9,10,Credit Card,2
+ORD-1801,5/27/24,Headphones,ELECTRONICS,West,bob smith,$892.49 ,17,0,,3
+ORD-1750,8/20/23,Monitor,ELECTRONICS,north,alice johnson,"$1,166.83 ",5,5,PAYPAL,5
+ORD-1512,5/29/24,Headphones,electronics,WEST,alice johnson,851.58,11,5,,4
+ORD-1633,2/15/23,Mouse,Accessories,Central,bob smith,"$1,487.73 ",15,0,Debit Card,5
+ORD-2000,17-Sep-23,keyboard,Accessories,south ,Alice Johnson,$157.65 ,23,10,,5
+ORD-1831,7/9/24,headphones,electronics,north,Carol White,$630.59 ,20,0,Debit,
+ORD-1902,23/03/24,headphones,Accessories,Central,Alice Johnson,$445.88 ,12,0,Debit,4
+ORD-1126,11/12/23,Laptop,ELECTRONICS,East,bob smith,$991.53 ,9,0,PayPal,2
+ORD-1790,2/7/24,webcam,accessories,East,Alice Johnson,$973.00 ,4,15,Debit,-1
+ORD-1116,2/14/23,webcam,electronics,north,Carol White,1485.67,10,5,Cash,2
+ORD-1473,25-Oct-24,webcam,accessories,south ,Carol White,$193.22 ,20,5,,4
+ORD-1740,27-03-2024,usb hub,accessories,South,,"$1,341.12 ",21,0,debit card,
+ORD-2039,8/12/23,usb hub,electronics,East ,bob smith,$648.27 ,15,5,PAYPAL,5
+ORD-1057,10/13/23,Mouse,Accessories, East,Dana Lee,$514.88 ,5,0,CREDIT CARD,
+ORD-1603,6/20/24,headphones,Electronics,NORTH,bob smith,$525.08 ,12,25,,5
+ORD-1786,2/26/24,LAPTOP,ELECTRONICS,WEST,CAROL WHITE,$300.97 ,16,20,PAYPAL,99
+ORD-1830,12/12/24,Webcam,ACCESSORIES,South,Bob Smith,$991.00 ,9,5,,5
+ORD-1119,29-Apr-23,Keyboard,Electronics,south ,bob smith,$850.49 ,8,100,Cash,4
+ORD-1656,11/14/23,keyboard,Electronics,south ,bob smith,$912.90 ,13,0,CREDIT CARD,5
+ORD-1980,1/12/24,Keyboard,Accessories,West,Alice Johnson,$540.35 ,24,0,Debit,1
+ORD-1974,12/10/24,keyboard,ELECTRONICS,East,CAROL WHITE,"$1,317.77 ",3,0,CASH,4
+ORD-1105,20/10/23,Headphones,ACCESSORIES,WEST,Carol White,"$1,282.43 ",8,5,CASH,5
+ORD-1635,4/22/24,usb hub,electronics,East ,CAROL WHITE,"$1,275.23 ",16,165,Credit Card,3
+ORD-1369,4/28/24,webcam,Accessories,north,Carol White,$126.60 ,20,0,debit card,99
+ORD-1268,15-Oct-23,Monitor,Accessories,WEST,alice johnson,$799.13 ,7,0,PAYPAL,2
+ORD-1655,17-Dec-23,laptop,electronics,East ,,"$1,085.46 ",3,0,debit card,2
+ORD-1819,10/27/23,Keyboard,Electronics,west,dana lee,"$1,213.30 ",22,5,debit card,2
+ORD-1822,4/3/23,Headphones,ELECTRONICS,East,dana lee,$171.39 ,14,0,CASH,4
+ORD-1046,10-Mar-23,Keyboard,ACCESSORIES,North,,$647.57 ,8,10,Debit Card,1
+ORD-1349,6/20/23,usb hub,ELECTRONICS,South,bob smith,$674.13 ,8,0,credit card,5
+ORD-1773,8/29/23,Webcam,Accessories,South,,$336.81 ,7,5,CREDIT CARD,4
+ORD-1195,5/20/24,Keyboard,ACCESSORIES,SOUTH,Dana Lee,$434.82 ,13,5,,5
+ORD-1102,4/6/23,usb hub,electronics,west,bob smith,997.73,16,0,PayPal,3
+ORD-1004,17/11/24,Monitor,electronics,East ,dana lee,"$1,250.68 ",11,0,paypal,2
+ORD-1619,18/06/23,webcam,ELECTRONICS,WEST,dana lee,$382.23 ,11,5,Debit Card,2
+ORD-1571,8/6/23,usb hub,accessories,South,dana lee,$571.71 ,23,10,Debit,5
+ORD-1052,7-May-24,Keyboard,Accessories,South,Carol White,$792.37 ,6,0,Credit Card,2
+ORD-1263,6/28/24,LAPTOP,ELECTRONICS,West,,"$1,010.38 ",5,20,debit card,5
+ORD-2121,8/18/24,Laptop,ACCESSORIES,East,bob smith,$246.66 ,7,107,,3
+ORD-1443,12/26/24,webcam,ACCESSORIES,East ,bob smith,"$1,158.20 ",14,10,CASH,2
+ORD-2174,6/7/24,laptop,Electronics,west,Carol White,"$1,083.69 ",22,0,Cash,2
+ORD-1782,31-10-2023,Monitor,electronics,West,dana lee,$671.58 ,22,20,Debit Card,99
+ORD-1837,9/24/23,Mouse,accessories,NORTH,alice johnson,$966.65 ,11,20,PAYPAL,3
+ORD-2034,1-Jul-23,Webcam,Accessories,West,Alice Johnson,$248.80 ,12,0,CASH,99
+ORD-1691,9/25/24,usb hub,electronics, East,Carol White,417.27,1,15,,2
+ORD-1304,5/23/23,keyboard,accessories,South,bob smith,$459.66 ,17,10,PAYPAL,3
+ORD-1341,11/29/24,usb hub,Accessories,north,Bob Smith,918.93,21,10,CASH,1
+ORD-1917,8/10/23,Laptop,electronics,south ,dana lee,1050.61,21,5,Credit Card,4
+ORD-1313,6/20/23,Webcam,Electronics,West,dana lee,173.13,2,10,Debit,1
+ORD-1149,7/2/24,webcam,Accessories,East ,Dana Lee,722.81,9,10,PayPal,5
+ORD-1124,8/25/23,usb hub,Accessories,West,dana lee,$577.28 ,20,0,Debit Card,3
+ORD-2091,30-01-2023,Laptop,Accessories,Central,bob smith,"$1,006.61 ",11,10,debit card,2
+ORD-1574,20-Jun-24,LAPTOP,ACCESSORIES,SOUTH,Bob Smith,$187.95 ,12,5,paypal,2
+ORD-1697,8/1/23,LAPTOP,accessories,north,Alice Johnson,"$1,303.97 ",23,25,credit card,4
+ORD-1664,12/4/24,Monitor,accessories,west,,"$1,139.79 ",18,0,Debit Card,5
+ORD-1050,22-Dec-23,usb hub,accessories,north,Alice Johnson,$477.69 ,5,0,Debit Card,2
+ORD-1910,21-04-2023,keyboard,Electronics,North,bob smith,935.8,17,0,PayPal,2
+ORD-1726,14-06-2024,usb hub,accessories,North,bob smith,$896.53 ,3,15,debit card,2
+ORD-1799,10-Jun-23,keyboard,Electronics,Central,,$865.45 ,13,10,Credit Card,3
+ORD-1833,26-08-2024,Keyboard,ACCESSORIES, East,dana lee,"$1,398.23 ",22,10,Debit,
+ORD-1353,18-Nov-23,Laptop,accessories,south ,Bob Smith,$248.00 ,9,25,debit card,4
+ORD-2181,12/15/23,Monitor,electronics,WEST,Dana Lee,$763.23 ,8,10,PayPal,5
+ORD-1142,11/12/23,Mouse,accessories,Central,CAROL WHITE,$662.37 ,6,0,CASH,4
+ORD-1470,7-Jul-24,headphones,electronics,East,,$660.00 ,-10,10,Debit,4
+ORD-1653,7/9/23,Headphones,accessories,West,Dana Lee,1338.63,11,10,PayPal,99
+ORD-1399,19/03/23,laptop,accessories,west,Alice Johnson,$814.80 ,8,5,debit card,5
+ORD-1046,29-Apr-23,usb hub,ACCESSORIES, East,Alice Johnson,"$1,053.80 ",15,5,CREDIT CARD,
+ORD-1968,6-Nov-23,keyboard,accessories,north,Carol White,$542.93 ,4,0,PAYPAL,2
+ORD-1320,27/11/24,Laptop,ACCESSORIES,west,bob smith,1000.3,3,10,credit card,5
+ORD-1019,24-01-2023,Headphones,ACCESSORIES,East ,Carol White,"$1,248.35 ",3,0,Debit Card,-1
+ORD-1684,27-02-2023,Mouse,ELECTRONICS,WEST,dana lee,USD 96.06,1,5,PayPal,5
+ORD-1035,4/12/23,Webcam,Accessories, East,Alice Johnson,USD 188.39,23,5,paypal,3
+ORD-1824,25-03-2024,Webcam,electronics,south ,,$886.50 ,5,20,Credit Card,4
+ORD-1505,1/1/24,usb hub,electronics,SOUTH,Alice Johnson,1121.95,9,10,CASH,
+ORD-1827,2-Jun-23,Monitor,Accessories,East ,Carol White,"$1,324.49 ",1,15,Credit Card,5
+ORD-2099,4/17/24,Webcam,Accessories,West,CAROL WHITE,$275.79 ,9,5,paypal,3
+ORD-1407,30/04/23,LAPTOP,ELECTRONICS,WEST,bob smith,380.82,16,5,,5
+ORD-1817,3/6/23,Headphones,ELECTRONICS,South,bob smith,$129.61 ,16,0,Cash,2
+ORD-1866,22/09/24,webcam,accessories,South,,"$1,315.00 ",2,0,PAYPAL,3
+ORD-1537,3-Dec-23,Laptop,ACCESSORIES,North,Alice Johnson,$383.25 ,21,155,credit card,5
+ORD-1758,7/14/23,Monitor,Electronics,SOUTH,,1110.32,1,5,Debit Card,4
+ORD-2097,29-11-2024,Webcam,ACCESSORIES, East,bob smith,932.47,6,20,Cash,4
+ORD-1944,17-Nov-24,usb hub,accessories,SOUTH,,$547.72 ,6,10,CREDIT CARD,1
+ORD-1038,16-12-2023,Keyboard,accessories,East ,alice johnson,1032.27,15,15,PayPal,5
+ORD-1175,4/19/24,Webcam,electronics,SOUTH,Alice Johnson,$449.57 ,22,0,credit card,4
+ORD-1245,4/2/24,webcam,ELECTRONICS,South,CAROL WHITE,"$1,426.23 ",17,0,CASH,4
+ORD-1810,2/2/23,Webcam,Accessories,SOUTH,bob smith,"$1,242.98 ",3,10,Cash,4
+ORD-2113,12/16/23,laptop,electronics,west,Carol White,"$1,106.78 ",4,25,PAYPAL,2
+ORD-2018,23-03-2023,Headphones,ELECTRONICS,north,dana lee,1025.87,12,15,Credit Card,4
+ORD-1040,26-May-23,usb hub,ELECTRONICS,south ,Alice Johnson,"$1,428.58 ",6,20,PAYPAL,5
+ORD-1838,1/28/23,Monitor,ACCESSORIES,SOUTH,Dana Lee,$282.11 ,14,25,debit card,4
+ORD-1489,5/9/23,laptop,electronics, East,Carol White,$997.75 ,6,0,Debit,3
+ORD-1154,16-Jul-24,headphones,ELECTRONICS,SOUTH,Bob Smith,"$1,310.63 ",24,0,credit card,4
+ORD-1638,3/7/24,laptop,ELECTRONICS,west,,$337.17 ,3,134,CREDIT CARD,5
+ORD-1662,20/09/23,keyboard,accessories,NORTH,bob smith,"$1,231.42 ",12,0,credit card,3
+ORD-1853,5/5/24,headphones,Accessories,North,alice johnson,"$1,191.00 ",1,0,CREDIT CARD,2
+ORD-1007,6/11/24,Keyboard,ACCESSORIES,East,CAROL WHITE,$712.96 ,17,0,debit card,3
+ORD-1625,9/28/24,Headphones,electronics,WEST,bob smith,$213.60 ,14,0,PayPal,5
+ORD-2155,20/11/23,Mouse,accessories,NORTH,alice johnson,$977.00 ,9,169,Credit Card,4
+ORD-1685,19-Oct-23,Monitor,accessories,East ,Bob Smith,"$1,353.34 ",18,5,,
+ORD-2045,11/6/23,Laptop,accessories,North,CAROL WHITE,$224.08 ,20,0,PAYPAL,5
+ORD-1923,9/10/23,headphones,electronics,Central,dana lee,$972.53 ,17,0,Debit,5
+ORD-1569,11/1/24,webcam,ACCESSORIES,west,CAROL WHITE,"$1,046.93 ",8,0,debit card,5
+ORD-2172,15/10/24,Headphones,accessories,West,Dana Lee,$950.90 ,10,5,PayPal,5
+ORD-1734,7/11/24,laptop,ELECTRONICS,SOUTH,bob smith,$758.38 ,8,0,CREDIT CARD,5
+ORD-1792,1/25/24,Laptop,Accessories,North,bob smith,323.62,17,0,,3
+ORD-1017,23-10-2024,usb hub,Electronics,South,Alice Johnson,"$1,404.69 ",7,0,PAYPAL,5
+ORD-1127,9-Feb-24,Monitor,ELECTRONICS,Central,Carol White,$848.37 ,19,15,paypal,3
+ORD-1023,22-11-2023,webcam,ACCESSORIES,West,Alice Johnson,"$1,499.11 ",7,0,PAYPAL,4
+ORD-1255,19-11-2024,usb hub,electronics,West,bob smith,$356.49 ,19,20,Credit Card,2
+ORD-1997,3-Sep-24,usb hub,accessories,West,Alice Johnson,"$1,241.32 ",22,0,Debit,4
+ORD-1537,3-Dec-23,Laptop,ACCESSORIES,North,Alice Johnson,$383.25 ,21,155,credit card,5
+ORD-1190,,usb hub,Accessories,west,CAROL WHITE,"$1,389.26 ",11,0,Credit Card,99
+ORD-1115,6/5/24,LAPTOP,electronics,South,Carol White,$558.17 ,12,0,,5
+ORD-2033,18-Nov-24,Monitor,accessories,East ,Bob Smith,$523.52 ,2,0,PAYPAL,99
+ORD-1940,5/9/23,Laptop,ACCESSORIES,north,bob smith,$495.88 ,21,15,Debit,4
+ORD-1606,18/03/24,webcam,ACCESSORIES,NORTH,Dana Lee,$695.31 ,4,5,CREDIT CARD,3
+ORD-1180,21-10-2023,Laptop,Electronics,South,,$496.09 ,16,5,debit card,5
+ORD-1301,11/24/23,Headphones,Accessories,West,Carol White,408.27,6,15,Debit,99
+ORD-1496,6/16/23,Headphones,ACCESSORIES,North,Carol White,$763.53 ,11,0,CASH,4
+ORD-1348,2/25/23,keyboard,ACCESSORIES,West,Dana Lee,$284.81 ,22,15,Cash,2
+ORD-2149,5-Mar-23,usb hub,ACCESSORIES,East,bob smith,90.98,15,15,debit card,1
+ORD-1036,3/8/24,usb hub,accessories,East,Bob Smith,$478.51 ,9,0,Debit,99
+ORD-1744,16-01-2024,Keyboard,Electronics,SOUTH,Bob Smith,$612.62 ,17,25,PayPal,5
+ORD-2110,8-Jan-23,Monitor,ACCESSORIES,SOUTH,bob smith,$30.93 ,5,0,CREDIT CARD,4
+ORD-2011,4-Jun-23,LAPTOP,ELECTRONICS, East,Dana Lee,206.83,17,10,CASH,-1
+ORD-1517,7-Apr-24,usb hub,ELECTRONICS,South,bob smith,"$1,295.36 ",11,15,PAYPAL,4
+ORD-1372,29-Jul-24,LAPTOP,ACCESSORIES,East ,bob smith,"$1,404.16 ",16,10,CASH,3
+ORD-1045,1/28/24,laptop,ACCESSORIES,East,bob smith,$977.35 ,17,0,Cash,3
+ORD-1476,23/07/23,Keyboard,accessories,WEST,bob smith,$669.36 ,23,0,credit card,4
+ORD-1157,4/1/23,usb hub,accessories,West,bob smith,$654.44 ,11,15,credit card,
+ORD-2075,12/5/23,keyboard,Accessories,East,Alice Johnson,"$1,481.57 ",12,0,CREDIT CARD,99
+ORD-1171,8/15/23,Laptop,Accessories,East ,dana lee,"$1,333.20 ",5,0,CASH,3
+ORD-1016,24-Mar-24,headphones,ACCESSORIES,WEST,Dana Lee,353.01,22,0,PayPal,4
+ORD-1511,18/09/23,Headphones,Accessories,South,bob smith,$361.47 ,5,20,paypal,2
+ORD-1048,9/8/23,Headphones,electronics, East,CAROL WHITE,$652.80 ,14,0,CREDIT CARD,4
+ORD-1191,5/27/23,headphones,accessories,NORTH,bob smith,1456.35,5,10,CASH,1
+ORD-1546,11/24/23,keyboard,ACCESSORIES,south ,Alice Johnson,$857.29 ,23,5,credit card,
+ORD-1515,24-Apr-24,Keyboard,accessories,west,bob smith,"$1,239.58 ",22,0,paypal,99
+ORD-1658,7/2/23,usb hub,Accessories,Central,alice johnson,"$1,130.33 ",7,15,Credit Card,1
+ORD-1992,27/08/23,usb hub,electronics,West,,$659.71 ,16,5,Debit,2
+ORD-1828,5/10/24,keyboard,electronics,WEST,bob smith,$489.01 ,8,112,Credit Card,1
+ORD-2032,1/4/24,headphones,accessories,Central,dana lee,$38.53 ,18,20,paypal,4
+ORD-1480,12/31/23,usb hub,accessories,East ,Alice Johnson,$332.89 ,20,0,CASH,99
+ORD-1959,24-Oct-23,headphones,ELECTRONICS,NORTH,,$779.98 ,5,0,,99
+ORD-2157,11/4/24,Headphones,electronics,SOUTH,bob smith,"$1,007.06 ",24,0,credit card,5
+ORD-1283,2/5/24,webcam,accessories,South,Carol White,919.32,14,0,Cash,-1
+ORD-2058,24/07/24,Monitor,Accessories,South,Alice Johnson,$396.44 ,15,25,,99
+ORD-1797,11/6/24,Monitor,Electronics,NORTH,dana lee,"$1,202.41 ",22,0,PayPal,3
+ORD-1993,19-11-2024,LAPTOP,ACCESSORIES,west,bob smith,$460.01 ,7,0,CASH,4
+ORD-1225,11/28/24,usb hub,accessories,WEST,CAROL WHITE,"$1,423.81 ",18,5,paypal,4
+ORD-1026,30/01/24,usb hub,Electronics,west,alice johnson,$92.53 ,1,0,Debit Card,5
+ORD-1282,28-Mar-23,laptop,electronics,WEST,,$500.31 ,12,0,Credit Card,4
+ORD-2178,10/23/23,Webcam,ELECTRONICS,NORTH,alice johnson,$361.50 ,10,5,credit card,1
+ORD-1437,10/15/24,Monitor,accessories,Central,dana lee,"$1,359.36 ",6,10,CASH,5
+ORD-2196,8/11/23,LAPTOP,ELECTRONICS,East,,182.65,12,0,CREDIT CARD,5
+ORD-1364,13/11/24,Monitor,accessories,East ,bob smith,$380.88 ,14,20,Credit Card,3
+ORD-1229,26-08-2023,usb hub,Accessories,North,dana lee,$113.01 ,5,0,PAYPAL,1
+ORD-1037,9/21/23,webcam,ELECTRONICS,East,,$724.25 ,19,25,Debit Card,2
+ORD-1669,6/21/23,LAPTOP,Accessories,south ,Dana Lee,"$1,475.23 ",16,10,Debit,2
+ORD-1749,10/29/24,LAPTOP,Accessories,north,Alice Johnson,$583.64 ,24,15,paypal,5
+ORD-1664,12/4/24,Monitor,accessories,west,,"$1,139.79 ",18,0,Debit Card,5
+ORD-1374,4/5/23,laptop,ACCESSORIES,west,Carol White,"$1,404.04 ",8,5,PAYPAL,4
+ORD-1469,14-05-2024,webcam,electronics,North,,"$1,265.54 ",14,0,credit card,4
+ORD-1882,10/23/24,Monitor,ELECTRONICS,west,bob smith,$57.52 ,24,20,Debit,5
+ORD-2053,15-08-2023,LAPTOP,accessories,SOUTH,Bob Smith,"$1,477.05 ",18,5,paypal,5
+ORD-1239,5/10/23,Headphones,ACCESSORIES,north,,$248.97 ,24,5,CASH,4
+ORD-1687,1/18/24,Headphones,accessories,south ,,$834.52 ,1,25,,3
+ORD-1032,10/5/23,Monitor,Accessories,North,alice johnson,$311.57 ,18,20,PAYPAL,99
+ORD-1639,7/14/24,Monitor,ACCESSORIES,SOUTH,Bob Smith,$678.53 ,2,0,Cash,99
+ORD-2067,7/2/23,Webcam,ACCESSORIES, East,Alice Johnson,$749.04 ,6,15,paypal,2
+ORD-1194,11/19/24,Headphones,Electronics,East ,alice johnson,$394.25 ,3,0,Debit Card,5
+ORD-2134,7/21/23,Keyboard,electronics,north,Alice Johnson,"$1,441.98 ",7,15,debit card,4
+ORD-2142,5/9/24,keyboard,Accessories,South,Bob Smith,1456.57,10,10,Debit,5
+ORD-2007,6/19/23,webcam,ELECTRONICS,East,bob smith,"$1,187.76 ",7,10,credit card,5
+ORD-1503,19-Jul-24,usb hub,accessories,south ,Carol White,"$1,342.48 ",12,10,Cash,
+ORD-1915,10/9/24,Monitor,ELECTRONICS, East,bob smith,USD 799.9,12,10,CREDIT CARD,3
+ORD-2029,5/23/24,Mouse,electronics,East ,Carol White,"$1,425.62 ",11,20,debit card,3
+ORD-1029,19/10/24,Headphones,ELECTRONICS,Central,CAROL WHITE,379.36,24,0,PayPal,
+ORD-2116,7/8/24,LAPTOP,ELECTRONICS,Central,alice johnson,"$1,348.24 ",4,0,PayPal,3
+ORD-1800,20-Feb-24,usb hub,electronics,west,Alice Johnson,$356.43 ,14,0,debit card,99
+ORD-1579,7/18/23,usb hub,electronics,west,,"$1,122.81 ",20,0,PAYPAL,2
+ORD-1160,12/25/24,keyboard,ELECTRONICS,WEST,Alice Johnson,1134.3,18,0,Debit Card,5
+ORD-2165,26/03/24,LAPTOP,ELECTRONICS, East,Bob Smith,$571.53 ,13,0,CREDIT CARD,99
+ORD-1680,12/13/24,Mouse,ELECTRONICS,north,Dana Lee,"$1,336.62 ",18,25,Debit Card,4
+ORD-1956,25-Jun-23,Monitor,accessories,west,bob smith,"$1,338.69 ",23,0,,2
+ORD-2159,6/5/24,usb hub,Accessories,NORTH,CAROL WHITE,$734.42 ,23,0,,4
+ORD-1162,4-Mar-23,Keyboard,ELECTRONICS,NORTH,Alice Johnson,$962.47 ,4,0,paypal,5
+ORD-1821,31-Oct-23,keyboard,ELECTRONICS,East,Alice Johnson,$316.87 ,14,10,CREDIT CARD,4
+ORD-1705,29/01/24,webcam,accessories,South,alice johnson,$913.68 ,24,5,CASH,4
+ORD-2046,8/2/24,Monitor,Accessories,West,bob smith,"$1,169.09 ",24,10,CASH,5
+ORD-1877,9/12/23,Mouse,ACCESSORIES,SOUTH,Dana Lee,334.56,24,20,Debit,4
+ORD-1895,27-Jun-23,Mouse,ACCESSORIES,WEST,Dana Lee,"$1,309.52 ",24,20,paypal,1
+ORD-1913,10/14/23,headphones,Accessories,NORTH,,$703.43 ,14,0,credit card,2
+ORD-1916,1/15/24,Mouse,ELECTRONICS,North,bob smith,$826.89 ,1,157,CASH,3
+ORD-1152,18/01/23,Monitor,Accessories, East,Dana Lee,"$1,498.25 ",21,20,PAYPAL,
+ORD-2125,,usb hub,accessories,NORTH,alice johnson,$543.45 ,11,15,Debit,1
+ORD-2043,7/28/24,usb hub,accessories,south ,Alice Johnson,$955.28 ,24,0,credit card,5
+ORD-1509,12/18/24,Laptop,ELECTRONICS,East,,1395.52,2,25,debit card,
+ORD-1111,1-Jan-24,usb hub,electronics,WEST,CAROL WHITE,$484.30 ,8,0,CASH,3
+ORD-1226,4/7/24,Mouse,ELECTRONICS,South,,1492.55,22,0,PayPal,99
+ORD-2033,18-Nov-24,Monitor,accessories,East ,Bob Smith,$523.52 ,2,0,PAYPAL,99
+ORD-1851,5-Nov-24,LAPTOP,Electronics,Central,Dana Lee,$281.60 ,9,15,credit card,5
+ORD-1103,7/13/24,LAPTOP,Electronics,North,Bob Smith,$432.44 ,4,20,CASH,3
+ORD-1421,25-Jan-24,usb hub,accessories,SOUTH,dana lee,$522.93 ,-19,5,Debit Card,99
+ORD-1419,9/17/23,Monitor,Electronics,West,Dana Lee,$332.41 ,14,0,PayPal,3
+ORD-1967,11-Mar-23,Headphones,accessories,WEST,bob smith,96.45,23,0,CREDIT CARD,2
+ORD-1624,5-Oct-24,usb hub,Electronics,SOUTH,,"$1,061.54 ",4,15,CREDIT CARD,2
+ORD-1586,25-09-2023,Monitor,Electronics,north,Alice Johnson,$570.65 ,19,20,PAYPAL,1
+ORD-2089,1/21/24,Laptop,accessories,Central,Alice Johnson,$654.52 ,4,0,PAYPAL,4
+ORD-1053,1/3/24,Monitor,Electronics,East,bob smith,594.92,11,5,CASH,
+ORD-1151,5/14/23,headphones,electronics,East,Bob Smith,$205.02 ,7,0,paypal,4
+ORD-1403,5/11/23,Monitor,accessories,west,Alice Johnson,$237.31 ,24,5,CASH,4
+ORD-1207,7-Sep-23,Laptop,ACCESSORIES,NORTH,Carol White,$68.93 ,23,110,Debit Card,3
+ORD-2163,18/05/23,usb hub,Electronics,west,,$486.19 ,6,5,Cash,5
+ORD-1005,4/1/24,usb hub,Electronics,WEST,CAROL WHITE,$999.82 ,19,15,Debit,4
+ORD-2014,5/18/23,laptop,electronics, East,Carol White,1160.31,12,0,PAYPAL,3
+ORD-1452,17-Apr-24,laptop,ACCESSORIES,Central,Alice Johnson,$961.49 ,23,0,Credit Card,3
+ORD-1253,31-03-2023,usb hub,electronics,NORTH,Dana Lee,$257.32 ,5,15,paypal,1
+ORD-1896,1/2/23,usb hub,ELECTRONICS,WEST,Dana Lee,$635.52 ,18,0,Debit Card,3
+ORD-2077,11/20/23,Headphones,electronics,East,alice johnson,$871.57 ,13,0,credit card,-1
+ORD-1880,1/11/23,Mouse,Accessories,WEST,,"$1,370.25 ",8,20,PAYPAL,1
+ORD-1043,7/28/23,webcam,accessories,East,alice johnson,$407.73 ,15,20,Credit Card,4
+ORD-1623,12/9/23,headphones,accessories,west,alice johnson,1056.05,11,10,CREDIT CARD,4
+ORD-1345,1/20/23,LAPTOP,Electronics,SOUTH,CAROL WHITE,$254.91 ,12,15,,4
+ORD-2100,28/03/23,Keyboard,electronics,south ,Alice Johnson,128.77,8,0,CREDIT CARD,4
+ORD-1262,24-Feb-24,laptop,Electronics,south ,dana lee,"$1,228.56 ",17,15,CREDIT CARD,2
+ORD-1150,31-May-23,Webcam,ACCESSORIES,East ,CAROL WHITE,"$1,232.62 ",11,0,Credit Card,3
+ORD-1472,8/2/24,Headphones,electronics,NORTH,CAROL WHITE,"$1,182.35 ",19,0,CREDIT CARD,1
+ORD-1640,6/7/24,webcam,Electronics,North,Bob Smith,$395.65 ,13,0,CASH,5
+ORD-2043,7/28/24,usb hub,accessories,south ,Alice Johnson,$955.28 ,24,0,credit card,5
+ORD-2158,21/06/24,Monitor,accessories,South,alice johnson,"$1,014.50 ",8,5,,-1
+ORD-1550,3-Oct-24,LAPTOP,ACCESSORIES,West,,"$1,104.92 ",15,0,Cash,2
+ORD-1928,9/10/23,usb hub,ELECTRONICS, East,Dana Lee,$47.62 ,22,0,CASH,2
+ORD-1488,11/28/23,Webcam,ACCESSORIES, East,Alice Johnson,"$1,283.86 ",1,0,Debit Card,4
+ORD-2109,20-Jun-24,webcam,Electronics, East,,"$1,314.39 ",14,5,PayPal,3
+ORD-1146,5/21/23,Keyboard,ELECTRONICS,NORTH,CAROL WHITE,$950.28 ,21,10,PayPal,4
+ORD-1402,9/5/23,Webcam,accessories,SOUTH,,$409.12 ,19,20,PayPal,3
+ORD-1954,,LAPTOP,ACCESSORIES,west,Bob Smith,$571.35 ,8,0,credit card,4
+ORD-2153,13-06-2024,Laptop,ELECTRONICS,South,Bob Smith,$855.25 ,15,10,PAYPAL,4
+ORD-1659,,laptop,Electronics,SOUTH,Bob Smith,"$1,190.83 ",15,10,Credit Card,4
+ORD-1463,7/5/24,Laptop,ACCESSORIES,south ,bob smith,83.8,17,0,debit card,
+ORD-1186,,headphones,ACCESSORIES,East,Dana Lee,$672.58 ,15,0,Credit Card,4
+ORD-1608,11/9/23,Laptop,ELECTRONICS,North,CAROL WHITE,$301.28 ,17,5,CREDIT CARD,4
+ORD-1143,29-Apr-23,usb hub,ACCESSORIES,West,bob smith,$350.67 ,11,0,PAYPAL,4
+ORD-1751,4/14/23,usb hub,Accessories,NORTH,alice johnson,$558.10 ,11,25,Debit,3
+ORD-1981,11/23/23,Keyboard,electronics,South,alice johnson,$462.65 ,10,25,Debit,
+ORD-1197,,LAPTOP,Accessories,South,dana lee,$426.65 ,11,0,Debit,3
+ORD-1883,,Monitor,ACCESSORIES,north,Alice Johnson,"$1,459.72 ",-12,20,CREDIT CARD,2
+ORD-1279,2/6/23,Laptop,accessories,west,bob smith,$488.04 ,13,10,Credit Card,3
+ORD-1293,28-04-2023,laptop,Electronics,East ,Carol White,323.02,21,10,CREDIT CARD,2
+ORD-2117,8/8/23,Keyboard,Electronics,west,dana lee,$218.90 ,17,0,PAYPAL,4
+ORD-1400,15/11/23,LAPTOP,electronics,west,dana lee,$336.70 ,5,10,,4
+ORD-1122,9/20/24,Monitor,ELECTRONICS,west,,USD 1395.19,17,0,Cash,1
+ORD-1202,7-Feb-23,usb hub,ELECTRONICS,South,Bob Smith,$395.66 ,22,5,debit card,2
+ORD-1835,21-07-2024,usb hub,electronics,NORTH,Carol White,$439.17 ,7,25,Credit Card,2
+ORD-1246,5/13/24,usb hub,ELECTRONICS,north,,USD 187.97,11,0,PAYPAL,3
+ORD-2168,8-Sep-23,LAPTOP,electronics,south ,alice johnson,"$1,074.97 ",6,5,CASH,-1
+ORD-1384,3/11/23,LAPTOP,Electronics,East ,Alice Johnson,$801.82 ,22,160,,1
+ORD-1854,5/25/24,usb hub,ELECTRONICS,south ,,$722.11 ,9,160,PAYPAL,5
+ORD-1219,9/26/24,usb hub,Accessories,SOUTH,,452.32,13,0,Debit,3
+ORD-1641,11/6/24,LAPTOP,accessories,South,Dana Lee,$248.28 ,2,20,Debit Card,2
+ORD-1001,1/1/24,webcam,Electronics,west,Dana Lee,"$1,390.87 ",9,15,credit card,4
+ORD-1112,3/12/23,usb hub,electronics,west,bob smith,$489.09 ,6,5,Debit,4
+ORD-1698,11/14/24,Keyboard,Accessories,south ,Carol White,$639.29 ,4,10,credit card,5
+ORD-1951,9/22/24,Webcam,accessories,North,Dana Lee,338.21,9,0,CASH,4
+ORD-2107,9/15/23,Headphones,ELECTRONICS,East,Alice Johnson,"$1,397.98 ",22,15,credit card,5
+ORD-1441,1/4/23,Mouse,Accessories,South,Bob Smith,$887.58 ,8,20,paypal,5
+ORD-1663,10/2/23,laptop,accessories,South,Alice Johnson,$538.81 ,14,0,Debit,4
+ORD-2124,8/25/24,keyboard,ELECTRONICS,south ,CAROL WHITE,$89.33 ,6,0,paypal,5
+ORD-1317,,keyboard,ACCESSORIES,NORTH,Alice Johnson,$714.12 ,22,10,PayPal,3
+ORD-1648,10/28/23,usb hub,Accessories,West,,"$1,365.58 ",24,0,CASH,5
+ORD-1709,5/26/24,Headphones,ACCESSORIES,East ,Alice Johnson,"$1,319.84 ",24,15,credit card,4
+ORD-1972,4-Feb-24,Monitor,Electronics,South,CAROL WHITE,$465.10 ,10,0,PayPal,
+ORD-1627,1-Jun-23,Monitor,Accessories,north,,"$1,140.24 ",13,5,credit card,3
+ORD-1632,27-04-2023,Monitor,ELECTRONICS,south ,Dana Lee,"$1,075.52 ",18,10,debit card,3
+ORD-1636,19-Nov-23,Headphones,ACCESSORIES,NORTH,,$873.09 ,13,0,paypal,2
+ORD-2135,9-Jun-24,Webcam,Accessories, East,dana lee,"$1,102.63 ",4,15,,3
+ORD-1795,20/04/24,Keyboard,electronics,East ,dana lee,"$1,420.36 ",7,0,Debit,3
+ORD-1645,13-08-2023,Monitor,ELECTRONICS,NORTH,Carol White,"$1,499.27 ",-20,0,CREDIT CARD,3
+ORD-2012,,headphones,accessories,south ,Carol White,"$1,212.85 ",11,0,,3
+ORD-1556,28/09/23,keyboard,accessories,East,alice johnson,"$1,156.29 ",3,0,Credit Card,99
+ORD-1681,4/13/23,LAPTOP,electronics,Central,Dana Lee,"$1,364.58 ",9,0,Credit Card,2
+ORD-1577,10/9/24,usb hub,ACCESSORIES,East,Dana Lee,$216.16 ,19,20,Credit Card,2
+ORD-1524,12/18/23,webcam,accessories,East ,Alice Johnson,"$1,428.22 ",22,15,Debit,
+ORD-2059,7/23/23,Keyboard,Electronics,NORTH,Carol White,$789.37 ,20,0,CASH,2
+ORD-1540,9/5/23,Keyboard,ELECTRONICS,North,alice johnson,"$1,373.71 ",23,25,Debit Card,5
+ORD-1748,5/24/24,usb hub,Accessories,Central,dana lee,"$1,424.35 ",12,172,Debit Card,1
+ORD-2138,24-Mar-23,usb hub,ACCESSORIES,North,bob smith,719.31,18,0,Debit,3
+ORD-1484,9/18/24,Laptop,Accessories,south ,alice johnson,$349.43 ,7,25,Debit,5
+ORD-1095,26-11-2024,keyboard,electronics,South,Carol White,$187.23 ,4,10,Debit Card,5
+ORD-2020,25-02-2024,webcam,accessories,North,Alice Johnson,$237.71 ,16,0,Debit Card,4
+ORD-1563,7-Dec-24,usb hub,Electronics,south ,bob smith,$89.20 ,17,10,PayPal,3
+ORD-1742,4/23/24,Headphones,ELECTRONICS,south ,Alice Johnson,$37.01 ,1,0,Debit Card,2
+ORD-1863,6/18/23,usb hub,ACCESSORIES,WEST,Alice Johnson,$843.63 ,10,10,CASH,2
+ORD-1891,26/02/24,LAPTOP,ACCESSORIES,NORTH,alice johnson,$184.94 ,9,0,Cash,4
+ORD-2038,10/25/23,Monitor,ACCESSORIES,WEST,bob smith,$709.31 ,13,10,credit card,5
+ORD-1206,1/4/23,usb hub,Electronics,East ,alice johnson,"$1,489.27 ",-12,5,Debit,3
+ORD-1392,12/27/24,LAPTOP,ELECTRONICS,west,alice johnson,1395.34,5,5,CASH,2
+ORD-1794,7/13/23,Webcam,Electronics,South,bob smith,$277.72 ,11,174,CASH,3
+ORD-1870,10/5/24,keyboard,Accessories,East ,Alice Johnson,$714.73 ,-10,5,credit card,1
+ORD-1397,24-11-2023,usb hub,Electronics,SOUTH,Bob Smith,$186.97 ,15,0,Debit Card,3
+ORD-1766,9/5/23,Webcam,ELECTRONICS,Central,Dana Lee,$835.58 ,9,5,Cash,2
+ORD-2128,1/21/23,usb hub,Electronics,West,bob smith,"$1,482.14 ",7,5,debit card,4
+ORD-2028,11/7/23,usb hub,accessories,south ,bob smith,"$1,195.65 ",2,0,paypal,3
+ORD-1642,22-Jan-24,Laptop,Electronics,WEST,bob smith,$662.88 ,23,10,credit card,4
+ORD-1612,8/25/24,headphones,Electronics,SOUTH,Bob Smith,$728.46 ,3,20,Debit,1
+ORD-1960,27-03-2024,usb hub,Accessories,East ,CAROL WHITE,,6,0,PAYPAL,4
+ORD-1725,5/3/23,LAPTOP,electronics,West,bob smith,$777.88 ,8,0,,5
+ORD-1683,7/6/24,keyboard,Accessories,North,bob smith,"$1,060.68 ",19,25,PayPal,1
+ORD-1098,8/5/24,Monitor,accessories,West,,$236.96 ,4,0,PAYPAL,4
+ORD-1804,21-Apr-23,Mouse,Electronics,North,Dana Lee,$396.12 ,24,0,Debit Card,3
+ORD-1406,11-Dec-23,Monitor,Accessories,East ,Bob Smith,875.49,12,0,PAYPAL,3
+ORD-1502,20-Sep-23,keyboard,Accessories,North,bob smith,,21,10,Debit Card,5
+ORD-2071,28-Jul-24,Webcam,accessories,West,Carol White,$11.54 ,20,10,credit card,99
+ORD-2056,9-Oct-23,headphones,Accessories,NORTH,dana lee,"$1,236.71 ",6,0,CREDIT CARD,
+ORD-1929,24-Feb-24,Laptop,ELECTRONICS,west,Bob Smith,,17,5,PAYPAL,-1
+ORD-1779,6/6/23,usb hub,Electronics,Central,bob smith,$626.67 ,22,10,Debit,3
+ORD-1200,25/09/23,Webcam,Accessories,NORTH,CAROL WHITE,825,11,107,Debit,4
+ORD-1134,30-10-2023,laptop,accessories,North,bob smith,$130.29 ,24,20,debit card,-1
+ORD-2051,,webcam,Electronics,North,,$272.19 ,12,0,PayPal,3
+ORD-1040,5/11/24,Mouse,electronics,North,alice johnson,$53.20 ,22,0,,
+ORD-2017,22-May-23,usb hub,accessories,East,alice johnson,$39.12 ,14,10,credit card,
+ORD-1230,10/10/24,laptop,ELECTRONICS,south ,Carol White,"$1,281.90 ",2,5,CREDIT CARD,2
+ORD-1378,1/5/23,Monitor,accessories,North,dana lee,$705.88 ,15,0,CREDIT CARD,
+ORD-1288,21-Dec-24,Monitor,ELECTRONICS,South,Dana Lee,$633.22 ,4,25,credit card,4
+ORD-1418,6/1/24,webcam,ELECTRONICS,Central,Carol White,"$1,286.53 ",10,197,PAYPAL,99
+ORD-1391,15-Jul-23,keyboard,Accessories,Central,Carol White,"$1,279.27 ",9,5,debit card,3
+ORD-1592,24/09/23,LAPTOP,ELECTRONICS, East,Carol White,$209.90 ,1,15,CASH,3
+ORD-2086,30-Jul-23,keyboard,ACCESSORIES,west,Dana Lee,$586.00 ,11,0,paypal,4
+ORD-1647,6/6/24,Keyboard,ELECTRONICS,WEST,Bob Smith,$196.81 ,-8,0,Debit Card,1
+ORD-1520,8/2/24,Headphones,ELECTRONICS,South,Carol White,,16,20,debit card,2
+ORD-1064,20-Oct-23,Monitor,Electronics,North,CAROL WHITE,$601.43 ,3,0,debit card,3
+ORD-1014,4/5/24,webcam,ACCESSORIES,west,alice johnson,"$1,407.35 ",12,5,debit card,
+ORD-2064,8-Jan-23,webcam,ELECTRONICS,SOUTH,bob smith,"$1,359.66 ",6,0,PAYPAL,5
+ORD-1492,22-Mar-23,usb hub,electronics,South,CAROL WHITE,1278.94,1,10,PAYPAL,2
+ORD-1379,24-Apr-23,Monitor,ELECTRONICS,East ,alice johnson,$39.76 ,23,10,debit card,
+ORD-1187,12-May-24,laptop,ELECTRONICS,SOUTH,bob smith,$312.15 ,4,10,credit card,3
+ORD-1763,29-09-2024,usb hub,Accessories,south ,Alice Johnson,"$1,042.77 ",23,0,CASH,5
+ORD-1216,6/10/24,LAPTOP,electronics,north,dana lee,$688.46 ,24,5,Cash,3
+ORD-1791,,Laptop,electronics,South,Bob Smith,$642.20 ,5,5,Credit Card,-1
+ORD-2076,8/25/24,LAPTOP,ACCESSORIES,South,,$612.89 ,15,20,paypal,2
+ORD-1878,11/20/24,Webcam,ACCESSORIES,East ,bob smith,"$1,087.69 ",2,0,PAYPAL,3
+ORD-1049,3-Oct-24,keyboard,accessories,East,Alice Johnson,$62.28 ,4,20,PayPal,1
+ORD-1719,6-Apr-24,Monitor,accessories, East,bob smith,$91.11 ,22,5,Cash,
+ORD-1295,2/7/24,usb hub,ACCESSORIES,Central,bob smith,$495.97 ,11,10,credit card,5
+ORD-2016,13-Feb-24,Webcam,Electronics,Central,alice johnson,$815.67 ,21,0,CREDIT CARD,2
+ORD-1455,12/5/24,Webcam,Electronics,Central,alice johnson,$630.92 ,3,20,Debit Card,4
+ORD-1815,25-08-2023,laptop,Accessories,NORTH,bob smith,$469.36 ,1,5,,
+ORD-1269,30-May-24,Monitor,ACCESSORIES,SOUTH,bob smith,USD 288.12,19,15,CREDIT CARD,4
+ORD-1995,6/1/23,laptop,Electronics,South,Dana Lee,22.63,23,10,Debit,3
+ORD-1201,27-Nov-23,Monitor,ELECTRONICS, East,Dana Lee,$205.06 ,5,0,Cash,-1
+ORD-1161,9-Apr-24,laptop,Electronics,West,bob smith,$418.45 ,7,0,CASH,1
+ORD-1729,6/19/24,Mouse,electronics,North,Dana Lee,$82.06 ,4,10,CASH,3
+ORD-1401,10/12/23,Monitor,accessories,North,Alice Johnson,1362.04,8,10,credit card,4
+ORD-1702,4/30/23,usb hub,ELECTRONICS,NORTH,alice johnson,$977.72 ,18,0,,3
+ORD-2129,1/25/24,Monitor,ACCESSORIES,north,,$15.42 ,22,0,Debit,-1
+ORD-1565,8/7/24,headphones,Electronics,East,bob smith,$140.55 ,10,5,debit card,5
+ORD-2021,5-Jan-24,Keyboard,Electronics,South,,$44.36 ,-4,0,Debit,2
+ORD-2025,5/17/24,headphones,Accessories,south ,,"$1,187.21 ",22,0,Cash,-1
+ORD-2104,5-Dec-23,headphones,Accessories,south ,CAROL WHITE,$716.53 ,20,0,,3
+ORD-1205,12/7/23,Keyboard,Electronics,NORTH,Dana Lee,$746.94 ,14,10,debit card,5
+ORD-1034,1/15/24,webcam,Accessories,north,Dana Lee,$265.21 ,15,10,CREDIT CARD,4
+ORD-1775,30-Nov-24,keyboard,Accessories, East,bob smith,"$1,245.02 ",1,25,paypal,5
+ORD-1508,5/5/24,usb hub,Accessories,south ,alice johnson,$523.30 ,11,5,Debit,1
+ORD-1189,17-Nov-23,Monitor,Electronics,South,Dana Lee,$163.16 ,21,0,PAYPAL,5
+ORD-1091,1/5/23,usb hub,accessories,west,,"$1,142.41 ",1,20,PayPal,2
+ORD-1897,1/24/23,Headphones,electronics,West,bob smith,$349.40 ,23,0,Debit Card,3
+ORD-1564,,Mouse,accessories,South,CAROL WHITE,"$1,121.94 ",20,0,credit card,5
+ORD-1776,7/1/24,Keyboard,Electronics,Central,dana lee,$85.92 ,20,10,debit card,2
+ORD-1241,12/13/24,headphones,Accessories,north,alice johnson,1021.78,21,0,PayPal,3
+ORD-1013,19-04-2024,LAPTOP,ELECTRONICS,south ,Bob Smith,"$1,388.42 ",24,158,Debit Card,4
+ORD-1315,4/8/23,Webcam,electronics,south ,dana lee,$730.42 ,16,0,CASH,3
+ORD-1600,19-Jul-23,Mouse,Electronics,south ,bob smith,$293.86 ,23,5,CASH,4
+ORD-1387,12/1/24,usb hub,ELECTRONICS, East,Bob Smith,$480.14 ,13,0,credit card,2
+ORD-1166,17-Aug-24,Mouse,accessories,Central,dana lee,"$1,476.43 ",23,10,PayPal,3
+ORD-1840,4/19/24,Laptop,ACCESSORIES,north,Carol White,$464.01 ,11,0,CASH,5
+ORD-1020,31-Dec-23,LAPTOP,ELECTRONICS,NORTH,Bob Smith,,13,0,,5
+ORD-1024,10/4/23,laptop,accessories,West,Alice Johnson,1100.91,4,0,debit card,-1
+ORD-2154,,usb hub,ACCESSORIES,SOUTH,Dana Lee,$230.87 ,2,0,Debit,4
+ORD-1831,7/9/24,headphones,electronics,north,Carol White,$630.59 ,20,0,Debit,
+ORD-1562,10/5/23,LAPTOP,Accessories,SOUTH,Carol White,1453.28,2,15,paypal,2
+ORD-2199,23-09-2024,usb hub,accessories,south ,CAROL WHITE,,2,20,Debit,99
+ORD-1686,23/02/24,usb hub,electronics,NORTH,Alice Johnson,$119.67 ,13,0,Cash,
+ORD-1957,5/1/24,LAPTOP,accessories,West,bob smith,$66.15 ,22,0,PAYPAL,1
+ORD-1189,17-Nov-23,Monitor,Electronics,South,Dana Lee,$163.16 ,21,0,PAYPAL,5
+ORD-1975,,Laptop,ACCESSORIES,south ,alice johnson,$469.92 ,5,0,,4
+ORD-1699,1/7/23,Monitor,electronics,East ,bob smith,$151.36 ,19,10,CASH,5
+ORD-1510,3/9/23,Laptop,Electronics,South,dana lee,192.77,8,0,,
+ORD-2082,12/1/24,keyboard,electronics,North,Alice Johnson,$745.48 ,20,0,Debit Card,4
+ORD-1474,24/04/23,usb hub,Accessories,Central,Dana Lee,$213.53 ,18,10,Debit Card,4
+ORD-1856,1/20/23,Webcam,ACCESSORIES,NORTH,bob smith,$765.07 ,11,0,PAYPAL,4
+ORD-1747,28-Jan-24,Keyboard,Accessories,south ,Dana Lee,$82.90 ,22,5,Cash,
+ORD-1252,4/23/24,Monitor,electronics,Central,dana lee,"$1,289.85 ",-23,0,Credit Card,3
+ORD-1021,3/3/23,keyboard,ELECTRONICS,WEST,dana lee,205.27,18,0,Cash,99
+ORD-1459,3/11/23,Mouse,accessories,north,bob smith,$722.95 ,10,15,paypal,3
+ORD-2184,25-Oct-24,Mouse,ACCESSORIES, East,Alice Johnson,260.82,17,10,paypal,3
+ORD-1276,5/21/24,usb hub,Electronics,south ,Dana Lee,"$1,434.22 ",24,5,PAYPAL,4
+ORD-1955,31-07-2023,Mouse,Electronics,South,bob smith,$581.77 ,13,10,CASH,2
+ORD-1385,29-Dec-23,laptop,ACCESSORIES,south ,,$118.82 ,23,10,PAYPAL,3
+ORD-1805,10/4/23,keyboard,ACCESSORIES,West,dana lee,"$1,005.01 ",24,0,paypal,3
+ORD-1343,28/06/23,Monitor,electronics,East,alice johnson,"$1,379.17 ",24,10,PAYPAL,2
+ORD-1769,8-Jun-24,headphones,Electronics,East,Alice Johnson,$765.70 ,23,10,Debit,5
+ORD-1130,6/25/23,usb hub,Electronics,South,Bob Smith,"$1,445.72 ",24,0,Credit Card,4
+ORD-1871,7-Mar-23,Monitor,electronics,south ,bob smith,$463.38 ,24,0,Credit Card,
+ORD-2123,2/11/23,keyboard,ACCESSORIES,East ,Bob Smith,$391.32 ,19,5,debit card,1
+ORD-1087,3/10/23,Laptop,Electronics,SOUTH,Alice Johnson,"$1,132.71 ",15,0,debit card,
+ORD-1330,19/12/23,usb hub,ACCESSORIES, East,Alice Johnson,$839.67 ,23,10,Debit Card,4
+ORD-1000,,LAPTOP,Accessories,south ,Bob Smith,$329.36 ,14,10,Credit Card,1
+ORD-1121,11/13/24,Keyboard,electronics,SOUTH,Carol White,$210.68 ,16,0,CASH,5
+ORD-2044,10/1/24,usb hub,Electronics,west,,"$1,465.79 ",19,0,CASH,3
+ORD-1001,5/14/23,headphones,Electronics,East,,$382.50 ,18,15,PayPal,5
+ORD-2130,,Headphones,accessories,west,CAROL WHITE,$651.62 ,10,5,Debit,1
+ORD-1860,6/23/23,laptop,electronics,WEST,Alice Johnson,$603.82 ,18,25,CREDIT CARD,5
+ORD-2126,7/6/24,Keyboard,ELECTRONICS,SOUTH,Dana Lee,"$1,287.13 ",4,15,PAYPAL,4

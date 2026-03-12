@@ -1,0 +1,1231 @@
+order_id,order_date,region,product_category,product_name,sales_rep,quantity,unit_price,discount_pct,total_amount,customer_rating
+ORD-10000,2025-10-25,West,Clothing,Cotton T-Shirt,Andrew Hill,4,80.66,0,322.64,1.3
+ORD-10001,2025-10-25,Northeast,Toys,Remote Car,Cynthia Green,17,129.45,0,2200.65,4.5
+ORD-10002,2024-07-18,Northeast,Books,Business Analytics,Linda Lee,4,150.28,0,601.12,4.5
+ORD-10003,2025-08-01,Southwest,Books,Machine Learning Guide,Andrew Hill,17,456.75,0.1,6988.28,1.8
+ORD-10004,2025-05-11,Midwest,Beauty,Sunscreen SPF50,Sandra Garcia,18,476.98,0,8585.64,1.1
+ORD-10005,2022-06-25,West,Beauty,Eye Cream,Gary Rodriguez,8,33.67,0,269.36,1.3
+ORD-10006,2023-06-27,Southwest,Home & Garden,Throw Pillow,Ashley Taylor,16,473.69,0,7579.04,3.4
+ORD-10007,2024-06-16,Southwest,Sports,Jump Rope,Matthew Williams,10,202.5,0.15,1721.25,1.5
+ORD-10008,2025-04-20,Southeast,Sports,Resistance Bands,Joseph Thomas,11,15.41,0.05,161.03,1.3
+ORD-10009,2022-05-26,Southwest,Electronics,Laptop Stand,Charles Perez,3,453.18,0.15,1155.61,2.1
+ORD-10010,2023-05-13,West,Food & Beverage,Trail Mix,Kevin Sanchez,18,70.49,0.25,951.62,2.6
+ORD-10011,2024-08-14,Northeast,Clothing,Denim Jeans,Cynthia Green,14,180.38,0.2,2020.26,3.6
+ORD-10012,2023-05-25,Southeast,Clothing,Cotton T-Shirt,Mark Smith,13,365.47,0,4751.11,3.1
+ORD-10013,2022-06-04,West,Home & Garden,Door Mat,Kevin Sanchez,6,142.88,0.05,814.42,4.4
+ORD-10014,2023-04-30,Southeast,Clothing,Cotton T-Shirt,Donna Torres,18,418.83,0,7538.94,2.9
+ORD-10015,2024-03-10,Midwest,Sports,Cycling Gloves,Mark Young,2,86.5,0,173.0,4.1
+ORD-10016,2022-11-14,Southeast,Food & Beverage,Olive Oil,Amanda Harris,14,349.81,0.25,3673.01,1.9
+ORD-10017,2024-10-26,Southwest,Electronics,Wireless Headphones,Betty Clark,11,33.3,0.25,274.72,1.2
+ORD-10018,2024-04-06,Northeast,Clothing,Running Shoes,Ryan White,3,299.54,0.05,853.69,3.3
+ORD-10019,2023-06-19,Southeast,Electronics,Bluetooth Speaker,Cynthia Green,14,330.4,0.15,3931.76,3.9
+ORD-10020,2024-07-25,Midwest,Sports,Foam Roller,Mark Young,13,69.78,0.1,816.43,4.0
+ORD-10021,2022-05-31,Southwest,Clothing,Cotton T-Shirt,Mark Smith,15,312.47,0,4687.05,3.0
+ORD-10022,2023-08-07,Southeast,Home & Garden,Scented Candle,Matthew Williams,3,440.24,0.15,1122.61,4.3
+ORD-10023,2022-10-03,Midwest,Books,Python Cookbook,Patricia Anderson,18,153.19,0,2757.42,4.6
+ORD-10024,2023-02-21,Midwest,Home & Garden,Wall Clock,Sandra Moore,10,304.39,0.15,2587.31,3.0
+ORD-10025,2022-01-08,Midwest,Electronics,Bluetooth Speaker,Stephanie Wilson,14,415.53,0,5817.42,1.5
+ORD-10026,2025-02-22,Northeast,Books,Machine Learning Guide,Patricia Anderson,15,278.08,0.2,3336.96,1.3
+ORD-10027,2024-05-30,Southeast,Home & Garden,Ceramic Planter,Mark Baker,12,293.34,0,3520.08,2.2
+ORD-10028,2023-12-26,Southwest,Electronics,Smart Watch,Ryan White,7,342.62,0,2398.34,4.5
+ORD-10029,2024-04-24,Northeast,Home & Garden,Kitchen Scale,Betty Clark,6,488.22,0,2929.32,3.9
+ORD-10030,2024-02-23,Northeast,Beauty,Nail Polish Set,Ashley Taylor,8,137.07,0,1096.56,2.9
+ORD-10031,2023-04-02,Northeast,Sports,Running Belt,Cynthia Green,12,156.07,0.05,1779.2,1.8
+ORD-10032,2023-12-21,Southwest,Beauty,Eye Cream,Jessica Scott,3,483.61,0.1,1305.75,3.7
+ORD-10033,2023-01-01,Southwest,Beauty,Face Moisturizer,Emily Carter,4,439.13,0.1,1580.87,1.2
+ORD-10034,2024-02-28,Southwest,Toys,Card Game,Mark Smith,11,221.01,0,2431.11,2.0
+ORD-10035,2024-01-16,West,Toys,Building Blocks,Brenda Williams,17,463.16,0.05,7480.03,4.8
+ORD-10036,2024-11-04,Midwest,Beauty,Body Lotion,Cynthia Green,4,361.28,0.1,1300.61,2.6
+ORD-10037,2025-09-23,West,Toys,Art Supply Kit,Cynthia Green,18,68.01,0.2,979.34,4.0
+ORD-10038,2023-09-15,Midwest,Home & Garden,Wall Clock,Mark Smith,13,276.23,0,3590.99,2.7
+ORD-10039,2024-11-12,West,Beauty,Makeup Brush Kit,Kevin Sanchez,15,223.87,0.05,3190.15,4.6
+ORD-10040,2022-07-11,Southeast,Home & Garden,LED Desk Lamp,Cynthia Green,10,260.15,0.15,2211.28,2.2
+ORD-10041,2025-06-05,Northeast,Sports,Water Bottle,Matthew Williams,1,27.88,0.25,20.91,2.7
+ORD-10042,2025-09-05,Northeast,Sports,Cycling Gloves,Ryan White,16,202.83,0,3245.28,4.0
+ORD-10043,2022-04-13,Southwest,Clothing,Silk Scarf,Charles Perez,8,92.06,0.25,552.36,4.7
+ORD-10044,2024-06-25,Southwest,Clothing,Leather Belt,Gary Rodriguez,5,401.7,0.15,1707.22,3.9
+ORD-10045,2024-07-10,Midwest,Toys,Remote Car,Stephanie Wilson,6,373.11,0.25,1678.99,2.0
+ORD-10046,2023-08-09,Southeast,Books,Deep Learning Intro,Emily Carter,8,140.93,0,1127.44,2.3
+ORD-10047,2025-12-17,Southeast,Clothing,Running Shoes,Brenda Williams,5,119.47,0,597.35,2.7
+ORD-10048,2024-03-08,Southwest,Beauty,Makeup Brush Kit,Mark Roberts,14,35.82,0.2,401.18,1.1
+ORD-10049,2024-03-09,West,Toys,Remote Car,Gary Hernandez,1,471.66,0.1,424.49,4.0
+ORD-10050,2022-03-01,West,Sports,Running Belt,Richard Hill,8,140.1,0.25,840.6,3.7
+ORD-10051,2024-03-17,Southwest,Toys,Puzzle Set,Melissa Nelson,15,460.17,0,6902.55,3.7
+ORD-10052,2022-04-13,Midwest,Clothing,Silk Scarf,Jessica Scott,5,434.09,0,2170.45,2.3
+ORD-10053,2023-07-24,West,Food & Beverage,Honey Jar,Emily Carter,11,381.81,0.2,3359.93,4.3
+ORD-10054,2023-04-05,Northeast,Food & Beverage,Organic Coffee,Stephanie Wilson,18,30.78,0.15,470.93,4.8
+ORD-10055,2025-06-26,Southeast,Electronics,Wireless Headphones,Charles Perez,8,103.68,0,829.44,1.5
+ORD-10056,2022-12-10,Southwest,Clothing,Winter Jacket,Andrew Hill,15,351.24,0.15,4478.31,4.9
+ORD-10057,2023-10-01,Southwest,Clothing,Running Shoes,Cynthia Green,10,58.51,0,585.1,4.6
+ORD-10058,2022-07-28,Midwest,Toys,Stuffed Animal,Ashley Taylor,7,42.62,0.05,283.42,3.7
+ORD-10059,2022-05-22,Southwest,Clothing,Cotton T-Shirt,Lisa Hernandez,12,268.71,0.15,2740.84,2.4
+ORD-10060,2025-07-25,West,Toys,Remote Car,Mark Roberts,4,219.59,0.15,746.61,1.6
+ORD-10061,2024-08-10,West,Home & Garden,Wall Clock,Gary Rodriguez,20,405.06,0.25,6075.9,3.9
+ORD-10062,2023-07-26,West,Books,Business Analytics,Charles Perez,8,416.21,0,3329.68,4.0
+ORD-10063,2023-01-08,West,Toys,Card Game,Mark Smith,1,249.68,0.15,212.23,2.4
+ORD-10064,2025-02-12,Northeast,Books,Business Analytics,Sandra Moore,9,440.76,0.1,3570.16,4.8
+ORD-10065,2025-11-15,West,Clothing,Winter Jacket,Lisa Hernandez,14,246.85,0.05,3283.11,3.8
+ORD-10066,2025-11-17,Southeast,Food & Beverage,Organic Coffee,Amanda Harris,3,150.65,0.2,361.56,3.7
+ORD-10067,2025-02-01,Midwest,Beauty,Makeup Brush Kit,Kimberly Wright,18,267.81,0.2,3856.46,3.8
+ORD-10068,2023-10-09,Northeast,Books,SQL Mastery,Linda Lee,9,119.12,0.05,1018.48,3.1
+ORD-10069,2025-04-22,Southwest,Home & Garden,Kitchen Scale,Andrew Hill,7,370.61,0.1,2334.84,2.1
+ORD-10070,2023-09-12,Northeast,Clothing,Winter Jacket,Mark Roberts,10,117.6,0,1176.0,3.1
+ORD-10071,2025-07-30,West,Books,Python Cookbook,Patricia Anderson,2,278.91,0,557.82,4.5
+ORD-10072,2022-04-16,Midwest,Books,Deep Learning Intro,Ashley Taylor,16,223.03,0,3568.48,2.9
+ORD-10073,2022-11-07,Southeast,Clothing,Silk Scarf,Kevin Sanchez,16,41.67,0,666.72,3.3
+ORD-10074,2025-05-26,Southwest,Books,Data Science Handbook,Kevin Sanchez,8,63.63,0.2,407.23,3.5
+ORD-10075,2023-09-18,Southwest,Toys,Remote Car,Andrew Hill,15,152.19,0.2,1826.28,1.2
+ORD-10076,2022-11-18,Southeast,Clothing,Winter Jacket,Betty Clark,7,136.0,0,952.0,3.2
+ORD-10077,2023-08-20,Northeast,Home & Garden,Ceramic Planter,Charles Perez,14,228.0,0.25,2394.0,2.2
+ORD-10078,2025-07-04,Southwest,Books,Deep Learning Intro,Cynthia Green,3,345.26,0.1,932.2,4.2
+ORD-10079,2023-06-29,Southeast,Sports,Cycling Gloves,Brenda Williams,4,274.56,0,1098.24,1.2
+ORD-10080,2025-12-04,West,Books,SQL Mastery,Emily Carter,15,66.56,0.1,898.56,3.0
+ORD-10081,2023-10-23,Southwest,Food & Beverage,Dark Chocolate,Emily Carter,3,301.03,0.2,722.47,1.1
+ORD-10082,2024-08-21,Southwest,Sports,Yoga Mat,Lisa Hernandez,9,290.24,0,2612.16,2.8
+ORD-10083,2022-07-06,West,Books,Machine Learning Guide,Kimberly Wright,19,220.76,0.25,3145.83,2.6
+ORD-10084,2023-08-14,West,Beauty,Lip Balm Set,Gary Rodriguez,6,168.25,0.25,757.12,4.0
+ORD-10085,2022-08-26,West,Electronics,Portable Charger,Ashley Taylor,3,160.69,0.15,409.76,3.1
+ORD-10086,2025-06-29,West,Electronics,Portable Charger,Lisa Hernandez,14,31.83,0.15,378.78,2.8
+ORD-10087,2024-06-16,West,Electronics,Laptop Stand,Patricia Anderson,9,276.86,0.1,2242.57,1.1
+ORD-10088,2022-07-10,Southeast,Sports,Water Bottle,Gary Rodriguez,10,277.67,0.2,2221.36,4.7
+ORD-10089,2024-11-08,Midwest,Food & Beverage,Green Tea Pack,Donna Torres,5,251.7,0.1,1132.65,4.3
+ORD-10090,2023-01-26,Southwest,Food & Beverage,Trail Mix,Sandra Moore,15,277.88,0.2,3334.56,4.0
+ORD-10091,2023-11-28,Southwest,Home & Garden,LED Desk Lamp,Emily Carter,9,387.47,0.2,2789.78,4.3
+ORD-10092,2022-11-01,West,Books,SQL Mastery,Gary Hernandez,19,292.06,0.25,4161.86,2.9
+ORD-10093,2025-11-29,Southeast,Beauty,Nail Polish Set,Melissa Nelson,15,466.76,0.05,6651.33,2.5
+ORD-10094,2024-03-01,Southeast,Toys,Building Blocks,Sandra Garcia,11,373.63,0.2,3287.94,4.9
+ORD-10095,2022-07-24,Southwest,Home & Garden,Scented Candle,Mark Young,4,437.72,0.25,1313.16,2.8
+ORD-10096,2023-11-25,Southwest,Home & Garden,Door Mat,Mark Roberts,5,42.04,0.1,189.18,2.6
+ORD-10097,2025-07-07,West,Clothing,Wool Sweater,Ashley Taylor,18,193.1,0.15,2954.43,3.2
+ORD-10098,2024-06-07,Northeast,Clothing,Winter Jacket,Stephanie Wilson,10,498.73,0,4987.3,3.5
+ORD-10099,2022-04-05,Midwest,Clothing,Leather Belt,Kevin Sanchez,6,348.53,0,2091.18,1.2
+ORD-10100,2025-03-05,Southeast,Beauty,Body Lotion,Betty Clark,14,77.06,0.2,863.07,1.7
+ORD-10101,2023-04-21,West,Toys,Action Figure,Lisa Hernandez,16,456.85,0,7309.6,2.0
+ORD-10102,2022-06-01,West,Books,Python Cookbook,Kimberly Wright,15,451.1,0,6766.5,5.0
+ORD-10103,2023-02-12,West,Books,AI Ethics,Ashley Taylor,9,231.13,0.1,1872.15,2.9
+ORD-10104,2025-12-03,Midwest,Sports,Cycling Gloves,Joseph Thomas,19,182.68,0.1,3123.83,4.9
+ORD-10105,2025-05-26,West,Toys,Art Supply Kit,Gary Rodriguez,1,285.13,0,285.13,4.6
+ORD-10106,2025-07-27,Southeast,Books,Statistics Primer,Andrew Hill,20,401.96,0.05,7637.24,2.0
+ORD-10107,2022-03-10,Southwest,Home & Garden,LED Desk Lamp,Kimberly Wright,2,157.92,0.25,236.88,3.9
+ORD-10108,2023-02-16,Southeast,Clothing,Casual Sneakers,Kevin Sanchez,11,375.0,0,4125.0,3.2
+ORD-10109,2023-08-28,Midwest,Beauty,Eye Cream,Kevin Sanchez,6,132.2,0.25,594.9,1.5
+ORD-10110,2025-02-15,Midwest,Clothing,Running Shoes,Brenda Williams,8,430.77,0.2,2756.93,4.2
+ORD-10111,2025-10-09,Midwest,Electronics,Webcam,Melissa Nelson,18,66.18,0.15,1012.55,2.5
+ORD-10112,2025-06-03,Southeast,Beauty,Lip Balm Set,Lisa Hernandez,8,238.38,0.15,1620.98,1.3
+ORD-10113,2022-03-18,Midwest,Food & Beverage,Olive Oil,Sandra Garcia,14,62.75,0,878.5,1.5
+ORD-10114,2025-04-17,Southeast,Sports,Water Bottle,Ryan White,13,229.55,0.2,2387.32,2.7
+ORD-10115,2022-03-09,Midwest,Clothing,Leather Belt,Mark Smith,20,207.02,0.1,3726.36,2.8
+ORD-10116,2025-01-20,Midwest,Sports,Tennis Balls,Mark Baker,4,490.56,0.15,1667.9,2.6
+ORD-10117,2025-08-07,Southwest,Sports,Resistance Bands,Joseph Thomas,15,50.38,0.05,717.91,1.2
+ORD-10118,2022-05-21,Southwest,Beauty,Hair Serum,Mark Smith,5,394.55,0.05,1874.11,3.3
+ORD-10119,2023-07-22,Southeast,Sports,Tennis Balls,Jonathan Scott,5,395.38,0,1976.9,3.2
+ORD-10120,2023-05-03,Southwest,Home & Garden,LED Desk Lamp,Richard Hill,1,70.24,0.15,59.7,1.1
+ORD-10121,2022-05-11,West,Books,Python Cookbook,Matthew Williams,5,372.15,0,1860.75,4.1
+ORD-10122,2025-09-11,Southwest,Clothing,Leather Belt,Amanda Harris,17,114.67,0,1949.39,2.8
+ORD-10123,2025-11-06,Northeast,Electronics,Wireless Headphones,Sandra Garcia,16,424.41,0.2,5432.45,3.8
+ORD-10124,2022-05-15,Southeast,Food & Beverage,Green Tea Pack,Emily Carter,3,164.45,0,493.35,3.5
+ORD-10125,2024-11-01,Southwest,Beauty,Nail Polish Set,Donna Torres,20,267.63,0.25,4014.45,1.4
+ORD-10126,2024-04-27,Midwest,Clothing,Winter Jacket,Gary Rodriguez,14,228.52,0.05,3039.32,2.8
+ORD-10127,2024-02-06,Southeast,Toys,Board Game,Cynthia Green,11,216.25,0.1,2140.88,4.7
+ORD-10128,2024-02-03,Southeast,Clothing,Denim Jeans,Gary Hernandez,3,51.15,0,153.45,1.2
+ORD-10129,2022-04-16,Midwest,Beauty,Lip Balm Set,Andrew Hill,14,180.03,0.2,2016.34,2.2
+ORD-10130,2022-08-10,Midwest,Clothing,Winter Jacket,Ashley Taylor,5,330.08,0.05,1567.88,3.2
+ORD-10131,2025-02-22,Southwest,Clothing,Casual Sneakers,Andrew Hill,19,116.95,0.2,1777.64,3.7
+ORD-10132,2023-11-27,Midwest,Electronics,Webcam,Joseph Thomas,1,94.31,0.1,84.88,1.7
+ORD-10133,2022-07-07,Southwest,Home & Garden,Door Mat,Mark Smith,3,75.23,0,225.69,2.5
+ORD-10134,2025-03-08,Southwest,Food & Beverage,Honey Jar,Brenda Williams,6,188.18,0.15,959.72,4.5
+ORD-10135,2023-07-12,West,Home & Garden,Throw Pillow,Cynthia Green,20,29.63,0,592.6,2.7
+ORD-10136,2023-12-08,West,Food & Beverage,Granola,Patricia Anderson,9,111.71,0,1005.39,2.1
+ORD-10137,2022-01-16,Southeast,Food & Beverage,Olive Oil,Amanda Harris,2,114.16,0,228.32,4.8
+ORD-10138,2024-10-15,West,Home & Garden,Wall Clock,Betty Clark,10,167.42,0,1674.2,1.5
+ORD-10139,2024-06-12,Northeast,Sports,Tennis Balls,Matthew Williams,3,201.55,0,604.65,4.7
+ORD-10140,2023-08-16,Northeast,Beauty,Nail Polish Set,Jessica Scott,19,205.19,0.2,3118.89,1.1
+ORD-10141,2022-06-30,West,Beauty,Sunscreen SPF50,Ashley Taylor,20,232.75,0.15,3956.75,1.4
+ORD-10142,2023-11-27,Southeast,Toys,Stuffed Animal,Richard Hill,17,43.93,0.1,672.13,4.1
+ORD-10143,2023-12-21,Southeast,Clothing,Denim Jeans,Charles Perez,17,257.43,0.15,3719.86,1.4
+ORD-10144,2022-12-29,West,Books,Statistics Primer,Matthew Williams,6,303.19,0,1819.14,4.0
+ORD-10145,2024-08-18,West,Food & Beverage,Honey Jar,Lisa Hernandez,11,79.72,0,876.92,2.2
+ORD-10146,2024-08-03,West,Books,Python Cookbook,Mark Baker,12,256.13,0.1,2766.2,1.2
+ORD-10147,2024-08-05,Southwest,Books,Data Science Handbook,Gary Hernandez,3,309.43,0.2,742.63,4.8
+ORD-10148,2025-05-24,West,Electronics,Portable Charger,Sandra Moore,19,327.66,0.15,5291.71,1.6
+ORD-10149,2022-06-22,Southwest,Electronics,Portable Charger,Lisa Hernandez,4,406.43,0.15,1381.86,1.7
+ORD-10150,2024-01-16,Midwest,Sports,Running Belt,Mark Young,15,264.41,0,3966.15,2.1
+ORD-10151,2022-05-15,Midwest,Toys,Card Game,Patricia Anderson,20,30.92,0.15,525.64,3.2
+ORD-10152,2023-11-14,Northeast,Toys,Art Supply Kit,Melissa Nelson,9,363.25,0,3269.25,3.7
+ORD-10153,2023-09-27,Southwest,Beauty,Eye Cream,Jessica Scott,13,68.83,0,894.79,3.6
+ORD-10154,2024-11-07,Midwest,Beauty,Sunscreen SPF50,Joseph Thomas,17,51.26,0.2,697.14,2.5
+ORD-10155,2023-01-29,Southeast,Home & Garden,Kitchen Scale,Jonathan Scott,11,474.1,0.25,3911.33,1.6
+ORD-10156,2025-09-17,Midwest,Books,Data Science Handbook,Ryan White,17,386.58,0,6571.86,4.1
+ORD-10157,2024-06-15,Northeast,Home & Garden,Door Mat,Donna Torres,5,85.31,0,426.55,2.5
+ORD-10158,2023-04-25,Southwest,Sports,Running Belt,Charles Perez,20,146.04,0.25,2190.6,2.2
+ORD-10159,2024-08-03,Midwest,Food & Beverage,Trail Mix,Stephanie Wilson,12,340.76,0.25,3066.84,2.5
+ORD-10160,2023-05-28,Northeast,Toys,Puzzle Set,Lisa Hernandez,7,401.62,0,2811.34,2.9
+ORD-10161,2022-06-21,Southeast,Beauty,Lip Balm Set,Emily Carter,17,426.33,0.1,6522.85,2.8
+ORD-10162,2024-07-12,Midwest,Home & Garden,Door Mat,Mark Young,3,473.47,0.05,1349.39,1.1
+ORD-10163,2022-06-17,Midwest,Electronics,Phone Case,Charles Perez,17,190.11,0.2,2585.5,1.1
+ORD-10164,2024-08-25,Southeast,Clothing,Wool Sweater,Stephanie Wilson,5,73.11,0.1,329.0,3.8
+ORD-10165,2022-11-03,Southwest,Food & Beverage,Organic Coffee,Linda Lee,3,14.41,0.05,41.07,3.4
+ORD-10166,2022-04-08,Southeast,Toys,Board Game,Donna Torres,10,122.63,0,1226.3,3.6
+ORD-10167,2025-05-07,Southwest,Food & Beverage,Green Tea Pack,Joseph Thomas,4,419.16,0.25,1257.48,3.5
+ORD-10168,2023-05-08,Southwest,Sports,Water Bottle,Donna Torres,10,217.47,0.15,1848.49,1.7
+ORD-10169,2024-03-10,West,Clothing,Wool Sweater,Mark Baker,3,476.93,0,1430.79,3.5
+ORD-10170,2023-12-08,Southeast,Beauty,Eye Cream,Linda Lee,1,181.76,0,181.76,3.6
+ORD-10171,2025-08-09,Southeast,Clothing,Wool Sweater,Gary Rodriguez,5,26.95,0.15,114.54,4.1
+ORD-10172,2024-07-26,Northeast,Food & Beverage,Dark Chocolate,Amanda Harris,6,406.69,0,2440.14,1.8
+ORD-10173,2025-01-17,West,Sports,Yoga Mat,Emily Carter,11,467.02,0.2,4109.78,1.1
+ORD-10174,2025-09-04,Midwest,Sports,Foam Roller,Emily Carter,12,431.76,0,5181.12,1.5
+ORD-10175,2023-11-26,Southeast,Beauty,Nail Polish Set,Sandra Garcia,13,372.94,0.2,3878.58,3.8
+ORD-10176,2024-05-31,Southwest,Beauty,Eye Cream,Gary Rodriguez,3,364.91,0,1094.73,1.7
+ORD-10177,2023-09-20,West,Books,Business Analytics,Andrew Hill,4,44.63,0.1,160.67,3.9
+ORD-10178,2025-06-13,West,Home & Garden,Shelf Organizer,Emily Carter,12,226.33,0.15,2308.57,3.6
+ORD-10179,2022-03-05,Southeast,Electronics,Bluetooth Speaker,Ashley Taylor,13,184.84,0,2402.92,3.4
+ORD-10180,2024-01-12,West,Food & Beverage,Organic Coffee,Melissa Nelson,5,38.28,0.15,162.69,1.1
+ORD-10181,2025-03-21,Southeast,Home & Garden,Shelf Organizer,Sandra Moore,12,189.15,0,2269.8,2.5
+ORD-10182,2023-01-17,West,Beauty,Eye Cream,Sandra Moore,8,480.46,0,3843.68,2.5
+ORD-10183,2025-06-07,Midwest,Clothing,Casual Sneakers,Mark Roberts,9,353.5,0.05,3022.42,4.7
+ORD-10184,2024-07-14,Southeast,Food & Beverage,Trail Mix,Ryan White,4,72.19,0,288.76,3.9
+ORD-10185,2023-09-07,Southeast,Clothing,Wool Sweater,Mark Roberts,12,356.22,0.1,3847.18,3.8
+ORD-10186,2022-10-12,Southeast,Home & Garden,Scented Candle,Kevin Sanchez,17,116.0,0.05,1873.4,3.0
+ORD-10187,2025-06-07,Northeast,Beauty,Body Lotion,Brenda Williams,15,402.81,0,6042.15,2.2
+ORD-10188,2022-09-14,Midwest,Food & Beverage,Granola,Lisa Hernandez,14,412.55,0,5775.7,1.3
+ORD-10189,2022-09-22,West,Food & Beverage,Honey Jar,Sandra Moore,5,439.59,0,2197.95,4.6
+ORD-10190,2022-11-28,Midwest,Electronics,Bluetooth Speaker,Mark Young,17,80.74,0,1372.58,3.8
+ORD-10191,2022-09-14,Midwest,Beauty,Eye Cream,Andrew Hill,3,129.05,0.1,348.44,3.1
+ORD-10192,2025-02-28,Northeast,Home & Garden,Throw Pillow,Gary Rodriguez,6,331.07,0.15,1688.46,4.5
+ORD-10193,2025-03-17,West,Clothing,Cotton T-Shirt,Andrew Hill,19,136.0,0.05,2454.8,3.6
+ORD-10194,2023-09-02,West,Food & Beverage,Olive Oil,Brenda Williams,10,244.06,0.2,1952.48,3.8
+ORD-10195,2023-11-28,Southwest,Home & Garden,Shelf Organizer,Jonathan Scott,14,244.7,0.05,3254.51,2.3
+ORD-10196,2024-11-20,Southwest,Beauty,Body Lotion,Patricia Anderson,13,69.73,0.15,770.52,2.3
+ORD-10197,2022-07-18,Northeast,Food & Beverage,Green Tea Pack,Amanda Harris,9,227.55,0,2047.95,4.8
+ORD-10198,2023-01-24,Southeast,Toys,Action Figure,Sandra Garcia,6,407.67,0.15,2079.12,5.0
+ORD-10199,2024-03-16,Southwest,Food & Beverage,Dark Chocolate,Matthew Williams,10,251.2,0,2512.0,4.9
+ORD-10200,2025-05-08,West,Sports,Tennis Balls,Amanda Harris,2,30.02,0.25,45.03,3.1
+ORD-10201,2024-04-05,Midwest,Clothing,Silk Scarf,Mark Baker,5,441.82,0.15,1877.73,2.6
+ORD-10202,2024-10-29,West,Sports,Tennis Balls,Stephanie Wilson,18,147.86,0.2,2129.18,3.2
+ORD-10203,2025-02-16,Midwest,Clothing,Running Shoes,Stephanie Wilson,4,199.98,0.15,679.93,1.6
+ORD-10204,2024-08-28,Southwest,Toys,Building Blocks,Matthew Williams,2,24.26,0.15,41.24,1.6
+ORD-10205,2025-06-16,Midwest,Home & Garden,Scented Candle,Melissa Nelson,20,162.67,0.2,2602.72,2.3
+ORD-10206,2023-11-10,Northeast,Food & Beverage,Olive Oil,Donna Torres,16,408.8,0.15,5559.68,3.3
+ORD-10207,2022-04-16,Southwest,Electronics,Portable Charger,Sandra Garcia,9,483.7,0.05,4135.64,1.7
+ORD-10208,2023-01-26,Northeast,Toys,Puzzle Set,Matthew Williams,8,20.63,0,165.04,2.3
+ORD-10209,2022-05-08,Southeast,Home & Garden,Door Mat,Sandra Moore,7,208.14,0.25,1092.74,1.8
+ORD-10210,2024-07-30,Southwest,Beauty,Makeup Brush Kit,Richard Hill,17,191.53,0,3256.01,3.2
+ORD-10211,2025-02-16,Midwest,Books,Deep Learning Intro,Charles Perez,7,478.88,0.1,3016.94,4.8
+ORD-10212,2023-10-12,West,Books,SQL Mastery,Kimberly Wright,7,346.67,0.25,1820.02,3.2
+ORD-10213,2024-03-19,Midwest,Books,SQL Mastery,Stephanie Wilson,4,288.87,0.2,924.38,4.2
+ORD-10214,2023-12-11,West,Books,Python Cookbook,Lisa Hernandez,10,477.88,0,4778.8,2.0
+ORD-10215,2025-02-25,Midwest,Food & Beverage,Trail Mix,Jonathan Scott,7,414.84,0.1,2613.49,1.4
+ORD-10216,2025-07-30,Southeast,Sports,Jump Rope,Mark Baker,2,336.57,0.05,639.48,1.4
+ORD-10217,2022-01-11,Southwest,Beauty,Makeup Brush Kit,Mark Young,4,342.19,0,1368.76,1.6
+ORD-10218,2023-10-20,Midwest,Food & Beverage,Dark Chocolate,Lisa Hernandez,7,379.18,0.1,2388.83,1.2
+ORD-10219,2022-12-25,West,Clothing,Winter Jacket,Ryan White,18,370.65,0,6671.7,4.4
+ORD-10220,2022-03-18,Northeast,Electronics,Phone Case,Amanda Harris,16,97.22,0.1,1399.97,3.3
+ORD-10221,2022-10-02,Southwest,Clothing,Wool Sweater,Matthew Williams,10,229.9,0.25,1724.25,2.1
+ORD-10222,2023-01-17,Northeast,Clothing,Wool Sweater,Linda Lee,6,366.9,0.1,1981.26,2.3
+ORD-10223,2024-05-25,Southwest,Books,Statistics Primer,Richard Hill,6,307.42,0.2,1475.62,1.3
+ORD-10224,2022-01-14,Midwest,Clothing,Running Shoes,Jessica Scott,5,241.34,0.05,1146.37,1.9
+ORD-10225,2023-06-20,Midwest,Books,Business Analytics,Mark Roberts,10,293.32,0,2933.2,1.9
+ORD-10226,2025-11-14,Northeast,Clothing,Leather Belt,Lisa Hernandez,10,84.06,0.1,756.54,4.7
+ORD-10227,2024-09-06,Southeast,Books,Business Analytics,Matthew Williams,20,114.32,0,2286.4,4.0
+ORD-10228,2023-05-22,Southwest,Beauty,Nail Polish Set,Ashley Taylor,18,456.83,0.05,7811.79,4.1
+ORD-10229,2022-05-07,Southwest,Food & Beverage,Honey Jar,Ryan White,3,459.04,0,1377.12,3.0
+ORD-10230,2022-08-27,Southeast,Home & Garden,Throw Pillow,Mark Roberts,11,427.97,0.25,3530.75,3.3
+ORD-10231,2024-07-24,Southwest,Clothing,Leather Belt,Mark Baker,2,229.45,0.2,367.12,3.2
+ORD-10232,2023-03-23,Southwest,Books,Python Cookbook,Brenda Williams,13,130.96,0,1702.48,1.2
+ORD-10233,2024-08-24,Northeast,Beauty,Lip Balm Set,Amanda Harris,18,497.09,0,8947.62,2.6
+ORD-10234,2024-07-07,West,Home & Garden,Door Mat,Jessica Scott,12,496.46,0.2,4766.02,1.3
+ORD-10235,2024-12-19,Southeast,Home & Garden,Scented Candle,Linda Lee,4,93.34,0.2,298.69,4.9
+ORD-10236,2024-12-25,West,Electronics,Wireless Headphones,Gary Rodriguez,10,234.19,0.2,1873.52,1.9
+ORD-10237,2022-03-07,West,Food & Beverage,Honey Jar,Andrew Hill,5,141.45,0,707.25,4.1
+ORD-10238,2024-07-03,Southwest,Electronics,Laptop Stand,Cynthia Green,7,38.31,0,268.17,3.8
+ORD-10239,2025-01-10,Southeast,Electronics,Laptop Stand,Stephanie Wilson,2,204.12,0.05,387.83,4.5
+ORD-10240,2025-03-25,Midwest,Electronics,USB-C Hub,Melissa Nelson,17,496.77,0.05,8022.84,3.4
+ORD-10241,2024-04-26,Midwest,Beauty,Hair Serum,Emily Carter,10,438.75,0.05,4168.12,1.2
+ORD-10242,2025-08-10,West,Home & Garden,Door Mat,Kevin Sanchez,18,250.33,0.15,3830.05,3.1
+ORD-10243,2025-01-06,West,Toys,Stuffed Animal,Charles Perez,5,153.44,0,767.2,4.4
+ORD-10244,2024-05-03,Southwest,Books,Machine Learning Guide,Sandra Moore,15,457.8,0.2,5493.6,1.5
+ORD-10245,2024-07-10,Midwest,Sports,Foam Roller,Brenda Williams,7,168.48,0,1179.36,3.1
+ORD-10246,2022-05-30,Southeast,Sports,Yoga Mat,Kevin Sanchez,9,191.7,0,1725.3,4.0
+ORD-10247,2023-09-13,Northeast,Sports,Running Belt,Mark Smith,7,435.39,0.15,2590.57,4.7
+ORD-10248,2024-03-23,Southeast,Clothing,Leather Belt,Gary Hernandez,8,349.34,0.05,2654.98,2.3
+ORD-10249,2023-09-24,Midwest,Books,AI Ethics,Kimberly Wright,15,269.16,0.15,3431.79,3.1
+ORD-10250,2023-10-18,Southeast,Food & Beverage,Dark Chocolate,Kimberly Wright,4,402.39,0.25,1207.17,2.3
+ORD-10251,2023-08-28,Southeast,Electronics,Laptop Stand,Mark Smith,5,13.03,0.2,52.12,2.3
+ORD-10252,2023-06-12,West,Toys,Action Figure,Linda Lee,16,277.57,0.15,3774.95,3.6
+ORD-10253,2022-12-13,Southeast,Food & Beverage,Dark Chocolate,Linda Lee,6,367.72,0.15,1875.37,3.2
+ORD-10254,2025-09-30,Northeast,Home & Garden,Ceramic Planter,Stephanie Wilson,17,21.74,0,369.58,1.0
+ORD-10255,2023-03-24,Southwest,Home & Garden,Kitchen Scale,Matthew Williams,3,355.05,0,1065.15,2.5
+ORD-10256,2022-01-25,Northeast,Food & Beverage,Dark Chocolate,Sandra Moore,1,8.27,0.2,6.62,3.9
+ORD-10257,2023-01-03,Northeast,Books,Python Cookbook,Mark Young,17,407.51,0.2,5542.14,1.4
+ORD-10258,2023-12-27,Midwest,Home & Garden,Kitchen Scale,Kevin Sanchez,7,311.79,0.1,1964.28,2.6
+ORD-10259,2023-09-07,Northeast,Beauty,Nail Polish Set,Lisa Hernandez,15,284.68,0.05,4056.69,5.0
+ORD-10260,2022-04-25,Northeast,Electronics,Bluetooth Speaker,Mark Roberts,13,192.74,0.25,1879.21,1.7
+ORD-10261,2024-12-17,Northeast,Food & Beverage,Granola,Charles Perez,11,285.1,0,3136.1,1.8
+ORD-10262,2025-01-17,Southwest,Food & Beverage,Olive Oil,Cynthia Green,2,462.46,0.1,832.43,1.1
+ORD-10263,2022-06-07,Midwest,Beauty,Face Moisturizer,Betty Clark,7,295.58,0.2,1655.25,3.3
+ORD-10264,2025-11-12,Northeast,Toys,Card Game,Sandra Moore,13,379.03,0,4927.39,4.0
+ORD-10265,2023-11-29,Southwest,Beauty,Face Moisturizer,Stephanie Wilson,4,221.36,0,885.44,3.5
+ORD-10266,2024-10-01,Southeast,Toys,Card Game,Kimberly Wright,1,318.89,0.25,239.17,3.2
+ORD-10267,2022-06-25,Southwest,Toys,Stuffed Animal,Amanda Harris,6,341.45,0.2,1638.96,4.2
+ORD-10268,2024-03-08,Midwest,Clothing,Denim Jeans,Kimberly Wright,9,81.34,0,732.06,1.4
+ORD-10269,2022-07-29,Southeast,Electronics,Webcam,Brenda Williams,15,183.16,0.1,2472.66,1.7
+ORD-10270,2025-02-09,Northeast,Food & Beverage,Granola,Andrew Hill,4,18.0,0.15,61.2,3.4
+ORD-10271,2022-06-23,Southwest,Beauty,Nail Polish Set,Ryan White,1,149.46,0.2,119.57,5.0
+ORD-10272,2023-09-09,Midwest,Sports,Water Bottle,Sandra Garcia,13,88.9,0.1,1040.13,1.6
+ORD-10273,2022-06-07,Midwest,Home & Garden,Door Mat,Emily Carter,9,213.45,0.25,1440.79,4.8
+ORD-10274,2022-01-14,West,Food & Beverage,Trail Mix,Richard Hill,15,57.95,0.1,782.33,4.4
+ORD-10275,2023-09-08,Midwest,Toys,Card Game,Andrew Hill,15,170.69,0,2560.35,4.8
+ORD-10276,2023-10-16,Midwest,Sports,Running Belt,Linda Lee,11,92.93,0.2,817.78,3.8
+ORD-10277,2024-01-18,Northeast,Food & Beverage,Trail Mix,Mark Young,11,191.15,0.2,1682.12,3.3
+ORD-10278,2024-06-16,Midwest,Home & Garden,Ceramic Planter,Gary Rodriguez,15,471.77,0.05,6722.72,3.8
+ORD-10279,2023-06-02,Southeast,Toys,Remote Car,Mark Roberts,5,318.5,0.05,1512.88,2.7
+ORD-10280,2025-04-07,West,Toys,Board Game,Gary Hernandez,15,495.4,0.25,5573.25,3.0
+ORD-10281,2022-08-12,Southeast,Toys,Building Blocks,Cynthia Green,12,352.31,0,4227.72,3.7
+ORD-10282,2023-11-11,West,Home & Garden,Ceramic Planter,Patricia Anderson,19,491.89,0.2,7476.73,1.0
+ORD-10283,2024-07-01,Midwest,Books,Statistics Primer,Jessica Scott,17,374.69,0.05,6051.24,2.9
+ORD-10284,2024-05-01,Northeast,Home & Garden,Scented Candle,Patricia Anderson,1,243.97,0.1,219.57,4.3
+ORD-10285,2024-12-03,West,Home & Garden,Scented Candle,Kimberly Wright,10,174.82,0.05,1660.79,2.9
+ORD-10286,2025-12-26,Northeast,Food & Beverage,Dark Chocolate,Joseph Thomas,11,38.25,0,420.75,4.4
+ORD-10287,2023-11-09,Southwest,Clothing,Running Shoes,Donna Torres,8,260.42,0,2083.36,4.8
+ORD-10288,2024-03-21,Northeast,Sports,Cycling Gloves,Linda Lee,6,97.26,0.2,466.85,3.5
+ORD-10289,2025-12-14,Southeast,Sports,Running Belt,Mark Smith,19,217.63,0,4134.97,2.1
+ORD-10290,2023-02-08,West,Clothing,Denim Jeans,Patricia Anderson,18,97.55,0.15,1492.51,2.0
+ORD-10291,2025-04-17,Northeast,Food & Beverage,Honey Jar,Kimberly Wright,20,197.38,0.2,3158.08,2.4
+ORD-10292,2025-10-08,Southeast,Food & Beverage,Protein Bars,Richard Hill,10,459.75,0,4597.5,1.5
+ORD-10293,2024-11-12,West,Books,Data Science Handbook,Donna Torres,6,189.79,0,1138.74,3.4
+ORD-10294,2025-02-10,Southeast,Toys,Stuffed Animal,Sandra Garcia,6,245.9,0,1475.4,2.2
+ORD-10295,2022-01-20,West,Home & Garden,Scented Candle,Jonathan Scott,15,311.61,0.15,3973.03,1.8
+ORD-10296,2025-12-25,West,Toys,Remote Car,Sandra Garcia,14,343.92,0.2,3851.9,1.7
+ORD-10297,2025-01-06,Midwest,Electronics,Laptop Stand,Betty Clark,10,21.18,0.05,201.21,4.1
+ORD-10298,2025-01-15,Northeast,Food & Beverage,Green Tea Pack,Stephanie Wilson,19,61.53,0.15,993.71,3.9
+ORD-10299,2023-09-02,Northeast,Sports,Cycling Gloves,Matthew Williams,4,369.31,0.05,1403.38,2.1
+ORD-10300,2023-03-06,Southwest,Clothing,Leather Belt,Mark Roberts,4,388.94,0.05,1477.97,2.4
+ORD-10301,2023-02-28,Northeast,Toys,Puzzle Set,Melissa Nelson,20,73.92,0.05,1404.48,2.4
+ORD-10302,2023-08-16,Southwest,Books,Machine Learning Guide,Emily Carter,11,489.61,0.1,4847.14,4.8
+ORD-10303,2025-09-05,Southeast,Clothing,Running Shoes,Mark Roberts,14,459.79,0.1,5793.35,4.5
+ORD-10304,2024-09-29,Southeast,Sports,Water Bottle,Melissa Nelson,11,415.1,0.2,3652.88,3.5
+ORD-10305,2024-04-05,Southwest,Toys,Stuffed Animal,Linda Lee,15,42.38,0,635.7,2.1
+ORD-10306,2022-07-10,West,Beauty,Makeup Brush Kit,Lisa Hernandez,16,167.01,0,2672.16,3.7
+ORD-10307,2023-03-10,West,Beauty,Lip Balm Set,Emily Carter,18,201.87,0.2,2906.93,2.3
+ORD-10308,2023-12-05,Northeast,Books,Business Analytics,Mark Baker,18,291.08,0.25,3929.58,1.4
+ORD-10309,2024-06-22,West,Food & Beverage,Organic Coffee,Joseph Thomas,4,465.07,0,1860.28,5.0
+ORD-10310,2022-11-22,Midwest,Toys,Action Figure,Brenda Williams,5,441.66,0.1,1987.47,3.6
+ORD-10311,2022-04-17,West,Books,Data Science Handbook,Lisa Hernandez,12,333.93,0,4007.16,2.2
+ORD-10312,2023-03-14,West,Sports,Cycling Gloves,Brenda Williams,3,353.33,0,1059.99,1.5
+ORD-10313,2022-09-04,West,Sports,Running Belt,Mark Roberts,1,8.99,0.15,7.64,1.5
+ORD-10314,2022-07-31,Midwest,Clothing,Winter Jacket,Kimberly Wright,13,49.22,0,639.86,4.5
+ORD-10315,2022-05-21,Southwest,Home & Garden,Door Mat,Melissa Nelson,5,322.58,0,1612.9,1.0
+ORD-10316,2024-04-23,Southwest,Home & Garden,Shelf Organizer,Cynthia Green,12,362.6,0,4351.2,2.8
+ORD-10317,2025-04-22,West,Sports,Resistance Bands,Kimberly Wright,4,74.31,0,297.24,4.9
+ORD-10318,2023-05-24,Southwest,Beauty,Sunscreen SPF50,Andrew Hill,8,142.1,0,1136.8,3.4
+ORD-10319,2024-03-13,Midwest,Books,Python Cookbook,Lisa Hernandez,10,106.7,0.05,1013.65,1.2
+ORD-10320,2025-07-30,Southwest,Sports,Running Belt,Brenda Williams,13,60.81,0.25,592.9,3.1
+ORD-10321,2024-01-19,Southwest,Electronics,Smart Watch,Cynthia Green,11,70.33,0.2,618.9,1.7
+ORD-10322,2023-06-21,Southeast,Food & Beverage,Green Tea Pack,Mark Baker,1,295.74,0,295.74,4.7
+ORD-10323,2025-12-08,West,Toys,Art Supply Kit,Brenda Williams,17,384.72,0.2,5232.19,3.6
+ORD-10324,2022-11-15,Southwest,Home & Garden,Wall Clock,Richard Hill,3,158.4,0.05,451.44,2.6
+ORD-10325,2022-04-29,Southeast,Clothing,Casual Sneakers,Brenda Williams,14,366.33,0.05,4872.19,4.7
+ORD-10326,2025-09-26,Southeast,Clothing,Leather Belt,Patricia Anderson,20,306.37,0.1,5514.66,1.1
+ORD-10327,2024-12-07,Southwest,Home & Garden,Ceramic Planter,Kevin Sanchez,6,250.72,0.15,1278.67,4.3
+ORD-10328,2022-08-30,Northeast,Books,Machine Learning Guide,Richard Hill,12,67.83,0.1,732.56,4.2
+ORD-10329,2024-10-13,West,Books,Data Science Handbook,Sandra Moore,9,357.6,0,3218.4,2.4
+ORD-10330,2025-03-21,Northeast,Food & Beverage,Protein Bars,Charles Perez,12,82.87,0,994.44,4.0
+ORD-10331,2024-01-16,West,Electronics,Wireless Headphones,Mark Young,1,126.05,0.25,94.54,1.6
+ORD-10332,2023-10-18,Midwest,Electronics,Phone Case,Gary Rodriguez,8,164.29,0.2,1051.46,1.3
+ORD-10333,2023-01-03,Southeast,Beauty,Lip Balm Set,Kevin Sanchez,17,338.3,0,5751.1,3.1
+ORD-10334,2023-09-29,Midwest,Electronics,Phone Case,Brenda Williams,3,439.11,0.1,1185.6,3.2
+ORD-10335,2025-06-29,Southeast,Electronics,Smart Watch,Matthew Williams,7,149.34,0.1,940.84,2.5
+ORD-10336,2022-11-05,Northeast,Food & Beverage,Trail Mix,Mark Young,18,381.44,0.05,6522.62,2.6
+ORD-10337,2025-09-08,West,Sports,Tennis Balls,Ashley Taylor,1,475.74,0,475.74,4.0
+ORD-10338,2024-05-09,West,Books,Data Science Handbook,Mark Baker,7,267.26,0.05,1777.28,4.9
+ORD-10339,2024-11-30,West,Home & Garden,Wall Clock,Mark Roberts,3,26.73,0.05,76.18,4.6
+ORD-10340,2025-07-29,West,Food & Beverage,Green Tea Pack,Brenda Williams,19,52.31,0,993.89,3.4
+ORD-10341,2023-10-08,West,Electronics,Phone Case,Mark Roberts,5,122.2,0.1,549.9,4.3
+ORD-10342,2023-02-20,Southeast,Beauty,Body Lotion,Stephanie Wilson,15,139.62,0,2094.3,4.1
+ORD-10343,2023-10-06,West,Clothing,Running Shoes,Patricia Anderson,4,86.37,0.25,259.11,3.1
+ORD-10344,2022-07-05,Southeast,Sports,Running Belt,Kevin Sanchez,10,234.36,0,2343.6,3.7
+ORD-10345,2023-12-30,West,Electronics,Laptop Stand,Sandra Moore,11,78.42,0.05,819.49,1.2
+ORD-10346,2024-07-15,Southwest,Books,SQL Mastery,Linda Lee,6,20.39,0.2,97.87,3.2
+ORD-10347,2022-09-06,Northeast,Clothing,Leather Belt,Mark Baker,4,402.93,0,1611.72,4.3
+ORD-10348,2025-11-06,Northeast,Sports,Water Bottle,Melissa Nelson,7,412.72,0.15,2455.68,3.3
+ORD-10349,2022-09-21,Northeast,Clothing,Cotton T-Shirt,Ryan White,3,102.89,0.25,231.5,4.4
+ORD-10350,2022-12-11,Southwest,Beauty,Lip Balm Set,Donna Torres,2,471.43,0,942.86,4.3
+ORD-10351,2022-12-20,Midwest,Toys,Remote Car,Mark Smith,1,194.45,0.2,155.56,4.6
+ORD-10352,2025-06-11,Southwest,Books,SQL Mastery,Andrew Hill,15,442.29,0,6634.35,2.0
+ORD-10353,2022-05-05,Northeast,Books,Deep Learning Intro,Emily Carter,14,441.98,0.25,4640.79,2.5
+ORD-10354,2024-02-23,Midwest,Toys,Action Figure,Sandra Garcia,17,128.33,0,2181.61,3.2
+ORD-10355,2023-07-08,Southeast,Food & Beverage,Honey Jar,Joseph Thomas,19,253.68,0.2,3855.94,2.3
+ORD-10356,2024-12-20,Midwest,Sports,Yoga Mat,Stephanie Wilson,9,34.0,0.25,229.5,3.3
+ORD-10357,2023-06-30,Southwest,Sports,Water Bottle,Gary Rodriguez,4,127.69,0.05,485.22,4.2
+ORD-10358,2023-12-28,Southeast,Electronics,Laptop Stand,Betty Clark,19,424.02,0.2,6445.1,1.9
+ORD-10359,2025-03-08,Southwest,Beauty,Body Lotion,Jonathan Scott,19,18.96,0.15,306.2,3.3
+ORD-10360,2022-03-19,Northeast,Sports,Running Belt,Mark Baker,18,157.98,0.25,2132.73,1.9
+ORD-10361,2025-06-11,Southeast,Sports,Yoga Mat,Kevin Sanchez,17,241.6,0.15,3491.12,1.5
+ORD-10362,2022-08-16,Southwest,Home & Garden,Scented Candle,Ashley Taylor,2,15.85,0,31.7,2.5
+ORD-10363,2023-09-11,Midwest,Clothing,Wool Sweater,Jonathan Scott,13,295.08,0.15,3260.63,4.9
+ORD-10364,2023-04-03,Southwest,Toys,Remote Car,Gary Rodriguez,11,91.23,0.15,853.0,1.7
+ORD-10365,2025-12-08,Southwest,Books,SQL Mastery,Jessica Scott,5,92.97,0,464.85,4.4
+ORD-10366,2025-08-02,Southwest,Electronics,USB-C Hub,Patricia Anderson,20,162.52,0.05,3087.88,4.7
+ORD-10367,2022-12-10,Northeast,Home & Garden,Scented Candle,Gary Rodriguez,3,122.81,0.15,313.17,3.8
+ORD-10368,2025-11-20,Northeast,Beauty,Makeup Brush Kit,Kimberly Wright,1,136.28,0.05,129.47,2.0
+ORD-10369,2022-12-07,West,Clothing,Cotton T-Shirt,Sandra Garcia,2,196.04,0.2,313.66,4.5
+ORD-10370,2022-11-30,West,Beauty,Nail Polish Set,Brenda Williams,4,415.26,0.05,1577.99,4.2
+ORD-10371,2022-06-01,Midwest,Electronics,Webcam,Betty Clark,1,162.76,0,162.76,4.6
+ORD-10372,2023-11-24,Southwest,Home & Garden,LED Desk Lamp,Andrew Hill,18,471.21,0,8481.78,4.6
+ORD-10373,2022-11-18,Northeast,Electronics,Phone Case,Patricia Anderson,6,305.62,0.2,1466.98,2.3
+ORD-10374,2025-09-14,Midwest,Sports,Cycling Gloves,Amanda Harris,18,362.41,0.1,5871.04,2.0
+ORD-10375,2022-11-11,Northeast,Electronics,Phone Case,Kimberly Wright,19,277.08,0.25,3948.39,1.0
+ORD-10376,2022-02-22,Southeast,Clothing,Casual Sneakers,Betty Clark,20,242.76,0,4855.2,3.6
+ORD-10377,2024-08-22,West,Clothing,Leather Belt,Ryan White,4,157.63,0.2,504.42,3.6
+ORD-10378,2024-01-27,Southeast,Clothing,Silk Scarf,Matthew Williams,6,188.66,0.2,905.57,1.2
+ORD-10379,2025-03-01,Northeast,Food & Beverage,Dark Chocolate,Jonathan Scott,9,116.99,0.1,947.62,4.0
+ORD-10380,2025-04-22,Southeast,Clothing,Denim Jeans,Gary Hernandez,12,405.05,0.2,3888.48,1.2
+ORD-10381,2025-03-18,Southeast,Toys,Stuffed Animal,Sandra Garcia,18,345.1,0.25,4658.85,2.2
+ORD-10382,2022-09-04,West,Toys,Building Blocks,Betty Clark,17,287.75,0,4891.75,4.8
+ORD-10383,2022-06-10,West,Home & Garden,Kitchen Scale,Mark Smith,7,67.46,0.2,377.78,5.0
+ORD-10384,2022-06-28,West,Home & Garden,Wall Clock,Gary Hernandez,11,455.85,0,5014.35,2.6
+ORD-10385,2025-12-05,Southwest,Beauty,Eye Cream,Melissa Nelson,17,231.79,0,3940.43,3.1
+ORD-10386,2022-08-05,Southwest,Toys,Board Game,Stephanie Wilson,14,79.07,0,1106.98,1.4
+ORD-10387,2025-03-17,Southwest,Books,Business Analytics,Sandra Garcia,14,135.75,0.25,1425.38,1.1
+ORD-10388,2022-03-21,West,Books,AI Ethics,Ryan White,5,311.03,0.2,1244.12,4.5
+ORD-10389,2022-02-11,Midwest,Sports,Yoga Mat,Gary Rodriguez,16,460.81,0.15,6267.02,4.2
+ORD-10390,2023-04-12,Southeast,Books,SQL Mastery,Amanda Harris,16,429.83,0,6877.28,4.9
+ORD-10391,2023-01-20,West,Food & Beverage,Honey Jar,Mark Smith,9,365.76,0,3291.84,4.7
+ORD-10392,2024-11-21,Southeast,Toys,Remote Car,Brenda Williams,17,434.26,0,7382.42,2.2
+ORD-10393,2022-12-22,Southeast,Toys,Puzzle Set,Ryan White,17,440.27,0,7484.59,4.3
+ORD-10394,2025-12-14,Southeast,Electronics,Laptop Stand,Emily Carter,2,230.94,0.15,392.6,2.5
+ORD-10395,2024-02-02,West,Food & Beverage,Granola,Andrew Hill,4,342.18,0.05,1300.28,2.8
+ORD-10396,2025-11-11,Northeast,Food & Beverage,Honey Jar,Amanda Harris,12,85.94,0.1,928.15,1.1
+ORD-10397,2023-03-30,Southeast,Electronics,USB-C Hub,Cynthia Green,19,391.02,0.05,7057.91,1.8
+ORD-10398,2025-08-18,Southeast,Toys,Building Blocks,Andrew Hill,1,239.68,0,239.68,4.2
+ORD-10399,2025-12-30,Midwest,Sports,Foam Roller,Donna Torres,20,403.52,0.1,7263.36,4.6
+ORD-10400,2025-10-18,Southwest,Beauty,Makeup Brush Kit,Gary Rodriguez,9,113.01,0.1,915.38,3.5
+ORD-10401,2025-02-23,Southwest,Clothing,Cotton T-Shirt,Andrew Hill,17,499.72,0.15,7220.95,2.1
+ORD-10402,2025-08-04,Midwest,Clothing,Leather Belt,Ashley Taylor,3,171.46,0.1,462.94,2.1
+ORD-10403,2022-04-27,Southwest,Books,Statistics Primer,Jessica Scott,5,261.06,0.05,1240.03,3.6
+ORD-10404,2024-05-07,West,Home & Garden,Ceramic Planter,Jessica Scott,16,498.75,0.1,7182.0,3.9
+ORD-10405,2025-10-07,Midwest,Sports,Tennis Balls,Sandra Moore,8,344.73,0.25,2068.38,2.2
+ORD-10406,2023-06-14,Southwest,Home & Garden,Throw Pillow,Stephanie Wilson,10,53.31,0,533.1,4.7
+ORD-10407,2024-05-11,Midwest,Beauty,Lip Balm Set,Kimberly Wright,8,180.87,0.1,1302.26,2.0
+ORD-10408,2024-08-25,Southeast,Books,Deep Learning Intro,Sandra Moore,4,237.92,0,951.68,1.5
+ORD-10409,2022-10-09,Southeast,Toys,Art Supply Kit,Richard Hill,14,31.76,0,444.64,2.6
+ORD-10410,2022-06-15,West,Food & Beverage,Protein Bars,Richard Hill,11,431.89,0,4750.79,3.5
+ORD-10411,2023-03-05,Southeast,Home & Garden,Scented Candle,Melissa Nelson,2,7.33,0.1,13.19,4.1
+ORD-10412,2024-04-06,West,Food & Beverage,Green Tea Pack,Sandra Garcia,5,309.17,0.2,1236.68,2.5
+ORD-10413,2024-12-23,Southeast,Electronics,Laptop Stand,Joseph Thomas,12,475.28,0.15,4847.86,3.7
+ORD-10414,2024-02-25,Southwest,Sports,Jump Rope,Melissa Nelson,12,159.49,0,1913.88,2.2
+ORD-10415,2024-12-01,Southwest,Clothing,Cotton T-Shirt,Sandra Moore,10,474.49,0.25,3558.67,2.4
+ORD-10416,2022-12-04,West,Home & Garden,Scented Candle,Joseph Thomas,16,182.83,0.05,2779.02,1.9
+ORD-10417,2022-09-10,Midwest,Home & Garden,Kitchen Scale,Mark Roberts,1,296.9,0,296.9,3.6
+ORD-10418,2025-05-01,Northeast,Electronics,Phone Case,Cynthia Green,9,386.77,0,3480.93,1.4
+ORD-10419,2022-09-11,Southwest,Electronics,Wireless Headphones,Emily Carter,4,211.3,0.2,676.16,2.9
+ORD-10420,2025-09-18,Southwest,Home & Garden,Kitchen Scale,Emily Carter,1,154.05,0,154.05,3.5
+ORD-10421,2023-08-02,Northeast,Home & Garden,Door Mat,Kevin Sanchez,4,258.23,0,1032.92,1.4
+ORD-10422,2024-01-04,West,Sports,Jump Rope,Amanda Harris,9,416.59,0.05,3561.84,1.6
+ORD-10423,2022-01-27,Northeast,Food & Beverage,Trail Mix,Mark Young,16,168.65,0,2698.4,1.4
+ORD-10424,2022-07-27,Midwest,Food & Beverage,Protein Bars,Lisa Hernandez,3,390.87,0,1172.61,1.9
+ORD-10425,2022-03-22,Midwest,Books,SQL Mastery,Kimberly Wright,15,29.79,0,446.85,4.2
+ORD-10426,2022-01-20,Southeast,Beauty,Nail Polish Set,Cynthia Green,4,52.02,0,208.08,3.6
+ORD-10427,2022-07-10,Midwest,Beauty,Body Lotion,Gary Rodriguez,15,477.77,0.1,6449.89,2.4
+ORD-10428,2024-02-29,West,Clothing,Silk Scarf,Kevin Sanchez,13,481.34,0.1,5631.68,2.7
+ORD-10429,2022-11-23,Northeast,Home & Garden,LED Desk Lamp,Donna Torres,5,349.6,0,1748.0,4.6
+ORD-10430,2025-06-06,Northeast,Food & Beverage,Dark Chocolate,Ashley Taylor,6,307.6,0.15,1568.76,3.7
+ORD-10431,2024-06-21,Northeast,Home & Garden,Shelf Organizer,Brenda Williams,16,60.9,0.2,779.52,2.0
+ORD-10432,2025-10-03,Midwest,Beauty,Face Moisturizer,Sandra Moore,17,384.93,0.05,6216.62,3.1
+ORD-10433,2022-11-01,Southwest,Clothing,Silk Scarf,Ryan White,8,243.56,0.2,1558.78,5.0
+ORD-10434,2024-10-12,Southeast,Electronics,Wireless Headphones,Brenda Williams,6,255.26,0.25,1148.67,4.0
+ORD-10435,2024-11-04,Southeast,Beauty,Hair Serum,Gary Hernandez,11,485.22,0,5337.42,3.6
+ORD-10436,2022-06-30,West,Toys,Action Figure,Matthew Williams,3,232.25,0.25,522.56,2.3
+ORD-10437,2025-02-15,Southwest,Food & Beverage,Organic Coffee,Joseph Thomas,4,204.7,0,818.8,4.3
+ORD-10438,2022-04-22,Southeast,Books,Statistics Primer,Ashley Taylor,15,475.43,0.15,6061.73,2.8
+ORD-10439,2022-01-05,Midwest,Food & Beverage,Honey Jar,Kimberly Wright,15,61.44,0.05,875.52,4.3
+ORD-10440,2024-10-05,Southeast,Books,Business Analytics,Gary Rodriguez,4,27.66,0,110.64,3.9
+ORD-10441,2022-09-05,West,Toys,Board Game,Mark Smith,9,307.37,0.05,2628.01,2.8
+ORD-10442,2025-07-20,Southwest,Sports,Tennis Balls,Patricia Anderson,4,379.79,0,1519.16,4.1
+ORD-10443,2024-10-18,Northeast,Food & Beverage,Dark Chocolate,Sandra Moore,19,478.31,0,9087.89,3.9
+ORD-10444,2025-11-17,Southwest,Toys,Remote Car,Betty Clark,17,391.64,0,6657.88,3.9
+ORD-10445,2024-10-29,West,Home & Garden,LED Desk Lamp,Donna Torres,13,330.47,0.15,3651.69,4.9
+ORD-10446,2024-07-16,Southeast,Sports,Foam Roller,Jonathan Scott,13,481.98,0.1,5639.17,2.7
+ORD-10447,2023-03-06,Southwest,Books,Business Analytics,Mark Roberts,18,318.13,0.05,5440.02,2.2
+ORD-10448,2025-12-25,Northeast,Beauty,Sunscreen SPF50,Stephanie Wilson,6,254.43,0.15,1297.59,2.4
+ORD-10449,2022-01-27,Southwest,Food & Beverage,Granola,Patricia Anderson,18,146.53,0.2,2110.03,1.1
+ORD-10450,2023-08-10,Midwest,Home & Garden,Ceramic Planter,Jonathan Scott,2,103.95,0,207.9,4.4
+ORD-10451,2022-07-29,Southwest,Books,Statistics Primer,Ashley Taylor,18,20.99,0.25,283.37,3.7
+ORD-10452,2025-11-20,Northeast,Sports,Cycling Gloves,Mark Young,8,257.91,0.1,1856.95,2.5
+ORD-10453,2023-02-20,Southwest,Toys,Card Game,Ashley Taylor,18,31.63,0.1,512.41,4.1
+ORD-10454,2023-02-01,Midwest,Food & Beverage,Trail Mix,Matthew Williams,12,378.78,0.05,4318.09,1.7
+ORD-10455,2024-02-12,Northeast,Clothing,Running Shoes,Donna Torres,6,368.86,0,2213.16,2.1
+ORD-10456,2022-01-12,Midwest,Books,Machine Learning Guide,Matthew Williams,6,294.07,0.1,1587.98,3.8
+ORD-10457,2025-07-04,Southwest,Home & Garden,Ceramic Planter,Gary Rodriguez,5,464.67,0,2323.35,3.6
+ORD-10458,2024-12-12,Southeast,Food & Beverage,Honey Jar,Betty Clark,3,393.1,0.15,1002.41,3.1
+ORD-10459,2023-12-17,Southeast,Home & Garden,Door Mat,Ryan White,18,270.83,0,4874.94,1.9
+ORD-10460,2025-02-23,Northeast,Beauty,Body Lotion,Patricia Anderson,12,150.32,0.25,1352.88,3.7
+ORD-10461,2022-03-23,Midwest,Food & Beverage,Trail Mix,Jessica Scott,20,459.71,0.05,8734.49,4.7
+ORD-10462,2022-02-20,Southwest,Clothing,Silk Scarf,Gary Rodriguez,9,272.42,0.1,2206.6,4.1
+ORD-10463,2023-10-19,Southwest,Food & Beverage,Dark Chocolate,Brenda Williams,2,151.73,0.05,288.29,4.8
+ORD-10464,2025-11-04,West,Home & Garden,Ceramic Planter,Gary Rodriguez,3,109.34,0.05,311.62,1.4
+ORD-10465,2022-03-19,Northeast,Toys,Board Game,Brenda Williams,5,16.76,0.15,71.23,1.2
+ORD-10466,2024-04-14,West,Books,Data Science Handbook,Matthew Williams,19,411.7,0.1,7040.07,3.5
+ORD-10467,2024-12-31,Northeast,Toys,Card Game,Lisa Hernandez,1,197.8,0,197.8,3.9
+ORD-10468,2023-08-17,Midwest,Clothing,Cotton T-Shirt,Andrew Hill,3,182.06,0,546.18,1.3
+ORD-10469,2024-08-28,Southeast,Food & Beverage,Granola,Gary Hernandez,13,411.95,0,5355.35,1.9
+ORD-10470,2022-01-23,Southwest,Toys,Art Supply Kit,Ashley Taylor,5,152.54,0.15,648.29,3.2
+ORD-10471,2025-01-05,Southwest,Clothing,Cotton T-Shirt,Brenda Williams,1,288.5,0.2,230.8,2.2
+ORD-10472,2022-11-26,Southeast,Beauty,Hair Serum,Charles Perez,14,453.29,0,6346.06,3.5
+ORD-10473,2025-01-29,West,Books,Statistics Primer,Lisa Hernandez,4,94.77,0,379.08,3.2
+ORD-10474,2023-11-09,Midwest,Books,Data Science Handbook,Jonathan Scott,9,53.61,0.25,361.87,3.7
+ORD-10475,2023-10-13,West,Sports,Resistance Bands,Matthew Williams,10,311.66,0.05,2960.77,2.3
+ORD-10476,2024-05-27,Southeast,Books,Machine Learning Guide,Joseph Thomas,19,285.6,0.15,4612.44,2.3
+ORD-10477,2025-10-23,Midwest,Sports,Cycling Gloves,Ryan White,9,420.85,0,3787.65,2.9
+ORD-10478,2022-12-26,Southwest,Food & Beverage,Honey Jar,Brenda Williams,10,246.05,0,2460.5,4.4
+ORD-10479,2022-06-04,Northeast,Home & Garden,Kitchen Scale,Ashley Taylor,9,368.1,0,3312.9,3.0
+ORD-10480,2025-02-03,Midwest,Electronics,Phone Case,Gary Hernandez,19,110.32,0,2096.08,4.6
+ORD-10481,2022-10-02,West,Food & Beverage,Protein Bars,Sandra Moore,12,199.29,0.1,2152.33,3.0
+ORD-10482,2025-06-11,Southeast,Toys,Card Game,Stephanie Wilson,17,10.24,0.05,165.38,3.1
+ORD-10483,2024-09-17,Midwest,Food & Beverage,Protein Bars,Mark Baker,6,285.35,0,1712.1,1.9
+ORD-10484,2022-03-29,Southeast,Food & Beverage,Trail Mix,Sandra Moore,3,135.86,0.05,387.2,4.6
+ORD-10485,2022-03-23,Midwest,Beauty,Nail Polish Set,Patricia Anderson,16,459.36,0,7349.76,3.8
+ORD-10486,2024-02-11,West,Books,SQL Mastery,Kimberly Wright,19,274.45,0,5214.55,3.4
+ORD-10487,2024-11-23,West,Clothing,Casual Sneakers,Kimberly Wright,13,486.47,0.05,6007.9,4.3
+ORD-10488,2024-10-24,Southeast,Beauty,Makeup Brush Kit,Matthew Williams,16,444.15,0,7106.4,1.7
+ORD-10489,2024-01-12,Southwest,Clothing,Casual Sneakers,Mark Roberts,7,79.37,0,555.59,4.3
+ORD-10490,2025-10-14,West,Sports,Cycling Gloves,Sandra Garcia,11,361.53,0.25,2982.62,1.8
+ORD-10491,2025-03-20,Southwest,Home & Garden,Door Mat,Betty Clark,1,125.62,0,125.62,1.5
+ORD-10492,2024-11-24,West,Electronics,USB-C Hub,Andrew Hill,2,87.34,0,174.68,4.9
+ORD-10493,2024-09-13,Southeast,Electronics,Webcam,Charles Perez,3,112.21,0.25,252.47,4.3
+ORD-10494,2022-12-10,Midwest,Home & Garden,Throw Pillow,Mark Young,20,331.53,0.1,5967.54,2.8
+ORD-10495,2022-02-03,Southeast,Clothing,Winter Jacket,Sandra Moore,13,195.8,0,2545.4,4.4
+ORD-10496,2025-06-13,Southwest,Toys,Puzzle Set,Mark Baker,20,52.67,0.25,790.05,4.5
+ORD-10497,2025-10-21,West,Clothing,Denim Jeans,Sandra Moore,16,331.4,0,5302.4,2.7
+ORD-10498,2024-02-20,Midwest,Electronics,Phone Case,Melissa Nelson,8,469.52,0.25,2817.12,4.2
+ORD-10499,2022-06-21,Midwest,Clothing,Silk Scarf,Andrew Hill,5,130.99,0.05,622.2,4.5
+ORD-10500,2025-03-29,Southwest,Toys,Art Supply Kit,Patricia Anderson,7,7.71,0,53.97,3.1
+ORD-10501,2022-11-13,West,Toys,Action Figure,Lisa Hernandez,11,207.38,0,2281.18,3.3
+ORD-10502,2025-10-25,West,Books,AI Ethics,Stephanie Wilson,19,185.99,0.1,3180.43,1.8
+ORD-10503,2023-06-04,Midwest,Food & Beverage,Protein Bars,Melissa Nelson,12,281.75,0.25,2535.75,2.4
+ORD-10504,2025-12-03,Southeast,Toys,Puzzle Set,Patricia Anderson,4,375.17,0.25,1125.51,1.9
+ORD-10505,2022-11-26,West,Toys,Card Game,Lisa Hernandez,18,308.94,0,5560.92,1.0
+ORD-10506,2022-06-30,Northeast,Clothing,Running Shoes,Emily Carter,16,463.3,0.2,5930.24,1.9
+ORD-10507,2025-06-11,Southwest,Clothing,Cotton T-Shirt,Amanda Harris,13,465.69,0.2,4843.18,3.8
+ORD-10508,2025-09-07,Southwest,Electronics,USB-C Hub,Amanda Harris,16,222.29,0.05,3378.81,1.8
+ORD-10509,2022-11-19,Northeast,Sports,Water Bottle,Emily Carter,2,183.07,0,366.14,4.1
+ORD-10510,2025-12-12,Northeast,Beauty,Nail Polish Set,Mark Young,13,295.11,0,3836.43,1.4
+ORD-10511,2023-04-09,Southwest,Books,Business Analytics,Mark Smith,12,481.83,0.1,5203.76,2.8
+ORD-10512,2025-02-18,Northeast,Toys,Building Blocks,Sandra Moore,9,91.64,0,824.76,2.2
+ORD-10513,2025-11-22,West,Clothing,Casual Sneakers,Jessica Scott,18,407.51,0.1,6601.66,3.3
+ORD-10514,2024-09-14,Northeast,Sports,Tennis Balls,Emily Carter,15,342.39,0,5135.85,1.3
+ORD-10515,2024-11-23,Southwest,Sports,Jump Rope,Joseph Thomas,11,209.15,0.15,1955.55,3.8
+ORD-10516,2022-06-05,Southwest,Books,Statistics Primer,Mark Young,10,51.04,0.15,433.84,1.7
+ORD-10517,2023-01-10,Southeast,Beauty,Body Lotion,Sandra Garcia,7,447.69,0.1,2820.45,3.9
+ORD-10518,2023-05-27,Southwest,Sports,Jump Rope,Kimberly Wright,9,107.36,0.05,917.93,1.6
+ORD-10519,2025-06-11,Northeast,Clothing,Denim Jeans,Stephanie Wilson,3,339.53,0.25,763.94,4.4
+ORD-10520,2025-03-22,Midwest,Electronics,Portable Charger,Sandra Garcia,12,312.23,0.25,2810.07,1.7
+ORD-10521,2022-04-21,Southwest,Books,AI Ethics,Kevin Sanchez,8,376.33,0,3010.64,2.7
+ORD-10522,2024-07-25,Northeast,Electronics,Smart Watch,Mark Roberts,13,430.9,0,5601.7,3.1
+ORD-10523,2025-04-04,Northeast,Beauty,Face Moisturizer,Richard Hill,1,338.68,0.2,270.94,2.4
+ORD-10524,2024-08-23,Southwest,Books,Machine Learning Guide,Richard Hill,18,135.11,0.1,2188.78,2.5
+ORD-10525,2024-01-18,West,Food & Beverage,Granola,Emily Carter,7,212.45,0.15,1264.08,2.8
+ORD-10526,2025-02-11,West,Home & Garden,Kitchen Scale,Ashley Taylor,4,361.8,0.05,1374.84,2.5
+ORD-10527,2024-05-13,West,Home & Garden,Throw Pillow,Jonathan Scott,16,403.81,0,6460.96,5.0
+ORD-10528,2024-03-26,Northeast,Beauty,Makeup Brush Kit,Mark Roberts,10,129.23,0,1292.3,1.7
+ORD-10529,2024-07-10,Midwest,Sports,Foam Roller,Emily Carter,16,420.29,0,6724.64,2.4
+ORD-10530,2025-10-23,Southwest,Books,Business Analytics,Mark Smith,1,208.82,0.15,177.5,3.3
+ORD-10531,2024-07-04,Northeast,Home & Garden,Wall Clock,Jessica Scott,12,165.92,0.25,1493.28,3.5
+ORD-10532,2024-05-13,Southwest,Food & Beverage,Protein Bars,Melissa Nelson,6,322.09,0.15,1642.66,2.6
+ORD-10533,2023-10-11,Midwest,Clothing,Denim Jeans,Mark Roberts,6,175.09,0.15,892.96,2.1
+ORD-10534,2025-04-17,Southwest,Toys,Art Supply Kit,Matthew Williams,15,391.58,0.15,4992.64,2.7
+ORD-10535,2025-12-06,Northeast,Home & Garden,Ceramic Planter,Mark Smith,5,365.25,0.1,1643.62,1.7
+ORD-10536,2025-01-28,Northeast,Clothing,Denim Jeans,Joseph Thomas,3,468.71,0.25,1054.6,4.1
+ORD-10537,2025-09-03,West,Clothing,Denim Jeans,Amanda Harris,9,310.96,0,2798.64,1.9
+ORD-10538,2022-02-28,Northeast,Books,Deep Learning Intro,Cynthia Green,5,69.98,0,349.9,2.4
+ORD-10539,2025-01-28,West,Beauty,Makeup Brush Kit,Jonathan Scott,15,487.62,0.1,6582.87,4.9
+ORD-10540,2023-12-13,West,Home & Garden,Shelf Organizer,Gary Hernandez,19,220.31,0.1,3767.3,1.9
+ORD-10541,2022-11-15,Midwest,Clothing,Leather Belt,Joseph Thomas,10,186.06,0.1,1674.54,1.0
+ORD-10542,2025-11-09,West,Home & Garden,Scented Candle,Stephanie Wilson,10,237.25,0,2372.5,2.9
+ORD-10543,2025-01-27,Midwest,Electronics,Phone Case,Mark Smith,10,300.52,0,3005.2,2.6
+ORD-10544,2024-02-14,Southeast,Toys,Stuffed Animal,Emily Carter,8,85.82,0.2,549.25,1.3
+ORD-10545,2024-04-25,Southeast,Sports,Foam Roller,Ashley Taylor,10,325.99,0.1,2933.91,1.3
+ORD-10546,2023-07-12,Southwest,Home & Garden,Wall Clock,Sandra Garcia,4,320.26,0.25,960.78,1.8
+ORD-10547,2023-01-16,Northeast,Electronics,USB-C Hub,Amanda Harris,2,485.01,0,970.02,2.1
+ORD-10548,2024-10-07,Southeast,Food & Beverage,Organic Coffee,Richard Hill,8,49.65,0,397.2,2.7
+ORD-10549,2023-11-08,Northeast,Food & Beverage,Honey Jar,Gary Rodriguez,15,349.98,0,5249.7,4.0
+ORD-10550,2025-01-17,West,Home & Garden,Ceramic Planter,Betty Clark,9,388.95,0,3500.55,1.8
+ORD-10551,2024-02-28,West,Books,AI Ethics,Charles Perez,1,65.37,0.05,62.1,4.0
+ORD-10552,2024-12-03,Southeast,Electronics,Laptop Stand,Sandra Garcia,15,368.98,0,5534.7,2.6
+ORD-10553,2025-01-30,Southwest,Books,Business Analytics,Patricia Anderson,6,316.44,0,1898.64,2.0
+ORD-10554,2022-08-20,Southeast,Books,Statistics Primer,Lisa Hernandez,12,444.32,0.05,5065.25,2.7
+ORD-10555,2023-05-13,Northeast,Electronics,USB-C Hub,Mark Baker,9,294.42,0.2,2119.82,3.3
+ORD-10556,2022-11-19,West,Food & Beverage,Protein Bars,Brenda Williams,12,386.54,0.05,4406.56,3.7
+ORD-10557,2025-12-07,Southwest,Beauty,Face Moisturizer,Kevin Sanchez,2,180.98,0,361.96,1.4
+ORD-10558,2024-06-17,Southeast,Food & Beverage,Trail Mix,Joseph Thomas,11,490.93,0.15,4590.2,3.8
+ORD-10559,2025-12-18,West,Beauty,Sunscreen SPF50,Gary Hernandez,9,449.84,0.25,3036.42,2.2
+ORD-10560,2023-10-25,West,Food & Beverage,Trail Mix,Emily Carter,19,97.38,0.15,1572.69,4.5
+ORD-10561,2023-06-24,Southwest,Home & Garden,LED Desk Lamp,Kimberly Wright,17,81.74,0.1,1250.62,2.8
+ORD-10562,2025-06-24,Southeast,Toys,Puzzle Set,Richard Hill,1,311.77,0.15,265.0,3.9
+ORD-10563,2025-06-09,Midwest,Toys,Action Figure,Richard Hill,17,343.2,0,5834.4,2.6
+ORD-10564,2022-03-31,Southeast,Beauty,Lip Balm Set,Betty Clark,4,263.98,0,1055.92,4.5
+ORD-10565,2025-03-15,West,Sports,Resistance Bands,Cynthia Green,16,99.85,0,1597.6,3.0
+ORD-10566,2022-01-27,Southeast,Books,Python Cookbook,Lisa Hernandez,12,114.26,0,1371.12,3.0
+ORD-10567,2024-01-26,Northeast,Clothing,Leather Belt,Gary Rodriguez,2,183.66,0.2,293.86,3.5
+ORD-10568,2024-11-29,Northeast,Electronics,Bluetooth Speaker,Patricia Anderson,10,43.58,0.05,414.01,3.9
+ORD-10569,2025-03-13,Southeast,Toys,Action Figure,Gary Hernandez,7,265.47,0.05,1765.38,4.0
+ORD-10570,2025-12-09,West,Toys,Board Game,Ryan White,19,182.19,0.25,2596.21,1.4
+ORD-10571,2024-12-29,Southwest,Home & Garden,Door Mat,Matthew Williams,17,172.07,0,2925.19,4.7
+ORD-10572,2023-10-25,Southwest,Beauty,Body Lotion,Charles Perez,12,209.11,0.2,2007.46,3.3
+ORD-10573,2024-01-08,West,Sports,Cycling Gloves,Matthew Williams,18,463.44,0.1,7507.73,4.8
+ORD-10574,2023-09-11,Northeast,Electronics,Wireless Headphones,Amanda Harris,10,299.9,0,2999.0,4.9
+ORD-10575,2025-02-07,Southwest,Sports,Tennis Balls,Gary Hernandez,1,386.9,0.1,348.21,3.3
+ORD-10576,2022-10-11,Midwest,Home & Garden,LED Desk Lamp,Kimberly Wright,2,232.88,0,465.76,4.6
+ORD-10577,2025-03-14,West,Sports,Jump Rope,Melissa Nelson,9,406.48,0,3658.32,4.7
+ORD-10578,2025-05-04,Midwest,Clothing,Wool Sweater,Mark Baker,16,90.59,0,1449.44,3.9
+ORD-10579,2023-12-14,West,Toys,Board Game,Donna Torres,2,461.33,0.15,784.26,4.7
+ORD-10580,2022-04-21,Midwest,Clothing,Winter Jacket,Sandra Moore,20,464.68,0.2,7434.88,1.2
+ORD-10581,2022-04-14,West,Home & Garden,Scented Candle,Matthew Williams,17,350.4,0,5956.8,4.0
+ORD-10582,2022-10-31,Southeast,Clothing,Winter Jacket,Richard Hill,14,148.44,0.2,1662.53,1.3
+ORD-10583,2025-11-30,Southeast,Electronics,Phone Case,Stephanie Wilson,9,47.11,0.2,339.19,1.5
+ORD-10584,2025-02-23,Southwest,Sports,Running Belt,Linda Lee,13,327.86,0.05,4049.07,3.1
+ORD-10585,2025-11-03,Southwest,Sports,Resistance Bands,Brenda Williams,9,389.5,0.15,2979.67,1.5
+ORD-10586,2023-12-07,Southwest,Toys,Stuffed Animal,Lisa Hernandez,12,177.41,0.15,1809.58,1.1
+ORD-10587,2025-06-30,Southeast,Books,Machine Learning Guide,Matthew Williams,12,310.03,0.25,2790.27,1.2
+ORD-10588,2022-08-19,Northeast,Sports,Jump Rope,Charles Perez,12,82.22,0,986.64,4.8
+ORD-10589,2023-09-17,West,Home & Garden,Wall Clock,Sandra Garcia,1,174.92,0,174.92,1.1
+ORD-10590,2025-01-28,West,Sports,Jump Rope,Andrew Hill,7,275.48,0.1,1735.52,3.9
+ORD-10591,2023-06-08,Southeast,Home & Garden,Ceramic Planter,Mark Baker,13,293.59,0,3816.67,2.1
+ORD-10592,2022-05-17,West,Books,Python Cookbook,Cynthia Green,15,329.11,0,4936.65,2.1
+ORD-10593,2023-04-19,West,Beauty,Lip Balm Set,Sandra Moore,1,149.79,0.2,119.83,4.9
+ORD-10594,2023-01-17,Southeast,Clothing,Wool Sweater,Sandra Moore,16,434.05,0,6944.8,4.9
+ORD-10595,2023-11-15,West,Electronics,Wireless Headphones,Jessica Scott,8,461.52,0.1,3322.94,4.0
+ORD-10596,2023-04-29,Southwest,Electronics,Smart Watch,Emily Carter,12,180.91,0.1,1953.83,4.2
+ORD-10597,2023-04-07,Southeast,Books,AI Ethics,Richard Hill,1,472.35,0.1,425.12,4.6
+ORD-10598,2024-05-04,Southeast,Home & Garden,LED Desk Lamp,Melissa Nelson,13,262.76,0.05,3245.09,1.6
+ORD-10599,2025-08-29,Southeast,Books,Business Analytics,Melissa Nelson,15,273.41,0.05,3896.09,3.2
+ORD-10600,2024-05-30,Southeast,Sports,Water Bottle,Lisa Hernandez,10,345.82,0,3458.2,4.7
+ORD-10601,2023-01-13,Midwest,Home & Garden,Scented Candle,Gary Rodriguez,3,280.88,0,842.64,4.5
+ORD-10602,2024-06-26,Midwest,Electronics,Smart Watch,Jonathan Scott,14,480.79,0.1,6057.95,4.1
+ORD-10603,2025-05-25,Southwest,Clothing,Running Shoes,Andrew Hill,6,17.97,0.1,97.04,1.9
+ORD-10604,2022-10-02,Southwest,Sports,Jump Rope,Ashley Taylor,1,182.83,0.25,137.12,3.4
+ORD-10605,2022-12-02,Southeast,Beauty,Sunscreen SPF50,Charles Perez,13,248.27,0,3227.51,1.1
+ORD-10606,2023-02-23,Northeast,Electronics,Webcam,Betty Clark,14,115.16,0.05,1531.63,4.7
+ORD-10607,2024-05-25,West,Food & Beverage,Dark Chocolate,Stephanie Wilson,11,434.05,0.05,4535.82,1.2
+ORD-10608,2024-12-02,Northeast,Toys,Card Game,Matthew Williams,13,307.69,0,3999.97,2.8
+ORD-10609,2025-02-16,West,Electronics,Laptop Stand,Sandra Moore,17,271.25,0,4611.25,4.1
+ORD-10610,2023-08-09,West,Electronics,Laptop Stand,Betty Clark,10,222.58,0.1,2003.22,2.7
+ORD-10611,2022-07-05,Southwest,Electronics,USB-C Hub,Patricia Anderson,15,415.8,0.25,4677.75,1.7
+ORD-10612,2023-01-02,West,Home & Garden,Door Mat,Melissa Nelson,14,165.11,0,2311.54,4.6
+ORD-10613,2022-09-11,Northeast,Sports,Running Belt,Patricia Anderson,3,128.79,0,386.37,3.8
+ORD-10614,2024-02-15,Southwest,Beauty,Lip Balm Set,Jessica Scott,17,355.1,0,6036.7,1.2
+ORD-10615,2022-11-29,Southeast,Home & Garden,Scented Candle,Betty Clark,19,436.3,0,8289.7,4.1
+ORD-10616,2023-08-15,Southeast,Electronics,Phone Case,Patricia Anderson,10,158.21,0.25,1186.58,4.6
+ORD-10617,2024-07-28,West,Sports,Yoga Mat,Ashley Taylor,20,383.87,0,7677.4,3.0
+ORD-10618,2024-07-18,West,Electronics,Portable Charger,Matthew Williams,8,112.35,0.25,674.1,1.3
+ORD-10619,2022-04-11,Southeast,Electronics,Laptop Stand,Jonathan Scott,18,142.67,0.05,2439.66,1.2
+ORD-10620,2023-11-10,Northeast,Beauty,Face Moisturizer,Mark Baker,5,427.65,0.1,1924.42,1.4
+ORD-10621,2024-07-21,Southwest,Home & Garden,Throw Pillow,Kimberly Wright,10,307.49,0,3074.9,4.7
+ORD-10622,2022-05-19,West,Clothing,Casual Sneakers,Gary Rodriguez,11,187.44,0.2,1649.47,3.2
+ORD-10623,2023-11-06,Southwest,Books,Deep Learning Intro,Donna Torres,5,65.4,0.1,294.3,3.1
+ORD-10624,2024-09-17,Southwest,Sports,Yoga Mat,Mark Young,4,287.83,0,1151.32,4.2
+ORD-10625,2024-12-12,Southwest,Books,AI Ethics,Andrew Hill,20,424.66,0.1,7643.88,2.4
+ORD-10626,2024-10-05,Southeast,Home & Garden,Shelf Organizer,Ryan White,17,365.95,0.25,4665.86,3.4
+ORD-10627,2025-07-04,Northeast,Books,Statistics Primer,Linda Lee,1,63.51,0.25,47.63,4.4
+ORD-10628,2022-01-24,Southeast,Toys,Stuffed Animal,Mark Roberts,2,170.23,0.05,323.44,2.1
+ORD-10629,2022-01-13,Northeast,Clothing,Casual Sneakers,Cynthia Green,10,255.81,0.15,2174.38,2.3
+ORD-10630,2025-10-09,West,Toys,Building Blocks,Mark Young,6,101.04,0.15,515.3,2.9
+ORD-10631,2025-01-04,Midwest,Electronics,USB-C Hub,Matthew Williams,16,81.92,0.25,983.04,4.1
+ORD-10632,2025-02-11,Southwest,Toys,Building Blocks,Joseph Thomas,17,153.18,0.15,2213.45,1.8
+ORD-10633,2022-03-05,Midwest,Beauty,Body Lotion,Jessica Scott,3,484.96,0.1,1309.39,3.5
+ORD-10634,2025-12-15,Midwest,Home & Garden,Door Mat,Mark Roberts,6,299.62,0.1,1617.95,1.1
+ORD-10635,2024-07-14,Midwest,Toys,Board Game,Mark Smith,16,439.14,0.15,5972.3,3.1
+ORD-10636,2022-07-09,West,Home & Garden,LED Desk Lamp,Sandra Moore,12,393.55,0.05,4486.47,1.1
+ORD-10637,2024-12-08,Midwest,Food & Beverage,Protein Bars,Stephanie Wilson,7,173.36,0.25,910.14,2.3
+ORD-10638,2024-03-04,Southwest,Clothing,Running Shoes,Patricia Anderson,7,363.66,0.25,1909.22,1.0
+ORD-10639,2022-07-31,Southwest,Electronics,Bluetooth Speaker,Stephanie Wilson,11,236.1,0,2597.1,3.6
+ORD-10640,2023-10-20,Southeast,Books,Python Cookbook,Mark Smith,19,380.45,0.05,6867.12,2.1
+ORD-10641,2023-07-15,Northeast,Beauty,Makeup Brush Kit,Joseph Thomas,4,139.96,0,559.84,4.8
+ORD-10642,2023-07-10,Southeast,Clothing,Winter Jacket,Mark Roberts,18,178.41,0.15,2729.67,4.2
+ORD-10643,2025-01-12,West,Sports,Water Bottle,Mark Baker,3,159.13,0.15,405.78,1.5
+ORD-10644,2024-05-23,West,Food & Beverage,Organic Coffee,Betty Clark,4,194.88,0,779.52,3.8
+ORD-10645,2025-12-31,Southwest,Food & Beverage,Honey Jar,Brenda Williams,10,169.5,0.05,1610.25,4.9
+ORD-10646,2022-07-19,West,Food & Beverage,Protein Bars,Amanda Harris,3,407.36,0.25,916.56,3.7
+ORD-10647,2025-06-17,Midwest,Food & Beverage,Dark Chocolate,Mark Young,8,473.99,0,3791.92,2.5
+ORD-10648,2022-05-14,West,Home & Garden,Scented Candle,Patricia Anderson,11,229.38,0,2523.18,2.4
+ORD-10649,2024-11-06,Northeast,Food & Beverage,Protein Bars,Jessica Scott,10,385.13,0,3851.3,4.3
+ORD-10650,2024-12-27,West,Clothing,Wool Sweater,Jessica Scott,18,326.48,0.1,5288.98,3.4
+ORD-10651,2024-02-26,Northeast,Sports,Jump Rope,Richard Hill,18,83.72,0.25,1130.22,1.8
+ORD-10652,2022-12-21,Northeast,Toys,Stuffed Animal,Linda Lee,19,394.73,0.05,7124.88,4.7
+ORD-10653,2025-02-10,Northeast,Food & Beverage,Green Tea Pack,Gary Rodriguez,19,300.06,0.15,4845.97,2.8
+ORD-10654,2023-11-02,West,Books,AI Ethics,Lisa Hernandez,3,301.14,0.2,722.74,3.6
+ORD-10655,2022-10-28,Southeast,Clothing,Winter Jacket,Matthew Williams,5,444.19,0,2220.95,3.1
+ORD-10656,2023-09-06,Southwest,Toys,Remote Car,Kevin Sanchez,7,106.8,0.15,635.46,4.7
+ORD-10657,2025-06-06,Southwest,Books,AI Ethics,Jessica Scott,12,495.19,0,5942.28,4.4
+ORD-10658,2022-01-02,Southwest,Books,Python Cookbook,Gary Rodriguez,12,451.03,0,5412.36,4.9
+ORD-10659,2025-07-04,Midwest,Clothing,Casual Sneakers,Mark Roberts,1,121.44,0.2,97.15,2.5
+ORD-10660,2024-08-30,Southeast,Toys,Stuffed Animal,Mark Smith,18,109.55,0,1971.9,3.2
+ORD-10661,2022-10-03,Northeast,Beauty,Nail Polish Set,Brenda Williams,5,147.79,0,738.95,3.6
+ORD-10662,2022-06-23,Southeast,Home & Garden,Shelf Organizer,Lisa Hernandez,14,487.61,0,6826.54,4.2
+ORD-10663,2025-02-04,West,Food & Beverage,Granola,Jessica Scott,20,94.0,0.2,1504.0,2.4
+ORD-10664,2023-04-30,Southwest,Home & Garden,Door Mat,Emily Carter,20,8.68,0.25,130.2,2.6
+ORD-10665,2022-08-20,Southwest,Beauty,Face Moisturizer,Sandra Garcia,2,286.23,0.15,486.59,4.8
+ORD-10666,2024-08-10,Southwest,Clothing,Running Shoes,Brenda Williams,17,491.87,0.1,7525.61,3.1
+ORD-10667,2025-11-01,Southwest,Clothing,Winter Jacket,Kevin Sanchez,16,317.18,0,5074.88,3.3
+ORD-10668,2024-07-18,Southwest,Electronics,Smart Watch,Ryan White,18,390.37,0.25,5269.99,2.9
+ORD-10669,2023-08-16,Southeast,Beauty,Nail Polish Set,Mark Baker,12,480.49,0.1,5189.29,3.8
+ORD-10670,2025-03-19,Northeast,Books,SQL Mastery,Cynthia Green,2,316.5,0,633.0,5.0
+ORD-10671,2023-07-24,Midwest,Electronics,Webcam,Jonathan Scott,16,45.84,0,733.44,3.5
+ORD-10672,2025-04-26,Southeast,Books,SQL Mastery,Cynthia Green,1,372.01,0,372.01,2.8
+ORD-10673,2023-12-04,Northeast,Home & Garden,Wall Clock,Jonathan Scott,8,245.03,0,1960.24,3.4
+ORD-10674,2025-09-15,West,Home & Garden,Shelf Organizer,Linda Lee,14,386.33,0.05,5138.19,3.6
+ORD-10675,2022-04-18,Southeast,Sports,Tennis Balls,Matthew Williams,2,322.92,0,645.84,2.6
+ORD-10676,2024-08-29,Midwest,Books,Deep Learning Intro,Jonathan Scott,18,120.66,0.2,1737.5,3.1
+ORD-10677,2024-02-22,Midwest,Toys,Building Blocks,Sandra Moore,10,463.98,0.25,3479.85,3.7
+ORD-10678,2025-06-04,Midwest,Electronics,Bluetooth Speaker,Richard Hill,18,320.52,0.2,4615.49,2.1
+ORD-10679,2025-10-08,Southwest,Clothing,Casual Sneakers,Stephanie Wilson,19,198.62,0.05,3585.09,1.8
+ORD-10680,2022-05-20,Northeast,Beauty,Sunscreen SPF50,Donna Torres,11,276.07,0,3036.77,1.4
+ORD-10681,2023-05-31,Southeast,Clothing,Leather Belt,Mark Baker,12,113.61,0.1,1226.99,1.1
+ORD-10682,2025-05-12,Northeast,Clothing,Cotton T-Shirt,Mark Roberts,20,330.02,0.05,6270.38,4.8
+ORD-10683,2022-08-16,Southeast,Clothing,Running Shoes,Emily Carter,13,329.92,0,4288.96,2.2
+ORD-10684,2023-06-12,Southeast,Clothing,Leather Belt,Stephanie Wilson,9,385.83,0.15,2951.6,1.3
+ORD-10685,2023-06-13,Midwest,Electronics,Phone Case,Betty Clark,13,169.66,0,2205.58,2.8
+ORD-10686,2022-08-11,Southeast,Food & Beverage,Trail Mix,Gary Hernandez,20,199.35,0.25,2990.25,4.1
+ORD-10687,2022-03-13,Northeast,Sports,Resistance Bands,Brenda Williams,15,359.12,0,5386.8,3.3
+ORD-10688,2025-08-30,Northeast,Books,Deep Learning Intro,Mark Young,1,448.77,0,448.77,1.2
+ORD-10689,2025-03-22,Northeast,Toys,Art Supply Kit,Sandra Moore,5,351.53,0.2,1406.12,3.8
+ORD-10690,2025-01-11,Southeast,Food & Beverage,Dark Chocolate,Joseph Thomas,14,204.94,0,2869.16,2.5
+ORD-10691,2023-11-14,Midwest,Food & Beverage,Green Tea Pack,Jessica Scott,19,269.98,0.15,4360.18,1.2
+ORD-10692,2022-06-14,West,Clothing,Wool Sweater,Stephanie Wilson,18,427.4,0.15,6539.22,4.1
+ORD-10693,2025-09-15,Southeast,Sports,Water Bottle,Amanda Harris,18,24.47,0.2,352.37,3.8
+ORD-10694,2023-01-24,Southeast,Clothing,Wool Sweater,Mark Baker,16,47.01,0.25,564.12,1.8
+ORD-10695,2024-10-20,Southwest,Sports,Running Belt,Gary Rodriguez,13,36.18,0.1,423.31,4.2
+ORD-10696,2024-04-10,Northeast,Electronics,Wireless Headphones,Mark Smith,11,32.75,0,360.25,4.2
+ORD-10697,2022-03-17,Southeast,Food & Beverage,Protein Bars,Sandra Garcia,19,120.33,0,2286.27,3.6
+ORD-10698,2022-01-30,Southeast,Food & Beverage,Organic Coffee,Lisa Hernandez,8,352.14,0,2817.12,1.2
+ORD-10699,2022-08-06,Northeast,Books,Data Science Handbook,Sandra Garcia,15,307.56,0,4613.4,3.4
+ORD-10700,2023-10-27,Northeast,Sports,Resistance Bands,Cynthia Green,7,215.97,0.2,1209.43,3.3
+ORD-10701,2023-11-19,Northeast,Home & Garden,Scented Candle,Patricia Anderson,7,383.29,0,2683.03,2.1
+ORD-10702,2023-05-14,Southwest,Toys,Puzzle Set,Mark Baker,12,278.94,0.25,2510.46,1.5
+ORD-10703,2022-01-14,Northeast,Toys,Puzzle Set,Betty Clark,1,440.42,0,440.42,4.7
+ORD-10704,2022-10-21,Midwest,Books,AI Ethics,Sandra Moore,16,347.72,0.05,5285.34,2.8
+ORD-10705,2024-10-20,Southwest,Sports,Water Bottle,Brenda Williams,20,347.38,0,6947.6,3.5
+ORD-10706,2023-01-29,Northeast,Books,Business Analytics,Sandra Moore,14,7.26,0.05,96.56,4.9
+ORD-10707,2023-07-21,Northeast,Beauty,Hair Serum,Mark Smith,15,386.31,0.05,5504.92,1.5
+ORD-10708,2022-04-21,Midwest,Home & Garden,Shelf Organizer,Amanda Harris,16,92.28,0,1476.48,1.8
+ORD-10709,2022-03-30,Northeast,Books,Business Analytics,Linda Lee,20,403.55,0.25,6053.25,1.2
+ORD-10710,2022-05-26,Southeast,Home & Garden,Throw Pillow,Linda Lee,1,245.11,0,245.11,2.8
+ORD-10711,2023-04-17,Northeast,Beauty,Nail Polish Set,Richard Hill,7,374.81,0.15,2230.12,1.9
+ORD-10712,2022-05-31,West,Sports,Cycling Gloves,Melissa Nelson,7,190.89,0.05,1269.42,2.9
+ORD-10713,2022-12-31,West,Toys,Puzzle Set,Kimberly Wright,7,464.3,0.25,2437.57,1.5
+ORD-10714,2022-03-07,Southwest,Sports,Tennis Balls,Mark Baker,9,105.09,0,945.81,2.1
+ORD-10715,2023-03-27,Midwest,Clothing,Leather Belt,Andrew Hill,15,212.02,0.15,2703.26,1.6
+ORD-10716,2023-03-20,Southwest,Home & Garden,Kitchen Scale,Sandra Garcia,3,208.79,0.25,469.78,4.3
+ORD-10717,2023-05-23,Midwest,Books,Python Cookbook,Donna Torres,14,369.41,0.05,4913.15,3.3
+ORD-10718,2024-08-21,Southwest,Home & Garden,Ceramic Planter,Mark Baker,14,490.19,0,6862.66,2.7
+ORD-10719,2022-06-20,Southwest,Toys,Remote Car,Stephanie Wilson,4,228.96,0.05,870.05,1.0
+ORD-10720,2025-08-19,Northeast,Toys,Action Figure,Joseph Thomas,5,182.41,0.05,866.45,2.9
+ORD-10721,2024-07-20,West,Books,Machine Learning Guide,Stephanie Wilson,15,429.67,0,6445.05,1.6
+ORD-10722,2025-07-08,Northeast,Toys,Puzzle Set,Jessica Scott,12,315.27,0,3783.24,4.6
+ORD-10723,2025-11-30,Southwest,Beauty,Face Moisturizer,Gary Hernandez,10,215.82,0.1,1942.38,3.3
+ORD-10724,2024-11-20,Midwest,Sports,Resistance Bands,Ryan White,20,441.02,0,8820.4,1.2
+ORD-10725,2024-01-21,Southeast,Toys,Card Game,Lisa Hernandez,15,311.47,0.15,3971.24,3.2
+ORD-10726,2025-01-10,Northeast,Clothing,Winter Jacket,Lisa Hernandez,5,490.72,0.05,2330.92,2.9
+ORD-10727,2024-10-28,West,Sports,Jump Rope,Emily Carter,11,179.59,0.1,1777.94,1.2
+ORD-10728,2024-08-20,Southwest,Beauty,Body Lotion,Cynthia Green,15,245.68,0,3685.2,4.3
+ORD-10729,2023-01-21,West,Books,Deep Learning Intro,Brenda Williams,20,187.23,0,3744.6,1.3
+ORD-10730,2022-08-18,Southeast,Home & Garden,Wall Clock,Sandra Garcia,3,59.14,0.1,159.68,1.6
+ORD-10731,2024-08-28,Midwest,Sports,Yoga Mat,Donna Torres,10,211.19,0,2111.9,2.8
+ORD-10732,2024-11-30,Midwest,Electronics,Webcam,Donna Torres,7,36.16,0.05,240.46,3.3
+ORD-10733,2024-07-26,Midwest,Beauty,Makeup Brush Kit,Melissa Nelson,19,334.6,0.25,4768.05,1.5
+ORD-10734,2023-08-14,Northeast,Books,Machine Learning Guide,Jonathan Scott,9,117.26,0.15,897.04,2.4
+ORD-10735,2023-01-09,Southeast,Food & Beverage,Protein Bars,Gary Rodriguez,20,462.45,0.1,8324.1,3.8
+ORD-10736,2025-03-22,Southeast,Home & Garden,Throw Pillow,Matthew Williams,8,62.87,0.15,427.52,2.0
+ORD-10737,2023-12-06,Southeast,Home & Garden,Kitchen Scale,Kimberly Wright,18,355.03,0.15,5431.96,2.8
+ORD-10738,2024-10-19,Southeast,Home & Garden,Wall Clock,Matthew Williams,4,460.61,0.2,1473.95,4.7
+ORD-10739,2025-08-18,Midwest,Home & Garden,Ceramic Planter,Sandra Garcia,18,487.92,0.15,7465.18,4.6
+ORD-10740,2022-03-24,Southeast,Home & Garden,Shelf Organizer,Cynthia Green,11,346.13,0.25,2855.57,3.2
+ORD-10741,2024-07-02,Midwest,Books,Python Cookbook,Brenda Williams,13,310.67,0.05,3836.77,2.3
+ORD-10742,2025-01-07,West,Sports,Jump Rope,Cynthia Green,9,101.88,0,916.92,3.7
+ORD-10743,2025-09-27,Midwest,Clothing,Silk Scarf,Jessica Scott,7,247.78,0,1734.46,1.6
+ORD-10744,2023-12-08,Midwest,Toys,Card Game,Amanda Harris,13,189.55,0.1,2217.74,4.9
+ORD-10745,2024-06-25,Midwest,Clothing,Winter Jacket,Betty Clark,15,372.06,0.2,4464.72,4.2
+ORD-10746,2022-10-22,Southeast,Toys,Stuffed Animal,Amanda Harris,5,418.58,0,2092.9,2.9
+ORD-10747,2022-01-14,West,Beauty,Lip Balm Set,Lisa Hernandez,19,379.28,0,7206.32,4.7
+ORD-10748,2023-02-13,Southeast,Toys,Puzzle Set,Gary Rodriguez,18,233.75,0,4207.5,2.5
+ORD-10749,2024-10-08,Southwest,Food & Beverage,Organic Coffee,Linda Lee,10,418.12,0.1,3763.08,2.9
+ORD-10750,2022-09-12,Midwest,Electronics,Wireless Headphones,Donna Torres,5,135.03,0.25,506.36,1.7
+ORD-10751,2022-05-17,Southwest,Sports,Yoga Mat,Linda Lee,4,383.54,0.25,1150.62,2.4
+ORD-10752,2025-11-22,Northeast,Food & Beverage,Granola,Kimberly Wright,9,315.86,0.25,2132.06,3.1
+ORD-10753,2023-10-17,West,Electronics,Webcam,Ryan White,6,292.92,0,1757.52,3.8
+ORD-10754,2025-07-27,Midwest,Beauty,Sunscreen SPF50,Mark Baker,2,139.97,0.2,223.95,2.2
+ORD-10755,2025-01-18,Midwest,Clothing,Winter Jacket,Ashley Taylor,6,383.52,0,2301.12,2.3
+ORD-10756,2022-10-22,Northeast,Books,SQL Mastery,Jonathan Scott,12,52.44,0.15,534.89,3.1
+ORD-10757,2022-07-29,Southeast,Beauty,Makeup Brush Kit,Jonathan Scott,14,173.45,0,2428.3,3.0
+ORD-10758,2022-08-27,Southeast,Sports,Resistance Bands,Mark Young,14,232.94,0,3261.16,1.1
+ORD-10759,2025-05-08,Southwest,Beauty,Eye Cream,Stephanie Wilson,12,73.81,0.25,664.29,4.9
+ORD-10760,2023-04-01,Southeast,Home & Garden,Wall Clock,Ashley Taylor,1,373.51,0,373.51,3.8
+ORD-10761,2024-05-20,Northeast,Sports,Foam Roller,Brenda Williams,5,108.87,0,544.35,1.1
+ORD-10762,2025-09-13,Southwest,Food & Beverage,Granola,Melissa Nelson,2,102.19,0,204.38,1.2
+ORD-10763,2022-07-17,Northeast,Clothing,Casual Sneakers,Mark Young,2,37.79,0,75.58,3.4
+ORD-10764,2023-07-23,Southwest,Sports,Water Bottle,Kimberly Wright,12,19.48,0,233.76,2.4
+ORD-10765,2024-12-19,Southeast,Sports,Resistance Bands,Mark Roberts,4,410.7,0,1642.8,1.8
+ORD-10766,2023-03-15,Southwest,Books,Machine Learning Guide,Ashley Taylor,18,7.14,0,128.52,3.8
+ORD-10767,2023-01-06,Midwest,Beauty,Sunscreen SPF50,Jessica Scott,15,338.4,0,5076.0,2.7
+ORD-10768,2022-09-11,West,Sports,Cycling Gloves,Patricia Anderson,4,381.9,0.15,1298.46,3.1
+ORD-10769,2022-06-18,Midwest,Food & Beverage,Honey Jar,Sandra Garcia,10,280.78,0,2807.8,1.5
+ORD-10770,2023-04-08,Southwest,Books,Deep Learning Intro,Donna Torres,20,369.41,0.25,5541.15,2.2
+ORD-10771,2025-10-22,Midwest,Toys,Action Figure,Betty Clark,3,447.9,0.25,1007.77,1.1
+ORD-10772,2022-09-02,Southeast,Food & Beverage,Green Tea Pack,Jessica Scott,13,221.84,0,2883.92,2.6
+ORD-10773,2023-11-25,Southeast,Clothing,Running Shoes,Andrew Hill,3,185.04,0.05,527.36,4.4
+ORD-10774,2023-07-25,Southwest,Toys,Board Game,Melissa Nelson,8,419.86,0.25,2519.16,2.1
+ORD-10775,2024-09-19,Southwest,Toys,Card Game,Emily Carter,16,335.01,0.2,4288.13,1.6
+ORD-10776,2023-04-18,Southeast,Food & Beverage,Green Tea Pack,Joseph Thomas,4,129.09,0.25,387.27,1.4
+ORD-10777,2024-02-23,Southwest,Electronics,Bluetooth Speaker,Cynthia Green,16,340.66,0,5450.56,2.3
+ORD-10778,2024-08-12,Southeast,Books,Data Science Handbook,Amanda Harris,3,332.23,0.25,747.52,3.6
+ORD-10779,2022-03-06,West,Food & Beverage,Olive Oil,Ryan White,18,175.09,0,3151.62,4.7
+ORD-10780,2024-07-30,Northeast,Toys,Remote Car,Mark Baker,11,427.17,0.25,3524.15,1.7
+ORD-10781,2024-03-07,West,Books,Machine Learning Guide,Stephanie Wilson,16,218.19,0.1,3141.94,1.4
+ORD-10782,2024-11-03,Northeast,Food & Beverage,Dark Chocolate,Jessica Scott,16,283.32,0,4533.12,2.1
+ORD-10783,2025-04-24,Northeast,Toys,Card Game,Jonathan Scott,10,163.64,0,1636.4,4.3
+ORD-10784,2023-12-08,Midwest,Beauty,Face Moisturizer,Donna Torres,11,193.38,0.2,1701.74,2.4
+ORD-10785,2025-11-10,Northeast,Sports,Jump Rope,Ashley Taylor,8,325.8,0,2606.4,2.2
+ORD-10786,2024-08-01,West,Beauty,Sunscreen SPF50,Melissa Nelson,1,271.52,0,271.52,3.1
+ORD-10787,2023-10-11,West,Toys,Art Supply Kit,Melissa Nelson,1,349.5,0,349.5,2.6
+ORD-10788,2023-11-20,West,Clothing,Leather Belt,Sandra Moore,4,346.98,0.05,1318.52,4.2
+ORD-10789,2023-02-18,West,Beauty,Sunscreen SPF50,Lisa Hernandez,20,153.26,0.2,2452.16,4.4
+ORD-10790,2025-03-20,West,Clothing,Winter Jacket,Kevin Sanchez,10,136.25,0.1,1226.25,1.9
+ORD-10791,2025-03-06,Southwest,Clothing,Denim Jeans,Sandra Garcia,19,171.73,0,3262.87,2.7
+ORD-10792,2024-06-05,Southwest,Beauty,Lip Balm Set,Richard Hill,10,254.8,0.1,2293.2,1.8
+ORD-10793,2022-02-08,Southwest,Toys,Art Supply Kit,Ashley Taylor,20,260.11,0,5202.2,1.7
+ORD-10794,2025-03-05,Northeast,Food & Beverage,Trail Mix,Sandra Moore,15,137.63,0.2,1651.56,1.8
+ORD-10795,2024-06-10,West,Food & Beverage,Protein Bars,Richard Hill,8,79.48,0.1,572.26,4.4
+ORD-10796,2025-08-16,Southeast,Clothing,Winter Jacket,Emily Carter,14,137.13,0.1,1727.84,3.7
+ORD-10797,2022-02-26,Southeast,Sports,Cycling Gloves,Kevin Sanchez,8,61.21,0.05,465.2,4.3
+ORD-10798,2025-08-17,Northeast,Food & Beverage,Dark Chocolate,Mark Smith,18,495.69,0.2,7137.94,1.6
+ORD-10799,2025-09-10,Southwest,Home & Garden,Ceramic Planter,Betty Clark,9,395.89,0.1,3206.71,3.6
+ORD-10800,2023-10-05,Southwest,Electronics,Portable Charger,Amanda Harris,1,32.39,0,32.39,4.5
+ORD-10801,2023-04-29,Northeast,Toys,Card Game,Melissa Nelson,3,201.46,0,604.38,3.9
+ORD-10802,2025-05-13,Northeast,Clothing,Casual Sneakers,Stephanie Wilson,16,442.86,0.05,6731.47,4.2
+ORD-10803,2022-10-23,Northeast,Beauty,Nail Polish Set,Betty Clark,8,468.07,0.05,3557.33,1.9
+ORD-10804,2024-10-01,Southwest,Books,Deep Learning Intro,Kimberly Wright,14,130.88,0,1832.32,3.8
+ORD-10805,2023-07-23,Southeast,Clothing,Wool Sweater,Kimberly Wright,18,214.77,0.05,3672.57,2.9
+ORD-10806,2025-09-18,Northeast,Beauty,Eye Cream,Mark Roberts,1,324.47,0,324.47,4.7
+ORD-10807,2025-11-04,Northeast,Sports,Foam Roller,Gary Hernandez,18,195.42,0.15,2989.93,4.5
+ORD-10808,2023-06-08,Midwest,Food & Beverage,Granola,Brenda Williams,1,455.35,0.2,364.28,4.7
+ORD-10809,2024-06-17,Midwest,Sports,Foam Roller,Ryan White,7,430.41,0,3012.87,4.2
+ORD-10810,2024-08-22,West,Toys,Building Blocks,Mark Young,9,433.89,0.25,2928.76,4.4
+ORD-10811,2023-12-22,West,Toys,Board Game,Andrew Hill,6,350.75,0,2104.5,3.9
+ORD-10812,2025-07-14,West,Beauty,Makeup Brush Kit,Kevin Sanchez,1,382.18,0,382.18,3.6
+ORD-10813,2025-03-25,Northeast,Electronics,Phone Case,Patricia Anderson,7,316.01,0.15,1880.26,1.6
+ORD-10814,2023-06-18,Southeast,Home & Garden,Door Mat,Cynthia Green,11,228.49,0,2513.39,3.4
+ORD-10815,2023-01-08,West,Beauty,Eye Cream,Ryan White,7,46.78,0.15,278.34,2.5
+ORD-10816,2022-07-02,West,Sports,Yoga Mat,Mark Smith,1,461.94,0.05,438.84,2.0
+ORD-10817,2022-11-02,Northeast,Home & Garden,Ceramic Planter,Kimberly Wright,13,310.91,0.1,3637.65,1.7
+ORD-10818,2025-10-11,West,Clothing,Cotton T-Shirt,Patricia Anderson,17,220.4,0.25,2810.1,1.9
+ORD-10819,2024-02-22,Southeast,Sports,Jump Rope,Donna Torres,9,147.54,0.25,995.89,4.4
+ORD-10820,2022-10-26,Northeast,Sports,Foam Roller,Amanda Harris,7,212.07,0.2,1187.59,4.9
+ORD-10821,2022-06-25,Northeast,Sports,Running Belt,Sandra Garcia,8,187.97,0.25,1127.82,1.5
+ORD-10822,2025-05-08,Midwest,Beauty,Nail Polish Set,Brenda Williams,7,358.1,0.2,2005.36,1.4
+ORD-10823,2023-12-27,Southwest,Electronics,Wireless Headphones,Cynthia Green,11,465.88,0.25,3843.51,4.9
+ORD-10824,2023-09-12,West,Electronics,Wireless Headphones,Cynthia Green,9,254.75,0.2,1834.2,2.5
+ORD-10825,2023-11-26,West,Electronics,USB-C Hub,Jonathan Scott,9,89.08,0.25,601.29,1.4
+ORD-10826,2022-09-19,West,Toys,Puzzle Set,Ashley Taylor,9,62.84,0,565.56,4.9
+ORD-10827,2025-06-09,Midwest,Books,Business Analytics,Sandra Moore,14,145.05,0.1,1827.63,2.3
+ORD-10828,2025-02-12,West,Home & Garden,Scented Candle,Mark Baker,16,383.02,0,6128.32,1.8
+ORD-10829,2022-12-01,West,Electronics,Laptop Stand,Donna Torres,6,22.75,0.1,122.85,1.5
+ORD-10830,2024-07-26,West,Food & Beverage,Organic Coffee,Patricia Anderson,15,181.48,0.25,2041.65,4.4
+ORD-10831,2023-01-05,Southeast,Home & Garden,LED Desk Lamp,Linda Lee,12,51.32,0.1,554.26,3.0
+ORD-10832,2024-12-13,Southwest,Books,Statistics Primer,Betty Clark,19,499.01,0,9481.19,2.7
+ORD-10833,2022-02-23,Midwest,Clothing,Winter Jacket,Cynthia Green,16,340.07,0.15,4624.95,4.9
+ORD-10834,2023-10-25,Southeast,Clothing,Silk Scarf,Joseph Thomas,12,297.22,0,3566.64,1.3
+ORD-10835,2023-11-06,Northeast,Food & Beverage,Dark Chocolate,Lisa Hernandez,9,299.13,0,2692.17,3.5
+ORD-10836,2025-08-11,Midwest,Food & Beverage,Honey Jar,Richard Hill,19,69.01,0,1311.19,4.2
+ORD-10837,2023-05-07,West,Clothing,Silk Scarf,Brenda Williams,3,202.43,0,607.29,1.1
+ORD-10838,2025-08-18,Southeast,Sports,Water Bottle,Patricia Anderson,13,390.85,0.1,4572.95,2.2
+ORD-10839,2024-01-23,Southwest,Toys,Art Supply Kit,Mark Smith,20,69.99,0,1399.8,3.0
+ORD-10840,2022-07-04,West,Toys,Remote Car,Kevin Sanchez,9,283.71,0.2,2042.71,2.5
+ORD-10841,2024-08-07,Southeast,Home & Garden,Door Mat,Lisa Hernandez,14,51.01,0.15,607.02,3.7
+ORD-10842,2023-08-19,West,Home & Garden,Shelf Organizer,Donna Torres,17,316.63,0,5382.71,1.3
+ORD-10843,2023-05-25,Southwest,Food & Beverage,Olive Oil,Donna Torres,5,492.17,0.1,2214.76,2.2
+ORD-10844,2024-04-25,Northeast,Electronics,Bluetooth Speaker,Matthew Williams,2,259.14,0.2,414.62,3.6
+ORD-10845,2022-08-22,West,Books,Business Analytics,Betty Clark,9,294.86,0,2653.74,4.1
+ORD-10846,2023-10-05,Southwest,Toys,Building Blocks,Linda Lee,3,211.04,0.1,569.81,2.8
+ORD-10847,2023-03-09,Southeast,Food & Beverage,Olive Oil,Brenda Williams,11,483.53,0,5318.83,4.0
+ORD-10848,2024-03-19,Northeast,Books,Data Science Handbook,Joseph Thomas,14,269.52,0,3773.28,1.7
+ORD-10849,2023-09-13,Southwest,Food & Beverage,Dark Chocolate,Gary Rodriguez,13,435.05,0.25,4241.74,4.9
+ORD-10850,2022-01-29,Southeast,Beauty,Nail Polish Set,Patricia Anderson,10,48.38,0,483.8,4.3
+ORD-10851,2025-08-23,Southeast,Sports,Yoga Mat,Donna Torres,7,243.15,0,1702.05,4.4
+ORD-10852,2024-08-28,West,Sports,Resistance Bands,Joseph Thomas,10,386.01,0,3860.1,1.5
+ORD-10853,2025-04-13,Southeast,Home & Garden,Shelf Organizer,Mark Smith,16,238.39,0.25,2860.68,2.2
+ORD-10854,2024-05-01,West,Toys,Building Blocks,Linda Lee,11,8.9,0.2,78.32,3.3
+ORD-10855,2023-04-20,Northeast,Books,Python Cookbook,Sandra Moore,16,202.84,0.25,2434.08,1.1
+ORD-10856,2024-08-27,Northeast,Beauty,Lip Balm Set,Sandra Garcia,9,446.97,0.2,3218.18,3.5
+ORD-10857,2023-01-29,West,Beauty,Makeup Brush Kit,Kimberly Wright,14,15.3,0.1,192.78,2.8
+ORD-10858,2022-09-26,Midwest,Sports,Tennis Balls,Linda Lee,20,427.46,0.25,6411.9,3.8
+ORD-10859,2025-06-27,Southeast,Toys,Card Game,Amanda Harris,16,400.88,0,6414.08,3.8
+ORD-10860,2025-05-25,West,Clothing,Leather Belt,Patricia Anderson,5,90.78,0,453.9,4.2
+ORD-10861,2022-02-07,Midwest,Food & Beverage,Olive Oil,Ryan White,8,108.67,0,869.36,2.0
+ORD-10862,2023-11-23,West,Home & Garden,Throw Pillow,Patricia Anderson,17,20.83,0,354.11,3.5
+ORD-10863,2023-12-29,Northeast,Clothing,Winter Jacket,Stephanie Wilson,16,132.62,0.15,1803.63,4.5
+ORD-10864,2025-12-17,Northeast,Books,Machine Learning Guide,Mark Young,17,304.12,0,5170.04,4.8
+ORD-10865,2025-02-25,Northeast,Food & Beverage,Green Tea Pack,Sandra Moore,4,391.92,0,1567.68,1.4
+ORD-10866,2025-12-21,West,Clothing,Winter Jacket,Stephanie Wilson,12,82.73,0.1,893.48,3.0
+ORD-10867,2022-09-09,Southeast,Clothing,Running Shoes,Matthew Williams,12,170.63,0,2047.56,4.9
+ORD-10868,2022-06-24,Midwest,Electronics,Laptop Stand,Kimberly Wright,16,173.95,0,2783.2,3.9
+ORD-10869,2023-04-13,Southeast,Toys,Card Game,Kevin Sanchez,8,80.05,0.2,512.32,2.7
+ORD-10870,2022-03-02,West,Toys,Remote Car,Jonathan Scott,17,398.33,0.15,5755.87,4.1
+ORD-10871,2024-06-07,Northeast,Clothing,Denim Jeans,Jessica Scott,11,160.83,0,1769.13,4.0
+ORD-10872,2024-04-03,Southwest,Home & Garden,Ceramic Planter,Ashley Taylor,17,486.47,0.2,6615.99,2.2
+ORD-10873,2025-12-05,West,Beauty,Body Lotion,Matthew Williams,1,414.37,0,414.37,3.6
+ORD-10874,2022-06-22,Northeast,Food & Beverage,Honey Jar,Gary Hernandez,13,388.82,0.1,4549.19,2.3
+ORD-10875,2024-12-03,Midwest,Home & Garden,Wall Clock,Stephanie Wilson,7,50.95,0.1,320.99,3.5
+ORD-10876,2023-09-15,West,Electronics,Wireless Headphones,Sandra Moore,18,298.29,0.05,5100.76,1.4
+ORD-10877,2022-09-11,Northeast,Electronics,Smart Watch,Stephanie Wilson,9,315.36,0.15,2412.5,3.6
+ORD-10878,2024-07-17,Midwest,Clothing,Leather Belt,Charles Perez,10,288.36,0,2883.6,4.2
+ORD-10879,2024-02-13,Southwest,Sports,Tennis Balls,Linda Lee,10,145.85,0,1458.5,2.0
+ORD-10880,2025-12-28,West,Beauty,Hair Serum,Gary Rodriguez,12,229.88,0,2758.56,2.6
+ORD-10881,2023-03-16,West,Clothing,Cotton T-Shirt,Brenda Williams,14,444.81,0.25,4670.51,2.5
+ORD-10882,2024-06-20,West,Toys,Stuffed Animal,Linda Lee,9,294.23,0.2,2118.46,4.9
+ORD-10883,2022-09-22,Southwest,Home & Garden,Throw Pillow,Ashley Taylor,17,67.93,0.25,866.11,3.1
+ORD-10884,2025-02-18,Midwest,Sports,Running Belt,Mark Young,16,21.14,0,338.24,4.8
+ORD-10885,2022-03-24,Southwest,Toys,Board Game,Jonathan Scott,4,187.95,0.1,676.62,1.5
+ORD-10886,2022-10-20,Southeast,Books,Business Analytics,Kevin Sanchez,10,150.52,0,1505.2,3.4
+ORD-10887,2022-01-05,Northeast,Electronics,Webcam,Gary Hernandez,10,111.71,0.25,837.82,2.4
+ORD-10888,2023-11-23,West,Electronics,Phone Case,Sandra Garcia,16,288.66,0.25,3463.92,4.3
+ORD-10889,2025-09-28,West,Home & Garden,Throw Pillow,Jonathan Scott,17,320.05,0.25,4080.64,4.5
+ORD-10890,2024-03-04,Southeast,Beauty,Lip Balm Set,Ryan White,20,333.93,0.2,5342.88,2.6
+ORD-10891,2025-12-19,Northeast,Electronics,Portable Charger,Melissa Nelson,9,324.73,0,2922.57,3.5
+ORD-10892,2025-03-13,Southwest,Books,Data Science Handbook,Mark Smith,18,47.15,0,848.7,4.0
+ORD-10893,2023-07-18,Southeast,Electronics,Bluetooth Speaker,Charles Perez,18,93.97,0,1691.46,4.3
+ORD-10894,2025-04-21,Northeast,Food & Beverage,Green Tea Pack,Sandra Garcia,18,305.39,0.2,4397.62,4.4
+ORD-10895,2024-12-17,Midwest,Electronics,Smart Watch,Jessica Scott,14,94.35,0,1320.9,2.0
+ORD-10896,2023-01-10,Midwest,Clothing,Denim Jeans,Stephanie Wilson,18,88.24,0,1588.32,1.4
+ORD-10897,2023-01-07,Northeast,Books,AI Ethics,Mark Roberts,6,34.16,0.15,174.22,1.2
+ORD-10898,2023-06-13,West,Toys,Board Game,Gary Rodriguez,11,75.52,0.15,706.11,4.6
+ORD-10899,2024-10-06,Southwest,Electronics,Laptop Stand,Stephanie Wilson,8,377.31,0.05,2867.56,3.0
+ORD-10900,2022-05-15,West,Clothing,Casual Sneakers,Joseph Thomas,2,162.58,0.2,260.13,2.6
+ORD-10901,2023-05-20,Southwest,Sports,Yoga Mat,Lisa Hernandez,9,279.27,0,2513.43,4.1
+ORD-10902,2022-10-19,Midwest,Books,AI Ethics,Gary Hernandez,15,46.53,0.05,663.05,4.9
+ORD-10903,2024-08-09,Southwest,Sports,Cycling Gloves,Amanda Harris,18,228.61,0,4114.98,3.6
+ORD-10904,2023-07-14,Southwest,Home & Garden,Ceramic Planter,Emily Carter,2,467.09,0.25,700.63,4.4
+ORD-10905,2022-04-04,Southeast,Toys,Card Game,Linda Lee,7,294.65,0.1,1856.29,3.1
+ORD-10906,2022-10-14,Southwest,Clothing,Casual Sneakers,Emily Carter,3,200.68,0,602.04,4.5
+ORD-10907,2023-07-14,Southeast,Sports,Tennis Balls,Cynthia Green,11,319.41,0.25,2635.13,4.9
+ORD-10908,2022-02-02,Southeast,Beauty,Hair Serum,Lisa Hernandez,15,479.7,0.15,6116.18,4.7
+ORD-10909,2025-02-12,West,Food & Beverage,Organic Coffee,Stephanie Wilson,1,337.99,0.2,270.39,2.6
+ORD-10910,2025-10-08,Northeast,Clothing,Denim Jeans,Kimberly Wright,18,20.32,0.25,274.32,4.9
+ORD-10911,2022-09-13,West,Toys,Card Game,Kimberly Wright,13,92.71,0,1205.23,4.7
+ORD-10912,2025-10-25,Midwest,Food & Beverage,Organic Coffee,Mark Smith,8,372.86,0.1,2684.59,1.4
+ORD-10913,2022-03-17,Midwest,Books,Statistics Primer,Sandra Garcia,8,490.16,0.15,3333.09,4.6
+ORD-10914,2022-08-16,Midwest,Sports,Yoga Mat,Melissa Nelson,7,492.21,0.2,2756.38,3.0
+ORD-10915,2022-05-14,Southwest,Home & Garden,Kitchen Scale,Jonathan Scott,19,337.73,0,6416.87,4.0
+ORD-10916,2023-01-28,Northeast,Home & Garden,Wall Clock,Mark Roberts,19,428.46,0.1,7326.67,3.7
+ORD-10917,2023-10-24,West,Books,Deep Learning Intro,Ashley Taylor,1,469.26,0,469.26,5.0
+ORD-10918,2024-11-25,Northeast,Books,Data Science Handbook,Ryan White,17,235.96,0.15,3409.62,3.9
+ORD-10919,2022-01-11,West,Electronics,Webcam,Mark Smith,14,268.54,0.15,3195.63,2.3
+ORD-10920,2023-02-08,Southeast,Electronics,Laptop Stand,Richard Hill,14,479.1,0.05,6372.03,2.2
+ORD-10921,2025-04-28,Midwest,Clothing,Cotton T-Shirt,Gary Rodriguez,16,218.81,0,3500.96,2.0
+ORD-10922,2023-11-15,Southwest,Clothing,Leather Belt,Kevin Sanchez,8,479.61,0,3836.88,1.9
+ORD-10923,2022-06-25,Northeast,Clothing,Leather Belt,Mark Young,4,314.55,0,1258.2,1.1
+ORD-10924,2022-04-23,Midwest,Beauty,Lip Balm Set,Andrew Hill,5,35.69,0.25,133.84,3.5
+ORD-10925,2024-02-21,West,Clothing,Denim Jeans,Patricia Anderson,2,281.83,0.1,507.29,3.5
+ORD-10926,2024-07-17,West,Toys,Action Figure,Matthew Williams,20,394.8,0,7896.0,4.2
+ORD-10927,2025-04-18,Southeast,Clothing,Wool Sweater,Patricia Anderson,1,229.77,0.15,195.3,1.4
+ORD-10928,2023-12-29,West,Clothing,Winter Jacket,Sandra Garcia,19,67.36,0.1,1151.86,3.9
+ORD-10929,2022-05-04,Southeast,Food & Beverage,Protein Bars,Amanda Harris,8,73.15,0,585.2,3.3
+ORD-10930,2022-10-29,West,Beauty,Eye Cream,Amanda Harris,19,443.18,0,8420.42,3.4
+ORD-10931,2022-04-28,Southeast,Books,Business Analytics,Sandra Moore,1,261.25,0,261.25,4.3
+ORD-10932,2025-08-04,Southeast,Electronics,Phone Case,Kevin Sanchez,12,101.73,0.05,1159.72,1.3
+ORD-10933,2025-03-30,Southwest,Sports,Running Belt,Richard Hill,15,301.88,0.15,3848.97,3.5
+ORD-10934,2024-10-12,Southeast,Toys,Card Game,Mark Young,6,56.9,0,341.4,1.0
+ORD-10935,2024-09-11,Midwest,Sports,Jump Rope,Kevin Sanchez,15,313.84,0.05,4472.22,4.0
+ORD-10936,2024-01-14,Northeast,Sports,Cycling Gloves,Brenda Williams,6,413.91,0,2483.46,2.4
+ORD-10937,2022-03-31,Northeast,Clothing,Running Shoes,Mark Smith,10,223.0,0.15,1895.5,1.8
+ORD-10938,2025-02-09,Southeast,Home & Garden,Kitchen Scale,Betty Clark,9,360.82,0.15,2760.27,1.8
+ORD-10939,2024-02-16,Northeast,Home & Garden,Wall Clock,Richard Hill,4,15.39,0,61.56,4.7
+ORD-10940,2025-09-15,Southeast,Books,Deep Learning Intro,Sandra Moore,8,187.97,0.15,1278.2,4.9
+ORD-10941,2023-01-24,Southeast,Toys,Board Game,Gary Hernandez,4,76.49,0,305.96,2.5
+ORD-10942,2022-04-05,Southwest,Beauty,Body Lotion,Melissa Nelson,20,217.62,0.05,4134.78,1.8
+ORD-10943,2022-09-16,Southwest,Books,Machine Learning Guide,Melissa Nelson,11,127.35,0.1,1260.76,4.5
+ORD-10944,2022-12-09,Southwest,Sports,Resistance Bands,Jessica Scott,16,396.54,0,6344.64,4.0
+ORD-10945,2025-12-30,Midwest,Beauty,Makeup Brush Kit,Sandra Moore,17,234.81,0.15,3393.0,3.8
+ORD-10946,2023-03-01,Southeast,Food & Beverage,Dark Chocolate,Ryan White,9,292.69,0,2634.21,1.8
+ORD-10947,2025-03-16,Southeast,Sports,Cycling Gloves,Mark Young,7,156.47,0.2,876.23,4.4
+ORD-10948,2024-06-29,Southwest,Books,Data Science Handbook,Kimberly Wright,5,377.05,0.1,1696.73,1.9
+ORD-10949,2024-07-12,West,Electronics,Portable Charger,Donna Torres,17,312.46,0.2,4249.46,2.6
+ORD-10950,2024-06-23,Southeast,Food & Beverage,Honey Jar,Emily Carter,9,194.27,0,1748.43,3.6
+ORD-10951,2023-07-21,Southeast,Beauty,Lip Balm Set,Patricia Anderson,10,422.09,0,4220.9,1.5
+ORD-10952,2025-10-14,Midwest,Beauty,Face Moisturizer,Emily Carter,18,104.15,0.05,1780.96,2.2
+ORD-10953,2022-01-18,Midwest,Books,Statistics Primer,Amanda Harris,20,499.01,0.1,8982.18,4.3
+ORD-10954,2024-08-24,Southwest,Toys,Stuffed Animal,Stephanie Wilson,19,380.11,0,7222.09,4.8
+ORD-10955,2024-08-29,Southeast,Toys,Action Figure,Sandra Moore,8,363.05,0.05,2759.18,3.3
+ORD-10956,2023-01-20,West,Food & Beverage,Dark Chocolate,Stephanie Wilson,11,397.0,0.15,3711.95,4.8
+ORD-10957,2024-02-07,Southeast,Toys,Action Figure,Melissa Nelson,15,227.74,0,3416.1,4.5
+ORD-10958,2023-11-27,Southeast,Books,Python Cookbook,Donna Torres,16,406.15,0.15,5523.64,2.7
+ORD-10959,2022-10-12,Southeast,Toys,Art Supply Kit,Richard Hill,11,295.54,0,3250.94,3.3
+ORD-10960,2024-12-30,West,Toys,Stuffed Animal,Mark Smith,7,474.6,0,3322.2,2.9
+ORD-10961,2025-10-14,Southwest,Beauty,Makeup Brush Kit,Betty Clark,10,51.15,0,511.5,1.1
+ORD-10962,2023-08-05,Southeast,Food & Beverage,Organic Coffee,Charles Perez,6,103.5,0.2,496.8,2.2
+ORD-10963,2022-12-18,Midwest,Clothing,Leather Belt,Ashley Taylor,2,187.48,0,374.96,4.6
+ORD-10964,2024-09-06,Northeast,Toys,Puzzle Set,Jessica Scott,4,68.92,0.2,220.54,4.8
+ORD-10965,2022-11-22,Southwest,Sports,Water Bottle,Melissa Nelson,7,158.33,0.25,831.23,4.8
+ORD-10966,2024-07-01,Northeast,Sports,Running Belt,Gary Rodriguez,9,104.84,0,943.56,2.6
+ORD-10967,2024-08-05,Southwest,Sports,Tennis Balls,Mark Baker,19,440.22,0.25,6273.14,3.9
+ORD-10968,2024-03-11,Southwest,Books,Deep Learning Intro,Gary Rodriguez,12,351.66,0.1,3797.93,4.2
+ORD-10969,2024-07-26,West,Home & Garden,Door Mat,Mark Young,8,93.89,0.2,600.9,3.6
+ORD-10970,2023-07-15,Southwest,Clothing,Silk Scarf,Amanda Harris,2,123.65,0,247.3,3.7
+ORD-10971,2024-01-26,Northeast,Clothing,Winter Jacket,Stephanie Wilson,16,208.58,0,3337.28,1.4
+ORD-10972,2024-11-02,Northeast,Beauty,Nail Polish Set,Matthew Williams,15,86.6,0.05,1234.05,1.1
+ORD-10973,2024-03-23,Northeast,Food & Beverage,Granola,Joseph Thomas,11,374.25,0.05,3910.91,2.0
+ORD-10974,2022-06-19,Southwest,Home & Garden,Scented Candle,Cynthia Green,15,244.96,0,3674.4,2.0
+ORD-10975,2022-12-16,Northeast,Food & Beverage,Protein Bars,Andrew Hill,16,411.11,0,6577.76,1.4
+ORD-10976,2022-06-08,Northeast,Books,Data Science Handbook,Cynthia Green,18,372.02,0,6696.36,2.1
+ORD-10977,2025-10-14,Southwest,Food & Beverage,Honey Jar,Mark Smith,6,112.25,0,673.5,2.8
+ORD-10978,2022-04-18,Southwest,Electronics,Bluetooth Speaker,Joseph Thomas,13,346.72,0.25,3380.52,1.2
+ORD-10979,2023-02-14,Northeast,Toys,Action Figure,Joseph Thomas,8,190.45,0.05,1447.42,2.7
+ORD-10980,2023-03-28,Northeast,Electronics,Smart Watch,Kevin Sanchez,7,341.58,0,2391.06,4.3
+ORD-10981,2023-11-01,Midwest,Home & Garden,Throw Pillow,Gary Hernandez,2,210.76,0,421.52,3.5
+ORD-10982,2022-08-05,Midwest,Sports,Cycling Gloves,Richard Hill,14,64.8,0.05,861.84,1.7
+ORD-10983,2023-03-27,Northeast,Toys,Card Game,Cynthia Green,1,197.65,0.25,148.24,4.3
+ORD-10984,2023-09-10,Southwest,Beauty,Face Moisturizer,Sandra Garcia,3,443.3,0.2,1063.92,4.9
+ORD-10985,2025-07-16,West,Clothing,Running Shoes,Cynthia Green,9,479.72,0.15,3669.86,4.7
+ORD-10986,2025-09-26,West,Home & Garden,Scented Candle,Brenda Williams,6,319.5,0.15,1629.45,2.3
+ORD-10987,2024-10-28,Southwest,Food & Beverage,Granola,Mark Roberts,17,322.09,0.05,5201.75,5.0
+ORD-10988,2023-09-25,Southeast,Sports,Yoga Mat,Linda Lee,20,380.68,0,7613.6,2.7
+ORD-10989,2023-08-31,Southeast,Sports,Resistance Bands,Jonathan Scott,2,73.09,0.25,109.64,2.5
+ORD-10990,2023-11-05,Southeast,Electronics,Laptop Stand,Emily Carter,20,494.33,0.25,7414.95,2.3
+ORD-10991,2023-11-10,Midwest,Electronics,Phone Case,Charles Perez,10,376.52,0.05,3576.94,1.8
+ORD-10992,2024-12-03,Midwest,Electronics,Laptop Stand,Betty Clark,8,305.99,0.2,1958.34,2.8
+ORD-10993,2022-04-17,Southeast,Electronics,Bluetooth Speaker,Mark Smith,16,39.64,0.05,602.53,1.5
+ORD-10994,2024-08-14,Midwest,Home & Garden,Kitchen Scale,Betty Clark,8,256.18,0.2,1639.55,3.9
+ORD-10995,2023-08-08,Southwest,Sports,Cycling Gloves,Matthew Williams,6,304.9,0.1,1646.46,4.9
+ORD-10996,2024-03-26,West,Sports,Foam Roller,Betty Clark,16,44.61,0.15,606.7,2.9
+ORD-10997,2022-02-10,West,Toys,Stuffed Animal,Donna Torres,5,410.7,0.25,1540.12,4.4
+ORD-10998,2024-02-19,West,Books,Machine Learning Guide,Amanda Harris,18,364.69,0.1,5907.98,2.8
+ORD-10999,2023-02-05,Southeast,Toys,Remote Car,Mark Young,3,169.95,0.25,382.39,1.8
+ORD-11000,2024-03-19,Midwest,Electronics,Smart Watch,Jessica Scott,16,205.25,0.2,2627.2,3.0
+ORD-11001,2024-02-28,Southwest,Clothing,Silk Scarf,Betty Clark,2,496.27,0,992.54,1.8
+ORD-11002,2025-07-24,Midwest,Toys,Art Supply Kit,Mark Roberts,12,257.26,0.25,2315.34,1.2
+ORD-11003,2024-01-11,Northeast,Toys,Stuffed Animal,Mark Roberts,8,124.96,0,999.68,3.7
+ORD-11004,2023-06-05,Southeast,Home & Garden,Wall Clock,Andrew Hill,20,230.46,0,4609.2,3.3
+ORD-11005,2024-03-25,Southwest,Home & Garden,Ceramic Planter,Ryan White,4,386.63,0.2,1237.22,1.3
+ORD-11006,2025-11-17,Midwest,Sports,Cycling Gloves,Sandra Moore,6,415.73,0.1,2244.94,4.9
+ORD-11007,2022-08-12,Southwest,Toys,Art Supply Kit,Stephanie Wilson,14,377.47,0,5284.58,4.2
+ORD-11008,2025-12-02,Midwest,Home & Garden,Wall Clock,Joseph Thomas,7,465.36,0.2,2606.02,4.9
+ORD-11009,2024-12-11,West,Food & Beverage,Organic Coffee,Lisa Hernandez,4,39.57,0.2,126.62,2.2
+ORD-11010,2023-02-10,West,Toys,Puzzle Set,Betty Clark,6,190.45,0,1142.7,3.0
+ORD-11011,2023-02-16,Northeast,Clothing,Leather Belt,Linda Lee,19,408.11,0,7754.09,1.7
+ORD-11012,2025-07-27,Southeast,Sports,Foam Roller,Brenda Williams,14,223.16,0,3124.24,2.2
+ORD-11013,2025-04-14,Southeast,Toys,Board Game,Sandra Garcia,9,36.81,0,331.29,2.9
+ORD-11014,2025-09-24,Southwest,Clothing,Cotton T-Shirt,Kevin Sanchez,2,136.71,0,273.42,5.0
+ORD-11015,2025-05-19,Southwest,Clothing,Winter Jacket,Stephanie Wilson,17,396.93,0.2,5398.25,2.1
+ORD-11016,2024-01-30,Midwest,Food & Beverage,Dark Chocolate,Richard Hill,11,304.16,0.15,2843.9,4.3
+ORD-11017,2023-11-08,Northeast,Beauty,Nail Polish Set,Joseph Thomas,13,307.35,0.15,3396.22,2.8
+ORD-11018,2025-12-03,Southeast,Toys,Puzzle Set,Kimberly Wright,1,302.95,0.1,272.65,2.8
+ORD-11019,2022-02-04,Midwest,Food & Beverage,Granola,Ashley Taylor,7,6.55,0.15,38.97,1.2
+ORD-11020,2025-06-08,Northeast,Beauty,Makeup Brush Kit,Kimberly Wright,8,305.35,0.2,1954.24,2.7
+ORD-11021,2025-12-29,Southeast,Food & Beverage,Green Tea Pack,Ashley Taylor,13,150.46,0.05,1858.18,3.1
+ORD-11022,2025-10-10,Southwest,Electronics,USB-C Hub,Ashley Taylor,16,399.43,0.1,5751.79,2.9
+ORD-11023,2023-05-14,Southeast,Food & Beverage,Green Tea Pack,Betty Clark,16,333.01,0.05,5061.75,4.0
+ORD-11024,2022-11-25,Midwest,Clothing,Denim Jeans,Ryan White,14,496.71,0,6953.94,2.5
+ORD-11025,2025-09-24,Southeast,Books,Statistics Primer,Mark Young,9,334.64,0,3011.76,3.1
+ORD-11026,2025-08-11,Midwest,Food & Beverage,Green Tea Pack,Jessica Scott,11,436.61,0,4802.71,4.6
+ORD-11027,2023-08-19,Northeast,Toys,Stuffed Animal,Patricia Anderson,8,115.66,0,925.28,1.4
+ORD-11028,2024-02-18,Southwest,Sports,Resistance Bands,Linda Lee,19,187.03,0.15,3020.53,1.0
+ORD-11029,2024-01-18,Southeast,Electronics,Laptop Stand,Sandra Moore,13,490.03,0.15,5414.83,3.7
+ORD-11030,2023-10-10,Southeast,Sports,Resistance Bands,Gary Rodriguez,13,9.55,0.25,93.11,4.8
+ORD-11031,2022-10-26,Northeast,Sports,Running Belt,Andrew Hill,15,77.98,0.1,1052.73,2.3
+ORD-11032,2024-10-10,Midwest,Clothing,Casual Sneakers,Mark Roberts,19,241.75,0.05,4363.59,4.9
+ORD-11033,2023-04-06,Northeast,Electronics,Smart Watch,Mark Young,5,414.8,0.05,1970.3,4.5
+ORD-11034,2022-02-14,Southwest,Home & Garden,Shelf Organizer,Jessica Scott,13,153.06,0,1989.78,2.3
+ORD-11035,2023-08-02,Southeast,Food & Beverage,Honey Jar,Mark Roberts,13,198.58,0.1,2323.39,4.4
+ORD-11036,2025-12-24,Midwest,Toys,Board Game,Matthew Williams,5,165.09,0,825.45,3.6
+ORD-11037,2023-03-06,Southeast,Home & Garden,Shelf Organizer,Kevin Sanchez,16,149.09,0,2385.44,4.0
+ORD-11038,2024-02-11,West,Electronics,Smart Watch,Cynthia Green,19,55.46,0,1053.74,4.4
+ORD-11039,2022-04-18,Northeast,Electronics,Bluetooth Speaker,Sandra Moore,12,487.21,0,5846.52,3.6
+ORD-11040,2023-05-09,West,Toys,Puzzle Set,Sandra Garcia,13,126.28,0,1641.64,2.2
+ORD-11041,2023-07-18,West,Home & Garden,Door Mat,Kimberly Wright,3,389.98,0.2,935.95,1.0
+ORD-11042,2022-02-17,Southwest,Clothing,Denim Jeans,Melissa Nelson,4,247.16,0.05,939.21,4.9
+ORD-11043,2024-02-26,West,Food & Beverage,Olive Oil,Lisa Hernandez,4,398.2,0,1592.8,3.8
+ORD-11044,2024-04-10,Northeast,Books,Machine Learning Guide,Jessica Scott,4,165.99,0,663.96,3.2
+ORD-11045,2023-03-01,Northeast,Food & Beverage,Green Tea Pack,Betty Clark,17,419.39,0,7129.63,4.4
+ORD-11046,2022-09-09,Northeast,Home & Garden,Ceramic Planter,Jonathan Scott,18,226.38,0.15,3463.61,3.3
+ORD-11047,2022-06-23,Northeast,Home & Garden,LED Desk Lamp,Sandra Moore,18,132.1,0,2377.8,2.2
+ORD-11048,2024-11-29,Midwest,Home & Garden,Door Mat,Cynthia Green,1,127.93,0,127.93,3.1
+ORD-11049,2025-05-26,Southwest,Home & Garden,Shelf Organizer,Sandra Moore,11,263.72,0.15,2465.78,1.8
+ORD-11050,2023-09-06,Southeast,Clothing,Cotton T-Shirt,Jonathan Scott,8,23.18,0,185.44,3.4
+ORD-11051,2022-06-02,Southwest,Sports,Tennis Balls,Emily Carter,9,68.6,0.2,493.92,2.0
+ORD-11052,2025-10-17,West,Home & Garden,Door Mat,Mark Roberts,15,46.21,0.1,623.84,1.6
+ORD-11053,2024-02-02,Southwest,Sports,Resistance Bands,Cynthia Green,9,497.7,0.05,4255.34,3.6
+ORD-11054,2024-02-16,Northeast,Home & Garden,Door Mat,Andrew Hill,5,161.6,0.2,646.4,2.0
+ORD-11055,2022-05-16,Midwest,Books,Data Science Handbook,Lisa Hernandez,18,59.45,0.2,856.08,1.4
+ORD-11056,2023-07-15,Northeast,Beauty,Eye Cream,Patricia Anderson,5,435.08,0.05,2066.63,2.5
+ORD-11057,2022-12-26,Southwest,Sports,Cycling Gloves,Linda Lee,4,392.45,0,1569.8,4.5
+ORD-11058,2025-02-03,Midwest,Food & Beverage,Green Tea Pack,Andrew Hill,17,177.71,0.1,2718.96,1.4
+ORD-11059,2023-01-06,Midwest,Electronics,USB-C Hub,Kevin Sanchez,11,473.52,0.2,4166.98,4.0
+ORD-11060,2025-11-07,Southwest,Toys,Remote Car,Mark Roberts,19,68.15,0,1294.85,1.6
+ORD-11061,2022-04-19,Midwest,Home & Garden,Throw Pillow,Mark Roberts,13,285.94,0.1,3345.5,4.1
+ORD-11062,2024-08-17,Southwest,Toys,Remote Car,Amanda Harris,6,222.29,0.15,1133.68,2.1
+ORD-11063,2023-09-18,West,Toys,Action Figure,Stephanie Wilson,10,319.64,0,3196.4,2.3
+ORD-11064,2022-12-05,Southwest,Clothing,Denim Jeans,Mark Baker,3,366.33,0,1098.99,1.3
+ORD-11065,2025-10-18,Southwest,Books,Deep Learning Intro,Mark Young,1,481.27,0.2,385.02,3.9
+ORD-11066,2024-04-10,Northeast,Food & Beverage,Dark Chocolate,Andrew Hill,17,344.14,0,5850.38,1.8
+ORD-11067,2025-09-16,Southwest,Electronics,Phone Case,Cynthia Green,18,376.09,0.05,6431.14,3.4
+ORD-11068,2022-06-03,Midwest,Food & Beverage,Protein Bars,Gary Rodriguez,17,452.38,0,7690.46,1.5
+ORD-11069,2024-02-04,Northeast,Beauty,Face Moisturizer,Richard Hill,14,250.28,0,3503.92,4.7
+ORD-11070,2023-06-27,Southeast,Sports,Resistance Bands,Joseph Thomas,10,153.09,0.1,1377.81,4.0
+ORD-11071,2024-08-06,Southwest,Toys,Action Figure,Ashley Taylor,10,464.91,0,4649.1,3.0
+ORD-11072,2023-12-26,Northeast,Beauty,Face Moisturizer,Joseph Thomas,20,232.88,0.1,4191.84,2.4
+ORD-11073,2024-10-04,Southeast,Home & Garden,Door Mat,Brenda Williams,12,9.39,0.2,90.14,3.1
+ORD-11074,2022-11-15,Midwest,Home & Garden,Door Mat,Charles Perez,4,456.99,0,1827.96,2.9
+ORD-11075,2025-01-03,Midwest,Beauty,Eye Cream,Patricia Anderson,12,217.03,0,2604.36,5.0
+ORD-11076,2022-01-12,Midwest,Food & Beverage,Protein Bars,Ryan White,5,180.1,0.2,720.4,4.5
+ORD-11077,2024-03-19,West,Sports,Resistance Bands,Linda Lee,7,146.03,0,1022.21,2.3
+ORD-11078,2022-09-01,West,Electronics,USB-C Hub,Sandra Garcia,7,474.45,0.1,2989.04,3.2
+ORD-11079,2022-09-27,Northeast,Home & Garden,Scented Candle,Patricia Anderson,13,253.42,0.2,2635.57,4.2
+ORD-11080,2022-04-17,Midwest,Home & Garden,Throw Pillow,Donna Torres,12,252.5,0.05,2878.5,4.9
+ORD-11081,2022-06-19,West,Electronics,Phone Case,Charles Perez,16,148.29,0.25,1779.48,3.5
+ORD-11082,2025-12-06,Southeast,Home & Garden,Kitchen Scale,Cynthia Green,9,384.53,0.1,3114.69,4.3
+ORD-11083,2023-01-22,Southwest,Sports,Running Belt,Lisa Hernandez,4,352.07,0,1408.28,3.5
+ORD-11084,2023-01-29,Southeast,Sports,Resistance Bands,Donna Torres,5,203.64,0.1,916.38,1.1
+ORD-11085,2025-12-04,Southeast,Sports,Resistance Bands,Charles Perez,2,193.27,0.1,347.89,2.3
+ORD-11086,2023-09-16,Northeast,Food & Beverage,Organic Coffee,Emily Carter,17,216.4,0,3678.8,2.5
+ORD-11087,2023-01-08,Northeast,Beauty,Nail Polish Set,Joseph Thomas,8,163.32,0,1306.56,1.2
+ORD-11088,2024-06-01,Southeast,Beauty,Hair Serum,Emily Carter,10,238.67,0,2386.7,4.8
+ORD-11089,2025-10-30,Southwest,Beauty,Body Lotion,Stephanie Wilson,10,60.21,0,602.1,4.4
+ORD-11090,2023-05-03,Midwest,Beauty,Body Lotion,Mark Smith,12,372.75,0.15,3802.05,3.3
+ORD-11091,2022-03-26,Southwest,Clothing,Denim Jeans,Mark Young,5,316.63,0,1583.15,4.5
+ORD-11092,2025-01-24,Southwest,Sports,Jump Rope,Richard Hill,15,463.12,0,6946.8,2.2
+ORD-11093,2022-09-19,Southeast,Food & Beverage,Trail Mix,Donna Torres,18,361.78,0,6512.04,3.2
+ORD-11094,2024-06-12,Northeast,Books,Business Analytics,Sandra Garcia,12,227.0,0,2724.0,2.7
+ORD-11095,2023-08-17,Northeast,Electronics,USB-C Hub,Melissa Nelson,20,140.7,0,2814.0,1.2
+ORD-11096,2022-12-05,West,Sports,Cycling Gloves,Stephanie Wilson,16,343.92,0,5502.72,3.0
+ORD-11097,2022-01-08,Southeast,Toys,Stuffed Animal,Melissa Nelson,20,139.39,0,2787.8,1.9
+ORD-11098,2023-09-14,Southeast,Electronics,Portable Charger,Amanda Harris,17,355.34,0.1,5436.7,3.8
+ORD-11099,2023-08-21,Northeast,Clothing,Running Shoes,Lisa Hernandez,8,27.58,0.05,209.61,1.6
+ORD-11100,2025-08-08,Southeast,Books,Machine Learning Guide,Gary Rodriguez,9,437.32,0,3935.88,1.8
+ORD-11101,2023-10-27,Northeast,Clothing,Cotton T-Shirt,Mark Roberts,12,318.18,0.15,3245.44,4.5
+ORD-11102,2023-10-27,Northeast,Books,Machine Learning Guide,Lisa Hernandez,14,449.68,0.1,5665.97,4.3
+ORD-11103,2025-01-05,Southwest,Beauty,Hair Serum,Patricia Anderson,9,92.48,0,832.32,3.9
+ORD-11104,2023-03-28,Midwest,Toys,Art Supply Kit,Emily Carter,20,277.68,0.25,4165.2,1.8
+ORD-11105,2024-01-25,Southeast,Toys,Puzzle Set,Ryan White,15,119.7,0.2,1436.4,2.9
+ORD-11106,2023-01-22,Southwest,Food & Beverage,Protein Bars,Sandra Garcia,15,96.59,0,1448.85,4.8
+ORD-11107,2024-03-18,Southwest,Home & Garden,Wall Clock,Mark Smith,1,158.53,0,158.53,1.3
+ORD-11108,2022-07-25,Southwest,Clothing,Silk Scarf,Jonathan Scott,8,230.24,0.2,1473.54,3.9
+ORD-11109,2022-01-28,Northeast,Electronics,Bluetooth Speaker,Jonathan Scott,13,195.08,0,2536.04,2.0
+ORD-11110,2022-01-20,Northeast,Clothing,Casual Sneakers,Gary Hernandez,5,469.61,0,2348.05,3.9
+ORD-11111,2022-12-01,Midwest,Beauty,Lip Balm Set,Richard Hill,7,73.92,0.25,388.08,2.9
+ORD-11112,2022-02-13,Northeast,Sports,Yoga Mat,Patricia Anderson,18,347.56,0,6256.08,3.2
+ORD-11113,2022-02-19,Southeast,Clothing,Silk Scarf,Donna Torres,5,5.6,0.05,26.6,2.5
+ORD-11114,2025-11-07,Northeast,Beauty,Eye Cream,Sandra Garcia,8,461.24,0.2,2951.94,1.7
+ORD-11115,2024-01-02,Northeast,Clothing,Winter Jacket,Andrew Hill,4,478.45,0.1,1722.42,2.3
+ORD-11116,2024-05-27,Southwest,Beauty,Lip Balm Set,Richard Hill,2,304.23,0,608.46,3.4
+ORD-11117,2023-12-15,Northeast,Toys,Puzzle Set,Emily Carter,10,314.26,0.1,2828.34,4.7
+ORD-11118,2025-09-05,Southeast,Beauty,Eye Cream,Richard Hill,3,395.48,0,1186.44,1.6
+ORD-11119,2023-07-25,Southeast,Food & Beverage,Dark Chocolate,Brenda Williams,3,61.02,0.2,146.45,2.3
+ORD-11120,2024-05-18,West,Home & Garden,Throw Pillow,Mark Roberts,13,179.54,0.25,1750.51,4.9
+ORD-11121,2025-01-08,Southwest,Beauty,Sunscreen SPF50,Sandra Garcia,8,194.68,0.25,1168.08,3.1
+ORD-11122,2024-12-15,Southwest,Sports,Cycling Gloves,Stephanie Wilson,3,292.58,0.2,702.19,3.8
+ORD-11123,2022-02-05,Midwest,Sports,Resistance Bands,Gary Hernandez,8,184.05,0.05,1398.78,2.9
+ORD-11124,2022-10-13,Midwest,Home & Garden,LED Desk Lamp,Matthew Williams,2,456.12,0.15,775.4,1.6
+ORD-11125,2022-10-10,Northeast,Toys,Action Figure,Mark Roberts,7,414.77,0,2903.39,3.8
+ORD-11126,2025-09-19,Southwest,Toys,Building Blocks,Brenda Williams,14,188.98,0,2645.72,2.9
+ORD-11127,2023-05-17,Northeast,Home & Garden,Ceramic Planter,Joseph Thomas,5,185.8,0,929.0,3.3
+ORD-11128,2024-12-16,Midwest,Toys,Puzzle Set,Sandra Garcia,6,237.53,0,1425.18,2.6
+ORD-11129,2022-05-03,Northeast,Beauty,Makeup Brush Kit,Andrew Hill,1,146.95,0,146.95,4.0
+ORD-11130,2025-02-08,Midwest,Home & Garden,Ceramic Planter,Mark Young,13,417.18,0.25,4067.51,3.3
+ORD-11131,2022-07-08,Southwest,Books,Statistics Primer,Jessica Scott,14,466.07,0.1,5872.48,4.9
+ORD-11132,2024-03-14,Southeast,Home & Garden,Kitchen Scale,Gary Rodriguez,13,311.43,0.05,3846.16,4.0
+ORD-11133,2024-02-19,Southeast,Clothing,Leather Belt,Mark Baker,16,160.03,0.2,2048.38,4.2
+ORD-11134,2024-01-13,Southwest,Toys,Action Figure,Stephanie Wilson,9,58.66,0,527.94,4.4
+ORD-11135,2022-05-14,Southeast,Electronics,Laptop Stand,Andrew Hill,10,85.57,0,855.7,1.0
+ORD-11136,2023-05-08,Midwest,Books,Statistics Primer,Brenda Williams,18,104.85,0,1887.3,4.9
+ORD-11137,2023-09-25,Northeast,Electronics,Portable Charger,Kimberly Wright,2,28.78,0,57.56,4.0
+ORD-11138,2022-09-23,Northeast,Toys,Action Figure,Richard Hill,11,377.16,0.15,3526.45,2.6
+ORD-11139,2024-09-03,Southwest,Clothing,Running Shoes,Ashley Taylor,1,295.65,0.2,236.52,4.4
+ORD-11140,2025-07-05,Northeast,Books,Machine Learning Guide,Mark Roberts,5,342.78,0,1713.9,1.9
+ORD-11141,2024-07-05,Southeast,Sports,Water Bottle,Richard Hill,6,496.74,0.15,2533.37,2.2
+ORD-11142,2022-11-09,Southwest,Toys,Building Blocks,Lisa Hernandez,13,123.36,0,1603.68,5.0
+ORD-11143,2025-01-25,Northeast,Clothing,Cotton T-Shirt,Sandra Garcia,5,384.33,0.1,1729.48,1.4
+ORD-11144,2025-03-26,Midwest,Beauty,Sunscreen SPF50,Kimberly Wright,10,84.93,0.1,764.37,1.4
+ORD-11145,2024-06-24,Southeast,Home & Garden,Shelf Organizer,Patricia Anderson,9,493.14,0.1,3994.43,4.9
+ORD-11146,2024-04-17,Southwest,Food & Beverage,Organic Coffee,Mark Young,12,430.21,0.2,4130.02,3.7
+ORD-11147,2024-02-05,Northeast,Food & Beverage,Honey Jar,Cynthia Green,17,423.19,0.15,6115.1,2.7
+ORD-11148,2023-05-17,Southwest,Food & Beverage,Olive Oil,Joseph Thomas,2,312.2,0,624.4,1.6
+ORD-11149,2022-05-30,Southeast,Clothing,Casual Sneakers,Jessica Scott,13,83.31,0.2,866.42,4.5
+ORD-11150,2022-08-12,Northeast,Clothing,Wool Sweater,Betty Clark,15,236.9,0.25,2665.12,3.9
+ORD-11151,2023-10-12,Midwest,Toys,Stuffed Animal,Andrew Hill,7,203.75,0,1426.25,2.9
+ORD-11152,2024-08-20,Southeast,Food & Beverage,Green Tea Pack,Lisa Hernandez,9,230.02,0,2070.18,1.9
+ORD-11153,2024-05-30,West,Electronics,Phone Case,Mark Smith,2,468.55,0.15,796.53,1.2
+ORD-11154,2022-06-21,Southeast,Electronics,Phone Case,Brenda Williams,9,129.78,0,1168.02,2.1
+ORD-11155,2025-10-03,Midwest,Clothing,Casual Sneakers,Betty Clark,15,436.29,0.05,6217.13,4.3
+ORD-11156,2022-12-03,Southeast,Clothing,Silk Scarf,Kimberly Wright,11,481.87,0.1,4770.51,4.8
+ORD-11157,2025-11-27,West,Food & Beverage,Dark Chocolate,Kimberly Wright,18,345.97,0,6227.46,4.7
+ORD-11158,2022-06-09,Southwest,Toys,Building Blocks,Andrew Hill,18,392.62,0.05,6713.8,1.6
+ORD-11159,2024-10-19,Midwest,Beauty,Face Moisturizer,Patricia Anderson,5,448.77,0,2243.85,4.2
+ORD-11160,2022-09-15,West,Toys,Art Supply Kit,Lisa Hernandez,17,362.53,0.25,4622.26,4.9
+ORD-11161,2024-05-10,Southwest,Clothing,Cotton T-Shirt,Stephanie Wilson,7,374.13,0.05,2487.96,1.7
+ORD-11162,2025-10-23,Southwest,Toys,Action Figure,Joseph Thomas,12,108.83,0.05,1240.66,2.5
+ORD-11163,2025-12-03,West,Beauty,Face Moisturizer,Lisa Hernandez,10,448.84,0,4488.4,5.0
+ORD-11164,2024-12-07,Midwest,Toys,Stuffed Animal,Patricia Anderson,12,179.34,0.2,1721.66,4.7
+ORD-11165,2025-01-16,West,Food & Beverage,Granola,Jessica Scott,12,92.56,0,1110.72,2.1
+ORD-11166,2022-06-29,Northeast,Toys,Art Supply Kit,Brenda Williams,20,469.26,0,9385.2,3.6
+ORD-11167,2025-07-21,West,Toys,Board Game,Sandra Moore,16,376.22,0,6019.52,3.3
+ORD-11168,2025-02-03,West,Electronics,Webcam,Patricia Anderson,14,109.88,0.25,1153.74,1.8
+ORD-11169,2024-04-25,West,Food & Beverage,Green Tea Pack,Joseph Thomas,12,483.97,0.25,4355.73,4.8
+ORD-11170,2023-09-22,West,Sports,Foam Roller,Cynthia Green,9,440.41,0.1,3567.32,2.0
+ORD-11171,2024-11-28,Southwest,Toys,Building Blocks,Richard Hill,1,17.99,0.15,15.29,2.3
+ORD-11172,2025-06-16,West,Toys,Action Figure,Gary Rodriguez,18,486.88,0.05,8325.65,1.2
+ORD-11173,2024-04-05,Midwest,Toys,Puzzle Set,Sandra Moore,13,488.79,0,6354.27,1.6
+ORD-11174,2025-07-08,Midwest,Sports,Resistance Bands,Gary Rodriguez,5,254.61,0.2,1018.44,3.2
+ORD-11175,2022-01-24,Southwest,Beauty,Hair Serum,Jonathan Scott,3,51.17,0.2,122.81,1.1
+ORD-11176,2024-07-18,Midwest,Clothing,Silk Scarf,Betty Clark,1,372.46,0,372.46,2.0
+ORD-11177,2024-02-14,Midwest,Sports,Foam Roller,Cynthia Green,7,270.03,0.05,1795.7,1.2
+ORD-11178,2022-08-16,West,Clothing,Running Shoes,Mark Young,1,321.0,0,321.0,3.4
+ORD-11179,2022-07-10,Northeast,Clothing,Running Shoes,Sandra Garcia,10,134.69,0,1346.9,4.4
+ORD-11180,2024-04-27,Northeast,Sports,Cycling Gloves,Sandra Garcia,4,248.06,0,992.24,4.8
+ORD-11181,2025-07-21,West,Clothing,Winter Jacket,Kevin Sanchez,14,190.75,0.15,2269.92,1.6
+ORD-11182,2022-08-29,Midwest,Books,Python Cookbook,Kimberly Wright,6,331.53,0,1989.18,2.9
+ORD-11183,2023-01-30,Southwest,Electronics,USB-C Hub,Joseph Thomas,17,372.14,0,6326.38,3.1
+ORD-11184,2022-03-02,Midwest,Home & Garden,Kitchen Scale,Jonathan Scott,12,61.82,0.05,704.75,1.9
+ORD-11185,2023-12-15,Southwest,Home & Garden,Wall Clock,Lisa Hernandez,9,243.38,0,2190.42,2.2
+ORD-11186,2023-05-28,Southeast,Food & Beverage,Granola,Mark Smith,17,473.44,0.05,7646.06,3.7
+ORD-11187,2022-12-06,Southeast,Books,AI Ethics,Linda Lee,4,293.91,0.1,1058.08,3.0
+ORD-11188,2025-06-29,Northeast,Food & Beverage,Granola,Andrew Hill,20,374.8,0.15,6371.6,2.5
+ORD-11189,2024-07-09,Southeast,Sports,Tennis Balls,Ryan White,12,449.46,0,5393.52,1.1
+ORD-11190,2024-03-26,Northeast,Books,AI Ethics,Patricia Anderson,10,303.92,0.15,2583.32,1.7
+ORD-11191,2023-03-17,Midwest,Beauty,Nail Polish Set,Kimberly Wright,6,182.08,0,1092.48,1.6
+ORD-11192,2023-11-05,Southeast,Beauty,Lip Balm Set,Matthew Williams,1,162.7,0,162.7,3.3
+ORD-11193,2025-05-17,Southeast,Beauty,Hair Serum,Sandra Moore,18,37.79,0.1,612.2,1.9
+ORD-11194,2025-10-29,West,Books,Data Science Handbook,Richard Hill,19,446.87,0.2,6792.42,4.3
+ORD-11195,2022-04-06,Midwest,Sports,Jump Rope,Donna Torres,2,402.35,0.25,603.53,1.5
+ORD-11196,2023-04-30,Southwest,Food & Beverage,Protein Bars,Joseph Thomas,20,166.8,0.2,2668.8,2.1
+ORD-11197,2022-03-17,Southwest,Electronics,Portable Charger,Mark Young,10,69.87,0.2,558.96,3.1
+ORD-11198,2023-09-09,Midwest,Beauty,Face Moisturizer,Richard Hill,3,237.6,0.2,570.24,4.0
+ORD-11199,2025-06-08,Northeast,Toys,Board Game,Jessica Scott,18,388.43,0.25,5243.81,2.2
+ORD-11200,2022-03-01,Southeast,Food & Beverage,Dark Chocolate,Mark Baker,4,422.32,0,1689.28,4.3
+ORD-11201,2023-04-09,Southeast,Home & Garden,LED Desk Lamp,Brenda Williams,11,431.39,0.2,3796.23,1.8
+ORD-11202,2022-08-15,Northeast,Beauty,Face Moisturizer,Amanda Harris,2,133.55,0,267.1,1.3
+ORD-11203,2025-04-09,West,Beauty,Nail Polish Set,Patricia Anderson,9,350.84,0,3157.56,1.5
+ORD-11204,2025-03-29,West,Home & Garden,Door Mat,Cynthia Green,15,335.78,0.05,4784.86,3.0
+ORD-11205,2023-08-30,Northeast,Books,Business Analytics,Kimberly Wright,16,116.79,0.1,1681.78,3.2
+ORD-11206,2022-05-04,Southeast,Sports,Jump Rope,Joseph Thomas,3,42.2,0.25,94.95,3.7
+ORD-11207,2023-03-04,Southwest,Food & Beverage,Granola,Stephanie Wilson,7,246.38,0.15,1465.96,3.1
+ORD-11208,2022-09-24,Southeast,Beauty,Eye Cream,Mark Young,15,329.37,0,4940.55,2.5
+ORD-11209,2024-05-16,Southeast,Food & Beverage,Trail Mix,Cynthia Green,13,98.04,0.1,1147.07,2.2
+ORD-11210,2023-05-08,Northeast,Clothing,Running Shoes,Ryan White,15,438.72,0,6580.8,2.8
+ORD-11211,2023-12-22,Midwest,Books,Python Cookbook,Patricia Anderson,16,332.63,0.25,3991.56,4.7
+ORD-11212,2024-10-25,West,Clothing,Wool Sweater,Sandra Moore,14,109.97,0.2,1231.66,2.3
+ORD-11213,2024-05-15,Southeast,Food & Beverage,Olive Oil,Amanda Harris,12,53.42,0.2,512.83,1.8
+ORD-11214,2022-08-12,Northeast,Home & Garden,Wall Clock,Lisa Hernandez,17,305.69,0.2,4157.38,2.0
+ORD-11215,2025-03-24,Midwest,Clothing,Winter Jacket,Charles Perez,4,31.3,0,125.2,1.3
+ORD-11216,2024-03-13,West,Clothing,Casual Sneakers,Patricia Anderson,8,441.89,0.2,2828.1,1.9
+ORD-11217,2023-12-13,Midwest,Books,Deep Learning Intro,Mark Roberts,7,89.66,0.05,596.24,3.4
+ORD-11218,2023-09-18,Southeast,Electronics,Bluetooth Speaker,Betty Clark,6,254.1,0.25,1143.45,2.3
+ORD-11219,2022-10-18,Northeast,Clothing,Running Shoes,Cynthia Green,6,169.42,0.25,762.39,2.9
+ORD-11220,2022-12-16,Northeast,Beauty,Face Moisturizer,Andrew Hill,6,487.31,0,2923.86,2.4
+ORD-11221,2022-08-13,Northeast,Food & Beverage,Organic Coffee,Gary Rodriguez,16,437.24,0.25,5246.88,1.1
+ORD-11222,2022-07-12,Northeast,Books,Statistics Primer,Amanda Harris,17,254.06,0,4319.02,4.2
+ORD-11223,2025-09-20,West,Beauty,Makeup Brush Kit,Emily Carter,16,368.73,0.1,5309.71,2.5
+ORD-11224,2022-08-19,Midwest,Electronics,Smart Watch,Cynthia Green,10,356.53,0.25,2673.97,3.1
+ORD-11225,2024-01-02,West,Electronics,USB-C Hub,Joseph Thomas,14,428.85,0,6003.9,2.0
+ORD-11226,2024-02-13,Northeast,Toys,Card Game,Emily Carter,7,373.46,0.05,2483.51,4.5
+ORD-11227,2023-11-10,West,Food & Beverage,Protein Bars,Melissa Nelson,9,455.61,0.15,3485.42,2.7
+ORD-11228,2025-06-08,Northeast,Books,SQL Mastery,Donna Torres,7,25.34,0.15,150.77,4.2
+ORD-11229,2025-11-04,Southeast,Beauty,Eye Cream,Matthew Williams,4,484.89,0.25,1454.67,3.7

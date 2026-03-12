@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/dirty_datasets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Data Learning"
+	}
+}

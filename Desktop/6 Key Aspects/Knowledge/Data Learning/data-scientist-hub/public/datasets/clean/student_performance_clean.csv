@@ -1,0 +1,1021 @@
+student_id,first_name,last_name,major,semester,age,gender,gpa,attendance_pct,assignments_submitted,midterm_score,final_score,overall_grade,passed
+STU-2000,Barbara,Moore,History,Fall 2022,19,Male,3.81,87.19,12,85.09,73.79,C,True
+STU-2001,Amanda,Miller,Engineering,Fall 2023,30,Non-binary,2.47,87.43,11,64.7,96.05,B,True
+STU-2002,Gary,Harris,Computer Science,Fall 2024,23,Non-binary,2.76,78.82,16,82.37,77.83,B,True
+STU-2003,Sharon,Williams,Engineering,Spring 2025,28,Non-binary,2.7,99.69,14,85.36,81.16,B,True
+STU-2004,David,Lewis,Mathematics,Fall 2024,24,Female,2.43,87.08,19,78.56,78.97,C,True
+STU-2005,Jennifer,Lopez,Engineering,Spring 2024,30,Female,2.77,87.19,11,71.72,75.77,C,True
+STU-2006,Edward,Nguyen,Computer Science,Fall 2023,22,Non-binary,2.69,77.3,26,65.38,42.92,F,False
+STU-2007,Stephanie,Anderson,Computer Science,Fall 2023,21,Non-binary,2.22,100,21,77.19,61.84,D,True
+STU-2008,Sharon,Thomas,Economics,Spring 2025,20,Non-binary,3.65,81.41,23,49.18,100,C,True
+STU-2009,David,Nelson,Biology,Spring 2024,30,Female,2.61,100,12,65.11,79.84,C,True
+STU-2010,Robert,Campbell,Engineering,Spring 2025,21,Non-binary,2.17,82.25,21,60.2,63.25,D,True
+STU-2011,Matthew,Young,Chemistry,Fall 2023,29,Male,2.99,100,26,67.96,83.39,C,True
+STU-2012,Linda,Anderson,Engineering,Fall 2023,25,Female,3.56,83.66,21,83.89,70.29,C,True
+STU-2013,Larry,Mitchell,Computer Science,Spring 2024,25,Male,3.21,76.95,21,69.85,86.58,C,True
+STU-2014,Ryan,Sanchez,English,Spring 2025,29,Non-binary,3.53,77.23,27,79.1,57.92,D,True
+STU-2015,Deborah,Lewis,Psychology,Spring 2023,18,Non-binary,4.0,100,25,68.83,40.29,F,False
+STU-2016,Christopher,Anderson,History,Spring 2024,20,Male,3.15,64.15,20,93.01,66.57,C,True
+STU-2017,Stephanie,Young,Computer Science,Spring 2024,23,Non-binary,3.21,90.68,28,88.58,51.91,C,True
+STU-2018,Sharon,King,Mathematics,Spring 2024,25,Female,3.82,99.74,13,76.44,55.91,D,True
+STU-2019,Jacob,Harris,English,Fall 2024,20,Male,2.8,73.28,5,74.85,70.11,C,True
+STU-2020,Larry,Thomas,Mathematics,Fall 2022,18,Female,2.71,49.82,24,69.53,69.55,D,True
+STU-2021,Stephanie,Wright,Psychology,Spring 2024,29,Male,1.76,87.27,17,73.72,57.05,D,True
+STU-2022,Thomas,Hernandez,English,Fall 2022,24,Female,3.62,100,23,93.59,81.6,B,True
+STU-2023,George,Wilson,English,Spring 2025,22,Female,3.03,76.55,5,71.93,70.54,C,True
+STU-2024,Patricia,Garcia,History,Spring 2023,26,Non-binary,3.75,69.38,26,84.49,84.1,B,True
+STU-2025,Larry,Adams,Chemistry,Spring 2023,24,Female,2.45,94.35,25,79.61,100,B,True
+STU-2026,Kenneth,Mitchell,English,Fall 2023,24,Female,3.52,91.85,12,88.51,75.62,B,True
+STU-2027,Larry,Roberts,Engineering,Fall 2023,20,Male,2.66,94.26,14,79.48,70.94,C,True
+STU-2028,David,Moore,Economics,Fall 2022,28,Female,2.99,68.99,11,72.51,70.26,C,True
+STU-2029,Robert,Jackson,Chemistry,Fall 2022,30,Female,4.0,91.72,18,73.86,63.21,D,True
+STU-2030,Sandra,Perez,Computer Science,Fall 2022,30,Female,3.96,92.28,15,67.24,43.15,F,False
+STU-2031,Angela,Ramirez,Psychology,Spring 2024,27,Male,2.67,68.17,5,78.65,66.26,C,True
+STU-2032,Stephanie,Gonzalez,History,Spring 2023,27,Male,2.34,81.78,6,65.33,82.89,C,True
+STU-2033,Ronald,Moore,Engineering,Spring 2023,26,Male,3.06,100,12,58.47,66.39,D,True
+STU-2034,Ryan,Anderson,Chemistry,Fall 2024,29,Non-binary,2.48,78.71,25,73.24,63.88,D,True
+STU-2035,Angela,Lewis,Psychology,Fall 2023,22,Non-binary,3.32,85.76,25,68.58,79.57,C,True
+STU-2036,Deborah,Sanchez,Mathematics,Fall 2023,20,Female,3.78,84.26,25,73.66,81.32,C,True
+STU-2037,Carol,Thompson,Chemistry,Fall 2023,28,Male,2.65,70.72,11,80.89,48.55,D,True
+STU-2038,Amy,Sanchez,Computer Science,Fall 2024,21,Female,2.45,100,8,70.35,79.54,C,True
+STU-2039,Dorothy,Allen,Computer Science,Fall 2023,23,Non-binary,2.73,70.56,25,64.74,66.87,D,True
+STU-2040,Matthew,Lewis,Mathematics,Fall 2024,23,Male,2.95,77.99,19,80.73,56.98,D,True
+STU-2041,Richard,Ramirez,Engineering,Spring 2023,27,Male,3.5,95.07,16,80.24,64.18,C,True
+STU-2042,Kathleen,King,Engineering,Spring 2023,30,Non-binary,2.24,76.54,15,100,56.03,C,True
+STU-2043,Daniel,Jackson,Business,Fall 2024,28,Male,2.18,70.62,10,83.42,89.79,B,True
+STU-2044,Matthew,Roberts,Psychology,Spring 2023,23,Male,2.48,81.99,14,57.14,71.7,D,True
+STU-2045,Lisa,Thompson,Chemistry,Spring 2025,24,Non-binary,2.1,82.3,11,62.48,92.34,C,True
+STU-2046,Amanda,Davis,Economics,Spring 2023,25,Non-binary,3.19,86.72,16,80.08,93.57,B,True
+STU-2047,Stephanie,Thomas,Psychology,Spring 2025,19,Non-binary,2.45,84.09,24,50.54,97.85,C,True
+STU-2048,Steven,Thompson,Biology,Fall 2024,20,Female,3.76,76.65,30,63.94,55.02,F,False
+STU-2049,Gary,Wright,Psychology,Fall 2022,22,Male,3.66,100,14,71.28,77.1,C,True
+STU-2050,Thomas,Smith,Psychology,Spring 2025,27,Female,3.0,100,30,55.74,53.77,F,False
+STU-2051,Sharon,King,Economics,Fall 2022,18,Male,2.94,100,17,67.27,59.75,D,True
+STU-2052,Jennifer,Green,English,Fall 2024,26,Non-binary,3.19,79.43,11,86.46,100,A,True
+STU-2053,Joseph,Hall,English,Spring 2025,24,Male,3.49,66.9,15,74.28,62.01,D,True
+STU-2054,Nancy,King,Engineering,Spring 2025,24,Non-binary,3.58,100,15,64.26,89.34,C,True
+STU-2055,Mark,Adams,Engineering,Fall 2022,22,Female,3.83,85.06,27,87.02,100,A,True
+STU-2056,Laura,Rivera,English,Spring 2024,20,Non-binary,3.56,83.94,21,62.87,91.07,C,True
+STU-2057,Kevin,Martinez,English,Spring 2024,21,Non-binary,2.73,91.54,5,98.67,82.26,A,True
+STU-2058,Kenneth,Lewis,Psychology,Fall 2024,18,Male,2.03,97.31,21,60.23,76.92,D,True
+STU-2059,Anthony,Hall,Economics,Fall 2022,19,Male,3.13,75.61,11,73.38,83.87,C,True
+STU-2060,Donna,Flores,Computer Science,Spring 2025,24,Male,3.36,87.41,21,85.46,70.8,C,True
+STU-2061,Nicholas,Rodriguez,Computer Science,Spring 2023,21,Female,3.6,97.19,20,69.61,82.06,C,True
+STU-2062,Ashley,Hernandez,Business,Spring 2023,24,Non-binary,2.22,84.07,21,85.13,82.51,B,True
+STU-2063,Susan,Davis,Psychology,Spring 2025,20,Non-binary,2.48,74.41,28,66.06,58.97,D,True
+STU-2064,Margaret,Hernandez,Engineering,Fall 2023,28,Female,2.2,100,23,69.23,64.53,D,True
+STU-2065,Steven,White,Biology,Spring 2025,24,Female,2.43,82.45,22,91.68,84.34,B,True
+STU-2066,Gary,Hill,Computer Science,Fall 2022,30,Female,1.69,98.78,14,69.57,77.46,C,True
+STU-2067,Kenneth,Jackson,English,Fall 2024,27,Male,3.14,87.5,18,97.61,62.5,B,True
+STU-2068,Mark,Robinson,Chemistry,Fall 2024,18,Female,3.34,75.07,15,73.81,63.11,D,True
+STU-2069,Sandra,Robinson,Business,Fall 2022,23,Non-binary,3.37,80.61,30,83.3,74.1,C,True
+STU-2070,Gary,Miller,Economics,Fall 2022,29,Non-binary,1.61,97.93,30,73.6,62.22,D,True
+STU-2071,Carol,Roberts,Chemistry,Spring 2025,22,Female,3.02,69.61,15,75.48,62.21,D,True
+STU-2072,Stephen,Sanchez,Engineering,Spring 2025,30,Male,2.86,62.47,25,86.61,83.03,B,True
+STU-2073,Sharon,Carter,Mathematics,Fall 2024,23,Male,2.97,86.28,19,79.05,80.58,C,True
+STU-2074,Amy,Roberts,History,Spring 2024,19,Non-binary,3.31,91.15,25,59.13,48.73,F,False
+STU-2075,John,Davis,Business,Spring 2023,21,Non-binary,2.61,93.63,27,81.52,69.02,C,True
+STU-2076,David,Thompson,History,Spring 2024,28,Non-binary,4.0,92.08,30,75.31,100,B,True
+STU-2077,Paul,Campbell,English,Spring 2024,21,Non-binary,3.34,61.06,21,67.22,100,B,True
+STU-2078,Rebecca,Campbell,English,Spring 2023,19,Non-binary,3.19,85.49,30,75.53,70.51,C,True
+STU-2079,Nicholas,Baker,Chemistry,Fall 2022,22,Non-binary,2.71,86.23,14,79.64,79.96,C,True
+STU-2080,Thomas,Moore,Computer Science,Spring 2024,20,Non-binary,3.17,79.98,27,53.94,87.18,C,True
+STU-2081,Angela,Nguyen,English,Fall 2024,30,Male,2.76,91.26,14,71.89,89.81,B,True
+STU-2082,Shirley,Lopez,Psychology,Fall 2023,26,Female,2.61,74.54,25,100,34.09,D,True
+STU-2083,Sandra,Gonzalez,Chemistry,Fall 2024,18,Male,3.29,79.75,5,80.78,82.74,B,True
+STU-2084,Richard,Hill,English,Spring 2025,28,Non-binary,4.0,90.06,7,54.59,65.0,F,False
+STU-2085,Michelle,Robinson,Computer Science,Spring 2025,24,Non-binary,3.15,92.65,26,93.63,73.35,B,True
+STU-2086,Betty,Green,Business,Fall 2022,21,Non-binary,3.13,100,28,68.96,81.14,C,True
+STU-2087,Kimberly,Campbell,Mathematics,Fall 2022,19,Female,4.0,56.19,15,93.43,67.82,B,True
+STU-2088,Anthony,Brown,Computer Science,Fall 2022,20,Male,2.69,72.59,30,75.07,54.19,D,True
+STU-2089,James,Brown,English,Fall 2023,23,Female,2.69,73.6,6,57.53,76.64,D,True
+STU-2090,Joshua,Martin,Computer Science,Spring 2025,21,Female,2.87,63.38,24,68.98,79.56,C,True
+STU-2091,Brian,Walker,Biology,Fall 2024,27,Non-binary,2.91,76.19,8,47.73,70.73,F,False
+STU-2092,Nancy,Green,Biology,Spring 2025,24,Female,3.72,86.96,27,79.37,75.72,C,True
+STU-2093,James,Garcia,Biology,Spring 2024,27,Non-binary,2.91,73.14,26,62.5,82.36,C,True
+STU-2094,Steven,Rivera,Mathematics,Fall 2023,23,Male,4.0,96.76,19,92.98,87.94,A,True
+STU-2095,Ryan,Miller,Mathematics,Fall 2022,28,Male,3.11,76.18,8,85.19,77.73,B,True
+STU-2096,Laura,Ramirez,Economics,Fall 2024,30,Non-binary,3.71,78.48,6,91.7,64.75,C,True
+STU-2097,Cynthia,Hernandez,Economics,Spring 2025,18,Non-binary,3.53,77.08,21,96.82,55.27,C,True
+STU-2098,Timothy,Martinez,Chemistry,Fall 2024,24,Female,2.44,100,18,73.08,83.02,C,True
+STU-2099,Ronald,Lopez,Engineering,Fall 2024,27,Non-binary,3.7,66.38,28,75.54,67.25,C,True
+STU-2100,Christopher,Perez,Biology,Fall 2024,27,Male,2.5,97.44,7,86.52,73.18,C,True
+STU-2101,Sharon,Campbell,Computer Science,Spring 2023,30,Non-binary,2.68,85.42,19,72.38,63.94,D,True
+STU-2102,Timothy,Robinson,Mathematics,Fall 2024,27,Female,3.47,100,12,81.73,48.65,D,True
+STU-2103,Sarah,Moore,History,Spring 2024,29,Male,3.01,73.22,11,54.69,66.05,D,True
+STU-2104,Edward,Garcia,Mathematics,Fall 2023,18,Non-binary,2.41,88.25,11,83.2,54.13,D,True
+STU-2105,Carol,Ramirez,Biology,Fall 2024,19,Male,3.09,61.44,23,65.23,77.05,C,True
+STU-2106,Betty,Johnson,Business,Spring 2023,30,Male,2.93,89.92,30,71.27,64.82,D,True
+STU-2107,Dorothy,White,Biology,Spring 2023,23,Non-binary,3.14,83.5,18,54.42,78.05,D,True
+STU-2108,Edward,Adams,Engineering,Spring 2023,27,Female,3.24,84.79,27,49.73,78.02,D,True
+STU-2109,John,Harris,English,Fall 2024,30,Female,2.8,100,22,65.74,52.43,F,False
+STU-2110,Mary,Nelson,Engineering,Spring 2023,22,Non-binary,2.6,76.37,23,66.5,47.52,F,False
+STU-2111,Timothy,Hill,Psychology,Spring 2023,22,Female,3.49,72.21,7,67.79,73.13,C,True
+STU-2112,Barbara,Moore,Computer Science,Fall 2024,28,Male,2.22,91.57,19,81.74,60.2,C,True
+STU-2113,Kenneth,Wright,Business,Fall 2022,24,Female,3.16,74.94,17,51.13,100,C,True
+STU-2114,Barbara,Lopez,Biology,Spring 2025,18,Non-binary,2.73,83.12,27,70.54,78.91,C,True
+STU-2115,Jason,Wilson,History,Fall 2024,20,Male,3.56,72.31,9,62.0,100,B,True
+STU-2116,Brian,Flores,Economics,Fall 2024,26,Non-binary,3.54,91.6,26,86.75,51.2,D,True
+STU-2117,Brenda,Hill,Biology,Fall 2023,29,Female,3.34,75.87,14,80.51,84.97,B,True
+STU-2118,Joseph,Flores,Mathematics,Spring 2023,30,Female,3.51,100,25,77.07,55.74,D,True
+STU-2119,Sharon,Garcia,History,Fall 2023,26,Male,2.39,74.42,30,62.24,70.51,D,True
+STU-2120,Laura,Gonzalez,Computer Science,Fall 2022,20,Female,2.69,95.66,6,78.34,87.32,B,True
+STU-2121,Betty,Davis,Business,Fall 2022,29,Male,2.81,75.46,26,72.81,81.79,C,True
+STU-2122,Barbara,Williams,Psychology,Spring 2025,25,Male,3.39,66.44,30,78.35,45.78,D,True
+STU-2123,Angela,Nelson,Economics,Spring 2023,30,Non-binary,1.98,100,21,85.0,84.94,B,True
+STU-2124,Margaret,Rodriguez,History,Fall 2023,24,Male,3.54,96.58,10,89.52,71.09,B,True
+STU-2125,Lisa,Johnson,Business,Spring 2024,23,Non-binary,2.36,88.17,19,90.03,82.63,B,True
+STU-2126,Jason,Lopez,English,Spring 2024,21,Non-binary,2.36,83.81,19,84.41,61.86,C,True
+STU-2127,Jason,Thomas,Mathematics,Fall 2023,25,Male,2.86,55.86,29,77.45,82.76,B,True
+STU-2128,Emily,Johnson,Business,Fall 2022,26,Non-binary,3.74,91.56,15,62.88,90.9,C,True
+STU-2129,Rebecca,Mitchell,Business,Fall 2023,23,Female,3.0,67.95,30,76.87,60.45,D,True
+STU-2130,Matthew,Lee,Economics,Spring 2023,18,Female,3.91,77.02,17,76.45,94.95,B,True
+STU-2131,Rebecca,Young,English,Fall 2024,22,Male,2.23,74.73,30,63.59,60.81,D,True
+STU-2132,Amy,Perez,English,Spring 2025,20,Male,2.99,69.66,14,70.51,93.07,B,True
+STU-2133,Andrew,Hill,History,Spring 2024,19,Non-binary,2.0,100,27,88.31,73.32,B,True
+STU-2134,Kathleen,Smith,Business,Spring 2023,22,Male,2.91,87.39,30,78.33,70.91,C,True
+STU-2135,Kenneth,Martinez,Chemistry,Spring 2025,26,Female,2.46,78.63,8,76.65,81.85,C,True
+STU-2136,Shirley,Martinez,Computer Science,Fall 2022,27,Male,3.75,94.11,23,74.38,81.86,C,True
+STU-2137,Larry,Lewis,Chemistry,Fall 2022,27,Non-binary,2.65,71.83,16,78.69,59.53,D,True
+STU-2138,Laura,King,Computer Science,Spring 2023,23,Male,2.58,65.92,6,75.78,71.24,C,True
+STU-2139,Kimberly,King,Psychology,Fall 2024,25,Male,2.97,97.3,17,46.42,74.33,D,True
+STU-2140,Donna,Young,Biology,Spring 2025,29,Male,2.3,71.82,12,88.96,74.92,B,True
+STU-2141,Timothy,Williams,Computer Science,Spring 2023,30,Male,3.15,90.24,23,69.06,66.8,D,True
+STU-2142,Charles,Rivera,Psychology,Fall 2022,18,Female,3.09,80.84,5,62.8,67.54,D,True
+STU-2143,Mary,Nguyen,Engineering,Fall 2024,18,Female,3.16,73.39,21,88.46,83.81,B,True
+STU-2144,Sharon,Rivera,English,Spring 2023,27,Male,2.69,70.32,30,65.47,58.13,D,True
+STU-2145,Jonathan,Adams,Chemistry,Spring 2025,24,Non-binary,2.76,88.04,29,97.08,79.71,B,True
+STU-2146,Joseph,Hernandez,Biology,Fall 2024,20,Male,2.52,76.75,8,93.58,73.35,B,True
+STU-2147,Mark,Thompson,Mathematics,Spring 2024,18,Female,3.3,83.5,29,68.68,79.48,C,True
+STU-2148,Donna,Hall,Engineering,Spring 2024,26,Male,2.13,79.51,15,61.59,62.75,D,True
+STU-2149,Mary,Miller,Psychology,Spring 2025,24,Male,2.33,93.72,15,56.23,57.39,F,False
+STU-2150,Jennifer,Robinson,History,Fall 2022,24,Male,3.74,100,26,88.88,61.86,C,True
+STU-2151,Kevin,Harris,Chemistry,Fall 2022,24,Female,3.7,100,19,74.79,57.99,D,True
+STU-2152,Joshua,White,Engineering,Fall 2022,29,Non-binary,3.22,71.31,9,85.42,89.92,B,True
+STU-2153,Richard,Williams,History,Fall 2022,20,Female,3.7,92.96,17,71.66,65.77,D,True
+STU-2154,Susan,Hill,Mathematics,Spring 2023,28,Non-binary,4.0,83.35,28,70.16,80.39,C,True
+STU-2155,Richard,Hall,Engineering,Spring 2023,27,Female,3.15,95.63,11,67.41,48.4,F,False
+STU-2156,Brian,Ramirez,Computer Science,Spring 2024,30,Non-binary,3.73,81.84,30,74.95,76.81,C,True
+STU-2157,George,Rivera,Psychology,Fall 2023,26,Non-binary,2.77,83.84,26,79.35,64.66,C,True
+STU-2158,Jessica,Martin,Chemistry,Spring 2025,20,Female,4.0,66.66,11,85.35,56.65,C,True
+STU-2159,Sharon,Mitchell,Chemistry,Fall 2022,18,Female,3.71,65.13,18,56.96,100,C,True
+STU-2160,Charles,Hernandez,Computer Science,Spring 2025,25,Female,2.75,85.38,12,75.98,75.69,C,True
+STU-2161,Thomas,Garcia,Business,Spring 2024,19,Female,3.6,89.38,13,68.33,47.2,F,False
+STU-2162,Melissa,Moore,Mathematics,Fall 2022,25,Male,2.93,90.16,30,83.8,95.38,B,True
+STU-2163,Stephen,Adams,Biology,Spring 2024,26,Male,2.85,100,26,62.6,88.54,C,True
+STU-2164,Susan,Davis,Economics,Spring 2025,29,Male,2.58,92.04,23,75.12,87.35,B,True
+STU-2165,Lisa,Adams,Engineering,Fall 2022,29,Male,3.38,98.88,19,82.11,73.45,C,True
+STU-2166,Lisa,Baker,History,Fall 2024,29,Non-binary,3.88,83.17,15,84.74,86.54,B,True
+STU-2167,Donna,Adams,Engineering,Fall 2023,23,Female,3.01,85.49,13,100,78.02,B,True
+STU-2168,Ryan,Gonzalez,Psychology,Spring 2025,21,Male,3.55,74.03,26,100,78.69,B,True
+STU-2169,Ryan,Scott,History,Fall 2023,21,Male,3.41,95.49,28,67.88,72.83,C,True
+STU-2170,John,Sanchez,Economics,Spring 2023,29,Female,2.3,67.49,8,73.16,80.75,C,True
+STU-2171,Matthew,Anderson,Business,Fall 2023,23,Male,2.19,77.85,8,76.11,70.66,C,True
+STU-2172,Barbara,White,English,Fall 2023,21,Non-binary,2.54,80.85,8,58.17,77.64,D,True
+STU-2173,Margaret,Lopez,Biology,Fall 2023,22,Male,3.09,80.75,21,72.29,77.53,C,True
+STU-2174,Sandra,Martin,Mathematics,Fall 2024,28,Female,3.19,82.1,6,58.91,66.17,D,True
+STU-2175,Amanda,Lopez,Biology,Spring 2023,23,Non-binary,2.47,89.91,15,66.98,62.1,D,True
+STU-2176,Margaret,Torres,Economics,Fall 2024,21,Non-binary,1.89,97.86,26,100,83.36,A,True
+STU-2177,Amanda,Perez,Engineering,Spring 2024,24,Female,2.96,85.1,9,57.39,70.43,D,True
+STU-2178,Shirley,Sanchez,Engineering,Spring 2024,30,Non-binary,2.14,78.86,30,80.8,67.47,C,True
+STU-2179,Ryan,Garcia,Psychology,Fall 2023,18,Female,3.45,79.94,21,73.8,90.69,B,True
+STU-2180,Kathleen,Baker,History,Fall 2022,25,Female,2.72,76.67,24,74.6,100,B,True
+STU-2181,James,Flores,Chemistry,Fall 2022,25,Male,2.75,75.63,20,68.4,91.67,B,True
+STU-2182,Ryan,Rivera,Business,Fall 2022,25,Female,2.75,90.77,25,74.1,74.43,C,True
+STU-2183,Brenda,Clark,English,Fall 2023,29,Female,2.99,67.12,28,51.01,52.8,F,False
+STU-2184,Carol,King,Business,Spring 2025,22,Female,2.57,70.89,16,72.15,55.23,D,True
+STU-2185,Larry,Lee,Computer Science,Fall 2024,30,Non-binary,1.6,95.27,26,92.25,63.77,C,True
+STU-2186,Charles,Sanchez,Biology,Spring 2025,23,Non-binary,2.93,93.13,15,60.99,86.13,C,True
+STU-2187,Brian,Carter,Economics,Fall 2023,22,Male,3.09,88.91,7,69.31,78.1,C,True
+STU-2188,Laura,Hill,Economics,Fall 2024,21,Female,2.84,74.09,11,54.55,63.28,F,False
+STU-2189,Kathleen,Williams,Psychology,Fall 2023,27,Female,3.57,100,28,82.01,76.36,C,True
+STU-2190,Ashley,Gonzalez,Engineering,Fall 2022,25,Male,4.0,94.65,20,77.91,100,B,True
+STU-2191,Elizabeth,Taylor,Computer Science,Spring 2023,29,Male,3.41,73.97,7,59.19,67.99,D,True
+STU-2192,Dorothy,Scott,Engineering,Spring 2024,27,Non-binary,3.3,89.88,26,61.53,72.44,D,True
+STU-2193,Matthew,Rodriguez,English,Spring 2025,30,Non-binary,3.11,85.28,11,81.6,82.36,B,True
+STU-2194,Jason,Thomas,History,Spring 2024,29,Male,3.5,78.23,17,87.44,65.4,C,True
+STU-2195,Steven,Young,Mathematics,Spring 2025,30,Non-binary,3.77,96.49,11,82.36,89.39,B,True
+STU-2196,Brenda,Moore,Psychology,Fall 2024,19,Female,3.49,93.5,8,83.96,84.03,B,True
+STU-2197,Stephen,Roberts,English,Spring 2023,25,Female,4.0,85.89,6,69.0,100,B,True
+STU-2198,Lisa,Young,Computer Science,Fall 2022,28,Female,3.14,84.52,22,84.44,95.51,B,True
+STU-2199,Patricia,Nguyen,English,Spring 2025,20,Female,2.42,75.77,18,73.96,65.52,D,True
+STU-2200,Kevin,Clark,Mathematics,Fall 2022,21,Non-binary,3.09,82.32,22,73.55,81.65,C,True
+STU-2201,Melissa,Anderson,Mathematics,Spring 2023,22,Female,1.83,95.18,12,87.15,67.85,C,True
+STU-2202,Stephen,Thomas,Business,Fall 2024,28,Male,2.42,98.18,30,75.37,62.29,D,True
+STU-2203,Kimberly,Hall,Psychology,Spring 2025,29,Male,3.07,79.51,6,72.42,73.21,C,True
+STU-2204,Susan,Garcia,Mathematics,Fall 2023,18,Non-binary,3.22,62.73,24,61.37,77.77,D,True
+STU-2205,Shirley,Lee,Business,Fall 2023,22,Female,2.6,76.12,17,93.98,79.59,B,True
+STU-2206,Donna,Roberts,English,Fall 2022,26,Female,3.65,80.61,20,76.06,58.36,D,True
+STU-2207,Donna,Thomas,Biology,Fall 2024,22,Female,2.36,84.63,7,85.46,69.02,C,True
+STU-2208,Brenda,Adams,Biology,Fall 2023,21,Non-binary,3.03,70.8,26,80.81,58.59,D,True
+STU-2209,Betty,Garcia,Mathematics,Spring 2024,26,Male,3.2,76.38,28,91.26,74.43,B,True
+STU-2210,Andrew,Mitchell,Economics,Fall 2024,25,Female,2.59,68.54,15,89.44,47.93,D,True
+STU-2211,Steven,Brown,Biology,Fall 2022,23,Female,2.74,77.21,6,88.2,73.37,B,True
+STU-2212,Matthew,Nguyen,English,Fall 2024,20,Male,2.39,70.79,22,73.51,67.02,C,True
+STU-2213,Gary,Taylor,Biology,Fall 2022,25,Male,3.58,87.69,30,85.9,61.04,C,True
+STU-2214,Melissa,Nelson,Biology,Fall 2024,22,Non-binary,2.59,76.16,14,79.43,79.33,C,True
+STU-2215,Melissa,Miller,Economics,Fall 2023,28,Non-binary,3.08,89.32,26,62.84,63.75,D,True
+STU-2216,Shirley,Carter,Computer Science,Spring 2025,25,Male,2.55,100,27,58.25,76.32,D,True
+STU-2217,Amy,Thomas,Computer Science,Fall 2022,21,Non-binary,3.27,68.08,23,85.47,81.32,B,True
+STU-2218,Paul,Mitchell,English,Spring 2023,19,Non-binary,2.46,86.88,25,63.88,73.21,D,True
+STU-2219,Jennifer,Adams,Computer Science,Spring 2025,24,Non-binary,2.24,100,18,69.46,76.9,C,True
+STU-2220,Susan,Gonzalez,Engineering,Spring 2023,23,Female,2.38,80.99,7,75.96,100,B,True
+STU-2221,Barbara,Johnson,Computer Science,Fall 2023,25,Non-binary,2.8,65.46,9,76.73,88.9,B,True
+STU-2222,Michael,Hernandez,Psychology,Fall 2024,29,Male,3.25,98.59,19,47.18,65.12,F,False
+STU-2223,Sarah,Torres,Biology,Spring 2023,28,Male,3.75,84.64,6,63.78,69.04,D,True
+STU-2224,Shirley,Mitchell,Economics,Spring 2023,18,Female,3.98,97.07,30,73.32,84.75,C,True
+STU-2225,Andrew,Wright,Chemistry,Fall 2023,24,Male,3.32,97.21,14,78.4,78.2,C,True
+STU-2226,Jason,Lopez,Mathematics,Fall 2023,30,Female,2.35,89.12,26,73.91,100,B,True
+STU-2227,Ashley,Anderson,Biology,Spring 2025,30,Female,3.3,86.98,18,60.09,48.65,F,False
+STU-2228,Deborah,Harris,Mathematics,Spring 2024,19,Female,3.41,90.54,10,55.62,92.48,C,True
+STU-2229,Jason,Clark,Psychology,Spring 2025,27,Male,2.48,71.59,28,84.65,78.6,B,True
+STU-2230,Mary,Wilson,Economics,Fall 2024,27,Male,3.36,100,23,89.74,75.72,B,True
+STU-2231,Stephanie,Davis,Biology,Fall 2024,26,Male,3.59,77.85,25,70.16,96.31,B,True
+STU-2232,Jessica,Allen,Economics,Fall 2024,29,Non-binary,2.78,96.31,25,92.59,68.6,B,True
+STU-2233,Daniel,Smith,History,Fall 2022,29,Male,3.94,100,18,87.39,88.62,B,True
+STU-2234,Joshua,King,Psychology,Spring 2023,28,Female,1.98,82.96,12,59.39,68.12,D,True
+STU-2235,Nancy,Johnson,English,Fall 2023,30,Non-binary,3.2,74.44,14,83.66,73.05,C,True
+STU-2236,James,Lopez,English,Fall 2022,25,Female,2.6,60.87,7,55.31,88.24,C,True
+STU-2237,Rebecca,Wright,English,Fall 2024,26,Female,3.17,81.36,7,94.31,85.66,B,True
+STU-2238,Amanda,White,History,Fall 2023,28,Male,3.62,77.17,25,75.72,80.32,C,True
+STU-2239,Mary,Mitchell,Chemistry,Fall 2022,28,Male,2.46,79.04,23,83.18,79.1,B,True
+STU-2240,Margaret,Flores,History,Fall 2022,21,Female,2.93,94.81,14,76.38,97.02,B,True
+STU-2241,Steven,Torres,English,Spring 2024,23,Male,3.66,96.79,16,60.67,62.62,D,True
+STU-2242,Kimberly,Ramirez,Biology,Fall 2022,30,Non-binary,2.77,97.87,25,80.22,87.51,B,True
+STU-2243,Matthew,Wilson,English,Fall 2022,20,Male,3.06,69.79,14,84.59,53.54,D,True
+STU-2244,Joseph,Lee,Economics,Fall 2022,29,Female,2.62,97.54,14,75.28,67.18,C,True
+STU-2245,Sharon,Anderson,Psychology,Spring 2025,19,Male,3.15,88.09,27,80.34,82.56,B,True
+STU-2246,Michael,Adams,Business,Spring 2023,28,Female,1.98,100,26,81.22,83.76,B,True
+STU-2247,Mary,Nguyen,Computer Science,Fall 2022,28,Male,3.69,100,23,98.38,86.41,A,True
+STU-2248,David,Thomas,Biology,Fall 2024,29,Male,3.08,73.52,27,82.82,97.48,A,True
+STU-2249,Paul,Robinson,Computer Science,Spring 2023,29,Non-binary,3.29,80.51,8,78.05,51.74,D,True
+STU-2250,Jonathan,Thompson,Mathematics,Spring 2023,18,Male,4.0,95.59,13,58.55,96.16,C,True
+STU-2251,Stephanie,Perez,Biology,Fall 2023,21,Non-binary,2.43,84.1,18,74.76,50.3,D,True
+STU-2252,John,Martin,Engineering,Fall 2022,26,Female,3.89,98.31,29,75.69,100,B,True
+STU-2253,Michael,Roberts,English,Spring 2025,24,Female,3.32,77.3,24,78.49,68.09,C,True
+STU-2254,Kathleen,Scott,English,Fall 2022,18,Non-binary,2.87,75.14,29,71.22,65.13,D,True
+STU-2255,Karen,White,History,Fall 2024,28,Non-binary,3.08,75.46,8,64.71,86.42,C,True
+STU-2256,Andrew,King,Business,Fall 2023,25,Non-binary,2.12,83.06,23,80.94,67.41,C,True
+STU-2257,Richard,Flores,History,Spring 2025,19,Female,3.55,73.41,25,81.93,89.91,B,True
+STU-2258,Eric,Miller,Economics,Spring 2023,30,Non-binary,3.15,86.54,8,66.57,65.31,D,True
+STU-2259,Larry,Brown,Biology,Spring 2025,25,Male,2.95,93.8,19,78.08,59.46,D,True
+STU-2260,Sharon,Nguyen,Psychology,Fall 2022,21,Non-binary,3.14,92.94,16,83.52,64.99,C,True
+STU-2261,Karen,Clark,Economics,Spring 2024,24,Male,2.87,77.74,26,78.0,57.8,D,True
+STU-2262,George,Young,Biology,Spring 2025,29,Male,3.17,94.77,17,74.28,66.28,C,True
+STU-2263,Shirley,Hernandez,Psychology,Spring 2023,26,Female,2.75,100,6,65.73,67.7,D,True
+STU-2264,Mark,Hill,Psychology,Spring 2023,21,Female,2.95,78.39,15,75.93,99.94,B,True
+STU-2265,Edward,Moore,Psychology,Fall 2022,27,Male,4.0,98.01,19,97.21,99.71,A,True
+STU-2266,Jennifer,Young,Economics,Fall 2022,18,Non-binary,2.15,83.82,5,69.69,61.58,D,True
+STU-2267,Cynthia,Hernandez,Economics,Spring 2025,18,Female,2.7,80.43,11,78.23,55.98,D,True
+STU-2268,Rebecca,Young,Biology,Spring 2025,23,Male,2.23,89.76,8,82.65,92.2,B,True
+STU-2269,Lisa,Clark,History,Spring 2025,22,Male,3.16,67.28,6,75.31,80.16,C,True
+STU-2270,Barbara,Young,Business,Fall 2022,24,Female,4.0,95.53,7,53.41,62.36,F,False
+STU-2271,Nicholas,Campbell,Economics,Spring 2024,22,Male,3.28,75.63,18,76.72,70.52,C,True
+STU-2272,Joshua,Mitchell,Economics,Spring 2023,19,Non-binary,2.5,76.63,14,100,78.94,B,True
+STU-2273,Thomas,Clark,Economics,Fall 2024,23,Non-binary,3.32,87.34,19,56.76,66.64,D,True
+STU-2274,Angela,Thompson,History,Fall 2024,18,Female,1.73,76.73,11,79.61,75.24,C,True
+STU-2275,Amanda,Sanchez,Business,Spring 2023,25,Non-binary,2.77,79.97,30,75.81,49.96,D,True
+STU-2276,Amy,Wright,Chemistry,Fall 2024,29,Non-binary,2.9,100,20,84.25,83.09,B,True
+STU-2277,Christopher,Baker,English,Spring 2024,20,Female,3.1,74.86,10,71.96,78.5,C,True
+STU-2278,Jacob,Gonzalez,Business,Fall 2024,28,Non-binary,2.86,94.38,9,54.45,79.08,D,True
+STU-2279,Elizabeth,Garcia,Mathematics,Fall 2024,29,Male,2.85,78.87,26,60.78,74.7,D,True
+STU-2280,Richard,Rodriguez,Engineering,Fall 2024,22,Male,3.5,70.32,16,80.08,81.83,B,True
+STU-2281,Jessica,Taylor,English,Fall 2023,18,Female,2.86,85.03,13,81.37,71.15,C,True
+STU-2282,Brenda,Martinez,Psychology,Fall 2023,25,Non-binary,3.82,77.72,10,70.78,70.16,C,True
+STU-2283,Edward,Mitchell,Biology,Fall 2024,22,Male,3.88,79.6,7,90.21,71.46,B,True
+STU-2284,Barbara,Rivera,Economics,Fall 2024,29,Non-binary,3.12,65.43,5,63.4,71.51,D,True
+STU-2285,Michelle,Hill,Computer Science,Fall 2023,18,Female,3.64,67.86,6,71.32,59.74,D,True
+STU-2286,Lisa,Rivera,English,Spring 2023,30,Female,3.37,96.75,16,60.84,79.19,C,True
+STU-2287,Sandra,Williams,Economics,Fall 2023,29,Male,3.48,85.56,17,95.34,81.02,B,True
+STU-2288,Kenneth,Campbell,Mathematics,Fall 2024,30,Female,2.91,75.85,10,82.72,99.06,A,True
+STU-2289,Kenneth,Ramirez,Mathematics,Fall 2022,22,Male,2.81,86.53,20,80.37,44.48,D,True
+STU-2290,Betty,Walker,Chemistry,Fall 2022,19,Male,3.28,87.63,27,51.49,94.85,C,True
+STU-2291,Paul,Walker,Psychology,Fall 2022,26,Male,2.3,68.1,14,84.55,48.32,D,True
+STU-2292,Rebecca,Hall,Psychology,Fall 2023,28,Female,3.1,81.25,11,60.16,78.79,D,True
+STU-2293,Sarah,Garcia,Business,Fall 2023,18,Female,1.99,80.63,24,80.52,60.87,C,True
+STU-2294,Brian,Clark,History,Spring 2024,27,Male,1.98,86.32,27,79.85,62.02,C,True
+STU-2295,Daniel,Williams,Biology,Fall 2024,26,Male,3.96,99.81,17,65.09,73.39,D,True
+STU-2296,Edward,Miller,Engineering,Fall 2023,26,Female,2.56,79.15,9,80.59,68.46,C,True
+STU-2297,Jonathan,Miller,History,Fall 2024,20,Female,3.11,90.87,27,92.56,100,A,True
+STU-2298,Jennifer,Nelson,Business,Spring 2024,27,Non-binary,2.76,92.88,14,95.86,58.27,C,True
+STU-2299,Ryan,Martinez,English,Fall 2024,18,Female,3.03,99.72,5,68.14,55.87,D,True
+STU-2300,Eric,Anderson,History,Fall 2023,24,Male,3.44,88.9,24,77.24,75.74,C,True
+STU-2301,Brian,Lopez,English,Spring 2023,29,Male,4.0,80.97,7,61.07,85.26,C,True
+STU-2302,Deborah,Johnson,Psychology,Spring 2024,28,Non-binary,3.18,98.69,15,74.53,73.94,C,True
+STU-2303,Richard,Garcia,Engineering,Fall 2024,25,Non-binary,3.39,82.46,16,89.18,99.95,A,True
+STU-2304,Jennifer,Davis,Business,Spring 2025,26,Non-binary,4.0,68.42,6,86.04,100,A,True
+STU-2305,Jacob,Flores,History,Spring 2023,29,Female,3.83,88.72,19,73.89,84.38,C,True
+STU-2306,Andrew,Smith,Psychology,Spring 2023,30,Non-binary,3.85,86.18,6,81.09,70.0,C,True
+STU-2307,Patricia,Carter,Chemistry,Fall 2024,18,Non-binary,3.92,94.57,9,72.48,55.53,D,True
+STU-2308,Angela,Hall,Computer Science,Fall 2024,23,Female,3.2,80.12,24,85.95,77.22,B,True
+STU-2309,Barbara,Allen,Engineering,Spring 2024,20,Female,2.14,92.09,7,63.87,88.23,C,True
+STU-2310,Margaret,Hernandez,Chemistry,Fall 2022,24,Male,3.38,95.3,8,60.44,71.05,D,True
+STU-2311,Nicholas,Thomas,Engineering,Spring 2024,20,Non-binary,2.99,83.97,15,53.85,81.37,D,True
+STU-2312,Ashley,Wright,Computer Science,Fall 2023,19,Male,2.93,93.35,29,53.69,85.29,D,True
+STU-2313,Daniel,Sanchez,History,Spring 2024,29,Non-binary,3.08,83.43,16,75.04,77.61,C,True
+STU-2314,Jennifer,Johnson,Economics,Fall 2023,19,Female,3.49,75.77,22,73.3,64.72,D,True
+STU-2315,Robert,Mitchell,Biology,Spring 2023,26,Non-binary,4.0,97.58,8,85.62,100,A,True
+STU-2316,Thomas,Roberts,English,Spring 2023,22,Female,2.61,90.94,26,85.25,86.14,B,True
+STU-2317,Shirley,Sanchez,History,Spring 2025,19,Female,3.31,100,17,56.07,72.64,D,True
+STU-2318,Brian,Davis,Computer Science,Spring 2025,21,Female,4.0,93.7,18,79.39,69.17,C,True
+STU-2319,Nicholas,Hall,Economics,Spring 2023,29,Non-binary,2.94,78.27,12,70.26,83.88,C,True
+STU-2320,Dorothy,Rodriguez,Psychology,Fall 2024,25,Non-binary,2.48,85.13,24,88.14,73.59,B,True
+STU-2321,Ronald,Young,Biology,Fall 2023,24,Male,3.45,94.86,29,84.45,74.99,C,True
+STU-2322,Kimberly,Allen,Psychology,Fall 2023,30,Female,3.11,64.12,10,89.55,82.09,B,True
+STU-2323,Dorothy,Clark,Mathematics,Fall 2022,20,Male,2.63,73.22,22,89.26,75.0,B,True
+STU-2324,David,Mitchell,Psychology,Spring 2025,21,Female,3.6,84.93,16,79.86,87.61,B,True
+STU-2325,Margaret,Baker,English,Spring 2023,21,Female,2.52,83.77,10,66.48,76.45,C,True
+STU-2326,George,Nelson,English,Fall 2023,25,Non-binary,3.1,70.22,15,57.31,84.05,C,True
+STU-2327,Margaret,Martinez,Biology,Fall 2023,18,Female,2.68,94.26,23,76.15,64.62,C,True
+STU-2328,Matthew,Harris,Chemistry,Fall 2024,27,Non-binary,2.5,100,22,82.06,48.37,D,True
+STU-2329,Timothy,Green,Computer Science,Spring 2024,29,Male,2.43,100,12,75.62,65.72,C,True
+STU-2330,Eric,Brown,Computer Science,Fall 2023,20,Non-binary,1.94,100,30,53.59,81.13,D,True
+STU-2331,Carol,Lee,Biology,Fall 2022,29,Female,3.3,69.51,9,67.44,70.82,D,True
+STU-2332,Daniel,Wilson,Psychology,Fall 2023,23,Non-binary,3.73,87.72,22,62.14,48.01,F,False
+STU-2333,Laura,Garcia,English,Fall 2023,24,Female,2.9,100,17,80.21,79.93,B,True
+STU-2334,Linda,Jackson,Biology,Fall 2024,22,Non-binary,2.73,70.73,28,74.98,84.56,C,True
+STU-2335,Mark,White,Chemistry,Fall 2023,25,Non-binary,1.88,92.74,8,82.44,51.03,D,True
+STU-2336,Melissa,Hall,Mathematics,Fall 2023,30,Male,3.02,79.19,12,74.46,73.49,C,True
+STU-2337,Michelle,Thompson,Mathematics,Spring 2024,24,Non-binary,3.07,95.01,16,69.61,81.85,C,True
+STU-2338,Gary,Roberts,Mathematics,Spring 2024,20,Female,3.41,75.46,30,65.42,48.8,F,False
+STU-2339,Dorothy,Wright,Mathematics,Spring 2024,28,Male,2.42,100,21,81.33,54.8,D,True
+STU-2340,Barbara,Smith,Computer Science,Fall 2022,22,Female,2.4,80.07,23,81.21,49.25,D,True
+STU-2341,Jonathan,Mitchell,Business,Spring 2024,28,Female,2.6,84.43,14,89.19,83.13,B,True
+STU-2342,Andrew,Thomas,Engineering,Spring 2025,22,Non-binary,3.04,85.93,22,62.16,83.88,C,True
+STU-2343,Angela,Young,Mathematics,Fall 2023,29,Non-binary,3.86,72.73,16,71.92,100,B,True
+STU-2344,Linda,Sanchez,English,Fall 2023,28,Non-binary,3.87,81.34,14,77.56,63.62,C,True
+STU-2345,Dorothy,Nguyen,Business,Fall 2022,24,Male,2.61,79.75,16,65.32,58.93,D,True
+STU-2346,Sandra,Moore,Biology,Fall 2024,29,Non-binary,3.28,100,21,57.42,91.88,C,True
+STU-2347,William,Brown,Chemistry,Fall 2023,26,Male,2.75,73.15,14,72.88,72.78,C,True
+STU-2348,Susan,Young,Biology,Fall 2023,24,Female,2.47,80.3,10,75.02,65.04,C,True
+STU-2349,Timothy,Lopez,Psychology,Fall 2022,23,Male,3.39,82.4,30,86.43,74.27,B,True
+STU-2350,Sandra,Lopez,Engineering,Spring 2024,24,Male,2.29,85.5,10,79.99,63.05,C,True
+STU-2351,Sandra,Williams,Economics,Spring 2023,23,Male,2.43,81.91,20,83.11,82.39,B,True
+STU-2352,Barbara,Gonzalez,History,Fall 2023,20,Male,3.31,99.92,16,81.34,56.55,D,True
+STU-2353,Gary,Nguyen,History,Fall 2022,25,Female,2.41,95.55,16,89.23,83.27,B,True
+STU-2354,Cynthia,Campbell,Computer Science,Spring 2023,22,Male,2.84,100,6,52.19,96.56,C,True
+STU-2355,Elizabeth,Garcia,English,Spring 2023,21,Female,2.25,75.09,14,95.74,100,A,True
+STU-2356,Jennifer,Clark,Computer Science,Fall 2023,25,Female,2.97,76.85,20,68.08,79.04,C,True
+STU-2357,Jennifer,Roberts,Computer Science,Fall 2022,29,Female,3.24,73.6,8,66.07,75.78,C,True
+STU-2358,Joseph,Garcia,Business,Spring 2023,26,Female,3.27,80.02,29,72.53,59.31,D,True
+STU-2359,Gary,Martinez,Psychology,Spring 2025,28,Female,2.63,80.79,22,56.59,65.77,D,True
+STU-2360,Sharon,Perez,Chemistry,Fall 2023,26,Non-binary,2.4,99.42,15,76.56,66.81,C,True
+STU-2361,Brian,Williams,Psychology,Fall 2022,29,Female,3.5,77.07,19,58.92,93.28,C,True
+STU-2362,Stephen,Lewis,History,Spring 2023,28,Female,3.09,94.86,9,96.7,87.29,A,True
+STU-2363,Emily,Harris,Business,Spring 2023,27,Male,3.11,65.09,22,73.51,48.34,D,True
+STU-2364,Jason,Wilson,Chemistry,Spring 2023,29,Female,4.0,67.04,23,57.07,73.58,D,True
+STU-2365,Christopher,Flores,Business,Spring 2024,29,Male,1.95,82.12,26,79.89,79.2,C,True
+STU-2366,Larry,Hernandez,Business,Fall 2024,22,Female,3.35,80.5,5,77.93,56.18,D,True
+STU-2367,James,Walker,Business,Fall 2023,29,Female,2.49,81.43,28,54.89,70.53,D,True
+STU-2368,Eric,White,Computer Science,Spring 2024,26,Male,3.47,87.04,8,76.57,75.48,C,True
+STU-2369,Lisa,Sanchez,English,Fall 2024,25,Non-binary,2.74,81.12,9,83.46,100,A,True
+STU-2370,Anthony,Clark,English,Fall 2024,18,Non-binary,3.01,91.17,26,84.88,62.89,C,True
+STU-2371,Jonathan,Hall,Computer Science,Spring 2025,18,Female,2.24,82.75,9,61.51,52.33,F,False
+STU-2372,Charles,Thomas,Biology,Spring 2025,23,Female,2.65,84.48,11,67.92,100,B,True
+STU-2373,Gary,Taylor,Chemistry,Fall 2023,29,Male,2.39,86.3,28,82.91,85.28,B,True
+STU-2374,Amy,Hall,Psychology,Spring 2024,19,Male,4.0,93.6,17,72.62,53.38,D,True
+STU-2375,Elizabeth,Young,Computer Science,Fall 2022,26,Female,2.98,93.96,21,72.51,66.41,D,True
+STU-2376,Mary,Wilson,History,Fall 2022,24,Male,3.03,86.29,21,96.74,63.71,B,True
+STU-2377,Steven,Moore,Computer Science,Spring 2023,27,Male,4.0,75.18,13,67.19,88.71,C,True
+STU-2378,Sharon,Young,Business,Spring 2024,18,Female,3.76,100,9,62.83,70.43,D,True
+STU-2379,Nancy,Wilson,Economics,Spring 2025,30,Female,1.85,83.07,9,72.29,71.83,C,True
+STU-2380,Jennifer,Green,Business,Spring 2025,30,Female,3.64,74.7,24,69.02,49.35,F,False
+STU-2381,Michael,Adams,History,Fall 2022,18,Non-binary,4.0,91.17,8,71.42,49.57,D,True
+STU-2382,Nancy,Green,Chemistry,Fall 2022,26,Male,2.24,93.5,21,54.96,91.34,C,True
+STU-2383,Matthew,Nelson,Chemistry,Spring 2025,28,Male,3.79,94.51,5,81.64,79.51,B,True
+STU-2384,Steven,Lee,History,Spring 2024,18,Female,3.52,84.34,12,76.76,78.6,C,True
+STU-2385,Sandra,Smith,History,Spring 2025,28,Male,4.0,100,24,63.82,61.98,D,True
+STU-2386,Elizabeth,Thomas,Psychology,Fall 2022,28,Non-binary,3.96,82.07,22,76.0,80.07,C,True
+STU-2387,Joshua,Mitchell,Economics,Spring 2025,21,Female,3.59,89.23,29,99.84,81.55,A,True
+STU-2388,Joshua,Nelson,Psychology,Fall 2023,22,Male,2.57,100,19,62.98,69.24,D,True
+STU-2389,Jonathan,Wright,Economics,Spring 2023,30,Male,2.71,96.13,23,89.68,87.82,B,True
+STU-2390,Karen,Nguyen,Psychology,Fall 2022,21,Female,3.24,100,24,72.83,66.97,D,True
+STU-2391,Kimberly,Baker,Business,Spring 2024,24,Male,4.0,85.81,11,81.71,80.35,B,True
+STU-2392,Mark,Thomas,Mathematics,Spring 2025,26,Non-binary,3.64,82.08,18,58.89,63.94,D,True
+STU-2393,Barbara,Perez,Biology,Spring 2023,22,Male,2.18,94.24,15,66.43,91.65,C,True
+STU-2394,Eric,Walker,Engineering,Spring 2025,29,Non-binary,4.0,83.62,27,90.02,54.88,C,True
+STU-2395,Andrew,Davis,History,Spring 2024,29,Male,3.42,71.98,10,72.03,64.73,D,True
+STU-2396,Betty,Lopez,Economics,Spring 2025,30,Male,3.48,93.73,13,72.72,71.14,C,True
+STU-2397,Donna,Allen,History,Spring 2023,20,Female,2.09,85.09,20,60.76,44.14,F,False
+STU-2398,Jennifer,Adams,Computer Science,Spring 2025,23,Male,3.95,97.38,29,67.45,91.31,C,True
+STU-2399,Eric,Ramirez,English,Spring 2024,25,Non-binary,2.74,78.09,30,73.55,56.2,D,True
+STU-2400,Thomas,Rivera,Engineering,Fall 2024,20,Non-binary,2.96,82.45,20,58.3,73.6,D,True
+STU-2401,Richard,Harris,English,Fall 2022,27,Female,2.09,89.14,25,69.71,77.47,C,True
+STU-2402,Anthony,Flores,History,Fall 2024,22,Female,3.21,100,19,82.28,100,A,True
+STU-2403,Margaret,Gonzalez,Chemistry,Fall 2024,22,Female,3.63,90.4,18,89.04,82.34,B,True
+STU-2404,Joseph,Anderson,Economics,Fall 2022,29,Non-binary,3.04,100,21,76.39,66.2,C,True
+STU-2405,Betty,Campbell,English,Fall 2023,27,Male,2.26,87.09,25,67.12,65.28,D,True
+STU-2406,Melissa,Nelson,Business,Spring 2024,19,Female,2.99,100,29,73.11,66.85,D,True
+STU-2407,Deborah,Carter,Business,Spring 2024,29,Female,3.03,98.85,15,78.38,56.26,D,True
+STU-2408,David,Wright,English,Spring 2024,28,Male,2.88,100,11,76.85,97.02,B,True
+STU-2409,Paul,Jackson,Economics,Spring 2023,24,Female,3.4,75.39,14,79.03,91.29,B,True
+STU-2410,Timothy,Hernandez,Psychology,Spring 2023,18,Non-binary,2.21,85.92,11,87.99,86.98,B,True
+STU-2411,David,Anderson,Psychology,Spring 2024,19,Non-binary,3.24,81.76,7,75.37,89.35,B,True
+STU-2412,Margaret,Martin,Business,Spring 2025,25,Male,2.87,79.54,11,100,57.13,C,True
+STU-2413,Larry,Wright,Mathematics,Spring 2023,26,Female,3.04,96.01,30,79.49,75.83,C,True
+STU-2414,Eric,Harris,Computer Science,Spring 2024,30,Female,2.67,72.51,26,64.34,96.54,B,True
+STU-2415,Ryan,Smith,Psychology,Fall 2022,19,Non-binary,3.3,89.2,13,62.16,82.76,C,True
+STU-2416,Mary,Clark,Psychology,Spring 2023,21,Female,3.11,75.76,20,54.23,79.19,D,True
+STU-2417,Robert,White,Computer Science,Fall 2023,19,Non-binary,4.0,74.82,25,73.72,67.47,C,True
+STU-2418,Melissa,Garcia,History,Spring 2025,20,Non-binary,2.94,77.09,10,71.8,70.66,C,True
+STU-2419,Dorothy,Perez,English,Fall 2022,23,Non-binary,2.77,75.7,29,60.18,53.3,F,False
+STU-2420,Steven,Gonzalez,Psychology,Fall 2022,25,Male,2.82,63.83,15,70.38,78.27,C,True
+STU-2421,Betty,Wilson,Computer Science,Spring 2023,29,Male,2.35,73.89,30,54.33,64.0,F,False
+STU-2422,Margaret,Gonzalez,Computer Science,Fall 2022,24,Male,3.4,100,11,58.46,68.31,D,True
+STU-2423,James,Smith,Economics,Fall 2024,30,Male,1.13,76.59,20,65.72,73.1,D,True
+STU-2424,Christopher,Taylor,Business,Fall 2024,23,Non-binary,3.5,95.8,17,60.21,60.1,D,True
+STU-2425,Michael,Hill,Engineering,Fall 2023,20,Male,3.27,83.07,17,64.88,47.86,F,False
+STU-2426,Sarah,Green,Psychology,Fall 2022,23,Non-binary,2.92,73.3,17,78.9,78.72,C,True
+STU-2427,Kathleen,Baker,English,Spring 2025,25,Non-binary,2.77,93.06,27,86.63,66.5,C,True
+STU-2428,Linda,Moore,English,Fall 2024,26,Female,2.99,91.89,21,87.83,75.45,B,True
+STU-2429,Richard,Nguyen,Business,Fall 2024,29,Male,2.96,82.59,11,77.95,89.22,B,True
+STU-2430,Timothy,Mitchell,Mathematics,Fall 2023,24,Female,4.0,82.13,30,85.02,83.14,B,True
+STU-2431,Mark,Anderson,Computer Science,Spring 2023,25,Non-binary,2.35,73.75,27,55.29,58.92,F,False
+STU-2432,Anthony,Hall,History,Spring 2023,23,Male,3.29,89.74,20,70.72,79.21,C,True
+STU-2433,Amy,Walker,Biology,Fall 2022,29,Non-binary,3.29,67.14,15,83.13,95.57,B,True
+STU-2434,Kevin,Perez,Business,Fall 2022,28,Non-binary,2.71,100,20,80.01,74.46,C,True
+STU-2435,Melissa,Moore,Chemistry,Spring 2025,21,Female,3.19,70.58,22,73.14,74.48,C,True
+STU-2436,Margaret,Martinez,Psychology,Spring 2024,21,Non-binary,4.0,99.93,26,77.02,72.31,C,True
+STU-2437,Linda,Thomas,Psychology,Spring 2023,25,Non-binary,3.03,100,6,75.65,81.16,C,True
+STU-2438,Anthony,Hall,Psychology,Spring 2025,30,Male,2.86,78.34,14,83.66,92.59,B,True
+STU-2439,David,Williams,Mathematics,Fall 2024,29,Male,4.0,88.48,11,79.35,63.61,C,True
+STU-2440,Patricia,Nelson,Computer Science,Spring 2024,22,Non-binary,2.72,74.54,27,100,54.32,C,True
+STU-2441,Karen,Lewis,Engineering,Fall 2022,20,Female,2.42,86.55,5,73.66,82.74,C,True
+STU-2442,Lisa,Green,Biology,Fall 2024,24,Female,3.57,99.05,15,64.0,52.64,F,False
+STU-2443,Patricia,Hernandez,Business,Spring 2025,28,Female,3.94,84.23,21,64.49,83.27,C,True
+STU-2444,Carol,King,Chemistry,Fall 2024,19,Female,3.46,88.75,9,86.13,52.07,D,True
+STU-2445,Angela,Sanchez,Chemistry,Fall 2022,22,Non-binary,4.0,84.92,11,71.68,78.23,C,True
+STU-2446,David,Gonzalez,Business,Spring 2025,25,Male,3.07,100,6,77.87,78.98,C,True
+STU-2447,Laura,Gonzalez,Business,Spring 2025,21,Non-binary,3.49,88.62,22,68.69,85.39,C,True
+STU-2448,William,Young,Psychology,Fall 2024,25,Female,3.87,97.82,9,74.35,80.03,C,True
+STU-2449,Paul,Thompson,History,Spring 2025,28,Male,2.26,84.4,28,68.76,72.97,C,True
+STU-2450,Amy,Anderson,Biology,Spring 2023,20,Male,2.92,100,12,77.06,90.08,B,True
+STU-2451,Michael,Nelson,Biology,Fall 2023,22,Non-binary,2.04,81.27,28,52.52,98.26,C,True
+STU-2452,Michelle,Nguyen,Computer Science,Spring 2023,23,Non-binary,3.51,92.95,8,69.55,69.85,D,True
+STU-2453,Emily,Thompson,History,Fall 2023,18,Non-binary,3.46,77.14,18,70.35,100,B,True
+STU-2454,Joseph,Clark,English,Fall 2023,21,Female,2.61,84.98,17,62.71,79.92,C,True
+STU-2455,Thomas,Johnson,Engineering,Spring 2025,24,Non-binary,2.67,87.52,13,83.03,79.73,B,True
+STU-2456,Dorothy,Clark,Computer Science,Fall 2023,20,Female,3.29,65.58,13,57.87,89.36,C,True
+STU-2457,Edward,Garcia,Computer Science,Fall 2023,30,Non-binary,3.03,93.55,6,60.97,77.95,D,True
+STU-2458,Andrew,Roberts,English,Spring 2023,20,Non-binary,4.0,73.55,26,63.61,82.97,C,True
+STU-2459,Michelle,Rivera,History,Fall 2022,22,Non-binary,4.0,63.29,9,87.78,75.33,B,True
+STU-2460,John,Jones,English,Spring 2023,30,Non-binary,2.92,58.36,27,68.45,64.08,D,True
+STU-2461,Kevin,Young,Business,Spring 2025,21,Female,2.99,71.95,8,82.59,100,A,True
+STU-2462,Edward,Jackson,History,Fall 2022,27,Male,3.13,90.57,25,78.0,42.87,D,True
+STU-2463,Charles,Wright,Engineering,Spring 2023,26,Male,2.48,66.59,19,73.77,49.83,D,True
+STU-2464,Brenda,White,Business,Spring 2024,22,Non-binary,2.41,63.32,10,88.77,68.93,C,True
+STU-2465,Amy,Harris,Business,Fall 2023,27,Non-binary,2.72,70.8,30,90.06,90.72,A,True
+STU-2466,Thomas,Smith,Economics,Fall 2023,24,Female,3.33,93.76,8,89.71,74.37,B,True
+STU-2467,Larry,White,Biology,Fall 2023,23,Female,3.52,90.47,11,65.9,51.92,F,False
+STU-2468,Joshua,Jones,Chemistry,Spring 2024,21,Male,2.93,85.1,7,79.05,62.16,C,True
+STU-2469,Andrew,Campbell,Psychology,Spring 2025,29,Male,2.73,89.76,5,85.65,89.61,B,True
+STU-2470,Ashley,Jones,Computer Science,Spring 2023,28,Male,2.74,68.21,9,78.96,95.72,B,True
+STU-2471,Amy,Allen,Computer Science,Fall 2022,21,Non-binary,2.75,88.68,28,68.18,67.88,D,True
+STU-2472,Richard,Hill,Mathematics,Fall 2023,20,Male,3.94,95.55,14,94.06,100,A,True
+STU-2473,Ronald,Young,Engineering,Spring 2024,20,Non-binary,3.75,58.1,15,64.38,79.98,C,True
+STU-2474,Ashley,Flores,Engineering,Fall 2022,18,Non-binary,3.07,100,21,81.88,70.8,C,True
+STU-2475,Kathleen,Baker,History,Fall 2023,20,Female,3.12,80.69,17,66.56,100,B,True
+STU-2476,Ashley,Sanchez,Business,Fall 2022,24,Male,3.23,98.99,7,99.26,75.94,B,True
+STU-2477,Mark,Hall,English,Spring 2024,20,Male,2.7,69.3,23,90.33,67.16,C,True
+STU-2478,James,Clark,Psychology,Spring 2024,21,Female,3.06,95.07,10,73.71,74.17,C,True
+STU-2479,Amy,Nelson,English,Fall 2023,30,Non-binary,3.47,75.18,11,68.49,78.68,C,True
+STU-2480,Linda,Adams,History,Fall 2023,29,Male,1.71,95.05,28,88.13,90.22,B,True
+STU-2481,Sandra,Perez,Computer Science,Fall 2024,30,Female,2.1,86.75,27,76.9,70.24,C,True
+STU-2482,Kimberly,Brown,Chemistry,Spring 2024,28,Non-binary,2.63,92.09,12,76.37,79.8,C,True
+STU-2483,Larry,Thompson,Computer Science,Spring 2024,23,Male,2.45,81.48,6,83.96,89.94,B,True
+STU-2484,Barbara,Perez,Chemistry,Fall 2024,24,Female,3.37,70.4,27,68.22,71.08,D,True
+STU-2485,Linda,Hill,Chemistry,Spring 2023,28,Female,1.8,100,28,82.29,90.05,B,True
+STU-2486,Timothy,Sanchez,Psychology,Fall 2024,18,Non-binary,1.93,97.12,15,76.59,82.43,C,True
+STU-2487,Jonathan,Williams,Computer Science,Spring 2024,26,Male,2.76,78.84,26,65.16,80.92,C,True
+STU-2488,Michelle,Thomas,Engineering,Spring 2025,29,Non-binary,2.99,92.98,11,74.31,26.68,F,False
+STU-2489,James,Anderson,Engineering,Spring 2025,23,Non-binary,2.66,87.59,14,78.64,56.59,D,True
+STU-2490,Steven,Jones,Engineering,Spring 2023,30,Male,3.15,66.53,9,79.18,97.5,B,True
+STU-2491,Brenda,Rodriguez,Chemistry,Spring 2025,30,Female,1.8,83.17,12,77.8,71.83,C,True
+STU-2492,Larry,Thomas,Psychology,Spring 2023,19,Male,3.41,100,25,98.44,91.73,A,True
+STU-2493,Barbara,Torres,History,Fall 2023,20,Non-binary,3.21,83.47,20,100,79.36,B,True
+STU-2494,Jason,Martinez,Mathematics,Fall 2024,27,Female,2.52,83.23,22,57.01,76.74,D,True
+STU-2495,George,Hill,Biology,Spring 2024,29,Non-binary,2.99,100,6,35.62,78.46,F,False
+STU-2496,Angela,Hernandez,Economics,Spring 2025,29,Male,3.69,94.81,27,69.3,68.57,D,True
+STU-2497,Sandra,Davis,Economics,Spring 2025,23,Female,3.39,74.17,27,62.71,73.58,D,True
+STU-2498,Susan,Lewis,History,Spring 2023,26,Non-binary,2.82,70.51,9,91.02,100,A,True
+STU-2499,Nicholas,Rivera,Psychology,Fall 2024,28,Non-binary,1.77,74.78,19,78.28,63.47,C,True
+STU-2500,Sandra,Jones,History,Fall 2023,24,Male,1.98,63.34,14,76.26,73.12,C,True
+STU-2501,John,Jackson,Business,Fall 2022,20,Non-binary,2.76,75.71,14,70.43,93.94,B,True
+STU-2502,Emily,Wilson,Business,Spring 2025,29,Female,3.46,82.85,13,81.6,77.01,C,True
+STU-2503,Larry,King,History,Spring 2024,30,Non-binary,3.78,81.04,6,79.31,61.11,C,True
+STU-2504,Donna,Adams,Mathematics,Spring 2025,25,Male,2.65,93.9,7,81.86,80.8,B,True
+STU-2505,Edward,Carter,Computer Science,Fall 2024,19,Female,3.98,69.2,26,76.18,58.53,D,True
+STU-2506,Dorothy,Williams,History,Spring 2025,26,Male,1.93,84.19,21,83.4,73.39,C,True
+STU-2507,Timothy,Roberts,Psychology,Spring 2023,23,Female,3.59,100,15,81.21,53.69,D,True
+STU-2508,Brenda,Roberts,History,Spring 2023,30,Male,3.43,71.82,23,79.24,53.54,D,True
+STU-2509,James,Jones,English,Fall 2024,28,Male,2.57,52.42,6,95.15,85.75,A,True
+STU-2510,Sandra,Clark,English,Fall 2022,20,Female,2.81,81.31,20,63.09,95.79,C,True
+STU-2511,Jason,Green,Psychology,Spring 2023,19,Non-binary,2.76,75.18,6,70.94,72.08,C,True
+STU-2512,Andrew,Anderson,Business,Spring 2023,19,Female,3.15,76.41,30,73.28,86.31,C,True
+STU-2513,Matthew,Allen,English,Fall 2022,30,Female,3.22,78.91,23,48.8,64.37,F,False
+STU-2514,Larry,Smith,Engineering,Fall 2023,25,Female,2.56,79.85,29,66.22,66.53,D,True
+STU-2515,Andrew,Robinson,Biology,Fall 2023,22,Female,3.43,82.54,13,76.1,69.24,C,True
+STU-2516,Robert,Wright,History,Spring 2025,23,Female,2.3,93.03,30,86.09,64.44,C,True
+STU-2517,Kevin,Harris,Engineering,Fall 2024,18,Non-binary,3.03,64.75,5,69.84,69.29,D,True
+STU-2518,Melissa,Torres,Computer Science,Fall 2023,24,Female,2.87,94.62,16,65.62,100,B,True
+STU-2519,George,Roberts,Business,Fall 2024,30,Male,3.63,90.94,12,86.18,51.16,D,True
+STU-2520,Jessica,Gonzalez,Mathematics,Spring 2025,20,Female,2.92,82.02,19,68.94,72.52,C,True
+STU-2521,Brenda,Young,Chemistry,Spring 2025,23,Female,3.07,77.83,6,60.99,89.53,C,True
+STU-2522,Thomas,Young,Economics,Spring 2025,18,Non-binary,2.69,86.13,9,84.84,61.85,C,True
+STU-2523,Ronald,Nelson,Economics,Spring 2023,22,Male,3.43,97.77,25,94.11,64.45,C,True
+STU-2524,Nicholas,Young,English,Spring 2025,21,Female,1.49,77.32,14,67.91,58.25,D,True
+STU-2525,Kevin,Wright,Economics,Spring 2025,29,Female,2.57,70.57,20,83.75,69.6,C,True
+STU-2526,Joseph,Sanchez,Biology,Fall 2023,28,Male,3.83,86.97,9,67.01,80.3,C,True
+STU-2527,William,Carter,Computer Science,Spring 2025,27,Male,3.06,91.08,10,71.77,62.34,D,True
+STU-2528,Matthew,Carter,Computer Science,Fall 2023,29,Non-binary,3.66,84.24,8,76.28,61.0,D,True
+STU-2529,Edward,Scott,Economics,Spring 2025,27,Non-binary,2.84,97.31,19,74.83,91.24,B,True
+STU-2530,Dorothy,Thomas,English,Fall 2023,29,Male,3.05,97.3,10,51.1,61.61,F,False
+STU-2531,Lisa,Roberts,History,Fall 2024,21,Female,3.5,66.15,12,79.29,75.66,C,True
+STU-2532,Amanda,Roberts,English,Spring 2023,27,Male,3.1,71.72,26,70.82,90.32,B,True
+STU-2533,Angela,Hernandez,Engineering,Spring 2024,20,Male,3.02,92.69,30,84.01,63.42,C,True
+STU-2534,Nancy,Flores,Mathematics,Fall 2022,25,Non-binary,3.19,68.48,22,94.0,60.61,C,True
+STU-2535,Kimberly,Nelson,Economics,Spring 2024,23,Non-binary,3.4,66.68,7,75.26,73.06,C,True
+STU-2536,Kathleen,Clark,Computer Science,Spring 2023,26,Non-binary,3.27,88.04,11,81.8,79.52,B,True
+STU-2537,Jennifer,Harris,Psychology,Fall 2024,19,Male,2.41,72.71,19,68.85,78.41,C,True
+STU-2538,Cynthia,Thompson,Biology,Fall 2023,19,Female,2.59,83.08,30,88.01,66.4,C,True
+STU-2539,Susan,Anderson,Computer Science,Spring 2025,22,Female,2.27,92.33,27,61.87,73.37,D,True
+STU-2540,Michelle,Ramirez,Business,Spring 2024,25,Female,2.9,92.53,20,74.43,56.84,D,True
+STU-2541,Michelle,Hernandez,Engineering,Spring 2024,29,Male,2.25,85.32,9,67.5,36.76,F,False
+STU-2542,Donna,Jackson,Chemistry,Spring 2023,19,Female,3.2,74.5,25,96.46,75.13,B,True
+STU-2543,Joseph,Gonzalez,English,Fall 2023,20,Female,3.35,76.81,24,96.37,73.66,B,True
+STU-2544,Susan,Perez,History,Fall 2023,26,Non-binary,3.76,75.94,27,73.05,82.96,C,True
+STU-2545,Patricia,Wright,Computer Science,Spring 2024,27,Male,2.72,66.36,26,73.76,74.57,C,True
+STU-2546,Jonathan,Moore,Business,Spring 2024,27,Non-binary,3.05,76.5,29,83.97,50.93,D,True
+STU-2547,Daniel,Torres,Chemistry,Spring 2025,26,Female,2.41,92.35,13,71.95,56.27,D,True
+STU-2548,Matthew,Lewis,Chemistry,Spring 2024,22,Non-binary,3.49,78.56,5,82.91,86.71,B,True
+STU-2549,Margaret,Martinez,Chemistry,Fall 2022,30,Male,3.27,93.77,9,75.04,45.31,D,True
+STU-2550,Charles,Taylor,Psychology,Spring 2023,22,Female,3.08,79.49,9,58.61,66.45,D,True
+STU-2551,Deborah,Perez,History,Spring 2024,28,Female,2.73,89.83,20,69.88,90.12,B,True
+STU-2552,Kenneth,Hill,Psychology,Fall 2022,18,Female,2.85,95.56,30,85.68,69.88,C,True
+STU-2553,Shirley,Campbell,Business,Spring 2023,26,Male,3.34,71.23,8,55.4,64.87,D,True
+STU-2554,Richard,King,Psychology,Spring 2024,23,Female,2.65,100,28,72.36,65.98,D,True
+STU-2555,John,Allen,Psychology,Fall 2022,29,Male,4.0,100,17,75.12,100,B,True
+STU-2556,Jacob,Hernandez,Economics,Spring 2023,19,Non-binary,2.35,100,21,83.44,72.26,C,True
+STU-2557,Matthew,Ramirez,English,Spring 2023,21,Non-binary,2.88,89.82,20,85.49,70.04,C,True
+STU-2558,Michael,Hall,Biology,Spring 2023,28,Female,1.96,87.48,27,77.85,88.57,B,True
+STU-2559,Michelle,Lewis,Computer Science,Fall 2022,28,Non-binary,2.73,71.06,22,75.12,60.26,D,True
+STU-2560,Amanda,Williams,Mathematics,Fall 2023,21,Female,3.36,79.52,10,71.29,100,B,True
+STU-2561,Lisa,Scott,Business,Fall 2022,23,Non-binary,3.41,86.49,21,71.7,78.37,C,True
+STU-2562,Eric,Hernandez,Engineering,Spring 2023,21,Non-binary,2.75,90.53,28,87.99,78.09,B,True
+STU-2563,Stephen,Campbell,English,Spring 2023,21,Male,2.44,73.33,23,77.95,62.27,C,True
+STU-2564,Betty,Nguyen,Computer Science,Spring 2025,29,Female,2.26,71.64,7,92.75,83.19,B,True
+STU-2565,Sarah,Hall,Economics,Fall 2024,20,Non-binary,3.11,86.38,30,85.39,61.3,C,True
+STU-2566,Richard,Martin,Engineering,Spring 2025,29,Non-binary,2.5,79.31,10,82.21,57.21,D,True
+STU-2567,Karen,Clark,Chemistry,Spring 2024,20,Female,2.32,92.86,13,65.67,59.14,D,True
+STU-2568,Mary,Perez,Mathematics,Spring 2025,18,Non-binary,2.54,71.45,23,62.73,72.72,D,True
+STU-2569,Steven,Moore,Engineering,Spring 2024,28,Female,2.27,83.45,6,69.16,74.91,C,True
+STU-2570,Amy,Nelson,Engineering,Spring 2025,22,Male,3.21,90.43,7,59.71,60.35,D,True
+STU-2571,Daniel,Nelson,English,Fall 2023,23,Non-binary,3.63,82.72,23,87.06,74.86,B,True
+STU-2572,Shirley,Allen,Economics,Spring 2025,30,Female,2.94,75.37,9,95.09,74.61,B,True
+STU-2573,Lisa,Jones,Mathematics,Fall 2024,25,Male,2.76,83.98,21,74.19,100,B,True
+STU-2574,Shirley,Jones,Engineering,Fall 2023,20,Female,3.4,100,28,84.53,64.86,C,True
+STU-2575,Sharon,Jones,Chemistry,Spring 2024,20,Non-binary,3.86,86.88,6,89.99,53.04,C,True
+STU-2576,James,Scott,Engineering,Spring 2025,28,Female,2.59,83.75,27,83.39,57.03,C,True
+STU-2577,Kathleen,Campbell,Biology,Spring 2023,21,Female,3.37,82.94,11,90.56,71.26,B,True
+STU-2578,Deborah,Taylor,Psychology,Spring 2023,20,Female,3.11,100,18,77.88,76.05,C,True
+STU-2579,Donna,King,Business,Spring 2025,24,Female,3.35,80.97,6,66.77,72.12,D,True
+STU-2580,Jason,Adams,Mathematics,Fall 2023,19,Female,3.7,92.03,28,76.03,67.2,C,True
+STU-2581,Kathleen,Adams,Mathematics,Fall 2022,23,Female,3.75,71.1,16,69.83,85.07,C,True
+STU-2582,Ryan,Jones,Computer Science,Spring 2024,21,Male,2.66,83.92,18,89.93,72.84,B,True
+STU-2583,Amy,Gonzalez,Biology,Fall 2023,24,Male,2.93,77.35,20,81.65,78.02,C,True
+STU-2584,Jessica,Carter,History,Fall 2022,29,Female,1.93,78.91,23,99.04,74.09,B,True
+STU-2585,Barbara,Robinson,Psychology,Spring 2025,24,Non-binary,3.68,87.06,19,56.36,96.74,C,True
+STU-2586,Robert,Rodriguez,Economics,Spring 2024,28,Female,2.85,65.91,20,63.54,65.89,D,True
+STU-2587,Timothy,Roberts,Psychology,Spring 2025,27,Female,3.51,88.3,9,88.15,68.29,C,True
+STU-2588,Eric,Jackson,Biology,Fall 2023,21,Non-binary,2.79,91.67,13,77.49,86.46,B,True
+STU-2589,Kevin,Robinson,Computer Science,Spring 2025,30,Male,4.0,100,23,69.17,80.02,C,True
+STU-2590,George,Taylor,Engineering,Fall 2024,20,Male,3.57,76.58,30,100,67.31,B,True
+STU-2591,Ryan,Lewis,Biology,Spring 2024,20,Non-binary,2.93,84.28,11,69.58,72.74,C,True
+STU-2592,Paul,Davis,Biology,Fall 2024,18,Non-binary,3.42,76.71,14,82.33,85.46,B,True
+STU-2593,Betty,Mitchell,Chemistry,Fall 2022,25,Female,3.6,86.49,22,57.9,87.91,C,True
+STU-2594,David,Walker,Engineering,Fall 2023,30,Male,3.86,72.36,21,63.2,43.96,F,False
+STU-2595,Barbara,Ramirez,Business,Spring 2025,21,Male,2.34,81.46,27,70.27,61.48,D,True
+STU-2596,Dorothy,Sanchez,Biology,Spring 2023,28,Female,3.42,99.53,7,69.45,56.56,D,True
+STU-2597,Jennifer,Sanchez,Engineering,Fall 2024,20,Female,3.82,85.19,22,92.43,44.46,D,True
+STU-2598,Margaret,Torres,Economics,Fall 2024,26,Male,3.11,87.07,25,75.68,81.46,C,True
+STU-2599,Cynthia,Garcia,Engineering,Spring 2025,28,Female,4.0,83.54,18,36.39,64.6,F,False
+STU-2600,Robert,Ramirez,English,Fall 2024,25,Female,3.93,96.4,5,74.6,77.44,C,True
+STU-2601,Paul,Walker,Engineering,Spring 2025,28,Female,2.85,92.61,12,100,75.06,B,True
+STU-2602,Ronald,Smith,Mathematics,Fall 2023,20,Male,3.76,78.25,14,64.16,76.0,C,True
+STU-2603,Lisa,Mitchell,Biology,Fall 2023,27,Male,3.62,77.96,6,81.12,73.66,C,True
+STU-2604,Kathleen,Davis,Business,Spring 2024,21,Female,3.82,89.78,9,89.69,100,A,True
+STU-2605,Jonathan,Brown,Engineering,Spring 2023,26,Male,2.52,100,6,68.25,52.22,D,True
+STU-2606,Donna,Sanchez,English,Spring 2025,26,Female,2.52,75.32,8,71.22,69.31,C,True
+STU-2607,Laura,Clark,Business,Spring 2023,20,Female,2.96,81.89,30,91.36,71.56,B,True
+STU-2608,Ryan,Young,History,Fall 2024,27,Female,3.26,62.96,21,53.72,72.86,D,True
+STU-2609,Kevin,Taylor,Economics,Spring 2023,29,Female,2.73,93.2,12,61.88,72.11,D,True
+STU-2610,Barbara,Martin,History,Fall 2024,26,Female,4.0,95.51,30,95.86,69.23,B,True
+STU-2611,Andrew,Torres,History,Fall 2024,19,Male,2.62,94.16,14,59.36,81.21,C,True
+STU-2612,David,Baker,Computer Science,Spring 2024,21,Female,3.01,79.74,29,92.08,92.75,A,True
+STU-2613,John,Green,History,Fall 2024,29,Female,2.23,84.54,21,72.36,51.46,D,True
+STU-2614,George,Anderson,Mathematics,Fall 2024,30,Male,2.63,77.35,11,76.55,71.77,C,True
+STU-2615,Betty,Smith,Psychology,Spring 2024,26,Male,2.47,78.39,24,63.66,81.53,C,True
+STU-2616,Michelle,Johnson,Psychology,Fall 2023,24,Non-binary,3.54,79.34,24,68.44,48.22,F,False
+STU-2617,Susan,Clark,Business,Spring 2023,28,Male,3.28,91.58,29,82.89,75.96,C,True
+STU-2618,Stephanie,Young,Biology,Spring 2025,24,Male,3.43,88.67,24,100,100,A,True
+STU-2619,Emily,Garcia,Psychology,Fall 2023,23,Male,3.29,88.16,20,66.64,78.34,C,True
+STU-2620,Michael,Mitchell,Psychology,Spring 2025,21,Female,2.9,78.31,27,73.53,95.25,B,True
+STU-2621,George,Thomas,Biology,Fall 2024,30,Female,4.0,72.49,16,60.42,61.78,D,True
+STU-2622,Barbara,Martin,Biology,Fall 2022,30,Female,1.48,99.09,29,76.31,83.99,B,True
+STU-2623,George,King,Psychology,Spring 2025,21,Non-binary,2.4,97.83,14,77.86,97.56,B,True
+STU-2624,Angela,Martinez,Computer Science,Fall 2022,23,Female,2.54,90.8,11,78.98,66.61,C,True
+STU-2625,Dorothy,Young,Computer Science,Spring 2024,27,Female,3.2,100,7,69.28,70.91,C,True
+STU-2626,Carol,Hernandez,Psychology,Fall 2024,18,Female,2.93,81.55,20,82.29,59.62,C,True
+STU-2627,Matthew,White,Mathematics,Spring 2024,24,Male,2.1,78.51,30,65.84,62.11,D,True
+STU-2628,Joseph,King,English,Fall 2023,19,Female,2.43,80.36,5,83.98,59.56,C,True
+STU-2629,Dorothy,Allen,Psychology,Fall 2024,25,Male,2.62,79.95,8,94.59,82.84,B,True
+STU-2630,Emily,Lewis,Engineering,Fall 2023,22,Non-binary,3.52,76.58,25,65.75,61.03,D,True
+STU-2631,Daniel,Young,Engineering,Fall 2023,30,Non-binary,1.76,90.01,11,73.73,68.39,C,True
+STU-2632,Brenda,Walker,English,Spring 2023,23,Female,3.46,74.5,19,72.4,68.8,C,True
+STU-2633,Susan,Martinez,Economics,Fall 2024,28,Male,2.27,76.84,14,86.29,88.27,B,True
+STU-2634,George,Hall,Computer Science,Spring 2025,22,Male,3.15,90.94,19,59.03,76.21,D,True
+STU-2635,Rebecca,King,Computer Science,Fall 2022,24,Non-binary,2.99,79.29,29,78.17,75.62,C,True
+STU-2636,Deborah,Hall,Engineering,Fall 2023,19,Male,3.4,97.03,8,66.85,87.76,C,True
+STU-2637,Sharon,Young,Business,Spring 2024,24,Female,3.17,91.11,14,90.29,51.67,C,True
+STU-2638,Shirley,Robinson,Chemistry,Fall 2022,28,Female,2.1,83.46,24,67.27,64.91,D,True
+STU-2639,Deborah,Sanchez,Mathematics,Spring 2024,20,Male,3.25,76.56,15,76.36,76.4,C,True
+STU-2640,Kenneth,Robinson,Chemistry,Spring 2023,23,Male,3.99,89.65,15,71.17,61.45,D,True
+STU-2641,Cynthia,Wright,Economics,Spring 2025,23,Non-binary,2.48,78.48,9,71.52,66.48,D,True
+STU-2642,Barbara,Carter,Psychology,Fall 2023,19,Female,2.99,88.57,13,74.57,60.18,D,True
+STU-2643,Christopher,Robinson,Economics,Fall 2024,28,Female,2.29,78.04,27,86.93,98.75,A,True
+STU-2644,Nancy,Robinson,Mathematics,Fall 2024,30,Male,1.85,76.64,14,55.75,60.43,F,False
+STU-2645,Amy,Martin,History,Fall 2023,19,Male,2.72,97.11,8,65.24,75.19,C,True
+STU-2646,John,Miller,Computer Science,Fall 2022,25,Male,3.42,52.79,18,94.75,75.76,B,True
+STU-2647,Mark,Garcia,English,Spring 2024,25,Female,3.23,84.05,7,86.23,100,A,True
+STU-2648,Elizabeth,Rivera,Engineering,Spring 2023,26,Female,3.39,81.67,5,60.96,47.89,F,False
+STU-2649,Sandra,Torres,Biology,Spring 2024,24,Male,2.34,96.5,5,68.57,81.44,C,True
+STU-2650,Melissa,Martinez,English,Fall 2023,19,Female,2.77,90.15,12,89.84,67.8,C,True
+STU-2651,Eric,Martinez,Business,Spring 2024,26,Female,2.37,84.06,18,88.1,83.9,B,True
+STU-2652,Joseph,Baker,Computer Science,Spring 2023,27,Female,3.27,81.69,6,68.14,84.86,C,True
+STU-2653,Edward,Martinez,Chemistry,Spring 2023,30,Female,3.01,70.8,29,63.84,42.98,F,False
+STU-2654,John,Moore,History,Fall 2023,24,Male,3.55,100,29,85.07,71.66,C,True
+STU-2655,Andrew,Torres,Mathematics,Spring 2023,23,Male,2.58,87.43,25,75.44,85.41,B,True
+STU-2656,Amanda,Ramirez,History,Spring 2025,19,Male,3.72,86.16,19,57.44,75.48,D,True
+STU-2657,Jason,Wilson,Business,Fall 2023,19,Female,3.17,72.65,23,74.89,67.55,C,True
+STU-2658,Donna,Walker,Mathematics,Fall 2024,23,Female,3.29,92.44,30,88.19,83.71,B,True
+STU-2659,Anthony,Johnson,History,Spring 2024,18,Male,3.77,87.21,15,76.94,82.78,C,True
+STU-2660,Angela,Hill,Economics,Fall 2022,19,Female,2.58,100,27,76.03,59.71,D,True
+STU-2661,Emily,Flores,Chemistry,Spring 2024,19,Female,2.93,53.23,24,78.2,81.32,C,True
+STU-2662,George,Thompson,History,Fall 2022,19,Non-binary,2.99,90.86,29,69.38,83.9,C,True
+STU-2663,Eric,King,Economics,Fall 2022,30,Non-binary,3.1,79.69,14,77.71,74.65,C,True
+STU-2664,Betty,Thomas,History,Fall 2024,25,Male,1.7,85.23,22,94.56,61.07,C,True
+STU-2665,Daniel,Adams,Psychology,Spring 2025,21,Female,3.4,90.68,19,51.9,77.21,D,True
+STU-2666,Sharon,Garcia,History,Spring 2024,24,Female,3.54,94.03,27,73.01,67.46,C,True
+STU-2667,Susan,Thompson,Chemistry,Spring 2024,19,Non-binary,4.0,83.24,30,92.05,89.71,A,True
+STU-2668,Christopher,Williams,History,Fall 2023,26,Female,3.54,95.22,15,84.31,40.78,D,True
+STU-2669,Kenneth,Lee,Biology,Spring 2023,25,Non-binary,2.51,78.71,12,86.79,62.32,C,True
+STU-2670,Kenneth,Rivera,Mathematics,Fall 2022,26,Non-binary,1.64,98.84,16,69.05,94.32,B,True
+STU-2671,Barbara,Gonzalez,Psychology,Spring 2024,27,Female,3.4,82.26,24,80.5,68.72,C,True
+STU-2672,Betty,Miller,Mathematics,Fall 2023,30,Female,3.56,92.82,12,78.33,85.54,B,True
+STU-2673,Ronald,Torres,Engineering,Fall 2023,18,Non-binary,3.12,93.92,11,70.77,56.45,D,True
+STU-2674,Anthony,Thomas,Psychology,Spring 2024,24,Male,2.43,91.52,6,77.71,79.67,C,True
+STU-2675,Mark,Lee,History,Spring 2025,20,Non-binary,3.35,100,19,78.57,92.53,B,True
+STU-2676,James,Davis,Chemistry,Fall 2024,22,Non-binary,3.41,81.14,5,59.7,44.13,F,False
+STU-2677,Steven,Walker,Economics,Spring 2025,24,Male,3.07,89.19,9,78.36,76.13,C,True
+STU-2678,Edward,Smith,Economics,Spring 2025,26,Female,2.53,67.36,8,88.6,83.42,B,True
+STU-2679,Stephen,Ramirez,Engineering,Fall 2024,28,Female,3.25,65.41,8,63.58,83.19,C,True
+STU-2680,Margaret,Moore,Biology,Spring 2024,30,Non-binary,3.0,69.61,12,79.28,57.42,D,True
+STU-2681,Sarah,Wilson,Biology,Spring 2025,24,Non-binary,2.39,88.27,22,68.2,49.47,F,False
+STU-2682,Stephanie,Lopez,Business,Spring 2025,19,Male,3.57,95.86,17,82.99,67.49,C,True
+STU-2683,Amanda,Smith,History,Spring 2023,28,Female,2.44,69.99,24,83.41,65.5,C,True
+STU-2684,Ryan,Robinson,Chemistry,Fall 2024,27,Female,3.54,76.74,29,69.83,84.74,C,True
+STU-2685,James,Thomas,Engineering,Fall 2024,21,Female,3.21,65.8,29,78.54,88.37,B,True
+STU-2686,Melissa,Hernandez,Business,Spring 2024,22,Female,3.08,97.53,5,71.29,59.25,D,True
+STU-2687,Sandra,Anderson,Biology,Spring 2024,24,Non-binary,3.44,74.23,8,100,91.12,A,True
+STU-2688,Jason,Jackson,English,Fall 2022,23,Non-binary,3.15,78.03,23,78.2,70.64,C,True
+STU-2689,Jonathan,Nelson,Biology,Spring 2023,29,Male,3.15,83.8,27,80.96,59.25,C,True
+STU-2690,Sandra,Green,Computer Science,Spring 2023,24,Non-binary,2.77,78.15,13,79.45,71.89,C,True
+STU-2691,Betty,Miller,Biology,Spring 2025,30,Female,2.13,86.78,9,89.5,70.47,C,True
+STU-2692,Nancy,Hernandez,Chemistry,Spring 2025,22,Male,3.09,69.6,5,98.97,68.27,B,True
+STU-2693,Sarah,White,English,Fall 2023,26,Non-binary,3.42,96.2,8,83.67,53.18,D,True
+STU-2694,Jonathan,Sanchez,English,Spring 2023,25,Non-binary,2.81,57.59,23,94.74,97.99,A,True
+STU-2695,Cynthia,Carter,Mathematics,Spring 2023,26,Female,3.11,58.59,5,72.61,73.31,C,True
+STU-2696,Edward,Thompson,Biology,Spring 2025,29,Female,2.54,92.16,19,87.69,86.78,B,True
+STU-2697,Lisa,Anderson,History,Spring 2024,27,Male,3.82,64.66,23,52.62,71.05,D,True
+STU-2698,Stephen,Brown,Mathematics,Fall 2022,25,Male,2.75,88.99,23,82.91,100,A,True
+STU-2699,Jessica,White,Economics,Spring 2025,21,Non-binary,2.63,81.1,19,99.14,65.76,B,True
+STU-2700,Brenda,Brown,Computer Science,Fall 2024,28,Non-binary,2.87,84.49,27,71.84,71.28,C,True
+STU-2701,Paul,Mitchell,Economics,Spring 2024,27,Male,3.64,90.88,22,100,59.21,C,True
+STU-2702,Richard,Nelson,Chemistry,Fall 2023,26,Male,3.36,85.48,30,85.91,75.95,B,True
+STU-2703,Sandra,Walker,English,Spring 2024,26,Female,2.39,75.87,10,68.77,82.12,C,True
+STU-2704,Kathleen,Hernandez,Biology,Fall 2023,18,Female,3.57,91.36,15,63.61,63.97,D,True
+STU-2705,Mark,Hernandez,Business,Fall 2023,27,Male,4.0,86.27,25,66.29,40.89,F,False
+STU-2706,Nicholas,Wilson,Mathematics,Spring 2024,22,Non-binary,2.97,91.0,18,86.01,55.61,C,True
+STU-2707,Brian,Wilson,Computer Science,Spring 2025,23,Non-binary,3.21,73.24,12,85.84,69.46,C,True
+STU-2708,John,White,Computer Science,Fall 2024,20,Non-binary,3.85,90.06,22,65.23,73.56,D,True
+STU-2709,Anthony,Brown,Mathematics,Spring 2025,19,Male,2.32,100,7,65.22,78.31,C,True
+STU-2710,Lisa,Allen,Computer Science,Spring 2023,23,Female,2.27,95.34,10,68.36,71.7,C,True
+STU-2711,Jennifer,Johnson,Business,Fall 2023,24,Male,3.09,95.8,17,46.31,74.96,D,True
+STU-2712,Paul,Nelson,Computer Science,Spring 2023,20,Non-binary,2.87,77.3,9,69.79,64.56,D,True
+STU-2713,Jessica,Mitchell,Chemistry,Fall 2022,18,Non-binary,2.77,100,14,84.7,85.47,B,True
+STU-2714,Ryan,Wright,Chemistry,Spring 2023,29,Male,3.7,74.1,5,61.7,100,B,True
+STU-2715,Donna,Sanchez,Biology,Fall 2023,29,Female,2.49,99.99,13,69.74,67.57,D,True
+STU-2716,Carol,Taylor,Mathematics,Fall 2023,23,Non-binary,3.93,96.24,14,68.59,68.05,D,True
+STU-2717,Nancy,Lopez,Chemistry,Fall 2023,29,Non-binary,2.43,89.23,23,66.45,70.88,D,True
+STU-2718,Betty,Thompson,Business,Spring 2024,25,Male,2.2,77.95,8,72.04,77.53,C,True
+STU-2719,Emily,Ramirez,History,Fall 2024,21,Female,1.88,92.61,10,100,63.63,B,True
+STU-2720,Susan,Scott,Economics,Fall 2023,28,Male,2.91,61.73,21,65.98,75.0,C,True
+STU-2721,Emily,Rivera,English,Spring 2024,27,Female,3.63,74.84,6,82.98,63.99,C,True
+STU-2722,Joseph,Walker,Biology,Spring 2023,21,Female,2.98,86.14,18,66.46,83.28,C,True
+STU-2723,Thomas,Torres,Engineering,Spring 2023,18,Non-binary,2.94,71.91,28,79.55,78.57,C,True
+STU-2724,Elizabeth,Young,English,Spring 2025,18,Male,3.0,71.93,24,55.45,50.53,F,False
+STU-2725,Anthony,Hill,English,Fall 2022,18,Female,3.55,91.14,27,54.44,74.73,D,True
+STU-2726,Paul,Nguyen,Psychology,Spring 2025,26,Male,2.7,92.42,9,68.06,77.94,C,True
+STU-2727,Michael,Taylor,Computer Science,Fall 2022,25,Female,3.17,89.22,21,68.69,41.82,F,False
+STU-2728,Anthony,King,Chemistry,Fall 2022,21,Male,4.0,75.51,19,68.78,77.65,C,True
+STU-2729,Joshua,Green,Computer Science,Fall 2023,24,Non-binary,2.16,53.04,12,55.22,74.69,D,True
+STU-2730,Kathleen,Martin,English,Fall 2022,23,Female,2.62,87.04,6,70.0,63.13,D,True
+STU-2731,Barbara,White,Psychology,Spring 2023,26,Non-binary,3.57,86.54,29,90.95,70.86,B,True
+STU-2732,Emily,Davis,Psychology,Spring 2024,26,Male,3.0,74.84,19,100,70.33,B,True
+STU-2733,Joshua,White,Mathematics,Spring 2025,25,Male,3.77,91.97,7,66.18,64.3,D,True
+STU-2734,Cynthia,Nguyen,History,Spring 2024,20,Male,2.1,77.35,10,71.42,78.88,C,True
+STU-2735,Daniel,Scott,English,Fall 2022,24,Female,3.61,84.76,6,100,73.24,B,True
+STU-2736,Barbara,Green,Computer Science,Spring 2023,18,Female,2.68,80.35,21,72.1,64.32,D,True
+STU-2737,Thomas,Jones,Economics,Fall 2024,19,Non-binary,3.08,78.64,23,49.9,100,C,True
+STU-2738,Lisa,Green,Economics,Fall 2022,28,Female,2.11,88.49,5,52.7,76.27,D,True
+STU-2739,Matthew,Campbell,Biology,Fall 2022,23,Non-binary,3.47,97.31,15,84.22,80.78,B,True
+STU-2740,Ronald,Taylor,Biology,Spring 2023,26,Female,2.88,87.26,16,66.05,50.04,F,False
+STU-2741,Matthew,Lopez,Engineering,Fall 2023,29,Non-binary,1.92,79.36,30,82.3,88.2,B,True
+STU-2742,Joseph,Taylor,Engineering,Spring 2024,24,Non-binary,3.65,77.09,15,57.12,64.48,D,True
+STU-2743,Patricia,Allen,English,Spring 2025,18,Female,2.84,99.58,29,69.81,66.06,D,True
+STU-2744,Kenneth,Gonzalez,Engineering,Spring 2023,23,Male,2.23,80.03,22,80.0,60.13,C,True
+STU-2745,Anthony,Jackson,Chemistry,Spring 2023,18,Male,3.08,85.2,29,76.28,50.49,D,True
+STU-2746,Donna,Campbell,English,Spring 2023,23,Non-binary,3.71,89.59,24,65.95,66.74,D,True
+STU-2747,Paul,Taylor,Business,Fall 2024,18,Female,3.09,66.54,16,79.87,62.97,C,True
+STU-2748,Larry,Garcia,Engineering,Spring 2025,22,Non-binary,2.29,84.93,29,75.42,96.2,B,True
+STU-2749,Melissa,Roberts,Engineering,Fall 2024,23,Non-binary,3.09,83.01,7,81.17,75.2,C,True
+STU-2750,Edward,Nguyen,Business,Fall 2023,22,Non-binary,2.2,91.61,28,69.48,73.72,C,True
+STU-2751,Michael,Baker,History,Spring 2023,23,Non-binary,2.85,85.44,7,78.17,81.08,C,True
+STU-2752,Steven,Johnson,History,Fall 2023,20,Non-binary,3.01,82.82,23,79.06,65.61,C,True
+STU-2753,Donna,Roberts,Biology,Spring 2024,30,Male,3.4,77.88,12,81.33,83.93,B,True
+STU-2754,Gary,Rivera,Economics,Spring 2025,27,Non-binary,3.09,77.59,26,73.93,67.07,C,True
+STU-2755,Steven,Ramirez,Psychology,Fall 2023,27,Female,2.46,75.81,20,73.74,80.25,C,True
+STU-2756,Melissa,Sanchez,Biology,Spring 2023,30,Non-binary,3.22,87.2,13,71.54,70.69,C,True
+STU-2757,Jacob,Flores,History,Spring 2025,30,Female,3.08,100,17,72.58,91.1,B,True
+STU-2758,Joseph,Williams,Business,Spring 2024,21,Female,3.07,100,17,80.14,64.38,C,True
+STU-2759,Carol,Wright,Chemistry,Spring 2023,20,Male,1.55,100,15,97.86,70.27,B,True
+STU-2760,Joseph,Clark,History,Spring 2024,30,Male,2.81,85.19,14,82.38,64.04,C,True
+STU-2761,Amy,Lee,Economics,Spring 2024,20,Male,3.59,73.84,25,77.59,60.22,D,True
+STU-2762,Amy,Garcia,Economics,Fall 2024,25,Female,1.94,83.85,23,69.21,89.71,C,True
+STU-2763,Jessica,Lewis,English,Fall 2023,20,Female,2.95,98.06,24,95.48,56.99,C,True
+STU-2764,Sharon,Miller,Computer Science,Spring 2023,29,Non-binary,3.62,100,9,75.05,65.49,C,True
+STU-2765,Barbara,Brown,Business,Fall 2022,25,Female,3.47,91.84,23,62.27,100,B,True
+STU-2766,Kimberly,Lee,English,Fall 2023,18,Male,2.65,72.88,14,73.96,72.02,C,True
+STU-2767,John,Miller,History,Spring 2025,29,Non-binary,3.43,90.13,19,69.67,73.04,C,True
+STU-2768,Stephen,Rodriguez,Business,Spring 2023,29,Non-binary,3.33,91.9,11,76.71,75.93,C,True
+STU-2769,William,Moore,Computer Science,Spring 2023,26,Non-binary,2.88,76.04,20,91.0,85.71,B,True
+STU-2770,Jacob,Anderson,Mathematics,Fall 2023,18,Female,3.07,78.02,28,72.65,77.87,C,True
+STU-2771,Sandra,Miller,Business,Fall 2022,27,Female,3.24,90.0,10,68.93,84.43,C,True
+STU-2772,Rebecca,Wilson,Computer Science,Spring 2024,23,Non-binary,3.72,95.4,16,65.34,42.25,F,False
+STU-2773,Jessica,Campbell,English,Spring 2023,24,Male,2.64,77.93,27,78.59,65.35,C,True
+STU-2774,Michael,Hernandez,Biology,Fall 2023,20,Non-binary,2.64,88.4,22,63.67,69.06,D,True
+STU-2775,Matthew,Davis,Engineering,Fall 2023,18,Non-binary,2.93,72.07,11,81.74,53.93,D,True
+STU-2776,Amy,Hall,Psychology,Fall 2023,25,Female,3.85,71.21,12,67.72,100,B,True
+STU-2777,Matthew,Mitchell,Engineering,Spring 2025,27,Male,2.64,100,11,66.51,40.78,F,False
+STU-2778,Mark,Jones,Chemistry,Spring 2023,28,Male,3.59,73.8,15,61.05,92.14,C,True
+STU-2779,Karen,Young,English,Spring 2024,24,Non-binary,3.16,82.46,14,78.02,71.76,C,True
+STU-2780,Steven,Clark,Chemistry,Fall 2024,20,Female,2.32,71.97,23,71.77,96.55,B,True
+STU-2781,George,Davis,Economics,Spring 2025,19,Male,3.19,80.78,6,85.79,80.64,B,True
+STU-2782,Brian,Torres,Psychology,Spring 2025,18,Male,3.08,81.67,17,88.66,68.98,C,True
+STU-2783,Daniel,Hill,Chemistry,Spring 2025,21,Male,2.47,84.22,28,65.73,77.06,C,True
+STU-2784,Cynthia,Thompson,Chemistry,Fall 2023,27,Male,2.78,74.53,28,77.24,62.22,D,True
+STU-2785,Margaret,Davis,Biology,Fall 2023,19,Non-binary,3.05,98.41,15,74.01,93.86,B,True
+STU-2786,Larry,Young,Biology,Spring 2023,23,Non-binary,3.79,88.66,23,62.85,79.26,C,True
+STU-2787,Jessica,Jackson,Mathematics,Fall 2022,19,Non-binary,2.66,69.75,24,73.02,59.88,D,True
+STU-2788,Sarah,Johnson,History,Spring 2025,30,Male,2.84,92.78,11,90.97,86.13,B,True
+STU-2789,Sandra,Nguyen,English,Spring 2024,26,Non-binary,2.93,81.28,29,67.46,80.23,C,True
+STU-2790,Amy,Thompson,Psychology,Spring 2024,29,Male,2.87,94.73,19,78.65,94.05,B,True
+STU-2791,Edward,Harris,Chemistry,Fall 2023,21,Male,3.13,97.84,26,65.85,90.09,C,True
+STU-2792,Linda,Clark,Engineering,Fall 2022,23,Non-binary,3.79,84.93,25,71.71,75.25,C,True
+STU-2793,Kathleen,Robinson,Business,Spring 2023,18,Non-binary,3.14,95.0,30,60.97,55.84,F,False
+STU-2794,Christopher,Garcia,English,Spring 2025,28,Non-binary,4.0,85.66,29,74.19,79.32,C,True
+STU-2795,Amy,Lee,Biology,Spring 2023,18,Male,2.54,75.76,25,73.29,55.53,D,True
+STU-2796,Brenda,Taylor,Engineering,Fall 2023,25,Female,2.99,90.43,25,51.37,62.91,F,False
+STU-2797,Ronald,Clark,Engineering,Fall 2024,25,Male,1.87,88.87,28,84.7,78.91,B,True
+STU-2798,Shirley,Hill,History,Fall 2023,29,Female,3.92,72.74,19,68.08,60.1,D,True
+STU-2799,Andrew,Young,Engineering,Spring 2024,20,Male,3.52,82.25,18,68.55,73.94,C,True
+STU-2800,Brian,Green,Chemistry,Spring 2025,21,Male,2.81,85.69,20,69.72,72.55,C,True
+STU-2801,Lisa,Lopez,Business,Spring 2023,22,Non-binary,3.01,89.57,10,64.16,76.27,C,True
+STU-2802,Amy,Sanchez,Economics,Spring 2025,27,Female,3.85,76.93,7,68.16,61.36,D,True
+STU-2803,Kathleen,Smith,History,Spring 2024,22,Male,2.81,85.49,20,67.48,78.29,C,True
+STU-2804,Jonathan,Rodriguez,English,Spring 2024,19,Male,2.27,56.62,25,81.74,62.46,C,True
+STU-2805,Michelle,Williams,Engineering,Spring 2025,19,Non-binary,2.59,77.02,19,80.22,69.13,C,True
+STU-2806,Nancy,Anderson,Chemistry,Spring 2024,19,Female,2.21,81.61,24,68.06,50.37,F,False
+STU-2807,Lisa,Johnson,Biology,Fall 2022,26,Male,2.06,96.41,22,72.14,82.6,C,True
+STU-2808,Joseph,Adams,Computer Science,Fall 2024,24,Non-binary,2.69,43.94,14,61.74,81.95,C,True
+STU-2809,Stephen,Sanchez,Psychology,Spring 2023,20,Male,3.99,86.32,14,75.83,93.37,B,True
+STU-2810,Laura,Rivera,Psychology,Fall 2023,28,Female,3.32,96.42,6,76.92,73.89,C,True
+STU-2811,Shirley,Smith,Computer Science,Spring 2023,18,Male,3.45,81.08,13,81.12,89.92,B,True
+STU-2812,Ashley,Jackson,English,Fall 2024,29,Male,3.4,100,8,77.54,85.98,B,True
+STU-2813,Jessica,Brown,Psychology,Spring 2025,26,Male,3.3,80.31,21,94.62,84.02,B,True
+STU-2814,Deborah,Hill,Psychology,Spring 2025,24,Female,3.36,88.26,6,73.7,80.96,C,True
+STU-2815,Thomas,Hernandez,Business,Fall 2022,18,Non-binary,3.33,87.6,10,49.76,76.9,D,True
+STU-2816,Rebecca,Lopez,English,Spring 2024,30,Non-binary,2.83,63.46,15,100,59.29,C,True
+STU-2817,Steven,Sanchez,Chemistry,Fall 2023,24,Male,3.48,96.24,10,50.36,85.41,D,True
+STU-2818,Jacob,Jackson,English,Spring 2024,21,Female,2.78,82.4,30,91.24,52.01,C,True
+STU-2819,Dorothy,Taylor,Psychology,Fall 2024,27,Non-binary,3.48,100,9,91.8,90.94,A,True
+STU-2820,Barbara,Moore,Chemistry,Spring 2023,27,Male,2.73,88.17,11,61.39,64.85,D,True
+STU-2821,Donna,Hernandez,Computer Science,Spring 2024,19,Male,3.76,66.75,21,76.52,86.33,B,True
+STU-2822,Andrew,Green,Business,Spring 2025,20,Male,2.97,64.27,7,79.45,64.89,C,True
+STU-2823,Kenneth,King,Biology,Fall 2023,27,Female,2.58,86.81,26,69.36,99.38,B,True
+STU-2824,Emily,Johnson,Psychology,Fall 2023,24,Male,3.38,92.18,21,68.82,74.38,C,True
+STU-2825,Charles,Thompson,Mathematics,Spring 2024,21,Male,3.37,76.3,28,72.71,91.74,B,True
+STU-2826,Jessica,Jackson,Chemistry,Spring 2025,25,Female,2.62,76.88,19,47.7,96.0,C,True
+STU-2827,Andrew,Ramirez,English,Spring 2023,23,Non-binary,2.34,84.09,29,65.47,58.1,D,True
+STU-2828,Elizabeth,Jackson,Business,Fall 2024,22,Non-binary,2.73,91.4,22,76.13,70.95,C,True
+STU-2829,Angela,Hernandez,Computer Science,Spring 2023,26,Non-binary,2.99,89.42,12,74.0,57.73,D,True
+STU-2830,Rebecca,Davis,English,Fall 2023,23,Non-binary,2.93,74.6,13,81.36,67.3,C,True
+STU-2831,Kevin,Johnson,Chemistry,Fall 2022,26,Female,3.09,78.81,13,77.88,85.53,B,True
+STU-2832,Brian,Green,Computer Science,Fall 2023,19,Male,2.84,81.06,9,65.82,82.31,C,True
+STU-2833,Cynthia,Walker,Biology,Fall 2022,19,Non-binary,2.81,94.5,6,70.36,100,B,True
+STU-2834,Angela,Miller,Computer Science,Fall 2022,18,Non-binary,3.58,95.77,8,70.67,61.72,D,True
+STU-2835,Sharon,Thompson,Chemistry,Spring 2023,22,Female,3.06,66.14,20,65.52,97.32,B,True
+STU-2836,Angela,Mitchell,History,Spring 2025,24,Female,2.45,77.05,10,85.48,100,A,True
+STU-2837,Kathleen,Jones,Mathematics,Spring 2023,25,Female,2.78,68.74,22,41.36,86.83,D,True
+STU-2838,Matthew,Carter,English,Spring 2023,20,Male,2.81,87.78,20,64.78,72.04,D,True
+STU-2839,Edward,Nguyen,Engineering,Spring 2025,20,Non-binary,3.38,100,5,65.84,75.93,C,True
+STU-2840,Nicholas,Lopez,History,Fall 2024,22,Female,3.11,97.24,19,86.86,64.97,C,True
+STU-2841,Larry,Sanchez,Biology,Spring 2023,22,Male,2.95,79.51,5,73.92,91.45,B,True
+STU-2842,Robert,Rodriguez,Computer Science,Fall 2022,23,Non-binary,3.38,89.38,19,57.45,83.02,C,True
+STU-2843,Jonathan,King,Mathematics,Fall 2022,20,Female,3.11,100,14,87.21,63.24,C,True
+STU-2844,James,Torres,Engineering,Spring 2024,30,Female,3.49,82.75,27,68.27,71.92,C,True
+STU-2845,Timothy,Torres,Computer Science,Spring 2024,24,Male,3.77,86.76,29,79.47,66.93,C,True
+STU-2846,Ryan,Jackson,English,Fall 2024,18,Male,4.0,82.9,27,57.24,68.39,D,True
+STU-2847,Amy,Carter,History,Fall 2023,23,Female,2.92,69.06,11,90.96,49.18,C,True
+STU-2848,Anthony,Hall,Psychology,Spring 2024,22,Male,3.0,99.13,16,84.59,71.76,C,True
+STU-2849,Laura,Martinez,History,Fall 2023,26,Female,2.63,83.61,17,63.76,82.39,C,True
+STU-2850,Matthew,Martinez,Engineering,Spring 2024,22,Non-binary,3.74,71.6,12,73.05,100,B,True
+STU-2851,Larry,Scott,Computer Science,Fall 2022,20,Male,3.86,100,14,70.97,76.27,C,True
+STU-2852,Margaret,Carter,Mathematics,Fall 2023,27,Male,2.66,92.61,17,74.2,98.88,B,True
+STU-2853,Kenneth,Clark,History,Spring 2025,19,Male,2.48,78.08,8,75.26,98.54,B,True
+STU-2854,David,Clark,English,Spring 2024,23,Non-binary,2.64,79.34,22,70.25,71.89,C,True
+STU-2855,Barbara,Allen,Computer Science,Fall 2024,23,Female,2.64,100,16,38.64,76.12,F,False
+STU-2856,Kimberly,Brown,Psychology,Fall 2023,26,Female,3.69,72.76,19,82.67,61.18,C,True
+STU-2857,David,Scott,Engineering,Fall 2022,24,Male,3.51,100,19,75.08,94.36,B,True
+STU-2858,Ronald,Lopez,Business,Fall 2022,28,Female,3.39,96.7,18,89.5,66.67,C,True
+STU-2859,Barbara,Allen,Business,Spring 2024,28,Female,2.31,60.95,8,76.69,95.16,B,True
+STU-2860,Patricia,Nelson,Biology,Spring 2024,18,Non-binary,3.44,79.86,18,81.72,96.97,B,True
+STU-2861,Daniel,Martinez,Economics,Fall 2022,19,Non-binary,2.39,91.99,27,61.5,71.43,D,True
+STU-2862,John,Scott,English,Fall 2022,18,Female,4.0,96.47,10,76.36,63.57,D,True
+STU-2863,Kenneth,Green,Computer Science,Fall 2024,18,Male,2.43,63.22,21,64.37,69.43,D,True
+STU-2864,Lisa,Garcia,Mathematics,Fall 2022,18,Male,3.9,69.7,12,74.34,65.49,D,True
+STU-2865,Lisa,Miller,History,Spring 2025,21,Male,3.69,73.29,30,72.95,61.12,D,True
+STU-2866,Nicholas,Hill,Business,Fall 2023,30,Female,3.52,69.72,28,54.89,78.27,D,True
+STU-2867,Shirley,Roberts,Economics,Fall 2022,27,Female,3.27,91.16,6,66.95,75.78,C,True
+STU-2868,Brenda,Smith,Computer Science,Fall 2022,23,Non-binary,3.72,73.88,15,77.26,68.01,C,True
+STU-2869,Carol,Flores,Computer Science,Spring 2025,30,Male,3.62,93.86,19,87.04,62.6,C,True
+STU-2870,Charles,Davis,Biology,Fall 2024,23,Non-binary,1.99,57.68,24,72.92,90.77,B,True
+STU-2871,Joshua,Clark,Psychology,Spring 2023,30,Female,4.0,86.7,28,73.82,80.84,C,True
+STU-2872,Brian,Perez,Biology,Spring 2024,25,Male,3.3,94.61,11,91.36,81.06,B,True
+STU-2873,Deborah,Flores,Engineering,Fall 2024,23,Male,2.57,74.38,11,55.16,62.73,F,False
+STU-2874,Andrew,Garcia,Chemistry,Fall 2024,21,Non-binary,3.11,97.64,24,79.35,97.47,B,True
+STU-2875,Betty,Nguyen,Engineering,Fall 2023,29,Female,2.66,68.57,7,77.09,50.26,D,True
+STU-2876,Melissa,White,History,Spring 2024,18,Male,3.58,84.2,15,70.87,74.07,C,True
+STU-2877,Ashley,Allen,History,Spring 2024,19,Non-binary,4.0,73.16,13,86.27,94.55,A,True
+STU-2878,Nicholas,Carter,Computer Science,Fall 2023,18,Non-binary,2.94,89.73,11,83.33,62.53,C,True
+STU-2879,Rebecca,Brown,Psychology,Fall 2022,19,Female,3.23,69.2,18,70.5,78.48,C,True
+STU-2880,Timothy,Williams,History,Spring 2025,29,Female,3.76,100,10,71.29,73.21,C,True
+STU-2881,Barbara,Martinez,Mathematics,Fall 2022,20,Female,4.0,96.9,9,65.58,76.16,C,True
+STU-2882,Ryan,Lewis,Psychology,Spring 2025,19,Male,2.84,69.76,9,66.46,51.71,F,False
+STU-2883,Emily,Sanchez,English,Spring 2024,19,Female,3.41,90.59,5,61.44,85.0,C,True
+STU-2884,Anthony,Hall,Mathematics,Fall 2023,24,Male,2.61,98.89,10,53.37,91.07,C,True
+STU-2885,Stephen,Wright,Business,Spring 2023,27,Non-binary,2.43,100,9,67.76,96.65,B,True
+STU-2886,Cynthia,White,Economics,Fall 2023,26,Female,2.52,93.83,26,82.12,56.37,D,True
+STU-2887,Michael,Garcia,History,Fall 2024,29,Female,3.39,83.85,13,72.63,77.84,C,True
+STU-2888,Nancy,Gonzalez,Mathematics,Spring 2024,25,Non-binary,3.22,61.98,20,69.01,67.73,D,True
+STU-2889,Eric,Jones,Psychology,Fall 2022,25,Male,3.5,82.71,15,52.09,79.94,D,True
+STU-2890,Nicholas,Moore,Engineering,Fall 2023,28,Male,3.57,96.54,17,68.87,79.99,C,True
+STU-2891,William,Johnson,Mathematics,Spring 2025,23,Male,2.84,92.23,17,79.85,77.22,C,True
+STU-2892,Steven,Martin,Engineering,Spring 2023,30,Male,3.48,89.88,30,71.96,80.42,C,True
+STU-2893,Rebecca,Moore,English,Fall 2022,23,Male,3.42,98.86,19,82.98,82.49,B,True
+STU-2894,Kimberly,Garcia,Economics,Fall 2023,22,Male,2.99,83.95,22,82.94,70.27,C,True
+STU-2895,Jacob,Lee,Computer Science,Spring 2025,30,Non-binary,3.0,78.4,14,73.0,46.09,F,False
+STU-2896,Karen,Roberts,Psychology,Fall 2022,22,Male,2.57,73.91,8,79.15,70.95,C,True
+STU-2897,John,Harris,Mathematics,Fall 2024,23,Non-binary,2.41,100,17,90.82,77.82,B,True
+STU-2898,Michael,Green,Computer Science,Spring 2025,23,Female,3.05,99.9,21,71.64,89.77,B,True
+STU-2899,Ashley,Mitchell,Mathematics,Spring 2024,19,Female,2.62,95.25,17,72.9,77.67,C,True
+STU-2900,Emily,Scott,Engineering,Fall 2024,20,Non-binary,2.12,89.49,30,74.64,66.46,C,True
+STU-2901,Ashley,Wright,Mathematics,Fall 2022,29,Male,1.88,82.48,27,74.36,65.62,D,True
+STU-2902,Mary,Smith,Engineering,Fall 2023,28,Female,2.87,92.88,21,73.17,68.73,C,True
+STU-2903,Jason,Anderson,Computer Science,Fall 2023,30,Male,3.1,88.25,18,69.77,75.68,C,True
+STU-2904,Sarah,Sanchez,Mathematics,Spring 2023,30,Non-binary,1.97,68.81,21,80.56,84.41,B,True
+STU-2905,Mark,Jones,History,Spring 2025,29,Non-binary,2.74,75.09,17,87.85,69.15,C,True
+STU-2906,Margaret,Miller,Mathematics,Spring 2024,21,Female,3.24,92.84,15,58.19,92.36,C,True
+STU-2907,Jason,Allen,Business,Spring 2025,20,Male,2.79,73.39,21,80.1,69.31,C,True
+STU-2908,Linda,Martinez,Biology,Spring 2025,22,Male,2.86,95.06,9,70.12,60.48,D,True
+STU-2909,Cynthia,Carter,Economics,Fall 2022,30,Female,3.47,91.81,17,80.06,90.61,B,True
+STU-2910,Edward,Hall,History,Fall 2024,18,Male,4.0,93.64,12,74.76,57.36,D,True
+STU-2911,Jessica,Taylor,Mathematics,Spring 2025,24,Female,1.89,74.06,20,85.97,82.86,B,True
+STU-2912,Patricia,Rodriguez,Economics,Fall 2024,28,Male,3.04,97.05,8,57.6,68.75,D,True
+STU-2913,Daniel,Thomas,Computer Science,Fall 2024,28,Male,2.6,97.96,7,80.15,69.39,C,True
+STU-2914,Cynthia,Flores,Computer Science,Fall 2024,23,Non-binary,2.46,86.68,26,64.5,74.74,D,True
+STU-2915,Kathleen,Thomas,Biology,Spring 2025,22,Non-binary,2.03,100,14,49.13,70.01,F,False
+STU-2916,Susan,Ramirez,Business,Spring 2023,29,Non-binary,2.68,85.84,24,66.06,61.13,D,True
+STU-2917,Andrew,Williams,Biology,Fall 2023,25,Female,3.37,80.64,9,87.02,67.16,C,True
+STU-2918,Betty,Sanchez,Chemistry,Spring 2025,18,Female,1.99,92.4,15,68.14,53.26,D,True
+STU-2919,Lisa,Williams,Business,Fall 2024,30,Female,2.19,62.97,23,74.44,96.0,B,True
+STU-2920,Amy,Lee,Business,Spring 2025,18,Non-binary,3.57,79.99,16,100,69.72,B,True
+STU-2921,Karen,Wright,Economics,Fall 2023,18,Male,3.89,93.18,28,71.11,93.4,B,True
+STU-2922,David,Campbell,History,Fall 2022,27,Male,2.83,88.17,10,59.25,55.6,F,False
+STU-2923,Melissa,Harris,Psychology,Spring 2025,19,Female,2.52,78.63,18,85.26,58.48,C,True
+STU-2924,Joseph,Sanchez,Psychology,Fall 2022,23,Female,1.67,86.22,21,74.99,57.06,D,True
+STU-2925,William,Rivera,Engineering,Fall 2023,27,Male,2.01,100,6,55.45,87.19,C,True
+STU-2926,Mark,Scott,Engineering,Spring 2024,25,Non-binary,2.87,82.71,16,59.04,55.61,F,False
+STU-2927,Sharon,Garcia,Business,Spring 2025,22,Female,2.77,98.15,29,64.82,61.21,D,True
+STU-2928,James,Martinez,History,Fall 2024,30,Female,3.0,86.68,25,81.91,71.43,C,True
+STU-2929,Brenda,Wilson,History,Spring 2024,29,Female,3.32,82.15,29,92.09,75.43,B,True
+STU-2930,Angela,Nelson,Biology,Spring 2024,23,Non-binary,3.63,97.91,5,61.09,90.34,C,True
+STU-2931,Susan,Robinson,Chemistry,Fall 2023,21,Non-binary,2.72,99.17,22,81.85,100,A,True
+STU-2932,Jennifer,Sanchez,Engineering,Fall 2024,19,Non-binary,1.78,90.54,18,80.41,69.95,C,True
+STU-2933,Edward,Wright,Business,Spring 2023,20,Male,2.88,91.5,15,82.67,68.78,C,True
+STU-2934,Stephanie,Wilson,Economics,Spring 2024,27,Male,3.48,71.26,17,56.13,100,C,True
+STU-2935,Anthony,Allen,Psychology,Fall 2024,19,Male,2.97,65.59,23,74.87,58.79,D,True
+STU-2936,Angela,Nelson,Chemistry,Spring 2025,28,Male,2.97,76.45,12,84.4,69.36,C,True
+STU-2937,Sharon,Carter,Chemistry,Spring 2023,28,Non-binary,2.0,78.14,26,76.83,81.6,C,True
+STU-2938,Shirley,Thomas,Chemistry,Spring 2023,22,Female,2.96,83.26,20,72.72,100,B,True
+STU-2939,Joshua,Taylor,Economics,Spring 2023,27,Male,2.27,82.06,17,66.21,59.48,D,True
+STU-2940,Eric,Davis,Chemistry,Fall 2022,30,Non-binary,2.71,63.23,14,74.04,45.74,F,False
+STU-2941,Stephen,Rivera,Biology,Spring 2023,30,Non-binary,3.08,75.51,11,81.68,68.23,C,True
+STU-2942,Larry,Nguyen,English,Fall 2024,18,Female,3.36,100,27,75.97,74.46,C,True
+STU-2943,Lisa,Harris,English,Fall 2024,22,Female,3.16,86.15,29,64.46,76.37,C,True
+STU-2944,Gary,Nelson,Chemistry,Spring 2023,30,Female,3.0,100,20,74.98,88.64,B,True
+STU-2945,Michael,Ramirez,Engineering,Fall 2023,20,Male,2.81,93.09,26,83.23,75.9,C,True
+STU-2946,Richard,Roberts,Chemistry,Spring 2025,27,Male,2.86,100,30,79.66,75.76,C,True
+STU-2947,Sarah,Baker,History,Fall 2022,25,Male,3.8,88.24,14,94.78,72.6,B,True
+STU-2948,Paul,Martinez,Economics,Spring 2023,25,Non-binary,3.21,89.73,7,73.81,60.64,D,True
+STU-2949,Deborah,Williams,Mathematics,Fall 2023,28,Female,4.0,93.3,12,82.18,95.41,B,True
+STU-2950,Linda,Lopez,Computer Science,Fall 2024,27,Male,3.38,100,23,91.27,59.93,C,True
+STU-2951,James,Jones,English,Spring 2025,28,Female,4.0,85.12,22,54.96,60.51,F,False
+STU-2952,Michael,Ramirez,History,Spring 2025,25,Male,3.32,93.19,13,77.36,79.41,C,True
+STU-2953,Charles,Martinez,Biology,Fall 2024,23,Male,3.14,77.07,20,71.72,74.14,C,True
+STU-2954,Mary,Rivera,History,Fall 2023,27,Female,2.39,87.01,20,91.97,64.38,C,True
+STU-2955,Cynthia,Smith,English,Spring 2023,20,Non-binary,2.66,100,12,79.48,70.59,C,True
+STU-2956,Jacob,Thomas,English,Spring 2023,24,Non-binary,2.89,81.08,24,73.19,59.87,D,True
+STU-2957,Jennifer,Walker,Computer Science,Spring 2025,24,Non-binary,3.44,77.33,8,85.43,100,A,True
+STU-2958,Carol,Mitchell,Engineering,Spring 2025,23,Non-binary,2.83,93.45,9,70.34,97.57,B,True
+STU-2959,Matthew,Lewis,Chemistry,Spring 2023,19,Non-binary,3.28,73.58,23,65.85,100,B,True
+STU-2960,Amy,Davis,English,Fall 2023,21,Female,3.68,100,30,55.7,91.99,C,True
+STU-2961,Paul,Taylor,Business,Spring 2023,20,Non-binary,3.5,72.75,26,75.4,71.96,C,True
+STU-2962,Eric,Smith,Computer Science,Spring 2024,19,Female,2.21,84.85,9,72.84,71.15,C,True
+STU-2963,Donna,Martin,History,Fall 2022,29,Female,3.15,67.63,15,79.75,70.88,C,True
+STU-2964,Larry,Clark,English,Fall 2022,20,Female,2.42,97.42,5,82.46,91.76,B,True
+STU-2965,Anthony,Smith,Psychology,Fall 2023,25,Male,2.83,100,22,100,92.79,A,True
+STU-2966,Joshua,Walker,Business,Fall 2024,26,Female,2.86,100,13,75.5,85.89,B,True
+STU-2967,Laura,Moore,History,Fall 2022,28,Male,3.09,75.74,10,63.6,67.14,D,True
+STU-2968,Michael,King,Mathematics,Spring 2024,19,Non-binary,2.15,76.05,21,74.1,67.03,C,True
+STU-2969,Mark,Martin,Chemistry,Fall 2024,26,Non-binary,3.13,89.53,10,94.95,80.83,B,True
+STU-2970,Angela,Scott,Mathematics,Spring 2024,28,Female,3.07,78.53,20,54.29,64.02,F,False
+STU-2971,Edward,Scott,Business,Spring 2025,29,Male,3.87,79.36,18,61.4,66.65,D,True
+STU-2972,Edward,Smith,Engineering,Fall 2022,27,Male,2.98,42.5,10,65.65,73.64,D,True
+STU-2973,Dorothy,Jones,Computer Science,Spring 2025,23,Female,2.82,100,10,79.04,74.87,C,True
+STU-2974,Paul,Thomas,Business,Spring 2023,28,Female,3.5,93.68,21,84.01,70.97,C,True
+STU-2975,Patricia,Mitchell,Economics,Fall 2022,30,Female,4.0,77.25,10,77.92,79.47,C,True
+STU-2976,James,Thomas,Psychology,Fall 2023,30,Female,3.25,80.06,12,83.22,100,A,True
+STU-2977,Ryan,Carter,Engineering,Fall 2024,19,Male,3.47,97.84,26,94.57,71.08,B,True
+STU-2978,William,Hernandez,History,Spring 2023,18,Non-binary,3.69,84.63,15,73.69,74.81,C,True
+STU-2979,Susan,Perez,Mathematics,Fall 2023,30,Male,2.58,83.12,23,89.4,50.68,C,True
+STU-2980,Paul,Jackson,Psychology,Fall 2022,19,Male,2.37,93.26,6,92.98,60.39,C,True
+STU-2981,Shirley,Anderson,Economics,Fall 2022,21,Female,3.7,89.83,11,60.8,83.15,C,True
+STU-2982,Gary,Johnson,Business,Spring 2024,20,Male,4.0,84.24,12,77.62,49.76,D,True
+STU-2983,Amanda,Torres,Economics,Fall 2024,28,Non-binary,3.03,100,22,62.75,85.38,C,True
+STU-2984,Amy,Moore,Computer Science,Fall 2024,23,Non-binary,3.61,73.0,10,68.82,72.55,C,True
+STU-2985,Melissa,Jackson,Economics,Fall 2022,29,Female,2.75,96.56,10,61.89,71.29,D,True
+STU-2986,Cynthia,Rivera,Biology,Fall 2023,19,Non-binary,2.86,84.71,21,78.78,49.81,D,True
+STU-2987,Gary,White,History,Spring 2023,22,Male,2.25,99.44,7,84.02,66.79,C,True
+STU-2988,Andrew,Martinez,History,Fall 2022,30,Male,3.44,74.53,26,71.83,90.7,B,True
+STU-2989,Patricia,Lee,Mathematics,Fall 2024,20,Female,2.56,86.1,30,71.58,48.83,D,True
+STU-2990,Mark,Williams,Business,Fall 2024,24,Male,2.64,100,21,94.77,48.33,C,True
+STU-2991,Thomas,White,Mathematics,Fall 2022,18,Female,2.88,96.8,16,65.69,88.58,C,True
+STU-2992,Deborah,Rodriguez,Engineering,Spring 2023,18,Non-binary,2.71,89.43,9,63.32,85.65,C,True
+STU-2993,Daniel,Adams,History,Fall 2024,28,Male,3.54,91.74,20,65.72,91.76,C,True
+STU-2994,Michael,Rodriguez,Psychology,Spring 2025,20,Male,3.1,100,28,69.37,67.49,D,True
+STU-2995,Patricia,Taylor,History,Spring 2023,26,Male,2.4,87.49,17,67.58,66.73,D,True
+STU-2996,Joseph,Allen,Biology,Fall 2023,27,Non-binary,2.33,93.44,21,67.67,74.32,C,True
+STU-2997,Joshua,Hill,Mathematics,Spring 2024,20,Male,2.95,84.68,28,63.85,74.01,D,True
+STU-2998,Jessica,Hall,Business,Fall 2024,26,Male,2.53,88.39,15,57.58,74.39,D,True
+STU-2999,Patricia,Perez,English,Spring 2023,19,Non-binary,1.66,79.72,21,70.11,69.78,D,True
+STU-3000,Joshua,Miller,Business,Fall 2024,24,Male,2.45,86.45,18,71.43,78.38,C,True
+STU-3001,Robert,Robinson,Business,Spring 2024,29,Male,2.31,95.28,9,61.42,60.62,D,True
+STU-3002,Nicholas,Miller,Business,Fall 2024,28,Female,2.76,99.16,12,71.2,56.4,D,True
+STU-3003,Karen,Lee,English,Spring 2025,18,Female,3.48,89.59,30,69.47,100,B,True
+STU-3004,Sharon,Taylor,History,Fall 2024,19,Non-binary,4.0,71.77,24,73.31,71.55,C,True
+STU-3005,Michelle,Martin,Mathematics,Spring 2025,22,Non-binary,2.43,76.75,30,65.02,77.07,C,True
+STU-3006,Daniel,Davis,History,Spring 2025,23,Non-binary,3.13,100,27,69.01,100,B,True
+STU-3007,Matthew,White,Biology,Spring 2025,29,Non-binary,3.17,94.74,15,88.67,56.63,C,True
+STU-3008,Carol,Perez,English,Spring 2023,28,Non-binary,2.38,65.2,9,82.23,93.91,B,True
+STU-3009,Larry,Walker,English,Spring 2023,23,Non-binary,3.36,67.94,24,96.42,53.95,C,True
+STU-3010,Brenda,Adams,Computer Science,Fall 2024,21,Male,3.12,100,25,67.52,69.47,D,True
+STU-3011,Betty,Martinez,English,Spring 2025,19,Male,3.07,95.61,19,85.86,80.86,B,True
+STU-3012,Joshua,Harris,Biology,Fall 2022,24,Male,2.89,93.88,30,62.34,61.2,D,True
+STU-3013,David,Brown,History,Fall 2024,20,Non-binary,2.88,100,26,70.78,60.6,D,True
+STU-3014,Kevin,Robinson,History,Fall 2022,26,Male,1.87,80.49,26,64.42,75.61,C,True
+STU-3015,Mary,Lopez,Psychology,Spring 2023,21,Female,2.39,97.34,13,84.83,76.9,B,True
+STU-3016,Cynthia,Hernandez,History,Spring 2025,29,Male,2.44,85.64,20,84.1,67.56,C,True
+STU-3017,Linda,Nguyen,Chemistry,Spring 2025,22,Female,3.74,93.71,5,78.09,75.87,C,True
+STU-3018,Donna,Roberts,Economics,Spring 2025,22,Non-binary,2.6,96.35,11,54.75,65.28,D,True
+STU-3019,Robert,Jones,History,Spring 2025,23,Female,3.24,100,27,66.7,89.49,C,True

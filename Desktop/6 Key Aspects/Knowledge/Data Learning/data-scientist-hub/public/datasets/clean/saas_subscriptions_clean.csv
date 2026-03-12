@@ -1,0 +1,1636 @@
+company_id,company_name,plan,mrr_usd,usage_events,account_age_days,region,industry,contract_months,signup_date,churn_date,churned,nps_score,support_tickets,last_login_date,seats
+CO-6000,Zenith Solutions,Enterprise,4245.85,6182,301,Europe,Finance,1,2025-03-05,,False,40,6,2025-04-19,497
+CO-6001,Zenith Corp,Starter,39.72,4829,1006,Middle East,Media,24,2023-03-31,,False,-23,27,2023-04-20,277
+CO-6002,Nova Digital,Enterprise,1549.93,36510,653,North America,Education,3,2024-03-18,,False,83,40,2024-06-16,238
+CO-6003,Nova Labs,Professional,200.89,19995,1242,North America,Manufacturing,3,2022-08-07,,False,-14,16,2023-04-16,114
+CO-6004,Pulse Cloud,Starter,45.33,40065,454,Europe,Media,3,2024-10-03,,False,3,37,2025-12-27,31
+CO-6005,Pulse Digital,Enterprise,4712.6,49241,1070,Latin America,Retail,1,2023-01-26,,False,95,44,2025-08-15,116
+CO-6006,Forge Corp,Starter,37.22,15914,748,Europe,Government,6,2023-12-14,,False,77,0,2025-06-22,351
+CO-6007,Acme Solutions,Professional,116.52,10765,534,Middle East,Government,12,2024-07-15,,False,-99,13,2025-05-07,131
+CO-6008,Vertex Tech,Professional,363.86,13432,1168,Asia Pacific,Manufacturing,12,2022-10-20,,False,-49,6,2025-11-05,492
+CO-6009,Nova Tech,Starter,88.69,19646,937,North America,Non-profit,12,2023-06-08,,False,-77,49,2023-12-20,15
+CO-6010,Forge Corp,Enterprise,4603.38,30291,243,Europe,Non-profit,1,2025-05-02,,False,56,41,2025-12-25,443
+CO-6011,Nova Labs,Enterprise,720.44,15008,1616,Latin America,Healthcare,1,2021-07-29,,False,73,9,2024-09-08,304
+CO-6012,Nova Digital,Free,0.0,37108,1707,North America,Education,3,2021-04-29,2023-03-16,True,48,16,2023-11-25,74
+CO-6013,Spark Systems,Starter,98.97,34081,1175,Europe,Education,6,2022-10-13,,False,-23,10,2023-04-07,320
+CO-6014,Acme Analytics,Enterprise,1628.03,27229,526,Latin America,Manufacturing,12,2024-07-23,,False,-19,18,2025-09-13,6
+CO-6015,Apex Corp,Free,0.0,15416,2102,North America,Finance,1,2020-03-30,,False,-18,22,2023-06-10,309
+CO-6016,Nimbus Corp,Starter,38.63,30837,1966,Middle East,Education,3,2020-08-13,,False,-51,8,2020-09-03,30
+CO-6017,Nova Digital,Enterprise,1050.0,21452,2172,Europe,Retail,3,2020-01-20,,False,-84,6,2024-06-15,118
+CO-6018,Forge Analytics,Starter,98.9,20198,1609,North America,Education,24,2021-08-05,,False,-74,28,2022-07-11,58
+CO-6019,Spark Cloud,Professional,174.17,40305,1776,Middle East,Finance,6,2021-02-19,2022-11-20,True,-49,23,2025-02-21,476
+CO-6020,Apex Solutions,Professional,141.96,1038,255,Europe,Media,6,2025-04-20,2027-01-12,True,42,17,2025-07-14,59
+CO-6021,Spark Solutions,Professional,122.5,5441,1252,North America,Media,3,2022-07-28,,False,3,7,2025-06-30,417
+CO-6022,Wave Corp,Starter,35.04,13223,1741,North America,Media,24,2021-03-26,2021-10-10,True,39,33,2025-03-10,188
+CO-6023,Vertex Labs,Starter,37.47,44090,1779,Middle East,Finance,12,2021-02-16,2021-06-27,True,4,40,2023-03-09,161
+CO-6024,Acme Systems,Starter,83.22,49430,1759,Latin America,Consulting,12,2021-03-08,,False,-22,19,2021-07-02,223
+CO-6025,Acme Tech,Starter,59.45,18390,1800,Europe,Manufacturing,6,2021-01-26,2021-03-29,True,-96,36,2022-04-18,226
+CO-6026,Spark Cloud,Starter,45.44,42554,1570,North America,Technology,12,2021-09-13,2023-04-24,True,-83,46,2024-07-15,312
+CO-6027,Pulse Labs,Enterprise,1326.37,16555,2146,Middle East,Healthcare,24,2020-02-15,,False,-62,46,2025-03-08,106
+CO-6028,Forge AI,Enterprise,2363.38,44616,2111,North America,Healthcare,24,2020-03-21,,False,-87,1,2023-03-02,213
+CO-6029,Zenith Corp,Enterprise,3967.16,15408,1529,Middle East,Education,1,2021-10-24,,False,-3,5,2023-07-05,223
+CO-6030,Nimbus Tech,Starter,95.03,48822,465,Latin America,Education,3,2024-09-22,,False,-74,20,2025-07-18,242
+CO-6031,Pulse Cloud,Professional,354.75,5413,1776,Europe,Finance,24,2021-02-19,,False,-83,2,2021-12-02,440
+CO-6032,Zenith Solutions,Professional,259.56,40724,975,Europe,Government,12,2023-05-01,,False,66,30,2024-08-29,178
+CO-6033,Spark Labs,Professional,123.02,4935,1005,North America,Education,12,2023-04-01,,False,22,6,2023-08-23,220
+CO-6034,Forge Corp,Enterprise,4296.93,15101,1195,Europe,Finance,6,2022-09-23,,False,38,10,2025-01-07,249
+CO-6035,Wave Corp,Starter,31.44,3207,1120,Middle East,Finance,12,2022-12-07,,False,81,2,2025-12-18,51
+CO-6036,Pulse Digital,Enterprise,2047.79,45699,1453,Asia Pacific,Retail,24,2022-01-08,,False,-20,13,2022-07-08,57
+CO-6037,Nova Digital,Enterprise,3270.69,20129,1571,Latin America,Media,24,2021-09-12,,False,3,43,2025-05-19,125
+CO-6038,Wave AI,Enterprise,1737.81,4816,1940,Asia Pacific,Non-profit,12,2020-09-08,,False,79,38,2021-04-15,93
+CO-6039,Nimbus Tech,Enterprise,4446.47,29497,2180,Europe,Media,6,2020-01-12,2021-08-31,True,-69,38,2024-11-25,384
+CO-6040,Zenith Inc,Starter,69.52,11454,739,Latin America,Healthcare,3,2023-12-23,,False,-82,15,2025-03-13,476
+CO-6041,Apex Analytics,Professional,219.04,13140,964,Europe,Finance,12,2023-05-12,,False,48,32,2025-09-22,161
+CO-6042,Spark Solutions,Professional,129.58,4129,1367,Europe,Healthcare,6,2022-04-04,,False,70,26,2025-11-27,476
+CO-6043,Apex Cloud,Professional,399.95,44620,1970,North America,Consulting,12,2020-08-09,2022-04-01,True,8,41,2022-06-25,211
+CO-6044,Acme AI,Enterprise,4896.81,49581,269,North America,Consulting,12,2025-04-06,,False,-81,18,2025-12-07,20
+CO-6045,Acme Corp,Professional,221.42,28958,391,Asia Pacific,Retail,12,2024-12-05,,False,16,46,2025-01-20,337
+CO-6046,Spark Analytics,Starter,38.5,46994,683,Europe,Media,24,2024-02-17,2024-08-17,True,-61,11,2025-04-28,196
+CO-6047,Pulse Systems,Enterprise,1841.69,6734,2125,Latin America,Media,3,2020-03-07,,False,-11,27,2023-02-10,365
+CO-6048,Pulse Tech,Enterprise,1199.33,3006,2004,Middle East,Education,6,2020-07-06,,False,53,24,2020-11-22,251
+CO-6049,Spark Solutions,Starter,69.82,6997,934,Asia Pacific,Consulting,12,2023-06-11,,False,-52,38,2024-07-29,226
+CO-6050,Vertex AI,Professional,485.47,8039,1513,Europe,Manufacturing,1,2021-11-09,,False,71,29,2025-01-14,113
+CO-6051,Forge Corp,Free,0.0,23478,2026,Europe,Manufacturing,12,2020-06-14,,False,-38,13,2024-05-01,6
+CO-6052,Nova Labs,Professional,382.04,25250,871,Asia Pacific,Technology,1,2023-08-13,2024-03-20,True,40,2,2025-10-05,317
+CO-6053,Spark Inc,Enterprise,3044.72,39319,1529,Asia Pacific,Consulting,12,2021-10-24,,False,-44,41,2024-12-12,184
+CO-6054,Spark AI,Enterprise,4106.13,18665,1115,Latin America,Government,1,2022-12-12,,False,-93,49,2023-12-15,440
+CO-6055,Vertex Tech,Professional,302.53,14061,1135,Middle East,Technology,1,2022-11-22,,False,-100,13,2025-03-07,210
+CO-6056,Apex Corp,Enterprise,4065.66,11086,1672,North America,Finance,3,2021-06-03,,False,25,41,2023-11-02,302
+CO-6057,Forge Cloud,Professional,268.96,7493,1550,Latin America,Government,1,2021-10-03,,False,-86,43,2022-12-01,306
+CO-6058,Nova Labs,Professional,193.26,28442,1453,Asia Pacific,Finance,3,2022-01-08,,False,99,10,2023-07-24,19
+CO-6059,Spark Cloud,Professional,113.77,14365,801,Europe,Retail,12,2023-10-22,,False,-6,50,2024-02-21,247
+CO-6060,Forge Analytics,Professional,115.76,35358,426,Latin America,Healthcare,6,2024-10-31,2026-10-10,True,67,7,2025-11-18,386
+CO-6061,Nimbus AI,Starter,78.05,35468,1786,Latin America,Government,6,2021-02-09,,False,-53,16,2023-12-28,167
+CO-6062,Nova Analytics,Professional,123.8,28356,1380,Asia Pacific,Technology,6,2022-03-22,,False,12,4,2023-11-11,333
+CO-6063,Apex AI,Starter,88.78,10193,1658,Asia Pacific,Education,6,2021-06-17,,False,-42,32,2022-07-11,332
+CO-6064,Forge Digital,Free,0.0,43867,1570,North America,Education,1,2021-09-13,,False,-13,50,2023-12-23,356
+CO-6065,Zenith Analytics,Professional,401.6,9866,1114,Latin America,Manufacturing,24,2022-12-13,,False,54,21,2025-11-08,47
+CO-6066,Nimbus Corp,Professional,166.17,44706,464,North America,Finance,3,2024-09-23,,False,-2,27,2025-03-07,53
+CO-6067,Wave Inc,Professional,371.14,28568,1896,Latin America,Consulting,24,2020-10-22,,False,37,11,2025-05-14,408
+CO-6068,Nova Systems,Professional,177.31,11081,282,Europe,Government,3,2025-03-24,,False,-77,30,2025-04-17,448
+CO-6069,Zenith Systems,Enterprise,3801.2,16981,2014,Latin America,Finance,3,2020-06-26,2021-03-28,True,-41,21,2021-08-10,102
+CO-6070,Zenith Analytics,Enterprise,3864.04,8467,955,Middle East,Non-profit,3,2023-05-21,2025-05-15,True,-27,36,2024-11-25,165
+CO-6071,Apex Tech,Professional,317.46,40827,1364,Middle East,Healthcare,6,2022-04-07,,False,29,38,2023-08-07,25
+CO-6072,Wave Corp,Starter,77.33,13409,1621,Middle East,Manufacturing,3,2021-07-24,,False,28,37,2025-09-19,195
+CO-6073,Vertex AI,Starter,68.48,45958,319,North America,Retail,3,2025-02-15,,False,-31,14,2025-08-23,117
+CO-6074,Apex Digital,Professional,255.78,31406,1502,Europe,Technology,3,2021-11-20,,False,-57,31,2024-02-12,118
+CO-6075,Nova Labs,Starter,61.28,49057,1102,Middle East,Finance,12,2022-12-25,,False,-96,19,2023-06-08,333
+CO-6076,Vertex Cloud,Professional,402.18,2994,749,Europe,Non-profit,24,2023-12-13,2024-08-26,True,53,38,2024-03-19,210
+CO-6077,Zenith Labs,Starter,71.03,39169,1264,North America,Technology,12,2022-07-16,,False,-55,1,2025-01-10,126
+CO-6078,Pulse Corp,Enterprise,1787.96,37636,472,Middle East,Government,12,2024-09-15,,False,17,15,2024-10-03,352
+CO-6079,Vertex Systems,Enterprise,2328.61,42126,1639,Middle East,Government,24,2021-07-06,,False,57,37,2024-08-24,313
+CO-6080,Pulse Labs,Starter,75.77,40465,1338,North America,Media,6,2022-05-03,2024-01-09,True,73,23,2025-11-11,335
+CO-6081,Nimbus Corp,Professional,455.74,16687,1378,Middle East,Education,12,2022-03-24,,False,-29,48,2025-06-17,162
+CO-6082,Zenith AI,Enterprise,2187.29,46565,1343,North America,Consulting,12,2022-04-28,,False,79,45,2022-08-22,480
+CO-6083,Forge Digital,Professional,351.61,38308,1793,Europe,Manufacturing,1,2021-02-02,,False,78,44,2022-06-22,436
+CO-6084,Wave Tech,Starter,60.96,1659,1422,Latin America,Retail,12,2022-02-08,,False,70,34,2025-02-14,210
+CO-6085,Wave Solutions,Enterprise,3773.24,2316,1411,Asia Pacific,Government,24,2022-02-19,,False,11,18,2022-07-09,280
+CO-6086,Spark Labs,Starter,47.19,49332,1559,Europe,Retail,12,2021-09-24,2023-12-01,True,11,26,2023-04-12,218
+CO-6087,Wave Cloud,Professional,384.52,9118,992,Asia Pacific,Retail,24,2023-04-14,2024-08-12,True,23,26,2023-08-29,83
+CO-6088,Nova Labs,Enterprise,1568.64,42531,1216,North America,Healthcare,6,2022-09-02,,False,-96,8,2023-02-14,125
+CO-6089,Pulse Analytics,Professional,132.05,23984,1557,Europe,Retail,6,2021-09-26,,False,-92,18,2023-11-14,142
+CO-6090,Spark Cloud,Free,0.0,32035,1943,Middle East,Media,24,2020-09-05,2022-05-02,True,-77,17,2022-07-05,229
+CO-6091,Pulse AI,Professional,440.47,11955,1605,Middle East,Education,12,2021-08-09,,False,-83,31,2025-04-22,275
+CO-6092,Spark Labs,Professional,407.46,13339,1552,Latin America,Non-profit,1,2021-10-01,,False,-72,16,2023-01-30,98
+CO-6093,Forge Corp,Professional,231.94,19880,2072,Asia Pacific,Education,24,2020-04-29,,False,50,21,2024-01-21,76
+CO-6094,Nova Labs,Professional,227.91,17404,1100,Middle East,Non-profit,3,2022-12-27,,False,75,38,2023-09-24,68
+CO-6095,Spark Digital,Professional,151.5,30757,472,Asia Pacific,Media,12,2024-09-15,,False,-34,35,2025-12-24,371
+CO-6096,Wave Analytics,Enterprise,2498.41,46710,532,Europe,Manufacturing,24,2024-07-17,,False,-21,7,2024-08-25,422
+CO-6097,Wave Analytics,Starter,85.13,46498,1230,Asia Pacific,Consulting,12,2022-08-19,,False,-12,6,2025-11-25,98
+CO-6098,Forge Corp,Starter,86.3,7326,2120,North America,Manufacturing,3,2020-03-12,,False,35,23,2024-02-14,393
+CO-6099,Nimbus Corp,Starter,31.87,42759,1080,Latin America,Education,1,2023-01-16,,False,48,11,2025-09-11,135
+CO-6100,Forge Systems,Starter,53.77,9475,1655,Europe,Finance,3,2021-06-20,2021-10-06,True,80,36,2024-04-17,32
+CO-6101,Acme Corp,Professional,297.69,32188,2068,Asia Pacific,Media,1,2020-05-03,2021-09-06,True,59,13,2021-02-24,100
+CO-6102,Nimbus AI,Professional,198.8,34285,1835,Latin America,Finance,24,2020-12-22,,False,88,41,2022-09-09,228
+CO-6103,Wave Cloud,Professional,465.78,24459,1159,Asia Pacific,Education,3,2022-10-29,,False,-40,8,2024-08-30,373
+CO-6104,Acme Systems,Professional,162.49,34888,958,Latin America,Education,24,2023-05-18,,False,-72,14,2023-11-22,338
+CO-6105,Wave Labs,Enterprise,4663.68,18923,602,Asia Pacific,Retail,24,2024-05-08,,False,66,28,2024-07-20,134
+CO-6106,Pulse Labs,Professional,477.88,38050,1536,Europe,Manufacturing,6,2021-10-17,,False,-87,11,2025-03-29,222
+CO-6107,Pulse Solutions,Starter,39.02,17280,519,North America,Education,6,2024-07-30,,False,-37,48,2025-12-29,250
+CO-6108,Zenith Digital,Enterprise,1515.34,45132,1111,Asia Pacific,Technology,3,2022-12-16,,False,-11,4,2023-11-04,122
+CO-6109,Apex Digital,Starter,53.11,18242,767,Middle East,Non-profit,24,2023-11-25,,False,19,6,2024-12-13,318
+CO-6110,Spark Solutions,Professional,345.62,48840,1659,North America,Education,6,2021-06-16,2021-10-21,True,-97,27,2021-08-18,43
+CO-6111,Apex Solutions,Professional,422.13,32640,732,Europe,Consulting,1,2023-12-30,,False,55,26,2024-12-03,32
+CO-6112,Spark Solutions,Professional,265.38,19118,1968,Middle East,Finance,3,2020-08-11,,False,-97,9,2022-03-30,496
+CO-6113,Pulse Tech,Professional,246.02,37831,1645,Europe,Manufacturing,24,2021-06-30,,False,-8,9,2021-09-02,68
+CO-6114,Wave Cloud,Professional,447.54,31665,1945,North America,Consulting,24,2020-09-03,,False,-55,5,2022-01-31,70
+CO-6115,Wave AI,Professional,126.98,6073,809,Latin America,Retail,1,2023-10-14,,False,-90,14,2024-09-18,10
+CO-6116,Pulse AI,Free,0.0,38734,1757,Latin America,Technology,3,2021-03-10,2022-11-06,True,-16,48,2025-12-12,54
+CO-6117,Wave Analytics,Enterprise,2178.97,45191,1198,Latin America,Education,3,2022-09-20,,False,-83,46,2024-08-14,107
+CO-6118,Zenith Systems,Professional,346.06,37986,1966,Middle East,Government,1,2020-08-13,,False,-8,2,2022-05-21,448
+CO-6119,Wave Labs,Professional,409.47,40502,2123,Latin America,Consulting,1,2020-03-09,,False,22,33,2024-11-20,116
+CO-6120,Apex Corp,Professional,257.82,47815,569,North America,Retail,12,2024-06-10,,False,61,29,2025-02-13,330
+CO-6121,Acme Corp,Starter,33.29,16465,335,Latin America,Technology,12,2025-01-30,,False,67,0,2025-03-26,50
+CO-6122,Nova Analytics,Starter,96.02,10274,1142,Europe,Technology,1,2022-11-15,,False,10,43,2025-05-23,318
+CO-6123,Pulse Solutions,Professional,433.43,34837,1167,Middle East,Consulting,1,2022-10-21,,False,95,3,2025-08-12,337
+CO-6124,Vertex Corp,Professional,447.21,23390,1369,Europe,Non-profit,1,2022-04-02,,False,17,20,2024-08-27,146
+CO-6125,Spark Tech,Starter,31.01,38088,545,Latin America,Consulting,24,2024-07-04,2025-06-18,True,35,34,2024-12-27,176
+CO-6126,Pulse Analytics,Professional,333.85,44657,754,Europe,Education,1,2023-12-08,,False,-42,35,2024-07-18,61
+CO-6127,Nova Digital,Enterprise,1492.99,18165,929,Asia Pacific,Media,24,2023-06-16,2023-08-11,True,-76,10,2024-06-25,369
+CO-6128,Wave Solutions,Professional,347.06,44357,1652,Middle East,Technology,6,2021-06-23,2023-01-30,True,-46,32,2024-11-18,348
+CO-6129,Pulse Analytics,Professional,157.09,5364,985,North America,Non-profit,6,2023-04-21,,False,16,43,2023-11-21,253
+CO-6130,Spark AI,Professional,336.04,5706,1532,Latin America,Consulting,24,2021-10-21,2023-09-30,True,100,16,2023-06-17,112
+CO-6131,Apex Tech,Enterprise,3461.13,2519,980,Asia Pacific,Healthcare,24,2023-04-26,,False,-58,10,2023-08-07,144
+CO-6132,Wave Systems,Professional,104.89,25646,794,Asia Pacific,Education,3,2023-10-29,,False,-39,50,2025-11-05,326
+CO-6133,Apex Corp,Starter,58.28,6555,1264,North America,Media,12,2022-07-16,,False,-15,40,2023-06-27,346
+CO-6134,Nimbus Cloud,Enterprise,661.98,40605,1928,Europe,Education,12,2020-09-20,2022-06-21,True,-87,29,2024-08-08,426
+CO-6135,Spark Solutions,Professional,439.31,37167,1771,Europe,Manufacturing,12,2021-02-24,,False,-70,10,2023-09-02,276
+CO-6136,Wave Inc,Starter,70.01,3259,1690,North America,Non-profit,3,2021-05-16,2021-09-26,True,-90,46,2022-09-25,367
+CO-6137,Acme Digital,Professional,496.95,38983,1071,Europe,Non-profit,1,2023-01-25,2025-01-15,True,74,15,2025-07-22,196
+CO-6138,Apex Analytics,Free,0.0,40476,1983,Latin America,Healthcare,12,2020-07-27,,False,-75,33,2024-12-22,166
+CO-6139,Nova Solutions,Professional,161.72,21585,1176,Middle East,Healthcare,24,2022-10-12,,False,100,2,2025-06-09,266
+CO-6140,Wave Inc,Professional,231.14,2033,1591,Europe,Healthcare,1,2021-08-23,,False,42,10,2021-11-27,225
+CO-6141,Apex Cloud,Professional,197.79,32569,1399,Asia Pacific,Manufacturing,12,2022-03-03,,False,-46,19,2022-04-04,452
+CO-6142,Apex Corp,Free,0.0,33087,2153,Asia Pacific,Education,24,2020-02-08,2020-03-25,True,51,41,2023-01-31,389
+CO-6143,Apex Corp,Starter,59.78,30155,2027,Middle East,Manufacturing,3,2020-06-13,,False,-50,36,2023-05-05,177
+CO-6144,Pulse Analytics,Professional,308.54,46424,1722,Latin America,Manufacturing,12,2021-04-14,,False,0,14,2021-09-13,332
+CO-6145,Acme Tech,Professional,184.06,47973,1882,North America,Retail,1,2020-11-05,,False,92,9,2021-06-08,431
+CO-6146,Wave AI,Professional,392.72,36315,388,Middle East,Manufacturing,24,2024-12-08,,False,73,20,2025-10-13,215
+CO-6147,Pulse Solutions,Starter,60.96,33747,2060,Latin America,Media,1,2020-05-11,,False,56,9,2023-07-01,360
+CO-6148,Pulse Analytics,Enterprise,3986.02,47783,1960,Middle East,Manufacturing,12,2020-08-19,2021-03-16,True,-66,9,2025-02-22,314
+CO-6149,Acme Inc,Starter,52.19,43063,296,Asia Pacific,Retail,12,2025-03-10,2026-06-08,True,60,50,2025-03-17,455
+CO-6150,Wave Systems,Professional,381.53,18454,1477,Europe,Technology,3,2021-12-15,,False,63,48,2022-03-13,108
+CO-6151,Apex Labs,Professional,242.87,4289,1580,Middle East,Healthcare,6,2021-09-03,,False,16,46,2023-05-21,292
+CO-6152,Nova Corp,Starter,94.76,41104,1945,North America,Consulting,1,2020-09-03,,False,82,45,2020-09-05,27
+CO-6153,Spark Labs,Free,0.0,29089,1238,North America,Healthcare,6,2022-08-11,,False,-83,11,2022-09-26,185
+CO-6154,Vertex Tech,Professional,423.45,32258,653,Asia Pacific,Media,24,2024-03-18,,False,-7,38,2025-11-03,222
+CO-6155,Apex Digital,Starter,63.64,8960,1530,Europe,Technology,6,2021-10-23,,False,-52,19,2024-10-11,123
+CO-6156,Forge Systems,Starter,67.52,39916,2154,North America,Consulting,3,2020-02-07,,False,-96,23,2023-05-25,389
+CO-6157,Vertex Systems,Professional,157.0,29221,760,Middle East,Healthcare,24,2023-12-02,,False,46,1,2024-07-13,486
+CO-6158,Nimbus Tech,Starter,49.43,37726,328,Europe,Government,1,2025-02-06,,False,17,44,2025-11-19,409
+CO-6159,Apex Systems,Enterprise,1747.8,1978,1909,Middle East,Education,6,2020-10-09,,False,-26,17,2025-10-29,17
+CO-6160,Acme AI,Professional,490.13,32599,2017,Middle East,Manufacturing,12,2020-06-23,2022-07-07,True,-79,42,2024-09-12,394
+CO-6161,Forge AI,Starter,39.73,17230,1227,Asia Pacific,Non-profit,1,2022-08-22,,False,-83,24,2024-08-31,213
+CO-6162,Vertex Inc,Professional,490.47,11330,528,Latin America,Technology,24,2024-07-21,,False,-70,1,2025-10-29,195
+CO-6163,Acme Analytics,Starter,45.15,8634,1545,Europe,Media,12,2021-10-08,,False,77,10,2023-08-23,118
+CO-6164,Apex Analytics,Professional,122.23,31182,2123,Asia Pacific,Government,1,2020-03-09,,False,-9,41,2023-08-13,273
+CO-6165,Pulse Labs,Professional,481.87,24602,1237,Middle East,Retail,6,2022-08-12,2024-06-24,True,-75,29,2022-10-28,132
+CO-6166,Zenith Inc,Professional,171.54,9269,1074,Europe,Consulting,24,2023-01-22,2024-07-25,True,-14,7,2024-02-08,406
+CO-6167,Nova Analytics,Starter,66.19,5407,1745,Middle East,Manufacturing,6,2021-03-22,,False,27,28,2025-07-12,500
+CO-6168,Nova Inc,Starter,82.27,32998,446,Europe,Education,24,2024-10-11,,False,-31,13,2025-05-27,184
+CO-6169,Wave Analytics,Professional,113.77,5120,1896,Latin America,Manufacturing,1,2020-10-22,,False,-36,2,2025-03-09,410
+CO-6170,Vertex Cloud,Professional,448.99,40488,426,Asia Pacific,Government,24,2024-10-31,,False,-44,43,2025-07-23,422
+CO-6171,Nova Cloud,Enterprise,1657.89,42405,1890,Latin America,Government,24,2020-10-28,,False,-20,11,2022-10-14,197
+CO-6172,Nimbus Tech,Starter,45.85,12427,1898,Latin America,Finance,3,2020-10-20,2021-11-03,True,-80,20,2025-10-29,256
+CO-6173,Apex Analytics,Enterprise,697.33,360,970,Middle East,Healthcare,3,2023-05-06,,False,4,6,2023-07-30,62
+CO-6174,Nova Tech,Enterprise,1419.34,6854,1714,Latin America,Technology,1,2021-04-22,,False,-35,48,2022-02-09,12
+CO-6175,Spark Digital,Starter,44.82,29225,1658,Latin America,Finance,3,2021-06-17,,False,85,44,2025-04-20,67
+CO-6176,Acme Corp,Starter,93.57,4206,1397,Latin America,Retail,1,2022-03-05,,False,-86,48,2022-05-05,270
+CO-6177,Apex Labs,Free,0.0,10790,1434,Middle East,Government,6,2022-01-27,2023-03-16,True,11,40,2023-07-25,46
+CO-6178,Zenith Systems,Starter,89.99,15105,766,North America,Healthcare,1,2023-11-26,2024-11-09,True,69,13,2024-03-27,163
+CO-6179,Zenith Digital,Professional,340.82,4321,580,Asia Pacific,Consulting,6,2024-05-30,2024-11-20,True,24,45,2025-09-21,201
+CO-6180,Apex Digital,Professional,417.24,44025,631,North America,Retail,12,2024-04-09,,False,-53,18,2025-01-24,20
+CO-6181,Wave Solutions,Professional,268.91,12269,743,Latin America,Healthcare,6,2023-12-19,,False,-38,6,2024-08-09,17
+CO-6182,Wave Inc,Free,0.0,46878,297,Asia Pacific,Consulting,1,2025-03-09,2026-04-03,True,-54,37,2025-03-22,266
+CO-6183,Spark AI,Professional,478.99,17798,1104,Middle East,Retail,1,2022-12-23,,False,38,32,2024-11-19,485
+CO-6184,Wave Solutions,Starter,58.85,31458,1403,North America,Finance,6,2022-02-27,,False,-34,18,2025-07-12,120
+CO-6185,Wave Corp,Starter,38.34,11267,258,Latin America,Finance,12,2025-04-17,,False,-81,21,2025-10-20,280
+CO-6186,Nimbus Digital,Professional,418.17,5906,952,Middle East,Manufacturing,1,2023-05-24,,False,-53,7,2023-09-18,239
+CO-6187,Wave Analytics,Enterprise,766.0,17515,569,Asia Pacific,Manufacturing,24,2024-06-10,,False,-27,1,2024-08-03,205
+CO-6188,Pulse Labs,Starter,55.19,19685,1905,Asia Pacific,Manufacturing,6,2020-10-13,,False,-63,11,2021-05-16,26
+CO-6189,Nova Tech,Enterprise,1782.02,8079,2151,North America,Retail,6,2020-02-10,,False,54,39,2023-07-10,250
+CO-6190,Acme Inc,Starter,91.11,36163,1665,Latin America,Non-profit,1,2021-06-10,,False,68,44,2025-06-11,13
+CO-6191,Zenith Inc,Starter,96.43,20132,357,Europe,Consulting,3,2025-01-08,,False,28,12,2025-09-21,441
+CO-6192,Zenith Labs,Enterprise,1094.94,14611,1518,Middle East,Government,1,2021-11-04,,False,-45,31,2025-07-07,162
+CO-6193,Apex Inc,Free,0.0,38375,1263,Middle East,Technology,24,2022-07-17,,False,28,42,2023-06-18,50
+CO-6194,Pulse Systems,Free,0.0,44946,549,Latin America,Retail,12,2024-06-30,,False,30,39,2025-08-18,94
+CO-6195,Zenith Systems,Professional,115.96,37888,808,Asia Pacific,Technology,24,2023-10-15,2025-07-24,True,98,12,2024-01-17,393
+CO-6196,Vertex Analytics,Enterprise,3755.98,15724,605,Asia Pacific,Consulting,24,2024-05-05,,False,-59,31,2025-04-04,103
+CO-6197,Nimbus Corp,Starter,38.21,43182,1019,Asia Pacific,Retail,24,2023-03-18,,False,52,17,2023-12-09,145
+CO-6198,Apex Corp,Enterprise,3733.24,34417,956,North America,Education,24,2023-05-20,,False,-83,0,2024-09-16,309
+CO-6199,Vertex AI,Enterprise,4662.85,15208,483,Latin America,Education,1,2024-09-04,,False,54,39,2025-02-03,381
+CO-6200,Nova Digital,Professional,353.89,18076,1584,Europe,Media,12,2021-08-30,,False,-72,3,2023-09-14,457
+CO-6201,Nimbus Solutions,Professional,103.34,6467,1213,Europe,Retail,6,2022-09-05,,False,75,19,2023-02-14,345
+CO-6202,Pulse Systems,Professional,233.03,31104,1009,North America,Consulting,12,2023-03-28,2023-11-18,True,-53,29,2025-01-17,204
+CO-6203,Wave Corp,Professional,285.44,7226,1225,Europe,Retail,1,2022-08-24,,False,-14,24,2024-03-21,55
+CO-6204,Forge Analytics,Free,0.0,26144,782,Europe,Government,1,2023-11-10,2024-09-21,True,72,2,2025-05-10,140
+CO-6205,Nimbus AI,Professional,380.72,47488,1636,North America,Consulting,24,2021-07-09,,False,69,44,2025-10-05,8
+CO-6206,Wave Cloud,Professional,128.16,20391,1451,Europe,Consulting,3,2022-01-10,,False,-76,6,2024-03-04,301
+CO-6207,Vertex Corp,Starter,43.49,32034,2068,Latin America,Education,12,2020-05-03,,False,28,45,2020-12-01,484
+CO-6208,Nova Labs,Enterprise,1413.68,26767,949,North America,Healthcare,3,2023-05-27,2025-04-11,True,31,42,2025-12-13,463
+CO-6209,Forge Inc,Professional,329.86,3854,826,Latin America,Finance,12,2023-09-27,,False,24,19,2024-08-05,391
+CO-6210,Spark AI,Professional,276.52,27035,773,Middle East,Healthcare,6,2023-11-19,,False,53,20,2024-10-13,226
+CO-6211,Zenith AI,Enterprise,3290.64,33570,369,Latin America,Media,12,2024-12-27,,False,-51,47,2025-03-20,18
+CO-6212,Acme Corp,Starter,69.64,6353,570,Middle East,Technology,3,2024-06-09,,False,-62,1,2025-07-08,418
+CO-6213,Vertex Tech,Starter,79.87,32850,1406,Asia Pacific,Non-profit,12,2022-02-24,,False,46,16,2025-04-26,460
+CO-6214,Wave Tech,Free,0.0,47510,2108,Asia Pacific,Non-profit,24,2020-03-24,2020-11-29,True,94,29,2020-07-27,216
+CO-6215,Acme AI,Starter,56.06,13865,2018,Europe,Retail,12,2020-06-22,2022-02-26,True,-69,26,2023-05-16,227
+CO-6216,Spark AI,Professional,123.47,4175,389,North America,Government,12,2024-12-07,,False,81,21,2025-10-24,424
+CO-6217,Pulse AI,Professional,444.62,34483,519,Europe,Education,3,2024-07-30,,False,69,36,2024-11-14,18
+CO-6218,Pulse Digital,Enterprise,2895.31,5957,1357,Europe,Healthcare,24,2022-04-14,,False,76,7,2024-05-06,468
+CO-6219,Zenith Cloud,Free,0.0,7499,961,North America,Retail,1,2023-05-15,,False,62,0,2023-09-01,10
+CO-6220,Nova Solutions,Starter,56.33,30346,971,North America,Healthcare,12,2023-05-05,,False,11,44,2024-03-22,107
+CO-6221,Wave Analytics,Free,0.0,34280,1220,Latin America,Consulting,1,2022-08-29,,False,89,24,2023-01-23,11
+CO-6222,Vertex Tech,Starter,85.35,47507,606,Latin America,Finance,24,2024-05-04,,False,36,5,2024-06-14,131
+CO-6223,Acme Inc,Enterprise,917.55,17455,1540,Asia Pacific,Consulting,1,2021-10-13,,False,40,40,2022-07-02,248
+CO-6224,Wave Solutions,Professional,128.41,6873,1163,Asia Pacific,Technology,24,2022-10-25,,False,-94,37,2025-11-18,303
+CO-6225,Spark Cloud,Professional,127.23,30517,816,Asia Pacific,Education,6,2023-10-07,,False,-86,23,2023-10-19,281
+CO-6226,Acme Tech,Free,0.0,22470,1972,North America,Education,24,2020-08-07,,False,-88,40,2024-05-03,102
+CO-6227,Vertex Labs,Starter,92.49,29921,1033,Latin America,Education,12,2023-03-04,,False,-44,31,2024-10-17,246
+CO-6228,Wave Digital,Enterprise,1167.11,5497,1181,Latin America,Government,12,2022-10-07,,False,-39,2,2024-07-21,497
+CO-6229,Zenith Digital,Starter,45.62,16621,349,North America,Finance,3,2025-01-16,,False,-40,7,2025-03-15,242
+CO-6230,Nimbus Systems,Professional,313.05,8280,1747,Middle East,Manufacturing,6,2021-03-20,,False,100,5,2022-11-12,163
+CO-6231,Apex AI,Starter,79.35,47304,644,Latin America,Government,3,2024-03-27,,False,-74,35,2024-10-11,5
+CO-6232,Pulse AI,Enterprise,3071.42,5364,814,Europe,Non-profit,6,2023-10-09,2025-11-23,True,-93,13,2024-03-13,288
+CO-6233,Pulse Digital,Starter,82.48,29424,1564,Middle East,Technology,24,2021-09-19,2023-08-25,True,73,29,2022-01-30,491
+CO-6234,Nova Systems,Starter,97.01,30437,1190,Asia Pacific,Education,12,2022-09-28,,False,-57,41,2025-07-04,4
+CO-6235,Nimbus Inc,Starter,74.27,3742,2099,Middle East,Consulting,6,2020-04-02,,False,39,49,2020-04-17,190
+CO-6236,Vertex Cloud,Free,0.0,9909,1969,Europe,Government,12,2020-08-10,,False,65,42,2024-05-06,335
+CO-6237,Apex AI,Free,0.0,47908,1639,Middle East,Technology,1,2021-07-06,,False,-33,29,2025-09-13,90
+CO-6238,Zenith Labs,Professional,202.52,41410,416,Latin America,Government,12,2024-11-10,,False,-57,33,2024-12-16,4
+CO-6239,Nova Analytics,Professional,463.06,22763,1842,Asia Pacific,Media,12,2020-12-15,2022-09-19,True,81,35,2021-04-04,19
+CO-6240,Pulse Solutions,Professional,339.48,23675,397,Asia Pacific,Retail,24,2024-11-29,,False,76,25,2025-02-27,45
+CO-6241,Apex Analytics,Free,0.0,28879,541,Middle East,Technology,6,2024-07-08,,False,-99,22,2025-04-24,244
+CO-6242,Acme AI,Starter,49.01,32724,602,Asia Pacific,Healthcare,24,2024-05-08,,False,1,40,2025-10-25,137
+CO-6243,Vertex Tech,Starter,62.01,24772,1192,Latin America,Healthcare,1,2022-09-26,2023-07-14,True,53,38,2023-07-02,453
+CO-6244,Apex Solutions,Starter,66.59,44490,1740,Europe,Consulting,24,2021-03-27,,False,-78,42,2021-04-06,359
+CO-6245,Wave Digital,Professional,179.48,37749,385,Europe,Government,1,2024-12-11,2026-01-05,True,86,4,2025-10-25,463
+CO-6246,Forge Analytics,Starter,83.28,10312,616,Europe,Media,12,2024-04-24,,False,-8,45,2025-02-14,378
+CO-6247,Pulse Inc,Enterprise,4853.98,8955,996,Europe,Media,1,2023-04-10,,False,66,43,2023-11-22,230
+CO-6248,Spark Solutions,Enterprise,2815.66,5122,594,Middle East,Education,6,2024-05-16,,False,11,50,2024-08-14,471
+CO-6249,Apex Inc,Professional,222.6,42589,1788,Latin America,Manufacturing,3,2021-02-07,,False,-66,7,2023-08-31,274
+CO-6250,Wave Solutions,Starter,69.2,29868,644,North America,Finance,12,2024-03-27,2025-05-19,True,-38,31,2025-03-03,416
+CO-6251,Apex Tech,Starter,34.51,5984,953,Europe,Consulting,1,2023-05-23,,False,23,38,2024-11-07,396
+CO-6252,Nimbus Solutions,Professional,318.49,15857,2100,Middle East,Technology,12,2020-04-01,,False,76,31,2025-12-02,361
+CO-6253,Apex Labs,Enterprise,2457.04,10936,1284,North America,Consulting,24,2022-06-26,2022-09-06,True,14,43,2024-10-17,336
+CO-6254,Forge Corp,Free,0.0,46918,2058,Asia Pacific,Technology,6,2020-05-13,2020-07-28,True,-78,48,2021-02-03,364
+CO-6255,Pulse AI,Starter,71.38,44345,285,Europe,Healthcare,6,2025-03-21,2027-03-27,True,-79,23,2025-12-20,181
+CO-6256,Wave AI,Professional,473.24,44273,1955,Latin America,Education,12,2020-08-24,,False,-98,42,2021-10-03,183
+CO-6257,Vertex Inc,Enterprise,3063.72,22747,330,Latin America,Education,1,2025-02-04,,False,12,22,2025-10-24,475
+CO-6258,Zenith Inc,Free,0.0,21022,1440,North America,Education,3,2022-01-21,,False,-67,0,2023-08-04,72
+CO-6259,Spark Inc,Starter,84.88,3751,1831,Latin America,Manufacturing,12,2020-12-26,,False,-75,26,2024-03-12,88
+CO-6260,Vertex Solutions,Professional,379.56,48115,1205,Latin America,Technology,1,2022-09-13,2023-04-01,True,-53,33,2022-12-14,453
+CO-6261,Apex Cloud,Starter,52.58,33371,1163,Asia Pacific,Healthcare,12,2022-10-25,2023-08-05,True,-86,7,2023-10-04,296
+CO-6262,Apex Cloud,Enterprise,1608.56,48467,1704,Latin America,Media,12,2021-05-02,2022-09-30,True,-3,17,2021-11-04,429
+CO-6263,Acme Digital,Free,0.0,39390,1576,Latin America,Non-profit,1,2021-09-07,2022-05-04,True,-71,37,2021-11-10,381
+CO-6264,Pulse Analytics,Professional,203.76,2713,1659,Middle East,Government,3,2021-06-16,,False,91,24,2024-04-29,34
+CO-6265,Apex AI,Starter,73.17,12643,454,Middle East,Non-profit,3,2024-10-03,2026-11-11,True,-50,23,2025-04-27,31
+CO-6266,Nova Solutions,Starter,78.96,28053,1739,Europe,Consulting,24,2021-03-28,,False,-15,30,2023-09-26,426
+CO-6267,Pulse Digital,Enterprise,2464.39,7703,1354,Middle East,Consulting,3,2022-04-17,2023-07-24,True,-44,19,2022-09-05,34
+CO-6268,Acme Digital,Professional,126.41,10770,1002,Middle East,Consulting,3,2023-04-04,,False,35,42,2024-05-26,160
+CO-6269,Wave Analytics,Enterprise,1999.81,39551,1125,Latin America,Healthcare,24,2022-12-02,,False,79,7,2025-04-06,17
+CO-6270,Spark Solutions,Starter,44.46,33403,1018,Asia Pacific,Healthcare,24,2023-03-19,2023-04-30,True,19,5,2024-08-10,13
+CO-6271,Nimbus Digital,Professional,161.84,21839,864,North America,Consulting,24,2023-08-20,,False,-72,30,2025-10-19,119
+CO-6272,Zenith Inc,Enterprise,1587.34,27276,1339,Europe,Government,24,2022-05-02,,False,41,34,2023-10-21,230
+CO-6273,Wave Labs,Professional,367.31,33000,2118,Europe,Education,24,2020-03-14,,False,60,2,2021-03-12,198
+CO-6274,Apex AI,Professional,383.26,15917,1769,North America,Healthcare,24,2021-02-26,2022-05-12,True,67,39,2022-05-30,219
+CO-6275,Forge Digital,Starter,41.61,30440,442,Asia Pacific,Media,24,2024-10-15,,False,31,23,2025-11-01,18
+CO-6276,Wave Corp,Professional,452.16,18113,1827,Middle East,Healthcare,6,2020-12-30,,False,-66,45,2021-05-16,62
+CO-6277,Forge Digital,Starter,65.35,23386,2088,North America,Consulting,6,2020-04-13,2021-04-21,True,-55,8,2021-01-27,42
+CO-6278,Wave AI,Starter,88.65,17586,1500,Asia Pacific,Manufacturing,1,2021-11-22,,False,74,3,2024-09-04,318
+CO-6279,Wave Corp,Professional,139.16,36194,595,North America,Finance,6,2024-05-15,,False,97,17,2024-07-19,466
+CO-6280,Spark Labs,Free,0.0,43761,241,Middle East,Technology,6,2025-05-04,,False,-18,19,2025-09-04,313
+CO-6281,Pulse Tech,Starter,85.68,43180,1542,Europe,Government,1,2021-10-11,,False,-9,35,2024-08-18,286
+CO-6282,Apex Systems,Enterprise,1680.78,27229,1694,Asia Pacific,Manufacturing,24,2021-05-12,2021-12-26,True,-26,41,2023-05-27,263
+CO-6283,Zenith Labs,Professional,293.76,15873,1512,Europe,Media,1,2021-11-10,,False,-25,38,2023-04-22,428
+CO-6284,Vertex Cloud,Starter,90.52,3809,617,Asia Pacific,Media,1,2024-04-23,,False,77,40,2024-09-21,497
+CO-6285,Pulse Corp,Professional,139.67,29606,1470,Europe,Non-profit,3,2021-12-22,2022-06-17,True,-100,9,2024-09-13,361
+CO-6286,Nimbus Analytics,Enterprise,4311.64,23251,2137,Asia Pacific,Non-profit,1,2020-02-24,,False,-41,39,2024-10-12,499
+CO-6287,Forge Cloud,Enterprise,1980.16,42153,1153,North America,Technology,1,2022-11-04,,False,-99,11,2025-04-22,105
+CO-6288,Wave Digital,Professional,392.62,22667,2011,Europe,Manufacturing,6,2020-06-29,,False,61,28,2021-04-26,186
+CO-6289,Pulse Cloud,Starter,91.59,35614,672,Europe,Retail,12,2024-02-28,2024-04-14,True,53,0,2024-10-17,261
+CO-6290,Pulse Labs,Enterprise,1705.07,27175,2166,Latin America,Manufacturing,24,2020-01-26,,False,73,18,2022-09-13,164
+CO-6291,Pulse Tech,Professional,377.07,19974,431,North America,Manufacturing,24,2024-10-26,,False,5,29,2025-06-03,337
+CO-6292,Nova Corp,Professional,241.37,4993,1985,North America,Non-profit,1,2020-07-25,,False,-56,49,2024-02-12,307
+CO-6293,Forge Digital,Professional,298.9,22494,1411,Asia Pacific,Education,24,2022-02-19,,False,-76,8,2024-02-26,357
+CO-6294,Apex Digital,Starter,46.12,45189,1860,North America,Non-profit,12,2020-11-27,2022-12-24,True,15,42,2024-08-19,177
+CO-6295,Spark Digital,Starter,75.57,14321,1934,Asia Pacific,Government,3,2020-09-14,,False,-77,21,2024-01-16,403
+CO-6296,Pulse Digital,Free,0.0,3129,1965,North America,Consulting,12,2020-08-14,,False,85,13,2021-01-07,167
+CO-6297,Forge Cloud,Starter,31.58,43230,1394,Middle East,Government,1,2022-03-08,2022-10-26,True,-86,2,2023-07-19,493
+CO-6298,Vertex Inc,Professional,335.53,36576,2081,Asia Pacific,Technology,6,2020-04-20,2020-12-22,True,-5,8,2021-08-08,410
+CO-6299,Nimbus Cloud,Free,0.0,41307,825,Asia Pacific,Healthcare,24,2023-09-28,,False,-10,49,2025-04-06,63
+CO-6300,Vertex Systems,Professional,241.48,31924,1168,Europe,Retail,12,2022-10-20,,False,-11,1,2025-10-03,458
+CO-6301,Wave Inc,Enterprise,4276.08,4575,415,North America,Education,3,2024-11-11,,False,31,42,2025-10-20,270
+CO-6302,Zenith Inc,Starter,40.97,42888,680,Latin America,Finance,1,2024-02-20,,False,90,14,2024-12-04,115
+CO-6303,Zenith Labs,Starter,80.61,45268,1127,Middle East,Finance,12,2022-11-30,,False,11,39,2023-04-07,238
+CO-6304,Acme AI,Enterprise,1285.66,1502,482,North America,Consulting,3,2024-09-05,,False,-95,35,2025-04-06,131
+CO-6305,Apex Tech,Starter,61.36,9755,754,Asia Pacific,Retail,12,2023-12-08,2024-11-11,True,-71,42,2024-12-22,364
+CO-6306,Forge Digital,Professional,297.51,14053,500,Middle East,Non-profit,24,2024-08-18,,False,-51,1,2024-11-10,395
+CO-6307,Vertex Tech,Free,0.0,8810,1700,Asia Pacific,Retail,6,2021-05-06,2022-09-22,True,-16,42,2021-05-14,86
+CO-6308,Apex Solutions,Enterprise,3127.67,4204,1228,North America,Non-profit,6,2022-08-21,,False,-83,50,2023-11-17,420
+CO-6309,Apex Digital,Professional,357.0,35887,865,Europe,Education,3,2023-08-19,,False,75,30,2024-03-29,265
+CO-6310,Nova Labs,Enterprise,4168.65,31605,1647,Asia Pacific,Non-profit,3,2021-06-28,,False,97,18,2023-04-09,401
+CO-6311,Zenith Labs,Starter,43.11,40465,531,Asia Pacific,Technology,3,2024-07-18,,False,32,28,2025-09-12,380
+CO-6312,Pulse Labs,Professional,123.62,3214,1246,Europe,Media,24,2022-08-03,,False,99,33,2023-06-08,311
+CO-6313,Spark Labs,Starter,54.71,20899,421,North America,Manufacturing,12,2024-11-05,,False,9,34,2025-05-14,419
+CO-6314,Acme Systems,Starter,82.76,16518,1586,Middle East,Non-profit,1,2021-08-28,2022-07-29,True,-61,11,2023-11-03,79
+CO-6315,Wave Systems,Starter,70.86,25624,1422,North America,Education,12,2022-02-08,,False,0,48,2023-12-29,370
+CO-6316,Forge Inc,Professional,428.12,35027,1901,Europe,Media,12,2020-10-17,,False,23,23,2025-01-03,108
+CO-6317,Forge Labs,Professional,328.37,44064,2162,Asia Pacific,Education,12,2020-01-30,,False,-31,31,2022-06-23,405
+CO-6318,Apex Corp,Enterprise,1013.07,10094,1988,Asia Pacific,Media,6,2020-07-22,,False,19,40,2025-03-23,131
+CO-6319,Apex Solutions,Free,0.0,7024,2158,Middle East,Education,12,2020-02-03,,False,-25,33,2021-03-22,226
+CO-6320,Acme Systems,Free,0.0,26730,905,North America,Non-profit,6,2023-07-10,2025-02-19,True,-60,9,2024-12-16,116
+CO-6321,Nova Systems,Starter,92.69,3666,856,Middle East,Healthcare,1,2023-08-28,2024-05-10,True,-34,25,2024-05-23,86
+CO-6322,Wave Solutions,Enterprise,2915.37,23035,1134,North America,Consulting,6,2022-11-23,,False,-40,4,2023-01-19,16
+CO-6323,Pulse AI,Starter,79.76,12740,324,Asia Pacific,Government,3,2025-02-10,2026-09-13,True,-39,49,2025-09-04,158
+CO-6324,Acme Tech,Professional,362.54,38118,1371,North America,Technology,24,2022-03-31,,False,-33,31,2024-06-26,283
+CO-6325,Pulse Solutions,Starter,68.76,26412,1958,Europe,Media,1,2020-08-21,2021-10-27,True,51,12,2023-11-24,331
+CO-6326,Nimbus Digital,Starter,36.48,12110,1803,Europe,Government,12,2021-01-23,,False,30,31,2025-08-05,135
+CO-6327,Zenith Corp,Professional,389.16,9182,897,Europe,Education,24,2023-07-18,,False,87,28,2025-09-22,300
+CO-6328,Pulse Inc,Starter,67.84,47260,1595,Europe,Retail,12,2021-08-19,2023-06-30,True,-14,25,2022-12-26,252
+CO-6329,Nimbus Inc,Professional,229.63,1085,312,Asia Pacific,Retail,12,2025-02-22,,False,35,22,2025-02-24,396
+CO-6330,Apex Tech,Professional,245.94,30768,1997,Latin America,Finance,6,2020-07-13,2022-07-01,True,28,14,2023-10-24,23
+CO-6331,Acme Inc,Starter,62.75,13963,468,Asia Pacific,Healthcare,3,2024-09-19,,False,-78,12,2025-02-26,90
+CO-6332,Forge Tech,Professional,339.24,2976,329,Europe,Government,3,2025-02-05,,False,-56,37,2025-06-18,35
+CO-6333,Apex Corp,Professional,256.56,25490,2036,Asia Pacific,Retail,6,2020-06-04,,False,0,38,2022-05-02,457
+CO-6334,Nova Labs,Starter,39.3,12278,495,Middle East,Healthcare,3,2024-08-23,,False,-1,32,2025-05-19,118
+CO-6335,Wave Inc,Starter,56.26,16527,1547,Latin America,Manufacturing,6,2021-10-06,2023-04-15,True,65,1,2021-10-09,46
+CO-6336,Nimbus Systems,Enterprise,1307.74,30712,1745,Europe,Healthcare,1,2021-03-22,,False,-38,28,2025-02-13,158
+CO-6337,Apex Cloud,Professional,347.66,9259,1373,Asia Pacific,Education,24,2022-03-29,,False,45,23,2023-11-11,297
+CO-6338,Vertex Analytics,Starter,83.78,44391,1278,Latin America,Healthcare,6,2022-07-02,,False,-87,13,2024-11-21,407
+CO-6339,Nova Digital,Enterprise,3466.54,37974,1426,Latin America,Finance,6,2022-02-04,,False,92,23,2022-09-02,468
+CO-6340,Apex Cloud,Starter,73.79,23451,652,North America,Non-profit,24,2024-03-19,2026-03-19,True,-65,45,2025-10-13,55
+CO-6341,Wave Solutions,Professional,413.55,3469,2155,Asia Pacific,Education,6,2020-02-06,,False,24,16,2021-03-19,216
+CO-6342,Pulse Inc,Free,0.0,44120,1061,North America,Technology,3,2023-02-04,2024-12-05,True,10,38,2023-02-19,87
+CO-6343,Forge Tech,Professional,387.81,1693,934,Europe,Consulting,24,2023-06-11,,False,96,9,2025-02-16,8
+CO-6344,Pulse AI,Professional,103.6,44849,1116,Europe,Finance,1,2022-12-11,,False,-24,29,2024-04-10,333
+CO-6345,Nova Analytics,Free,0.0,48536,690,Latin America,Retail,12,2024-02-10,2024-10-31,True,-23,30,2025-10-17,224
+CO-6346,Vertex Cloud,Professional,329.87,16997,1267,Europe,Manufacturing,12,2022-07-13,2024-09-18,True,-84,10,2024-10-08,12
+CO-6347,Nimbus AI,Starter,63.72,1847,1253,Europe,Retail,24,2022-07-27,,False,-24,16,2025-11-14,174
+CO-6348,Forge Analytics,Starter,40.19,38285,1762,Latin America,Finance,24,2021-03-05,,False,-68,4,2024-12-02,338
+CO-6349,Pulse Tech,Professional,139.17,34997,281,Europe,Media,3,2025-03-25,,False,42,7,2025-11-19,373
+CO-6350,Zenith Analytics,Starter,39.87,279,547,Asia Pacific,Consulting,12,2024-07-02,,False,23,25,2024-12-13,105
+CO-6351,Forge Cloud,Professional,148.99,48833,1363,Latin America,Manufacturing,24,2022-04-08,,False,90,45,2025-03-08,144
+CO-6352,Wave Solutions,Starter,56.73,16813,1918,North America,Consulting,24,2020-09-30,,False,-78,6,2023-04-25,292
+CO-6353,Nova Analytics,Enterprise,4569.58,14610,1086,Latin America,Healthcare,12,2023-01-10,,False,-97,36,2023-09-03,245
+CO-6354,Acme Inc,Professional,391.66,568,1434,Latin America,Non-profit,3,2022-01-27,2023-01-08,True,6,42,2025-05-21,35
+CO-6355,Zenith AI,Enterprise,1922.75,32827,1529,Europe,Healthcare,6,2021-10-24,,False,-73,9,2024-04-30,245
+CO-6356,Pulse Digital,Starter,39.55,35055,742,Europe,Technology,6,2023-12-20,,False,91,2,2024-04-22,443
+CO-6357,Vertex Systems,Professional,439.1,26312,1643,Latin America,Retail,24,2021-07-02,,False,-21,41,2025-06-05,44
+CO-6358,Spark Cloud,Enterprise,3858.73,8589,1205,Latin America,Finance,12,2022-09-13,,False,-77,3,2023-12-21,431
+CO-6359,Forge Analytics,Professional,293.98,32366,566,North America,Finance,6,2024-06-13,,False,33,0,2025-10-07,46
+CO-6360,Spark Corp,Free,0.0,25383,1976,Latin America,Government,12,2020-08-03,,False,30,17,2025-11-18,386
+CO-6361,Apex Solutions,Enterprise,3955.46,38036,1705,Asia Pacific,Government,12,2021-05-01,,False,14,10,2021-11-30,51
+CO-6362,Spark Corp,Free,0.0,858,1314,Middle East,Non-profit,12,2022-05-27,2024-05-24,True,-76,9,2024-11-02,343
+CO-6363,Nimbus Labs,Enterprise,2751.08,16980,719,North America,Manufacturing,6,2024-01-12,,False,-51,7,2025-10-01,181
+CO-6364,Spark Inc,Enterprise,2246.33,46394,952,Middle East,Healthcare,12,2023-05-24,,False,26,13,2024-07-19,58
+CO-6365,Zenith Labs,Professional,274.29,29186,2097,Asia Pacific,Retail,3,2020-04-04,,False,58,9,2021-10-15,381
+CO-6366,Acme Digital,Starter,33.9,13505,765,Latin America,Education,6,2023-11-27,,False,66,4,2024-11-21,67
+CO-6367,Apex Corp,Professional,227.81,16476,1773,Asia Pacific,Non-profit,24,2021-02-22,,False,-70,8,2022-10-26,150
+CO-6368,Nimbus Cloud,Professional,240.91,43898,2122,Europe,Media,6,2020-03-10,,False,-35,38,2020-04-19,240
+CO-6369,Nova Tech,Starter,34.69,16790,2191,Latin America,Finance,1,2020-01-01,,False,-57,0,2024-09-27,248
+CO-6370,Vertex AI,Professional,397.22,37274,1495,Middle East,Government,3,2021-11-27,,False,-55,50,2022-06-19,443
+CO-6371,Pulse Cloud,Enterprise,4372.71,9904,619,North America,Technology,24,2024-04-21,,False,-91,16,2025-06-02,430
+CO-6372,Spark Cloud,Enterprise,3208.64,28154,563,Latin America,Technology,6,2024-06-16,2026-04-21,True,-61,24,2025-09-01,141
+CO-6373,Nova Solutions,Enterprise,2646.6,25568,2087,Latin America,Education,1,2020-04-14,,False,-90,10,2025-12-27,418
+CO-6374,Forge Corp,Professional,139.95,18463,692,Europe,Retail,12,2024-02-08,,False,-28,45,2025-09-03,190
+CO-6375,Forge AI,Starter,39.84,10540,1463,Latin America,Manufacturing,1,2021-12-29,,False,4,14,2023-06-10,20
+CO-6376,Acme Tech,Starter,35.53,42626,1365,Europe,Non-profit,6,2022-04-06,,False,49,19,2024-11-16,175
+CO-6377,Nova Digital,Starter,54.33,47605,1913,North America,Technology,3,2020-10-05,,False,-4,38,2023-01-17,51
+CO-6378,Forge Corp,Enterprise,2324.25,29150,813,Asia Pacific,Technology,24,2023-10-10,2025-05-23,True,10,22,2025-11-28,348
+CO-6379,Nova Digital,Enterprise,2355.81,38066,985,Europe,Retail,3,2023-04-21,,False,90,39,2025-02-18,494
+CO-6380,Acme Digital,Professional,397.27,7323,687,North America,Media,24,2024-02-13,2024-07-30,True,24,16,2025-10-09,125
+CO-6381,Pulse Inc,Professional,452.61,13451,1009,North America,Manufacturing,24,2023-03-28,,False,7,34,2024-08-12,489
+CO-6382,Forge Analytics,Starter,50.7,5620,421,Europe,Healthcare,6,2024-11-05,,False,-78,23,2024-12-12,60
+CO-6383,Forge Labs,Professional,327.19,34496,1173,Middle East,Healthcare,1,2022-10-15,,False,79,2,2023-07-24,453
+CO-6384,Vertex Tech,Enterprise,1617.99,11236,1722,North America,Healthcare,3,2021-04-14,,False,66,30,2025-05-18,246
+CO-6385,Wave Labs,Enterprise,3932.44,22568,1891,Latin America,Manufacturing,24,2020-10-27,2021-08-04,True,-30,22,2024-08-29,379
+CO-6386,Vertex Analytics,Free,0.0,3453,1634,Latin America,Technology,12,2021-07-11,,False,20,45,2023-08-23,328
+CO-6387,Apex Inc,Starter,33.85,28386,2028,Europe,Finance,6,2020-06-12,,False,10,47,2021-07-28,115
+CO-6388,Spark Systems,Professional,424.45,40145,673,Europe,Media,12,2024-02-27,2026-05-03,True,16,22,2025-01-30,456
+CO-6389,Forge Corp,Free,0.0,14519,2021,North America,Technology,12,2020-06-19,,False,5,28,2020-11-29,80
+CO-6390,Wave AI,Free,0.0,11373,463,Europe,Education,3,2024-09-24,,False,76,47,2024-12-05,13
+CO-6391,Nimbus Corp,Enterprise,544.36,18463,924,Latin America,Education,1,2023-06-21,,False,69,11,2023-09-12,248
+CO-6392,Apex AI,Starter,47.5,26512,1375,Middle East,Consulting,24,2022-03-27,,False,28,16,2023-10-12,173
+CO-6393,Forge Labs,Free,0.0,43268,494,Latin America,Media,24,2024-08-24,2025-06-04,True,41,36,2025-07-15,410
+CO-6394,Spark Inc,Starter,94.18,32688,2151,Asia Pacific,Technology,1,2020-02-10,,False,-95,3,2022-02-18,142
+CO-6395,Nimbus Solutions,Starter,29.13,15799,1947,Latin America,Manufacturing,6,2020-09-01,,False,-36,13,2022-10-02,170
+CO-6396,Spark Solutions,Enterprise,3074.5,15426,409,Middle East,Government,12,2024-11-17,,False,-25,9,2025-05-28,72
+CO-6397,Pulse Tech,Professional,445.89,49915,1980,Europe,Consulting,12,2020-07-30,,False,-70,7,2023-05-02,390
+CO-6398,Wave Analytics,Professional,128.22,13364,708,Middle East,Retail,1,2024-01-23,,False,-35,50,2024-11-22,343
+CO-6399,Vertex Inc,Enterprise,1781.89,33452,1754,Europe,Non-profit,24,2021-03-13,,False,-18,12,2025-01-15,389
+CO-6400,Zenith Inc,Starter,58.33,17751,2122,North America,Consulting,1,2020-03-10,2021-07-07,True,-17,40,2025-06-02,289
+CO-6401,Nimbus Digital,Enterprise,4911.42,42164,1354,Latin America,Healthcare,3,2022-04-17,,False,87,37,2023-07-12,406
+CO-6402,Forge AI,Free,0.0,45372,1161,Europe,Media,1,2022-10-27,2023-10-05,True,67,5,2023-05-17,59
+CO-6403,Apex Labs,Enterprise,2433.09,1667,866,Latin America,Healthcare,24,2023-08-18,,False,99,2,2024-03-18,49
+CO-6404,Pulse Corp,Professional,411.28,35740,353,Latin America,Media,12,2025-01-12,2026-04-14,True,-24,48,2025-06-17,465
+CO-6405,Wave Digital,Enterprise,2813.97,4498,1646,Latin America,Technology,6,2021-06-29,,False,73,33,2021-11-29,299
+CO-6406,Wave Solutions,Starter,56.05,25172,650,Europe,Retail,1,2024-03-21,,False,-5,3,2025-08-01,97
+CO-6407,Forge Systems,Free,0.0,819,1963,Europe,Manufacturing,3,2020-08-16,2022-10-20,True,-55,22,2020-11-10,275
+CO-6408,Apex Cloud,Free,0.0,30771,479,Latin America,Media,3,2024-09-08,2026-09-06,True,-39,5,2025-01-01,31
+CO-6409,Nimbus Solutions,Professional,398.63,12845,1940,Middle East,Non-profit,1,2020-09-08,,False,47,0,2022-11-25,69
+CO-6410,Pulse Analytics,Enterprise,1799.93,3309,460,Latin America,Finance,1,2024-09-27,,False,18,15,2025-07-04,337
+CO-6411,Pulse Labs,Enterprise,3775.93,24303,781,North America,Government,12,2023-11-11,2024-01-18,True,44,11,2025-01-27,151
+CO-6412,Pulse Digital,Enterprise,4363.48,48916,1994,Europe,Non-profit,6,2020-07-16,2020-10-05,True,38,27,2025-04-12,327
+CO-6413,Apex Systems,Professional,126.07,37831,1663,North America,Education,6,2021-06-12,,False,-53,20,2024-03-15,434
+CO-6414,Apex Cloud,Starter,33.33,44454,1683,Asia Pacific,Healthcare,3,2021-05-23,,False,-10,33,2024-08-02,60
+CO-6415,Zenith Solutions,Professional,311.64,7679,907,Latin America,Media,6,2023-07-08,,False,27,7,2023-08-20,325
+CO-6416,Pulse Tech,Professional,285.83,3398,584,Asia Pacific,Consulting,1,2024-05-26,,False,-26,47,2025-03-21,408
+CO-6417,Pulse Systems,Enterprise,3948.93,42590,1140,Asia Pacific,Manufacturing,3,2022-11-17,,False,-67,43,2024-01-07,119
+CO-6418,Wave AI,Starter,59.68,18633,1926,Europe,Finance,3,2020-09-22,,False,-68,3,2025-08-31,210
+CO-6419,Pulse Digital,Professional,259.85,34429,1317,Asia Pacific,Technology,24,2022-05-24,,False,-95,12,2022-09-16,344
+CO-6420,Forge Corp,Free,0.0,10572,1363,Middle East,Education,1,2022-04-08,,False,37,22,2023-01-18,422
+CO-6421,Spark Inc,Starter,82.07,26836,1941,Middle East,Consulting,3,2020-09-07,2022-04-05,True,21,25,2023-03-14,352
+CO-6422,Zenith Labs,Enterprise,1205.0,33850,1637,Middle East,Retail,12,2021-07-08,,False,48,20,2023-03-01,197
+CO-6423,Vertex Analytics,Starter,62.19,5545,1963,Middle East,Consulting,6,2020-08-16,,False,8,23,2022-04-23,317
+CO-6424,Forge Inc,Starter,77.72,34351,1434,Asia Pacific,Education,3,2022-01-27,2024-02-28,True,32,39,2023-04-19,474
+CO-6425,Vertex Analytics,Professional,190.27,17594,1749,North America,Media,12,2021-03-18,,False,9,18,2024-03-16,183
+CO-6426,Zenith Labs,Enterprise,4018.93,39859,1292,Latin America,Government,12,2022-06-18,,False,18,29,2023-12-17,403
+CO-6427,Pulse Systems,Starter,37.66,31050,687,Europe,Education,6,2024-02-13,,False,51,7,2024-08-07,41
+CO-6428,Nova AI,Professional,163.12,7158,1849,Europe,Media,6,2020-12-08,,False,59,19,2021-01-13,214
+CO-6429,Zenith Corp,Enterprise,2569.57,44235,219,Asia Pacific,Education,1,2025-05-26,,False,45,41,2025-07-18,429
+CO-6430,Acme AI,Enterprise,2708.67,17357,256,North America,Government,1,2025-04-19,,False,9,46,2025-10-10,482
+CO-6431,Forge Inc,Professional,407.95,44787,407,North America,Media,24,2024-11-19,2025-11-02,True,-88,30,2025-09-26,428
+CO-6432,Pulse Cloud,Free,0.0,21305,1644,Middle East,Non-profit,24,2021-07-01,,False,-25,28,2025-04-22,413
+CO-6433,Nimbus Solutions,Professional,228.89,44353,734,Asia Pacific,Non-profit,12,2023-12-28,,False,-67,33,2024-07-20,180
+CO-6434,Zenith Corp,Professional,166.72,5303,1692,Latin America,Education,6,2021-05-14,2021-09-06,True,11,30,2024-08-14,370
+CO-6435,Forge Cloud,Enterprise,2271.27,25447,1138,Asia Pacific,Education,3,2022-11-19,2023-05-12,True,-71,9,2024-04-15,455
+CO-6436,Wave Digital,Free,0.0,44395,1697,Middle East,Finance,6,2021-05-09,2022-12-06,True,70,19,2021-07-02,372
+CO-6437,Pulse Analytics,Enterprise,1214.17,25605,1562,Europe,Consulting,24,2021-09-21,,False,49,30,2025-04-28,265
+CO-6438,Nova Analytics,Professional,144.15,47743,1421,Europe,Education,6,2022-02-09,,False,99,33,2025-08-27,371
+CO-6439,Nimbus AI,Professional,439.29,48466,2181,Latin America,Government,24,2020-01-11,,False,-29,1,2025-11-28,352
+CO-6440,Acme Analytics,Enterprise,3503.65,5574,1165,North America,Consulting,24,2022-10-23,,False,-55,37,2024-09-24,168
+CO-6441,Nimbus Cloud,Professional,305.93,38273,512,Europe,Finance,12,2024-08-06,,False,79,2,2025-12-25,300
+CO-6442,Apex Corp,Professional,394.62,47316,1065,North America,Manufacturing,6,2023-01-31,,False,-100,30,2025-06-21,188
+CO-6443,Nova Digital,Professional,270.07,42777,1812,North America,Healthcare,3,2021-01-14,,False,39,27,2024-03-18,301
+CO-6444,Nimbus Analytics,Starter,41.33,9150,2129,Asia Pacific,Government,12,2020-03-03,,False,41,37,2021-10-22,277
+CO-6445,Pulse Digital,Starter,76.7,30446,526,Latin America,Technology,12,2024-07-23,,False,-28,2,2025-09-22,401
+CO-6446,Apex Cloud,Professional,310.84,35104,1179,Asia Pacific,Manufacturing,3,2022-10-09,,False,-22,20,2024-12-03,442
+CO-6447,Acme AI,Starter,50.26,4412,230,Latin America,Government,1,2025-05-15,,False,-20,37,2025-11-26,35
+CO-6448,Wave Solutions,Professional,425.08,45981,1334,Europe,Technology,1,2022-05-07,2023-12-17,True,37,26,2024-02-29,51
+CO-6449,Vertex Inc,Enterprise,1836.15,25061,1538,Europe,Media,6,2021-10-15,2022-12-13,True,58,24,2024-06-05,58
+CO-6450,Forge Inc,Professional,225.16,4136,1824,Asia Pacific,Finance,3,2021-01-02,,False,-50,22,2021-10-30,153
+CO-6451,Spark Labs,Professional,355.8,38630,633,North America,Education,6,2024-04-07,2026-01-26,True,19,33,2025-05-24,183
+CO-6452,Vertex Analytics,Starter,29.91,18276,1543,North America,Healthcare,3,2021-10-10,,False,-42,8,2025-04-01,479
+CO-6453,Forge Tech,Professional,207.13,27993,1611,North America,Non-profit,6,2021-08-03,2023-04-19,True,35,11,2022-09-19,458
+CO-6454,Nova Digital,Free,0.0,22439,1092,Asia Pacific,Manufacturing,3,2023-01-04,,False,-21,10,2025-01-17,218
+CO-6455,Forge Labs,Starter,54.95,12707,339,Asia Pacific,Media,3,2025-01-26,,False,67,34,2025-01-26,358
+CO-6456,Pulse AI,Starter,48.12,48193,1419,Europe,Healthcare,1,2022-02-11,,False,69,13,2023-04-11,480
+CO-6457,Wave Tech,Starter,80.68,32542,1943,Latin America,Retail,6,2020-09-05,,False,50,6,2024-06-30,4
+CO-6458,Nova Analytics,Enterprise,4435.92,11813,611,Middle East,Consulting,12,2024-04-29,2024-12-06,True,-66,27,2024-07-31,453
+CO-6459,Spark Labs,Professional,334.76,5401,1605,Asia Pacific,Manufacturing,24,2021-08-09,,False,-38,6,2023-12-20,23
+CO-6460,Apex Solutions,Free,0.0,1623,691,Latin America,Manufacturing,1,2024-02-09,,False,39,5,2025-10-05,128
+CO-6461,Pulse Digital,Starter,41.61,17999,685,Middle East,Finance,6,2024-02-15,,False,-21,47,2025-11-17,484
+CO-6462,Forge Digital,Starter,73.63,25026,2013,Europe,Media,3,2020-06-27,,False,21,40,2021-12-11,166
+CO-6463,Vertex Analytics,Professional,436.41,15936,1358,Latin America,Finance,1,2022-04-13,,False,-79,31,2023-04-17,277
+CO-6464,Pulse Systems,Enterprise,4712.21,17933,1587,Latin America,Government,3,2021-08-27,,False,41,40,2022-11-15,239
+CO-6465,Pulse Labs,Enterprise,3703.23,9631,1025,Europe,Non-profit,12,2023-03-12,,False,-43,24,2025-01-11,101
+CO-6466,Acme Tech,Enterprise,4270.89,851,1003,North America,Retail,12,2023-04-03,2025-03-24,True,11,34,2023-11-20,279
+CO-6467,Forge Cloud,Starter,94.78,23367,1880,Europe,Education,3,2020-11-07,,False,-49,25,2025-10-15,419
+CO-6468,Spark AI,Starter,49.73,16376,616,Europe,Retail,6,2024-04-24,2026-04-19,True,-95,11,2024-07-12,495
+CO-6469,Nova Solutions,Free,0.0,22555,1912,Middle East,Consulting,1,2020-10-06,,False,-56,29,2024-07-05,412
+CO-6470,Spark Digital,Professional,364.38,1966,1264,Middle East,Media,24,2022-07-16,,False,67,19,2025-04-29,91
+CO-6471,Acme Tech,Free,0.0,31557,2067,North America,Technology,6,2020-05-04,2021-11-09,True,-41,0,2021-12-02,106
+CO-6472,Wave Corp,Enterprise,912.39,43541,1505,Europe,Healthcare,3,2021-11-17,,False,-78,26,2025-05-10,352
+CO-6473,Wave Tech,Professional,186.03,12247,1143,North America,Non-profit,24,2022-11-14,,False,33,17,2024-11-15,187
+CO-6474,Acme Inc,Professional,443.5,79,1181,North America,Media,24,2022-10-07,2024-01-31,True,1,44,2022-10-16,391
+CO-6475,Nova Tech,Starter,44.4,48313,1516,Middle East,Technology,12,2021-11-06,,False,-34,4,2022-08-10,124
+CO-6476,Vertex Corp,Professional,249.67,21656,866,Asia Pacific,Technology,6,2023-08-18,,False,-51,5,2025-11-23,313
+CO-6477,Wave AI,Starter,72.15,43095,1245,Asia Pacific,Consulting,3,2022-08-04,,False,3,32,2024-02-12,378
+CO-6478,Apex AI,Starter,98.24,658,262,Europe,Healthcare,3,2025-04-13,2025-11-24,True,-95,42,2025-06-04,299
+CO-6479,Nova Labs,Starter,59.16,15712,317,North America,Government,6,2025-02-17,,False,-35,15,2025-09-02,285
+CO-6480,Nimbus Tech,Professional,270.7,7537,1206,Latin America,Retail,24,2022-09-12,,False,96,23,2022-12-06,302
+CO-6481,Nova AI,Starter,91.63,34614,913,Asia Pacific,Non-profit,3,2023-07-02,,False,-47,10,2024-07-31,256
+CO-6482,Vertex Cloud,Professional,466.26,28668,1184,Latin America,Manufacturing,3,2022-10-04,,False,-44,23,2023-01-01,200
+CO-6483,Apex Analytics,Professional,158.4,33403,1595,Middle East,Consulting,3,2021-08-19,2023-03-18,True,-34,3,2022-10-16,470
+CO-6484,Vertex Inc,Professional,148.99,7140,667,Asia Pacific,Manufacturing,3,2024-03-04,,False,-97,39,2024-03-19,297
+CO-6485,Wave Analytics,Professional,205.18,46024,1999,North America,Manufacturing,12,2020-07-11,,False,26,24,2022-04-24,309
+CO-6486,Apex Systems,Professional,473.99,1910,2124,Latin America,Retail,6,2020-03-08,,False,91,49,2020-09-22,317
+CO-6487,Apex Cloud,Free,0.0,27830,2083,Latin America,Media,6,2020-04-18,,False,93,37,2022-01-19,80
+CO-6488,Zenith AI,Professional,428.75,49622,304,Latin America,Retail,12,2025-03-02,,False,7,5,2025-03-25,495
+CO-6489,Wave Solutions,Professional,302.27,22714,424,Europe,Consulting,24,2024-11-02,,False,-95,19,2025-03-16,446
+CO-6490,Pulse AI,Professional,184.44,8912,738,North America,Media,1,2023-12-24,,False,15,20,2025-07-15,463
+CO-6491,Nova Solutions,Professional,328.17,47361,1240,Europe,Media,12,2022-08-09,,False,-89,29,2024-12-15,77
+CO-6492,Nimbus Digital,Starter,42.26,22511,469,Europe,Government,12,2024-09-18,2026-08-27,True,-86,30,2025-01-27,242
+CO-6493,Wave AI,Starter,84.21,31190,337,Asia Pacific,Finance,12,2025-01-28,2026-11-27,True,21,39,2025-04-28,228
+CO-6494,Nova Solutions,Professional,416.51,28398,1546,Asia Pacific,Education,24,2021-10-07,,False,-82,47,2024-05-25,365
+CO-6495,Pulse Labs,Starter,32.76,14415,533,Latin America,Manufacturing,6,2024-07-16,,False,34,28,2024-12-01,201
+CO-6496,Pulse Labs,Professional,282.63,45841,2164,North America,Consulting,24,2020-01-28,2021-05-29,True,-61,4,2021-12-25,292
+CO-6497,Apex Analytics,Professional,477.97,28420,1298,Asia Pacific,Government,12,2022-06-12,,False,28,46,2022-12-05,265
+CO-6498,Forge Systems,Professional,303.52,43884,1047,Europe,Government,6,2023-02-18,,False,14,47,2024-04-23,203
+CO-6499,Nova Solutions,Professional,143.31,463,1839,Asia Pacific,Consulting,12,2020-12-18,,False,29,4,2024-10-07,162
+CO-6500,Forge Labs,Enterprise,4505.02,11053,499,Asia Pacific,Manufacturing,3,2024-08-19,,False,-35,49,2025-09-08,210
+CO-6501,Forge Tech,Professional,132.21,22179,1309,Asia Pacific,Technology,3,2022-06-01,,False,-14,8,2022-08-07,455
+CO-6502,Zenith Inc,Free,0.0,18688,1246,Middle East,Healthcare,12,2022-08-03,,False,-39,25,2025-02-22,49
+CO-6503,Nimbus AI,Professional,485.97,35807,1413,Asia Pacific,Manufacturing,6,2022-02-17,,False,54,13,2022-07-16,317
+CO-6504,Pulse Digital,Professional,377.3,9027,1604,Asia Pacific,Retail,3,2021-08-10,,False,-13,17,2024-03-01,132
+CO-6505,Nova Labs,Professional,215.29,38297,1642,North America,Finance,24,2021-07-03,,False,24,36,2022-10-18,259
+CO-6506,Nimbus Corp,Starter,58.0,37293,1214,Middle East,Finance,24,2022-09-04,,False,-26,8,2024-01-17,294
+CO-6507,Spark Inc,Professional,419.69,12407,1180,Asia Pacific,Consulting,12,2022-10-08,2023-09-04,True,72,42,2022-12-13,280
+CO-6508,Forge Inc,Starter,71.42,31602,488,Asia Pacific,Manufacturing,12,2024-08-30,,False,-73,32,2025-01-07,135
+CO-6509,Spark Solutions,Enterprise,2194.91,9518,1887,Asia Pacific,Consulting,24,2020-10-31,2021-05-11,True,-39,16,2024-03-25,221
+CO-6510,Spark Corp,Enterprise,3128.76,5736,1397,Europe,Consulting,3,2022-03-05,,False,-89,43,2025-03-18,324
+CO-6511,Acme Inc,Enterprise,3473.84,688,1248,Europe,Government,12,2022-08-01,,False,-52,3,2025-09-03,165
+CO-6512,Acme Corp,Starter,78.13,49837,963,North America,Media,1,2023-05-13,,False,51,43,2024-11-19,382
+CO-6513,Vertex Analytics,Professional,242.12,47331,1943,Middle East,Government,6,2020-09-05,2021-06-06,True,-43,1,2023-05-27,47
+CO-6514,Forge Tech,Enterprise,1625.86,39835,1980,North America,Finance,1,2020-07-30,,False,77,0,2025-03-28,391
+CO-6515,Apex Inc,Professional,393.58,47687,1094,Asia Pacific,Consulting,12,2023-01-02,,False,-93,11,2024-04-03,374
+CO-6516,Apex Digital,Professional,238.03,30164,1757,Latin America,Manufacturing,1,2021-03-10,,False,-74,50,2025-06-03,442
+CO-6517,Pulse Cloud,Starter,69.51,8377,1762,Asia Pacific,Non-profit,12,2021-03-05,,False,-17,3,2025-05-02,344
+CO-6518,Zenith Inc,Professional,268.98,11137,1333,Asia Pacific,Finance,6,2022-05-08,2023-02-23,True,62,1,2022-05-10,322
+CO-6519,Pulse Cloud,Professional,165.06,6337,1660,Asia Pacific,Retail,6,2021-06-15,2023-02-13,True,-42,14,2024-10-25,355
+CO-6520,Wave Systems,Professional,472.51,47247,1589,Middle East,Education,1,2021-08-25,,False,22,41,2022-04-10,428
+CO-6521,Acme Cloud,Enterprise,1698.99,11778,2013,Middle East,Government,12,2020-06-27,,False,-38,34,2025-07-01,89
+CO-6522,Wave Solutions,Starter,60.12,40350,437,North America,Technology,12,2024-10-20,,False,-72,39,2025-01-09,237
+CO-6523,Pulse AI,Professional,490.15,40987,1588,Asia Pacific,Technology,12,2021-08-26,,False,13,12,2025-05-20,158
+CO-6524,Spark Analytics,Professional,154.54,48239,1536,Europe,Government,1,2021-10-17,2023-01-21,True,-2,33,2022-09-06,186
+CO-6525,Apex Digital,Starter,52.38,16913,899,Asia Pacific,Manufacturing,3,2023-07-16,,False,15,12,2024-05-26,47
+CO-6526,Wave Inc,Starter,73.13,39957,1904,Asia Pacific,Healthcare,3,2020-10-14,,False,57,34,2025-06-17,383
+CO-6527,Pulse Digital,Professional,398.81,15978,446,Asia Pacific,Education,12,2024-10-11,,False,-29,32,2025-10-21,276
+CO-6528,Pulse Digital,Starter,61.12,45012,2128,Latin America,Government,12,2020-03-04,,False,-68,45,2021-09-17,92
+CO-6529,Pulse Digital,Enterprise,2677.6,33262,511,North America,Healthcare,1,2024-08-07,,False,93,11,2024-11-05,415
+CO-6530,Spark AI,Professional,125.55,6678,1212,Asia Pacific,Media,3,2022-09-06,2023-10-14,True,29,6,2025-03-23,339
+CO-6531,Nova Solutions,Professional,451.11,47082,558,North America,Consulting,3,2024-06-21,2025-10-23,True,-99,34,2025-08-01,500
+CO-6532,Nova Analytics,Professional,107.62,19343,2101,Europe,Consulting,1,2020-03-31,2022-04-14,True,-15,27,2024-10-31,452
+CO-6533,Nimbus Labs,Enterprise,2069.35,31585,2090,North America,Government,24,2020-04-11,,False,86,31,2025-12-30,255
+CO-6534,Apex Corp,Starter,64.14,49392,1537,North America,Government,1,2021-10-16,,False,96,28,2021-11-02,332
+CO-6535,Nimbus Analytics,Professional,460.55,42923,1763,Latin America,Non-profit,3,2021-03-04,,False,14,28,2024-08-08,467
+CO-6536,Apex Cloud,Professional,244.73,33417,1485,Europe,Technology,12,2021-12-07,,False,53,14,2025-11-07,194
+CO-6537,Wave AI,Starter,88.8,48864,1815,Middle East,Education,24,2021-01-11,,False,-15,47,2024-11-02,157
+CO-6538,Forge AI,Starter,96.49,28201,1890,Europe,Manufacturing,12,2020-10-28,,False,-18,22,2022-11-12,275
+CO-6539,Nimbus Systems,Starter,44.06,40914,1455,Latin America,Government,3,2022-01-06,,False,-39,28,2022-02-06,412
+CO-6540,Wave AI,Starter,65.58,4630,1402,Asia Pacific,Manufacturing,12,2022-02-28,,False,54,5,2022-08-19,411
+CO-6541,Nova Cloud,Starter,50.11,1092,1650,Europe,Retail,12,2021-06-25,,False,-51,0,2023-01-16,166
+CO-6542,Acme Corp,Starter,38.46,21819,1887,North America,Manufacturing,12,2020-10-31,2022-06-21,True,68,47,2021-03-23,285
+CO-6543,Nova Digital,Professional,447.61,9623,1355,Middle East,Finance,1,2022-04-16,,False,17,0,2023-05-15,203
+CO-6544,Apex Cloud,Professional,173.76,25148,824,North America,Healthcare,1,2023-09-29,2025-02-09,True,88,38,2025-04-14,334
+CO-6545,Nova Analytics,Starter,44.26,7417,2166,Europe,Finance,1,2020-01-26,,False,-10,38,2023-07-30,96
+CO-6546,Forge Inc,Professional,210.64,27293,1524,Latin America,Finance,24,2021-10-29,,False,52,17,2024-10-17,479
+CO-6547,Forge Labs,Professional,188.31,14080,1714,Middle East,Finance,6,2021-04-22,2022-12-08,True,-96,37,2022-02-03,398
+CO-6548,Forge Inc,Enterprise,1990.42,5893,1957,Latin America,Education,24,2020-08-22,,False,-83,15,2022-01-23,410
+CO-6549,Wave Tech,Professional,216.17,16806,2164,North America,Non-profit,12,2020-01-28,,False,50,47,2024-04-29,285
+CO-6550,Apex AI,Professional,262.54,36783,1305,North America,Non-profit,6,2022-06-05,2023-04-08,True,13,16,2024-06-28,49
+CO-6551,Zenith Cloud,Enterprise,1203.47,42243,1274,Europe,Consulting,1,2022-07-06,,False,-6,36,2025-04-11,17
+CO-6552,Nimbus Digital,Professional,374.48,40918,1198,Asia Pacific,Media,3,2022-09-20,,False,10,28,2023-07-03,242
+CO-6553,Forge Systems,Starter,88.48,17290,1912,Middle East,Non-profit,12,2020-10-06,,False,32,13,2023-01-27,4
+CO-6554,Acme Digital,Enterprise,3397.38,28941,706,Europe,Technology,24,2024-01-25,,False,-88,4,2024-02-11,43
+CO-6555,Nimbus Tech,Professional,455.15,12511,1966,Middle East,Consulting,3,2020-08-13,2021-04-01,True,86,16,2023-03-09,263
+CO-6556,Nova Solutions,Starter,98.25,34503,1814,Latin America,Non-profit,12,2021-01-12,,False,-100,18,2021-08-03,135
+CO-6557,Nimbus AI,Professional,352.2,43644,380,Latin America,Retail,3,2024-12-16,,False,82,12,2025-12-11,273
+CO-6558,Wave Corp,Professional,272.34,2012,598,Europe,Healthcare,6,2024-05-12,,False,33,19,2025-12-23,396
+CO-6559,Pulse Solutions,Professional,235.77,39138,2057,Europe,Non-profit,3,2020-05-14,,False,-72,4,2023-04-15,162
+CO-6560,Apex Corp,Enterprise,3867.22,5956,1621,Asia Pacific,Consulting,24,2021-07-24,,False,-88,44,2025-10-18,424
+CO-6561,Apex Systems,Professional,280.39,29372,1117,Middle East,Consulting,6,2022-12-10,,False,-82,1,2024-08-16,446
+CO-6562,Apex Inc,Professional,296.82,5394,1906,Europe,Technology,12,2020-10-12,,False,67,25,2024-12-26,216
+CO-6563,Wave Inc,Professional,326.25,27489,1053,Latin America,Manufacturing,24,2023-02-12,,False,53,34,2023-10-13,485
+CO-6564,Acme Digital,Professional,370.26,5228,1870,Latin America,Technology,24,2020-11-17,,False,18,28,2025-05-20,199
+CO-6565,Nova AI,Enterprise,2464.15,26065,276,Latin America,Finance,24,2025-03-30,,False,54,33,2025-09-05,465
+CO-6566,Forge Labs,Professional,305.57,11584,1516,Latin America,Consulting,3,2021-11-06,,False,-26,13,2024-12-03,308
+CO-6567,Wave Inc,Enterprise,1522.11,46785,985,North America,Non-profit,3,2023-04-21,,False,71,40,2023-06-11,244
+CO-6568,Pulse Analytics,Professional,227.67,42748,479,Europe,Consulting,12,2024-09-08,,False,30,14,2025-06-30,406
+CO-6569,Spark Solutions,Starter,92.41,14870,718,Europe,Consulting,12,2024-01-13,,False,-74,50,2024-08-27,32
+CO-6570,Pulse Cloud,Enterprise,3056.65,42509,909,Asia Pacific,Retail,3,2023-07-06,,False,93,31,2025-05-15,104
+CO-6571,Forge Inc,Professional,385.32,15118,786,North America,Non-profit,3,2023-11-06,,False,26,26,2025-06-24,432
+CO-6572,Pulse Cloud,Starter,79.71,33286,418,North America,Manufacturing,12,2024-11-08,,False,80,22,2025-07-20,302
+CO-6573,Pulse Digital,Starter,68.67,10572,525,North America,Finance,12,2024-07-24,,False,56,0,2025-06-30,91
+CO-6574,Apex Solutions,Starter,69.2,16271,1422,North America,Media,12,2022-02-08,2023-02-03,True,-94,34,2022-07-28,209
+CO-6575,Nimbus Cloud,Starter,65.62,30050,239,North America,Consulting,24,2025-05-06,2027-04-02,True,-20,34,2025-09-26,276
+CO-6576,Pulse AI,Enterprise,4028.47,24543,332,Asia Pacific,Manufacturing,6,2025-02-02,,False,-91,20,2025-09-06,320
+CO-6577,Nimbus Labs,Enterprise,1961.52,32335,653,Middle East,Education,24,2024-03-18,2025-07-25,True,-1,48,2025-06-03,345
+CO-6578,Nimbus Solutions,Professional,279.17,32205,343,Europe,Non-profit,12,2025-01-22,,False,35,40,2025-08-06,258
+CO-6579,Pulse Systems,Enterprise,1710.21,1369,1588,Latin America,Healthcare,24,2021-08-26,,False,45,16,2025-05-18,4
+CO-6580,Zenith Inc,Starter,89.51,4372,1356,Middle East,Media,1,2022-04-15,,False,-20,4,2024-12-26,118
+CO-6581,Pulse Digital,Enterprise,3959.59,25759,1751,Latin America,Manufacturing,12,2021-03-16,,False,71,10,2025-11-29,183
+CO-6582,Nimbus AI,Starter,39.08,21371,614,Europe,Non-profit,12,2024-04-26,,False,31,30,2025-08-27,142
+CO-6583,Spark Labs,Enterprise,1350.71,15190,510,Asia Pacific,Government,1,2024-08-08,,False,90,15,2024-11-19,247
+CO-6584,Zenith Labs,Professional,340.39,12029,877,Asia Pacific,Media,3,2023-08-07,,False,-11,44,2025-06-21,118
+CO-6585,Pulse Solutions,Free,0.0,11916,716,Asia Pacific,Consulting,24,2024-01-15,,False,95,12,2025-12-11,43
+CO-6586,Forge Solutions,Professional,314.06,23691,2186,Middle East,Healthcare,1,2020-01-06,2020-09-05,True,8,26,2025-10-07,279
+CO-6587,Pulse Labs,Starter,78.05,40162,361,North America,Government,3,2025-01-04,,False,-92,11,2025-03-05,302
+CO-6588,Pulse Tech,Starter,62.95,26953,288,North America,Finance,6,2025-03-18,,False,-8,3,2025-09-14,118
+CO-6589,Acme Analytics,Professional,342.68,47611,594,Middle East,Healthcare,3,2024-05-16,,False,7,47,2024-06-29,143
+CO-6590,Apex Cloud,Starter,86.25,36685,1440,Middle East,Healthcare,6,2022-01-21,,False,86,29,2023-11-17,396
+CO-6591,Apex Digital,Professional,196.77,31199,1951,Europe,Consulting,1,2020-08-28,,False,17,2,2021-12-29,191
+CO-6592,Forge Systems,Enterprise,846.86,47939,838,Middle East,Manufacturing,24,2023-09-15,2025-07-16,True,-98,46,2024-07-17,431
+CO-6593,Wave Cloud,Professional,472.16,44740,1729,Europe,Finance,1,2021-04-07,,False,-54,12,2025-02-20,242
+CO-6594,Pulse Solutions,Professional,271.05,6187,2182,Latin America,Government,3,2020-01-10,2020-08-10,True,-32,44,2020-11-11,273
+CO-6595,Pulse Digital,Professional,360.09,1181,672,Middle East,Non-profit,1,2024-02-28,,False,25,6,2025-01-31,176
+CO-6596,Spark Systems,Starter,33.71,19209,1426,North America,Technology,12,2022-02-04,2023-06-02,True,77,21,2025-09-08,471
+CO-6597,Forge Analytics,Free,0.0,24874,534,North America,Government,6,2024-07-15,2025-10-07,True,-62,28,2025-12-19,237
+CO-6598,Zenith Inc,Enterprise,3331.64,4071,1914,Europe,Media,12,2020-10-04,2022-06-05,True,38,42,2020-12-10,456
+CO-6599,Nova Labs,Free,0.0,18997,1651,Middle East,Healthcare,24,2021-06-24,,False,26,27,2023-08-27,75
+CO-6600,Zenith Labs,Professional,245.83,49931,437,Middle East,Retail,24,2024-10-20,,False,-36,16,2025-10-18,374
+CO-6601,Pulse Systems,Starter,62.05,25378,1333,Europe,Consulting,1,2022-05-08,,False,-80,11,2025-05-01,61
+CO-6602,Nimbus Corp,Starter,88.77,10575,870,North America,Education,12,2023-08-14,,False,68,19,2024-11-26,373
+CO-6603,Pulse Solutions,Enterprise,732.15,46989,1815,Asia Pacific,Non-profit,12,2021-01-11,,False,65,27,2023-06-06,442
+CO-6604,Nova Labs,Enterprise,4526.41,31375,1032,Latin America,Non-profit,3,2023-03-05,,False,1,8,2025-04-15,478
+CO-6605,Acme Systems,Professional,461.61,11683,1570,Asia Pacific,Media,12,2021-09-13,2022-08-24,True,-4,43,2022-01-21,175
+CO-6606,Zenith Corp,Enterprise,2059.93,46241,987,Europe,Manufacturing,6,2023-04-19,2025-01-13,True,-85,17,2025-01-14,481
+CO-6607,Spark Tech,Starter,63.15,361,767,Latin America,Media,1,2023-11-25,,False,-33,39,2024-10-08,234
+CO-6608,Forge Corp,Professional,180.0,41857,1896,Asia Pacific,Manufacturing,3,2020-10-22,,False,-1,15,2023-06-30,355
+CO-6609,Forge Tech,Starter,38.89,22533,1653,Middle East,Technology,6,2021-06-22,,False,-16,9,2022-03-24,219
+CO-6610,Pulse Corp,Professional,135.29,30798,1777,Europe,Manufacturing,6,2021-02-18,,False,-58,42,2022-05-14,313
+CO-6611,Vertex Tech,Free,0.0,42456,1394,Europe,Manufacturing,24,2022-03-08,,False,-63,29,2024-11-07,117
+CO-6612,Nova Labs,Enterprise,4264.35,4608,2096,Asia Pacific,Technology,24,2020-04-05,,False,-75,13,2024-05-19,436
+CO-6613,Nimbus Tech,Professional,416.66,34947,1929,North America,Manufacturing,6,2020-09-19,2021-01-06,True,-2,21,2024-12-16,143
+CO-6614,Forge Systems,Starter,59.07,48886,1473,Asia Pacific,Government,6,2021-12-19,,False,45,24,2024-06-01,141
+CO-6615,Wave Digital,Professional,383.99,16287,2105,Middle East,Government,3,2020-03-27,2021-10-26,True,23,24,2023-12-31,110
+CO-6616,Wave Digital,Professional,297.42,23106,1142,Europe,Government,24,2022-11-15,,False,-26,3,2024-01-05,312
+CO-6617,Pulse Analytics,Professional,476.67,14081,552,Latin America,Finance,12,2024-06-27,,False,-6,18,2024-07-16,102
+CO-6618,Spark Labs,Enterprise,4078.2,32042,1682,Middle East,Consulting,6,2021-05-24,,False,39,34,2022-04-12,128
+CO-6619,Forge Analytics,Starter,93.6,5964,1295,Middle East,Education,12,2022-06-15,,False,50,49,2023-05-25,242
+CO-6620,Nimbus Systems,Enterprise,932.08,16230,608,Latin America,Technology,12,2024-05-02,,False,83,42,2025-05-21,113
+CO-6621,Wave Corp,Enterprise,2161.06,8778,382,North America,Consulting,1,2024-12-14,,False,36,37,2025-02-04,65
+CO-6622,Wave Corp,Starter,39.66,42573,498,North America,Healthcare,12,2024-08-20,,False,-52,50,2025-12-25,355
+CO-6623,Spark Tech,Professional,379.72,14338,383,Middle East,Retail,24,2024-12-13,,False,-74,32,2025-11-27,4
+CO-6624,Nova Digital,Professional,208.79,46745,577,North America,Manufacturing,3,2024-06-02,2026-04-05,True,86,27,2024-07-21,202
+CO-6625,Pulse AI,Starter,60.0,22784,1187,Europe,Finance,24,2022-10-01,,False,50,21,2023-08-27,233
+CO-6626,Spark AI,Starter,83.33,6941,2088,Middle East,Healthcare,3,2020-04-13,2020-07-15,True,-18,18,2022-03-03,380
+CO-6627,Forge Cloud,Professional,157.51,47259,1763,Europe,Technology,1,2021-03-04,,False,94,36,2025-10-08,206
+CO-6628,Pulse Labs,Starter,87.95,39350,935,Asia Pacific,Finance,12,2023-06-10,,False,21,20,2025-09-08,196
+CO-6629,Apex Labs,Starter,62.67,8508,1498,Asia Pacific,Media,3,2021-11-24,,False,-35,23,2024-05-07,158
+CO-6630,Apex Tech,Starter,51.3,39509,444,Middle East,Non-profit,12,2024-10-13,2026-01-26,True,-16,33,2025-07-01,177
+CO-6631,Forge Corp,Professional,198.69,42777,716,North America,Finance,6,2024-01-15,,False,27,29,2024-11-15,317
+CO-6632,Wave Corp,Starter,68.51,1307,997,Middle East,Media,6,2023-04-09,,False,66,3,2024-07-03,89
+CO-6633,Apex Solutions,Professional,467.58,3083,1024,Latin America,Manufacturing,1,2023-03-13,,False,36,20,2025-11-08,479
+CO-6634,Acme Systems,Professional,412.15,44825,476,Middle East,Education,1,2024-09-11,,False,43,5,2025-08-31,136
+CO-6635,Spark Tech,Professional,150.88,46177,1723,Asia Pacific,Retail,24,2021-04-13,,False,-44,40,2024-05-22,144
+CO-6636,Nimbus Corp,Starter,47.04,35098,1998,North America,Media,3,2020-07-12,2021-05-24,True,-1,14,2021-12-31,113
+CO-6637,Spark Digital,Professional,126.01,33950,1915,Asia Pacific,Finance,6,2020-10-03,,False,-49,41,2023-04-28,60
+CO-6638,Wave Tech,Starter,50.39,18528,1997,Middle East,Government,3,2020-07-13,2020-12-11,True,59,9,2023-04-19,417
+CO-6639,Nimbus Inc,Professional,273.85,31379,1112,Asia Pacific,Consulting,24,2022-12-15,,False,31,25,2025-06-03,158
+CO-6640,Pulse AI,Starter,45.97,37723,1907,Europe,Media,12,2020-10-11,,False,-12,26,2025-10-23,343
+CO-6641,Acme Cloud,Enterprise,3212.96,13838,725,Latin America,Consulting,1,2024-01-06,,False,-34,3,2024-04-25,59
+CO-6642,Spark Labs,Enterprise,4855.88,46515,1295,Asia Pacific,Media,12,2022-06-15,,False,66,41,2023-01-13,316
+CO-6643,Apex Analytics,Starter,90.0,13982,1336,Asia Pacific,Healthcare,24,2022-05-05,,False,-84,14,2022-11-06,69
+CO-6644,Pulse Labs,Starter,88.38,41375,1841,Latin America,Finance,6,2020-12-16,,False,-89,40,2025-07-23,206
+CO-6645,Wave Tech,Starter,82.08,30821,1256,Latin America,Retail,1,2022-07-24,,False,-70,28,2024-01-15,404
+CO-6646,Wave Solutions,Enterprise,4515.83,43751,1496,North America,Consulting,24,2021-11-26,2023-10-18,True,43,32,2024-11-01,433
+CO-6647,Wave Corp,Professional,398.44,38770,239,North America,Non-profit,12,2025-05-06,,False,-66,46,2025-10-18,154
+CO-6648,Spark AI,Starter,42.24,25022,863,Latin America,Government,1,2023-08-21,,False,-18,44,2024-02-12,26
+CO-6649,Zenith Corp,Professional,415.47,4814,1872,Middle East,Retail,24,2020-11-15,,False,-47,39,2021-03-29,144
+CO-6650,Vertex Analytics,Professional,174.64,40473,1781,Latin America,Government,1,2021-02-14,,False,-35,9,2025-07-13,477
+CO-6651,Vertex AI,Enterprise,1999.14,30390,328,Latin America,Technology,24,2025-02-06,,False,35,24,2025-12-10,276
+CO-6652,Pulse Cloud,Free,0.0,30593,894,Middle East,Consulting,12,2023-07-21,2023-09-11,True,-31,37,2024-10-20,420
+CO-6653,Nimbus Digital,Free,0.0,36679,224,Middle East,Non-profit,3,2025-05-21,,False,96,33,2025-09-01,216
+CO-6654,Apex Systems,Starter,61.29,8686,982,Middle East,Retail,24,2023-04-24,,False,46,0,2025-12-14,176
+CO-6655,Acme Solutions,Professional,311.02,8528,1918,Europe,Education,3,2020-09-30,2021-02-21,True,58,46,2022-05-21,318
+CO-6656,Nimbus Tech,Professional,483.7,5538,530,Europe,Non-profit,6,2024-07-19,,False,18,10,2025-04-22,1
+CO-6657,Acme Corp,Professional,106.26,31556,837,Asia Pacific,Education,6,2023-09-16,2024-10-12,True,78,24,2023-12-14,428
+CO-6658,Zenith Digital,Starter,65.37,20345,991,Asia Pacific,Finance,12,2023-04-15,,False,27,32,2024-01-11,417
+CO-6659,Spark Inc,Professional,327.94,19989,1496,Europe,Finance,6,2021-11-26,2023-06-13,True,-40,11,2023-02-20,32
+CO-6660,Forge Corp,Enterprise,4385.2,23719,2052,Europe,Education,24,2020-05-19,,False,-100,17,2021-05-21,109
+CO-6661,Acme Labs,Enterprise,3478.1,35225,1599,Europe,Non-profit,24,2021-08-15,,False,-3,34,2024-10-17,330
+CO-6662,Wave Inc,Professional,240.16,41099,1167,Middle East,Non-profit,1,2022-10-21,,False,-72,43,2024-04-20,132
+CO-6663,Nova Analytics,Enterprise,2965.16,45491,1992,Europe,Consulting,1,2020-07-18,2021-01-18,True,-90,41,2024-01-06,246
+CO-6664,Vertex Tech,Starter,43.32,43835,1151,Europe,Healthcare,3,2022-11-06,,False,55,47,2025-08-17,338
+CO-6665,Pulse Tech,Professional,147.85,16062,493,Asia Pacific,Healthcare,24,2024-08-25,,False,-89,47,2025-11-27,461
+CO-6666,Wave Tech,Starter,93.49,34436,1635,Latin America,Manufacturing,3,2021-07-10,,False,-92,32,2023-01-04,342
+CO-6667,Zenith Systems,Starter,67.62,8581,2023,Europe,Media,24,2020-06-17,,False,32,1,2025-04-11,267
+CO-6668,Pulse Tech,Enterprise,4603.41,22238,1654,Latin America,Technology,12,2021-06-21,,False,33,24,2021-06-23,134
+CO-6669,Spark Inc,Professional,192.74,48892,898,Europe,Retail,3,2023-07-17,,False,91,20,2025-03-22,266
+CO-6670,Wave Tech,Enterprise,2274.22,8000,836,Asia Pacific,Healthcare,24,2023-09-17,,False,-76,36,2024-06-09,167
+CO-6671,Nova Digital,Enterprise,4398.19,32013,1071,Latin America,Media,12,2023-01-25,,False,-29,7,2025-03-28,118
+CO-6672,Apex Corp,Professional,295.43,10271,1906,Middle East,Retail,3,2020-10-12,,False,25,50,2023-10-09,67
+CO-6673,Nimbus AI,Professional,478.3,45143,2110,Asia Pacific,Consulting,12,2020-03-22,,False,88,31,2024-07-02,68
+CO-6674,Zenith Analytics,Professional,462.38,8368,2016,Middle East,Consulting,6,2020-06-24,,False,-33,11,2025-09-15,286
+CO-6675,Nova Solutions,Enterprise,3169.3,38810,1147,Latin America,Non-profit,6,2022-11-10,,False,-32,22,2024-03-04,351
+CO-6676,Nova Cloud,Starter,71.15,41771,1857,Latin America,Retail,12,2020-11-30,,False,-92,19,2021-02-06,51
+CO-6677,Pulse Tech,Enterprise,3605.15,41611,413,Europe,Technology,1,2024-11-13,,False,-23,14,2025-04-17,379
+CO-6678,Apex Digital,Starter,45.08,28093,1863,Europe,Consulting,3,2020-11-24,,False,-60,33,2022-02-24,220
+CO-6679,Acme Corp,Starter,66.79,46136,1096,Asia Pacific,Non-profit,6,2022-12-31,,False,-78,12,2024-06-27,162
+CO-6680,Forge Corp,Starter,59.48,30380,1629,Asia Pacific,Healthcare,1,2021-07-16,,False,39,4,2023-02-16,393
+CO-6681,Nimbus AI,Professional,241.34,43373,1057,Europe,Education,6,2023-02-08,,False,67,44,2023-09-25,64
+CO-6682,Spark Labs,Professional,460.54,8306,1698,Middle East,Retail,6,2021-05-08,,False,-3,28,2023-11-03,222
+CO-6683,Pulse Labs,Professional,209.14,31312,1775,North America,Education,1,2021-02-20,,False,79,45,2025-05-13,330
+CO-6684,Forge AI,Enterprise,3792.16,17077,1034,Middle East,Media,3,2023-03-03,,False,-43,12,2025-12-20,349
+CO-6685,Nova Digital,Professional,313.23,19559,676,North America,Media,1,2024-02-24,,False,-96,44,2024-04-08,81
+CO-6686,Pulse Inc,Enterprise,3744.97,28692,341,Latin America,Media,24,2025-01-24,,False,-17,27,2025-02-27,468
+CO-6687,Forge AI,Starter,93.54,38768,772,Latin America,Technology,12,2023-11-20,,False,-41,23,2025-08-01,197
+CO-6688,Vertex AI,Professional,264.5,7188,1350,Asia Pacific,Retail,12,2022-04-21,,False,-10,40,2022-07-29,500
+CO-6689,Wave AI,Professional,217.85,23983,348,Asia Pacific,Finance,6,2025-01-17,2026-11-11,True,87,4,2025-12-21,409
+CO-6690,Acme Analytics,Professional,452.93,30602,1293,Latin America,Consulting,3,2022-06-17,2023-05-11,True,51,39,2025-10-28,195
+CO-6691,Apex Labs,Free,0.0,37221,1702,North America,Technology,12,2021-05-04,,False,-18,24,2021-08-17,467
+CO-6692,Nimbus Tech,Professional,206.54,38897,1235,Middle East,Government,1,2022-08-14,,False,-62,0,2023-07-14,262
+CO-6693,Pulse Corp,Starter,72.76,14300,478,Asia Pacific,Media,6,2024-09-09,,False,72,42,2025-04-23,224
+CO-6694,Wave Analytics,Starter,39.86,26944,1828,Europe,Technology,24,2020-12-29,2022-01-22,True,-15,31,2022-02-05,257
+CO-6695,Nova Digital,Starter,83.27,13712,1983,North America,Manufacturing,3,2020-07-27,2022-02-12,True,63,12,2023-03-18,119
+CO-6696,Nimbus Labs,Professional,487.5,48321,735,North America,Technology,6,2023-12-27,,False,51,19,2024-05-03,6
+CO-6697,Forge Tech,Starter,37.88,21609,540,Latin America,Finance,6,2024-07-09,,False,90,26,2024-07-12,45
+CO-6698,Zenith Inc,Starter,97.84,45372,1230,North America,Government,6,2022-08-19,2023-04-02,True,-93,26,2023-08-11,417
+CO-6699,Forge Digital,Professional,276.79,32436,1491,Europe,Finance,3,2021-12-01,,False,17,46,2024-03-05,461
+CO-6700,Nimbus Cloud,Free,0.0,4128,494,Europe,Technology,3,2024-08-24,,False,-41,15,2025-01-28,76
+CO-6701,Wave AI,Professional,412.04,36563,840,Middle East,Healthcare,24,2023-09-13,,False,-75,7,2025-08-14,176
+CO-6702,Wave Systems,Starter,96.43,38638,1888,Middle East,Healthcare,12,2020-10-30,,False,-69,23,2021-02-14,211
+CO-6703,Nova Solutions,Professional,230.19,8942,1277,Asia Pacific,Government,3,2022-07-03,2024-04-17,True,-74,1,2023-06-23,26
+CO-6704,Acme Inc,Professional,229.8,1444,2115,Europe,Non-profit,1,2020-03-17,2022-05-16,True,52,38,2023-06-06,161
+CO-6705,Pulse Cloud,Professional,449.24,6504,1779,Latin America,Healthcare,24,2021-02-16,,False,-51,4,2024-10-27,361
+CO-6706,Acme Systems,Starter,81.62,1433,1958,Latin America,Education,1,2020-08-21,,False,73,12,2022-11-04,106
+CO-6707,Vertex Cloud,Professional,287.82,31806,817,Asia Pacific,Retail,6,2023-10-06,,False,-81,5,2024-04-10,120
+CO-6708,Pulse Cloud,Professional,149.7,20312,1028,North America,Education,3,2023-03-09,2024-06-16,True,64,29,2024-01-19,116
+CO-6709,Pulse Digital,Professional,297.0,3459,1140,Asia Pacific,Education,12,2022-11-17,2023-06-22,True,-64,41,2025-05-14,493
+CO-6710,Acme Digital,Free,0.0,1633,1638,Middle East,Consulting,1,2021-07-07,,False,80,44,2024-08-24,473
+CO-6711,Wave Labs,Starter,57.86,32267,307,North America,Non-profit,24,2025-02-27,,False,-35,6,2025-08-26,356
+CO-6712,Forge Analytics,Starter,85.85,41520,1991,North America,Finance,24,2020-07-19,2022-05-16,True,-95,9,2025-07-12,496
+CO-6713,Pulse AI,Starter,35.83,38933,1493,Asia Pacific,Media,12,2021-11-29,2023-06-09,True,46,24,2025-05-19,406
+CO-6714,Zenith Analytics,Starter,57.71,49192,1182,Europe,Manufacturing,3,2022-10-06,,False,97,30,2024-09-15,199
+CO-6715,Apex Digital,Professional,297.68,24568,543,Asia Pacific,Retail,12,2024-07-06,2024-08-24,True,-56,48,2025-08-12,145
+CO-6716,Apex Systems,Professional,209.59,11580,1509,Middle East,Retail,6,2021-11-13,2022-04-14,True,99,8,2022-03-14,422
+CO-6717,Nova Analytics,Professional,497.86,6067,1751,Middle East,Government,12,2021-03-16,,False,41,30,2024-12-16,120
+CO-6718,Vertex Tech,Enterprise,4935.93,49746,777,Middle East,Healthcare,6,2023-11-15,,False,-8,12,2024-07-14,471
+CO-6719,Forge Tech,Enterprise,1870.34,5384,1477,North America,Education,6,2021-12-15,,False,58,29,2024-06-14,292
+CO-6720,Nova Labs,Professional,233.62,49167,1035,Asia Pacific,Manufacturing,3,2023-03-02,,False,-68,36,2024-03-08,26
+CO-6721,Wave Solutions,Professional,327.44,39461,573,North America,Healthcare,3,2024-06-06,,False,-16,35,2025-07-01,37
+CO-6722,Pulse Systems,Enterprise,546.1,30395,400,Asia Pacific,Media,6,2024-11-26,,False,-14,46,2025-04-11,471
+CO-6723,Apex Corp,Professional,419.39,30423,1263,Middle East,Manufacturing,24,2022-07-17,,False,-51,17,2025-02-20,301
+CO-6724,Apex Tech,Enterprise,1300.22,17213,933,Middle East,Technology,6,2023-06-12,,False,78,12,2024-11-19,148
+CO-6725,Nimbus Cloud,Professional,227.5,27948,2110,Asia Pacific,Healthcare,24,2020-03-22,2021-10-24,True,7,15,2020-05-08,205
+CO-6726,Nova Labs,Professional,181.24,18948,378,Middle East,Consulting,3,2024-12-18,,False,-96,31,2025-03-29,10
+CO-6727,Zenith Corp,Enterprise,4305.0,19909,500,Middle East,Healthcare,3,2024-08-18,,False,-32,7,2025-11-16,80
+CO-6728,Wave Inc,Professional,118.91,21579,425,Latin America,Non-profit,3,2024-11-01,,False,-69,25,2025-11-15,304
+CO-6729,Apex Labs,Professional,432.66,32669,825,Asia Pacific,Finance,12,2023-09-28,2024-07-06,True,-13,32,2023-10-03,70
+CO-6730,Wave Corp,Professional,361.53,44990,2100,Europe,Technology,6,2020-04-01,,False,-51,15,2023-06-12,426
+CO-6731,Nimbus Systems,Professional,160.06,48975,1982,Asia Pacific,Technology,12,2020-07-28,,False,51,35,2025-09-25,423
+CO-6732,Apex Corp,Enterprise,4480.84,30284,1483,Middle East,Media,24,2021-12-09,2022-02-01,True,23,48,2025-10-11,93
+CO-6733,Forge Tech,Enterprise,662.76,16360,1848,Asia Pacific,Manufacturing,6,2020-12-09,,False,-81,39,2021-06-22,288
+CO-6734,Nimbus Digital,Starter,33.41,11683,899,Latin America,Retail,3,2023-07-16,,False,100,20,2024-12-08,30
+CO-6735,Apex Digital,Enterprise,1268.94,34505,2140,North America,Consulting,24,2020-02-21,,False,-35,26,2025-08-11,333
+CO-6736,Pulse Systems,Enterprise,4517.77,39213,789,Europe,Consulting,24,2023-11-03,,False,96,9,2025-03-20,427
+CO-6737,Apex Analytics,Professional,443.63,26196,2103,Europe,Retail,12,2020-03-29,2021-06-26,True,1,10,2021-10-01,485
+CO-6738,Forge Solutions,Professional,250.21,32610,1530,Asia Pacific,Finance,6,2021-10-23,,False,88,16,2024-09-30,60
+CO-6739,Spark AI,Professional,491.11,47247,1408,Latin America,Non-profit,3,2022-02-22,2023-01-31,True,-54,25,2023-09-02,344
+CO-6740,Nimbus Tech,Starter,71.22,3893,2061,North America,Education,3,2020-05-10,,False,41,31,2023-03-09,435
+CO-6741,Acme Corp,Professional,409.78,20188,1373,Europe,Consulting,1,2022-03-29,,False,-16,31,2024-10-24,160
+CO-6742,Forge Analytics,Professional,212.14,44782,1038,Europe,Retail,12,2023-02-27,,False,77,16,2024-02-27,378
+CO-6743,Pulse Systems,Professional,132.6,16212,2114,North America,Manufacturing,1,2020-03-18,,False,-79,42,2025-05-02,21
+CO-6744,Spark AI,Enterprise,4633.61,24694,1990,Middle East,Government,24,2020-07-20,2022-05-05,True,84,6,2022-06-03,222
+CO-6745,Pulse Tech,Professional,212.36,8299,1919,Europe,Finance,3,2020-09-29,2022-05-10,True,-77,23,2021-03-05,383
+CO-6746,Nimbus Cloud,Starter,88.41,8648,1571,Middle East,Retail,1,2021-09-12,2022-03-02,True,28,16,2024-09-29,152
+CO-6747,Apex Tech,Starter,55.67,24055,326,Middle East,Finance,3,2025-02-08,,False,70,24,2025-07-02,159
+CO-6748,Vertex Tech,Professional,441.31,29260,791,North America,Education,3,2023-11-01,,False,-71,29,2023-11-03,326
+CO-6749,Pulse AI,Starter,64.92,45870,1977,Middle East,Education,1,2020-08-02,,False,76,35,2021-06-05,35
+CO-6750,Wave AI,Professional,281.65,23431,1320,Europe,Technology,12,2022-05-21,2023-11-23,True,39,11,2022-07-22,189
+CO-6751,Spark Systems,Professional,498.3,35792,1760,Middle East,Consulting,12,2021-03-07,,False,68,26,2023-02-06,480
+CO-6752,Wave Tech,Professional,144.49,16657,2129,Europe,Government,6,2020-03-03,,False,20,39,2021-02-24,315
+CO-6753,Zenith Inc,Professional,498.53,46674,709,Europe,Education,24,2024-01-22,,False,-46,44,2024-01-25,390
+CO-6754,Apex Analytics,Professional,152.53,3846,1889,Middle East,Manufacturing,12,2020-10-29,,False,-36,17,2024-04-30,106
+CO-6755,Spark Tech,Free,0.0,3963,1455,Middle East,Government,3,2022-01-06,,False,-15,31,2024-02-21,190
+CO-6756,Forge Solutions,Starter,97.59,42254,1651,North America,Education,6,2021-06-24,,False,-56,19,2025-11-02,470
+CO-6757,Pulse AI,Enterprise,2561.24,10966,1114,Middle East,Manufacturing,6,2022-12-13,,False,-28,21,2023-08-11,117
+CO-6758,Acme Cloud,Professional,452.49,36918,777,Europe,Government,12,2023-11-15,,False,50,39,2025-02-15,450
+CO-6759,Apex Analytics,Starter,49.2,22977,2120,Asia Pacific,Government,3,2020-03-12,2021-11-15,True,-37,10,2023-02-17,461
+CO-6760,Pulse Cloud,Starter,98.24,13580,853,Europe,Education,3,2023-08-31,,False,-25,50,2024-12-20,414
+CO-6761,Forge Inc,Professional,427.69,130,243,Middle East,Media,3,2025-05-02,,False,-17,29,2025-06-07,430
+CO-6762,Zenith Cloud,Enterprise,4996.89,5245,677,Europe,Healthcare,6,2024-02-23,2024-09-06,True,49,35,2024-11-07,413
+CO-6763,Pulse Systems,Professional,266.29,49355,1676,Latin America,Media,3,2021-05-30,,False,68,31,2021-10-14,423
+CO-6764,Pulse Analytics,Enterprise,1100.72,23160,1149,Middle East,Education,3,2022-11-08,,False,69,0,2025-01-30,402
+CO-6765,Nova Digital,Starter,46.87,46110,1557,Middle East,Consulting,1,2021-09-26,,False,16,8,2022-07-03,149
+CO-6766,Pulse Solutions,Enterprise,615.87,42272,338,Europe,Finance,3,2025-01-27,,False,85,19,2025-10-09,445
+CO-6767,Acme Digital,Professional,351.44,36049,1554,North America,Non-profit,1,2021-09-29,,False,-6,3,2025-01-27,392
+CO-6768,Spark AI,Professional,361.81,16079,978,Asia Pacific,Media,1,2023-04-28,,False,39,21,2024-10-24,248
+CO-6769,Spark Inc,Enterprise,4401.87,40878,1121,Middle East,Manufacturing,12,2022-12-06,,False,62,42,2023-11-26,307
+CO-6770,Pulse Digital,Starter,84.62,26683,386,Europe,Healthcare,6,2024-12-10,,False,50,36,2024-12-24,393
+CO-6771,Spark Analytics,Free,0.0,35235,220,North America,Media,12,2025-05-25,2026-06-25,True,69,23,2025-07-20,403
+CO-6772,Vertex Inc,Starter,98.01,45176,1179,Asia Pacific,Manufacturing,1,2022-10-09,,False,-97,3,2025-08-20,234
+CO-6773,Zenith Systems,Professional,216.72,42493,1274,North America,Retail,6,2022-07-06,2023-05-07,True,-84,18,2024-12-27,65
+CO-6774,Nimbus Digital,Professional,282.68,14237,1017,Middle East,Manufacturing,12,2023-03-20,,False,-69,36,2025-02-12,204
+CO-6775,Spark Solutions,Professional,294.81,38420,435,Asia Pacific,Non-profit,3,2024-10-22,,False,-44,44,2025-10-12,294
+CO-6776,Spark Solutions,Free,0.0,30442,1644,Asia Pacific,Retail,6,2021-07-01,2021-11-05,True,20,0,2024-06-25,85
+CO-6777,Zenith Solutions,Starter,59.63,17053,377,Europe,Education,12,2024-12-19,,False,-96,42,2025-05-12,494
+CO-6778,Acme Inc,Professional,199.78,22435,1219,Latin America,Non-profit,12,2022-08-30,,False,-87,6,2025-02-05,254
+CO-6779,Pulse Tech,Professional,236.66,8450,266,North America,Manufacturing,12,2025-04-09,,False,13,15,2025-12-19,436
+CO-6780,Wave Systems,Professional,248.12,942,643,Middle East,Finance,3,2024-03-28,,False,-94,44,2025-06-12,27
+CO-6781,Wave Cloud,Professional,390.43,581,665,Latin America,Healthcare,6,2024-03-06,2024-09-27,True,-67,16,2025-03-29,77
+CO-6782,Nimbus Analytics,Starter,47.25,35802,1347,Middle East,Finance,3,2022-04-24,,False,86,10,2022-11-11,392
+CO-6783,Forge Inc,Starter,33.93,26502,880,North America,Education,24,2023-08-04,,False,60,22,2024-10-09,65
+CO-6784,Vertex Inc,Enterprise,2046.34,38557,1976,Asia Pacific,Technology,24,2020-08-03,,False,-34,12,2020-09-30,384
+CO-6785,Nimbus Systems,Starter,78.06,44535,225,Europe,Healthcare,24,2025-05-20,,False,-13,12,2025-12-23,478
+CO-6786,Spark Labs,Enterprise,3292.38,27502,822,Middle East,Education,3,2023-10-01,2024-02-11,True,74,27,2025-10-01,174
+CO-6787,Vertex Corp,Professional,370.79,29655,1267,Middle East,Non-profit,1,2022-07-13,2024-05-31,True,-7,44,2025-11-08,110
+CO-6788,Nova Labs,Free,0.0,6787,1717,North America,Consulting,6,2021-04-19,,False,11,38,2021-06-11,175
+CO-6789,Pulse Systems,Enterprise,613.15,32231,1528,Latin America,Technology,3,2021-10-25,2023-02-26,True,69,19,2023-05-04,61
+CO-6790,Nova Cloud,Enterprise,3903.35,2262,1305,North America,Government,1,2022-06-05,,False,22,49,2023-02-26,401
+CO-6791,Nimbus Cloud,Professional,112.71,18182,1951,North America,Technology,3,2020-08-28,,False,80,32,2023-02-19,178
+CO-6792,Apex AI,Professional,119.08,21814,1986,Middle East,Technology,1,2020-07-24,2021-10-14,True,52,40,2023-08-01,499
+CO-6793,Apex Analytics,Starter,92.14,31542,756,Europe,Technology,6,2023-12-06,,False,61,49,2025-01-04,303
+CO-6794,Acme Tech,Starter,65.23,24605,1921,North America,Healthcare,12,2020-09-27,2021-11-26,True,-3,22,2021-04-06,132
+CO-6795,Forge Analytics,Professional,420.16,36572,1643,Asia Pacific,Government,1,2021-07-02,,False,-83,6,2025-02-05,352
+CO-6796,Wave Solutions,Professional,376.37,41802,1488,Middle East,Non-profit,1,2021-12-04,,False,100,21,2025-03-19,172
+CO-6797,Vertex AI,Professional,123.39,1940,2068,Asia Pacific,Media,6,2020-05-03,2021-04-10,True,79,35,2022-01-03,393
+CO-6798,Pulse AI,Starter,47.67,20636,726,Europe,Finance,3,2024-01-05,2025-10-15,True,-26,25,2024-09-25,361
+CO-6799,Apex AI,Starter,65.29,26008,1330,Latin America,Manufacturing,3,2022-05-11,,False,92,19,2024-03-12,483
+CO-6800,Nimbus Tech,Professional,362.18,49196,929,Latin America,Technology,1,2023-06-16,2025-07-21,True,-37,31,2025-12-12,153
+CO-6801,Pulse Digital,Enterprise,4930.68,34512,1041,Middle East,Consulting,12,2023-02-24,,False,-73,36,2023-08-29,14
+CO-6802,Acme Cloud,Professional,331.59,3046,1010,Middle East,Education,3,2023-03-27,,False,-1,18,2025-11-16,174
+CO-6803,Zenith Inc,Starter,60.5,44370,1746,Middle East,Healthcare,24,2021-03-21,,False,14,18,2024-09-11,439
+CO-6804,Acme Systems,Free,0.0,43246,1926,Middle East,Healthcare,1,2020-09-22,,False,84,3,2022-01-07,375
+CO-6805,Zenith Inc,Starter,47.61,4412,914,North America,Education,24,2023-07-01,,False,33,19,2023-10-08,385
+CO-6806,Wave Digital,Starter,56.19,4022,614,Europe,Consulting,3,2024-04-26,,False,-46,20,2024-07-12,381
+CO-6807,Vertex Corp,Professional,220.63,16574,1839,North America,Healthcare,3,2020-12-18,2022-11-29,True,100,41,2024-12-18,493
+CO-6808,Wave Corp,Starter,97.54,27330,288,Asia Pacific,Finance,1,2025-03-18,2027-04-21,True,-100,37,2025-12-21,485
+CO-6809,Forge Labs,Starter,72.73,38022,954,Europe,Government,6,2023-05-22,,False,-39,16,2023-06-17,285
+CO-6810,Acme Labs,Starter,80.46,17391,676,Asia Pacific,Manufacturing,1,2024-02-24,2025-08-29,True,72,10,2025-01-24,190
+CO-6811,Spark AI,Professional,286.6,18206,1225,Latin America,Finance,1,2022-08-24,,False,-24,18,2022-10-15,185
+CO-6812,Wave Labs,Starter,70.08,41241,991,Middle East,Healthcare,6,2023-04-15,,False,71,0,2024-03-23,155
+CO-6813,Nova Systems,Professional,395.49,30586,259,Middle East,Manufacturing,1,2025-04-16,,False,-85,24,2025-11-06,83
+CO-6814,Wave AI,Starter,53.06,4319,1469,Middle East,Retail,1,2021-12-23,,False,48,39,2022-05-05,472
+CO-6815,Nova Analytics,Professional,202.39,48526,1851,North America,Finance,24,2020-12-06,,False,-76,24,2024-01-04,301
+CO-6816,Acme Inc,Professional,439.55,24547,2067,Middle East,Finance,1,2020-05-04,,False,33,32,2023-08-28,62
+CO-6817,Spark Inc,Professional,207.47,20153,773,Middle East,Non-profit,6,2023-11-19,,False,54,34,2025-11-25,131
+CO-6818,Pulse Inc,Starter,62.5,39352,377,Latin America,Non-profit,1,2024-12-19,,False,-2,47,2025-01-11,193
+CO-6819,Nimbus Labs,Professional,269.16,25402,1727,Asia Pacific,Consulting,6,2021-04-09,,False,98,25,2021-07-01,306
+CO-6820,Forge Corp,Professional,104.59,21984,1441,Europe,Non-profit,3,2022-01-20,,False,-4,49,2024-09-30,124
+CO-6821,Acme AI,Starter,69.34,25537,231,Middle East,Media,24,2025-05-14,,False,-49,24,2025-08-20,364
+CO-6822,Spark Cloud,Free,0.0,8199,2142,Asia Pacific,Technology,12,2020-02-19,,False,-4,45,2025-05-22,436
+CO-6823,Nova Labs,Free,0.0,18833,559,Middle East,Retail,1,2024-06-20,,False,-21,16,2025-11-12,465
+CO-6824,Spark AI,Starter,58.18,43884,396,Asia Pacific,Healthcare,6,2024-11-30,,False,-68,21,2025-11-27,444
+CO-6825,Spark AI,Starter,38.32,19971,985,Europe,Media,1,2023-04-21,2025-01-20,True,24,48,2023-12-28,130
+CO-6826,Pulse Inc,Professional,444.57,26621,1659,North America,Retail,1,2021-06-16,2022-12-12,True,84,29,2022-06-05,357
+CO-6827,Zenith Labs,Starter,73.57,447,792,Middle East,Technology,1,2023-10-31,,False,61,25,2025-08-29,18
+CO-6828,Spark Solutions,Free,0.0,13415,909,Europe,Healthcare,3,2023-07-06,2024-10-20,True,-53,11,2025-03-29,428
+CO-6829,Wave Labs,Enterprise,4503.93,23302,1263,North America,Consulting,6,2022-07-17,2024-08-31,True,71,0,2024-09-10,318
+CO-6830,Acme Corp,Professional,358.83,11318,944,Latin America,Education,6,2023-06-01,,False,64,33,2024-10-16,345
+CO-6831,Acme Corp,Starter,91.62,42561,1725,Middle East,Finance,6,2021-04-11,2021-12-24,True,-80,37,2023-06-20,51
+CO-6832,Pulse Labs,Professional,446.13,26652,1653,Europe,Consulting,6,2021-06-22,,False,33,11,2025-01-23,107
+CO-6833,Wave Solutions,Enterprise,3476.88,47305,1615,Middle East,Retail,12,2021-07-30,,False,97,14,2022-10-27,315
+CO-6834,Pulse Corp,Starter,56.16,16012,1577,Middle East,Consulting,3,2021-09-06,,False,-21,38,2025-11-17,413
+CO-6835,Pulse Tech,Enterprise,4154.65,46362,545,North America,Healthcare,6,2024-07-04,,False,-100,29,2025-12-04,122
+CO-6836,Pulse Tech,Professional,280.02,47854,1142,Latin America,Healthcare,3,2022-11-15,,False,77,7,2022-11-21,232
+CO-6837,Wave AI,Enterprise,2684.24,39962,1034,Latin America,Technology,1,2023-03-03,2024-09-13,True,21,4,2025-05-06,300
+CO-6838,Pulse Tech,Enterprise,2361.39,24726,1280,Middle East,Non-profit,12,2022-06-30,,False,49,25,2023-05-13,212
+CO-6839,Spark Systems,Enterprise,3586.45,44953,433,Europe,Media,1,2024-10-24,,False,70,19,2024-12-20,130
+CO-6840,Vertex Systems,Starter,41.67,19215,1487,Latin America,Technology,3,2021-12-05,,False,31,34,2025-09-11,237
+CO-6841,Spark Inc,Enterprise,4526.41,17499,1142,Asia Pacific,Government,12,2022-11-15,,False,-58,40,2023-02-27,90
+CO-6842,Spark Solutions,Starter,36.89,1081,1732,Middle East,Education,24,2021-04-04,,False,-86,49,2023-05-31,45
+CO-6843,Nova Corp,Professional,241.49,39998,637,North America,Consulting,3,2024-04-03,,False,66,22,2025-02-07,300
+CO-6844,Acme Systems,Starter,40.02,35651,1494,Europe,Media,3,2021-11-28,,False,91,28,2024-05-10,488
+CO-6845,Acme Analytics,Starter,89.78,14993,1535,Asia Pacific,Retail,3,2021-10-18,,False,-30,31,2022-11-04,321
+CO-6846,Nova Tech,Professional,247.51,47975,1388,Europe,Technology,3,2022-03-14,,False,-100,34,2022-05-27,7
+CO-6847,Spark Systems,Starter,65.8,32155,245,North America,Government,6,2025-04-30,2026-06-11,True,-22,18,2025-06-21,146
+CO-6848,Vertex Tech,Professional,448.93,18688,251,North America,Media,1,2025-04-24,2026-10-22,True,34,33,2025-07-25,31
+CO-6849,Wave Tech,Starter,37.49,23514,888,Latin America,Retail,6,2023-07-27,,False,-35,9,2024-08-30,384
+CO-6850,Vertex Cloud,Starter,48.1,16754,620,Europe,Government,24,2024-04-20,,False,-63,44,2025-07-07,395
+CO-6851,Wave Labs,Starter,94.68,41078,1974,North America,Government,3,2020-08-05,,False,-71,37,2023-02-07,98
+CO-6852,Pulse Digital,Free,0.0,37287,367,Europe,Manufacturing,12,2024-12-29,2026-04-27,True,10,28,2025-06-26,106
+CO-6853,Spark AI,Starter,69.47,1230,2161,Asia Pacific,Government,12,2020-01-31,,False,50,18,2020-08-19,355
+CO-6854,Wave Solutions,Enterprise,781.76,31581,833,Latin America,Government,24,2023-09-20,,False,-70,30,2025-09-04,221
+CO-6855,Forge Digital,Professional,342.28,27820,819,Latin America,Consulting,12,2023-10-04,,False,10,50,2025-01-08,259
+CO-6856,Apex Analytics,Starter,50.52,15858,1800,Latin America,Retail,3,2021-01-26,,False,-42,15,2025-03-30,475
+CO-6857,Spark Inc,Starter,98.97,47672,1039,Asia Pacific,Non-profit,24,2023-02-26,2024-12-08,True,-2,23,2023-07-26,299
+CO-6858,Forge Tech,Professional,293.66,55,2000,North America,Finance,12,2020-07-10,,False,-20,19,2022-03-10,51
+CO-6859,Zenith Digital,Professional,364.27,35028,1080,Asia Pacific,Manufacturing,24,2023-01-16,,False,-35,43,2024-04-05,218
+CO-6860,Acme Analytics,Enterprise,4776.8,21529,1848,Middle East,Education,1,2020-12-09,,False,89,36,2022-12-20,161
+CO-6861,Nova Solutions,Starter,95.83,8724,630,North America,Healthcare,3,2024-04-10,,False,-18,15,2024-07-20,25
+CO-6862,Zenith Analytics,Professional,386.22,37341,1997,Asia Pacific,Media,24,2020-07-13,2021-04-17,True,-58,25,2020-08-04,310
+CO-6863,Forge AI,Professional,466.92,34919,2150,Europe,Manufacturing,1,2020-02-11,2020-07-25,True,-71,21,2020-03-25,349
+CO-6864,Acme Inc,Professional,224.69,38231,955,Latin America,Retail,12,2023-05-21,,False,99,18,2025-06-07,386
+CO-6865,Forge Solutions,Starter,56.87,9335,730,Latin America,Media,1,2024-01-01,,False,-55,32,2024-12-31,213
+CO-6866,Zenith Inc,Starter,33.61,23320,849,Asia Pacific,Media,24,2023-09-04,2024-07-29,True,-27,46,2025-08-15,366
+CO-6867,Acme Inc,Professional,167.95,15808,1415,Asia Pacific,Manufacturing,6,2022-02-15,,False,-6,21,2025-01-10,128
+CO-6868,Wave Inc,Enterprise,2086.68,44498,1001,Latin America,Government,3,2023-04-05,,False,-37,10,2025-08-27,406
+CO-6869,Wave Analytics,Professional,218.28,12349,1092,Asia Pacific,Government,1,2023-01-04,,False,-94,8,2025-11-18,167
+CO-6870,Pulse Labs,Starter,46.81,40226,864,Asia Pacific,Consulting,12,2023-08-20,,False,92,3,2025-07-20,370
+CO-6871,Spark Digital,Professional,443.7,12437,923,Middle East,Government,12,2023-06-22,,False,-57,8,2024-05-17,160
+CO-6872,Wave Solutions,Starter,67.02,31162,328,North America,Non-profit,1,2025-02-06,,False,-69,24,2025-07-10,131
+CO-6873,Acme Analytics,Professional,291.02,10021,1398,Asia Pacific,Non-profit,24,2022-03-04,2024-05-12,True,26,30,2022-06-02,152
+CO-6874,Forge Inc,Professional,361.29,48113,2186,Latin America,Non-profit,6,2020-01-06,,False,66,29,2022-06-05,29
+CO-6875,Wave Solutions,Starter,35.24,6907,1984,Middle East,Education,6,2020-07-26,2020-09-03,True,-82,17,2024-01-05,350
+CO-6876,Nova Labs,Enterprise,528.11,44874,363,Middle East,Media,24,2025-01-02,,False,-58,48,2025-02-05,265
+CO-6877,Apex Solutions,Professional,255.65,24089,267,Europe,Manufacturing,24,2025-04-08,,False,-88,23,2025-06-08,441
+CO-6878,Acme Cloud,Enterprise,3512.89,9621,614,Asia Pacific,Media,1,2024-04-26,,False,24,35,2024-06-21,350
+CO-6879,Zenith Labs,Professional,261.67,25482,802,Middle East,Government,12,2023-10-21,,False,-43,27,2023-11-28,375
+CO-6880,Vertex Corp,Professional,284.62,17192,460,Latin America,Non-profit,6,2024-09-27,,False,72,12,2025-01-07,72
+CO-6881,Apex Analytics,Professional,258.35,46941,2161,Middle East,Consulting,1,2020-01-31,,False,-58,0,2024-02-28,371
+CO-6882,Pulse Analytics,Starter,74.14,34455,485,Europe,Manufacturing,24,2024-09-02,,False,-83,43,2025-09-24,175
+CO-6883,Forge Tech,Professional,357.39,46826,1691,Middle East,Government,1,2021-05-15,2023-02-02,True,-46,44,2023-03-17,187
+CO-6884,Zenith Corp,Professional,476.39,31610,1518,North America,Retail,1,2021-11-04,,False,-95,42,2022-10-19,490
+CO-6885,Nova Corp,Enterprise,3330.81,45829,1619,North America,Retail,1,2021-07-26,,False,76,21,2025-11-30,73
+CO-6886,Pulse Tech,Professional,162.28,19891,1780,Europe,Retail,12,2021-02-15,,False,25,7,2022-10-05,32
+CO-6887,Spark Inc,Enterprise,3220.71,4920,303,Middle East,Education,24,2025-03-03,,False,-77,9,2025-04-12,141
+CO-6888,Nimbus Inc,Starter,82.12,42915,1921,Latin America,Manufacturing,12,2020-09-27,,False,86,28,2024-10-17,356
+CO-6889,Vertex AI,Professional,332.65,3419,466,Latin America,Media,12,2024-09-21,,False,-75,11,2025-09-09,319
+CO-6890,Forge Corp,Professional,277.1,37179,835,Middle East,Education,3,2023-09-18,,False,-45,34,2025-09-25,185
+CO-6891,Apex Analytics,Starter,54.01,40145,772,Middle East,Manufacturing,6,2023-11-20,,False,83,29,2025-10-17,306
+CO-6892,Forge Labs,Professional,354.96,46903,643,Latin America,Non-profit,1,2024-03-28,2025-11-26,True,-78,0,2025-01-19,136
+CO-6893,Wave AI,Professional,278.49,8158,1438,Middle East,Retail,3,2022-01-23,,False,28,12,2022-06-30,491
+CO-6894,Nimbus Tech,Free,0.0,36166,1605,Latin America,Media,3,2021-08-09,,False,63,44,2024-08-02,330
+CO-6895,Apex Corp,Professional,309.07,13371,1040,Latin America,Non-profit,6,2023-02-25,,False,87,49,2024-12-09,281
+CO-6896,Apex Corp,Starter,45.38,24241,1108,Asia Pacific,Retail,1,2022-12-19,,False,-87,23,2024-06-16,434
+CO-6897,Vertex Systems,Professional,274.49,9231,1866,Latin America,Education,1,2020-11-21,,False,61,31,2025-03-08,205
+CO-6898,Wave Solutions,Professional,111.08,44039,1080,Asia Pacific,Government,24,2023-01-16,2025-02-07,True,95,23,2023-12-15,157
+CO-6899,Wave Solutions,Starter,97.98,5227,1604,Europe,Education,24,2021-08-10,,False,36,30,2023-08-09,209
+CO-6900,Wave Tech,Enterprise,3604.4,22332,1756,Europe,Technology,6,2021-03-11,2022-10-17,True,-71,15,2023-04-26,443
+CO-6901,Pulse Tech,Professional,356.69,21804,1085,North America,Retail,1,2023-01-11,,False,-18,41,2025-07-07,368
+CO-6902,Pulse AI,Starter,94.68,31631,1540,Latin America,Finance,6,2021-10-13,2022-09-25,True,-23,45,2025-08-18,29
+CO-6903,Pulse Digital,Starter,88.74,11033,302,Middle East,Retail,24,2025-03-04,,False,75,10,2025-12-04,413
+CO-6904,Pulse Digital,Enterprise,1260.42,22383,1606,Middle East,Healthcare,1,2021-08-08,,False,-65,50,2023-03-10,230
+CO-6905,Nimbus Cloud,Enterprise,2924.42,20246,805,Europe,Media,1,2023-10-18,,False,-4,39,2024-10-29,196
+CO-6906,Acme Solutions,Professional,312.6,28259,394,Middle East,Retail,1,2024-12-02,,False,-38,1,2025-06-28,338
+CO-6907,Zenith Analytics,Professional,309.06,8898,1286,Latin America,Consulting,3,2022-06-24,,False,-60,4,2024-10-20,98
+CO-6908,Forge Inc,Free,0.0,30931,573,Europe,Consulting,6,2024-06-06,,False,-42,18,2024-12-04,323
+CO-6909,Pulse Labs,Starter,80.08,41919,2066,Asia Pacific,Manufacturing,3,2020-05-05,,False,29,48,2022-02-09,11
+CO-6910,Pulse AI,Starter,85.11,38285,1815,North America,Manufacturing,6,2021-01-11,2021-05-04,True,79,17,2024-12-14,146
+CO-6911,Pulse Analytics,Professional,334.84,33946,1647,Europe,Government,6,2021-06-28,2023-07-16,True,-66,29,2024-02-24,320
+CO-6912,Apex Systems,Enterprise,1980.0,3988,697,Europe,Retail,6,2024-02-03,2025-01-25,True,56,37,2024-10-11,218
+CO-6913,Pulse Systems,Professional,467.32,26209,738,Latin America,Finance,6,2023-12-24,,False,-11,27,2025-05-05,479
+CO-6914,Vertex Tech,Free,0.0,15180,1980,Middle East,Technology,6,2020-07-30,,False,-20,48,2025-01-15,305
+CO-6915,Nova Analytics,Professional,161.62,44317,1215,Middle East,Retail,1,2022-09-03,,False,94,25,2024-01-23,433
+CO-6916,Vertex Systems,Free,0.0,34709,1603,Latin America,Education,1,2021-08-11,,False,-81,4,2025-10-02,209
+CO-6917,Spark AI,Professional,333.76,20105,543,Europe,Finance,12,2024-07-06,,False,-18,17,2024-12-25,359
+CO-6918,Acme Systems,Professional,184.03,1907,246,North America,Retail,6,2025-04-29,,False,-56,35,2025-08-19,408
+CO-6919,Nova Digital,Professional,168.87,4293,718,North America,Finance,3,2024-01-13,2024-08-19,True,29,17,2024-07-06,347
+CO-6920,Wave Solutions,Professional,267.08,5208,936,Europe,Government,6,2023-06-09,,False,15,37,2025-02-03,127
+CO-6921,Nova Analytics,Starter,43.49,43318,1520,Asia Pacific,Non-profit,12,2021-11-02,2023-11-10,True,-53,40,2025-10-27,316
+CO-6922,Wave Solutions,Professional,286.32,19118,1800,Middle East,Finance,24,2021-01-26,,False,-8,0,2022-08-16,213
+CO-6923,Wave Labs,Starter,29.68,10893,1410,North America,Manufacturing,3,2022-02-20,,False,-54,9,2023-06-23,224
+CO-6924,Zenith AI,Starter,83.73,598,788,Latin America,Consulting,12,2023-11-04,,False,-34,49,2024-12-21,273
+CO-6925,Pulse Systems,Enterprise,4972.61,39421,1786,Europe,Consulting,1,2021-02-09,,False,83,14,2022-03-22,474
+CO-6926,Pulse Analytics,Professional,423.4,36585,2032,Middle East,Government,1,2020-06-08,,False,-60,44,2021-12-07,219
+CO-6927,Forge Cloud,Professional,416.54,40286,695,North America,Government,6,2024-02-05,,False,79,4,2025-06-21,328
+CO-6928,Forge Cloud,Professional,126.37,16276,882,Middle East,Government,3,2023-08-02,2024-05-18,True,-25,29,2024-08-06,180
+CO-6929,Wave Solutions,Starter,65.14,9964,575,Asia Pacific,Retail,3,2024-06-04,2024-08-01,True,-25,3,2025-07-03,232
+CO-6930,Vertex Cloud,Starter,56.53,24042,313,Latin America,Education,12,2025-02-21,,False,-46,30,2025-11-07,434
+CO-6931,Forge Inc,Enterprise,865.84,34885,1197,Middle East,Government,1,2022-09-21,2024-10-24,True,4,49,2025-03-09,414
+CO-6932,Nova Analytics,Enterprise,2545.97,48788,2073,Middle East,Retail,1,2020-04-28,,False,9,45,2020-05-12,220
+CO-6933,Nimbus Corp,Starter,78.33,34135,1659,Asia Pacific,Government,6,2021-06-16,,False,-79,41,2024-03-25,60
+CO-6934,Wave Digital,Enterprise,604.6,1958,710,Middle East,Media,1,2024-01-21,,False,-48,33,2024-07-02,122
+CO-6935,Forge Analytics,Starter,68.99,2210,1289,Europe,Technology,3,2022-06-21,,False,60,46,2023-06-14,119
+CO-6936,Apex Corp,Professional,164.5,37694,1438,North America,Finance,12,2022-01-23,,False,-43,35,2023-09-19,325
+CO-6937,Wave Labs,Free,0.0,2639,852,Latin America,Consulting,24,2023-09-01,2025-02-05,True,-82,36,2023-10-27,332
+CO-6938,Nimbus Cloud,Enterprise,4661.9,19315,646,Europe,Education,3,2024-03-25,,False,-77,26,2024-05-21,114
+CO-6939,Pulse Analytics,Starter,68.17,31477,348,Asia Pacific,Manufacturing,24,2025-01-17,,False,85,7,2025-03-17,259
+CO-6940,Nimbus Cloud,Starter,72.91,5883,886,Asia Pacific,Government,6,2023-07-29,,False,84,50,2025-01-16,433
+CO-6941,Pulse Cloud,Professional,300.51,11921,2027,Latin America,Finance,1,2020-06-13,2021-12-21,True,-20,0,2020-07-17,345
+CO-6942,Forge AI,Professional,421.78,14808,890,Latin America,Healthcare,12,2023-07-25,,False,100,13,2023-12-15,218
+CO-6943,Wave Solutions,Starter,46.23,47376,1956,Middle East,Finance,3,2020-08-23,,False,-81,6,2023-01-02,397
+CO-6944,Zenith Cloud,Starter,84.03,33124,451,Europe,Government,6,2024-10-06,,False,31,5,2025-09-29,485
+CO-6945,Spark Inc,Free,0.0,31199,700,Middle East,Education,6,2024-01-31,,False,-81,50,2025-10-13,304
+CO-6946,Zenith Digital,Professional,211.51,9253,1513,Latin America,Manufacturing,24,2021-11-09,,False,-71,44,2023-05-14,135
+CO-6947,Zenith Inc,Professional,143.1,41171,661,Middle East,Retail,24,2024-03-10,,False,32,32,2025-01-29,204
+CO-6948,Acme Corp,Starter,87.85,27966,581,Latin America,Finance,3,2024-05-29,,False,40,22,2025-07-10,121
+CO-6949,Vertex Analytics,Enterprise,1848.81,42606,217,Europe,Government,12,2025-05-28,2027-01-14,True,-46,21,2025-09-29,5
+CO-6950,Forge Corp,Professional,199.49,36248,2042,Europe,Healthcare,12,2020-05-29,,False,-27,22,2023-12-13,107
+CO-6951,Spark Solutions,Starter,35.88,35204,1461,North America,Non-profit,1,2021-12-31,2024-02-19,True,-25,34,2022-06-30,482
+CO-6952,Vertex Tech,Enterprise,1286.7,30737,1889,Middle East,Education,3,2020-10-29,,False,5,1,2022-12-16,308
+CO-6953,Wave Tech,Free,0.0,45284,2000,Asia Pacific,Government,12,2020-07-10,,False,-17,3,2021-10-18,352
+CO-6954,Spark Corp,Professional,258.3,26956,354,Middle East,Retail,24,2025-01-11,,False,85,46,2025-05-17,91
+CO-6955,Vertex Cloud,Professional,257.81,19872,612,Europe,Technology,1,2024-04-28,,False,39,49,2024-10-18,236
+CO-6956,Apex Corp,Enterprise,4305.16,2985,1691,Latin America,Finance,12,2021-05-15,2023-04-13,True,-78,49,2022-02-10,391
+CO-6957,Vertex Cloud,Enterprise,4734.83,9869,553,Middle East,Consulting,12,2024-06-26,,False,-84,27,2025-06-24,255
+CO-6958,Pulse Solutions,Free,0.0,21379,1667,Asia Pacific,Technology,6,2021-06-08,,False,2,7,2025-01-31,462
+CO-6959,Wave Cloud,Professional,244.91,16730,540,North America,Media,24,2024-07-09,,False,66,10,2025-09-11,259
+CO-6960,Nova Digital,Professional,488.96,45430,2123,Europe,Manufacturing,12,2020-03-09,2021-05-04,True,-87,6,2021-10-26,429
+CO-6961,Pulse Analytics,Starter,68.7,36769,741,Middle East,Government,6,2023-12-21,,False,-62,9,2025-02-05,147
+CO-6962,Apex Corp,Starter,84.56,25666,1474,Latin America,Consulting,12,2021-12-18,,False,40,5,2023-05-23,468
+CO-6963,Forge Corp,Enterprise,2996.79,30921,1470,Latin America,Consulting,6,2021-12-22,2022-05-19,True,-76,12,2025-07-04,100
+CO-6964,Vertex Inc,Starter,96.61,49049,263,Asia Pacific,Retail,3,2025-04-12,,False,79,10,2025-07-29,47
+CO-6965,Zenith Analytics,Starter,80.16,35439,883,North America,Retail,24,2023-08-01,,False,-14,8,2025-09-15,182
+CO-6966,Spark Labs,Enterprise,2161.44,46783,542,Latin America,Education,12,2024-07-07,2025-10-14,True,-80,28,2024-08-17,97
+CO-6967,Vertex Analytics,Starter,92.92,47233,1380,Asia Pacific,Healthcare,12,2022-03-22,,False,-25,38,2024-03-28,344
+CO-6968,Nova Analytics,Starter,37.37,9353,1626,North America,Technology,6,2021-07-19,,False,-31,31,2022-03-08,196
+CO-6969,Apex Digital,Professional,462.27,21481,1114,Middle East,Technology,24,2022-12-13,,False,80,14,2023-04-01,117
+CO-6970,Nimbus Inc,Enterprise,4222.27,3113,1918,Middle East,Technology,24,2020-09-30,,False,55,28,2020-11-12,64
+CO-6971,Pulse Solutions,Professional,181.0,32122,1516,Asia Pacific,Education,3,2021-11-06,,False,-36,42,2025-07-31,105
+CO-6972,Forge Inc,Free,0.0,3738,1365,Asia Pacific,Retail,12,2022-04-06,2023-04-06,True,-6,6,2023-09-22,50
+CO-6973,Spark Labs,Professional,199.7,46955,279,North America,Finance,6,2025-03-27,,False,-44,18,2025-05-01,17
+CO-6974,Forge Cloud,Professional,279.01,20664,630,Asia Pacific,Retail,24,2024-04-10,,False,74,45,2024-06-13,48
+CO-6975,Vertex Cloud,Professional,487.24,48846,1472,Europe,Technology,24,2021-12-20,,False,-82,16,2024-08-21,48
+CO-6976,Acme Digital,Professional,333.36,15576,1429,North America,Education,12,2022-02-01,2023-05-10,True,0,14,2025-06-26,324
+CO-6977,Pulse Cloud,Starter,66.66,21618,1073,Latin America,Media,1,2023-01-23,2023-11-11,True,-41,48,2023-03-06,349
+CO-6978,Spark Tech,Free,0.0,26530,1128,North America,Technology,3,2022-11-29,,False,-29,8,2024-03-27,292
+CO-6979,Zenith Systems,Starter,56.36,42329,1658,Latin America,Manufacturing,3,2021-06-17,,False,59,34,2024-09-14,297
+CO-6980,Forge Labs,Professional,258.56,45982,715,North America,Finance,24,2024-01-16,,False,100,35,2025-01-24,227
+CO-6981,Acme Corp,Free,0.0,13272,449,Latin America,Manufacturing,3,2024-10-08,,False,83,46,2025-01-27,485
+CO-6982,Zenith AI,Starter,94.31,28444,1612,North America,Retail,3,2021-08-02,,False,100,6,2025-01-24,413
+CO-6983,Zenith Systems,Starter,71.21,17766,739,Asia Pacific,Technology,3,2023-12-23,,False,-3,41,2025-09-24,438
+CO-6984,Pulse Analytics,Professional,210.68,22880,1033,Latin America,Retail,24,2023-03-04,2024-01-31,True,-92,46,2024-04-10,413
+CO-6985,Acme Solutions,Enterprise,1986.28,31719,898,Latin America,Government,12,2023-07-17,2023-08-23,True,98,21,2025-06-19,277
+CO-6986,Vertex Tech,Starter,74.75,13543,1688,Middle East,Education,6,2021-05-18,,False,-53,41,2023-08-12,454
+CO-6987,Wave Systems,Professional,351.39,18140,1907,Europe,Non-profit,6,2020-10-11,,False,-43,3,2022-09-04,158
+CO-6988,Nova Labs,Starter,76.38,43393,413,Latin America,Technology,3,2024-11-13,,False,-49,46,2025-01-13,447
+CO-6989,Pulse Analytics,Professional,442.93,30884,771,North America,Retail,1,2023-11-21,2025-07-06,True,24,19,2024-11-10,440
+CO-6990,Wave Inc,Starter,84.44,36572,788,Middle East,Technology,24,2023-11-04,,False,60,25,2025-12-25,411
+CO-6991,Acme Systems,Professional,388.44,12401,2100,Middle East,Retail,24,2020-04-01,,False,-68,25,2024-03-19,107
+CO-6992,Zenith Cloud,Starter,52.28,25857,811,Middle East,Finance,12,2023-10-12,,False,-3,1,2025-05-01,310
+CO-6993,Spark Cloud,Starter,72.03,18799,374,Middle East,Non-profit,6,2024-12-22,,False,-68,2,2024-12-27,192
+CO-6994,Zenith Inc,Professional,461.81,5528,1638,Asia Pacific,Technology,3,2021-07-07,,False,15,14,2024-02-27,88
+CO-6995,Spark Labs,Enterprise,1227.45,36719,1713,North America,Technology,24,2021-04-23,2023-02-19,True,-9,48,2022-12-03,464
+CO-6996,Acme Corp,Enterprise,2096.48,15380,1814,Middle East,Education,12,2021-01-12,,False,29,35,2025-12-30,483
+CO-6997,Spark AI,Starter,68.05,38722,1262,Middle East,Retail,12,2022-07-18,,False,42,46,2024-04-05,436
+CO-6998,Vertex Analytics,Professional,419.83,24434,1263,North America,Government,12,2022-07-17,,False,-33,39,2024-12-07,111
+CO-6999,Spark Solutions,Professional,296.49,3988,767,Europe,Government,1,2023-11-25,2024-08-04,True,98,37,2025-07-21,470
+CO-7000,Apex Corp,Professional,308.65,19636,405,Asia Pacific,Education,1,2024-11-21,,False,-33,39,2025-05-31,56
+CO-7001,Acme Digital,Starter,64.44,13748,612,North America,Education,1,2024-04-28,,False,-33,40,2025-10-19,316
+CO-7002,Pulse AI,Starter,79.43,37003,450,Europe,Consulting,3,2024-10-07,,False,16,13,2025-12-24,16
+CO-7003,Vertex Tech,Enterprise,3195.86,15805,1491,North America,Consulting,6,2021-12-01,,False,-59,4,2023-07-20,373
+CO-7004,Nimbus Digital,Starter,69.05,16090,1980,Middle East,Consulting,1,2020-07-30,,False,-92,1,2024-02-07,431
+CO-7005,Nimbus Analytics,Professional,319.02,48469,708,Latin America,Government,12,2024-01-23,2024-06-08,True,-11,2,2025-12-19,225
+CO-7006,Forge Digital,Starter,72.6,42397,1234,Europe,Consulting,6,2022-08-15,,False,-67,49,2025-01-11,289
+CO-7007,Apex Solutions,Starter,82.65,13534,1221,Middle East,Technology,1,2022-08-28,,False,-45,34,2025-12-30,415
+CO-7008,Nova Cloud,Enterprise,1703.58,18848,879,Asia Pacific,Retail,12,2023-08-05,2025-02-04,True,-38,41,2025-07-25,70
+CO-7009,Forge Inc,Professional,291.36,2850,226,Europe,Manufacturing,6,2025-05-19,,False,-30,49,2025-07-28,132
+CO-7010,Pulse Tech,Enterprise,2715.66,46468,460,Asia Pacific,Education,3,2024-09-27,,False,26,1,2025-09-29,203
+CO-7011,Wave Inc,Professional,244.89,46812,453,Asia Pacific,Consulting,12,2024-10-04,,False,87,4,2025-12-25,61
+CO-7012,Zenith Analytics,Starter,85.12,23806,1567,North America,Technology,12,2021-09-16,,False,-100,3,2025-05-18,381
+CO-7013,Vertex Analytics,Free,0.0,27683,1433,Asia Pacific,Media,1,2022-01-28,,False,-51,9,2024-03-25,282
+CO-7014,Spark Inc,Professional,103.3,24205,783,Europe,Consulting,12,2023-11-09,,False,70,28,2024-08-28,366
+CO-7015,Nova Analytics,Professional,412.64,35349,1603,Asia Pacific,Retail,6,2021-08-11,,False,37,34,2025-12-18,44
+CO-7016,Spark Labs,Enterprise,1911.1,16135,516,Asia Pacific,Manufacturing,1,2024-08-02,,False,-38,1,2025-11-16,66
+CO-7017,Spark Inc,Starter,38.75,23238,221,Middle East,Retail,24,2025-05-24,,False,53,17,2025-10-06,450
+CO-7018,Acme Corp,Professional,115.19,36129,1216,Asia Pacific,Consulting,6,2022-09-02,2024-05-26,True,-37,42,2024-02-04,97
+CO-7019,Apex Tech,Free,0.0,7608,1529,Latin America,Retail,6,2021-10-24,2023-06-08,True,55,15,2022-09-03,66
+CO-7020,Apex Analytics,Professional,298.2,30680,261,Latin America,Retail,12,2025-04-14,,False,60,0,2025-12-04,35
+CO-7021,Apex Solutions,Professional,429.12,38470,777,Latin America,Healthcare,3,2023-11-15,,False,77,21,2024-02-18,239
+CO-7022,Nimbus Systems,Professional,339.32,42644,927,North America,Media,3,2023-06-18,,False,-43,23,2023-06-26,191
+CO-7023,Pulse Systems,Professional,245.45,18494,429,Middle East,Consulting,1,2024-10-28,2026-06-23,True,-54,27,2025-08-19,488
+CO-7024,Acme Analytics,Free,0.0,43735,1889,Middle East,Manufacturing,12,2020-10-29,,False,-18,9,2022-05-12,389
+CO-7025,Acme AI,Starter,34.98,34406,1478,Latin America,Healthcare,24,2021-12-14,,False,-5,40,2025-10-27,376
+CO-7026,Vertex AI,Professional,496.78,7482,1966,Asia Pacific,Government,24,2020-08-13,,False,-34,20,2024-06-22,127
+CO-7027,Wave AI,Starter,95.51,24175,1926,North America,Government,6,2020-09-22,2021-03-11,True,-71,15,2021-07-14,190
+CO-7028,Acme Analytics,Professional,361.19,9876,1569,North America,Consulting,6,2021-09-14,,False,-68,1,2024-09-29,169
+CO-7029,Nimbus Tech,Professional,423.54,18797,2007,Europe,Non-profit,24,2020-07-03,,False,89,41,2023-01-09,129
+CO-7030,Forge Analytics,Professional,331.0,36818,338,Asia Pacific,Government,1,2025-01-27,,False,-40,15,2025-07-11,200
+CO-7031,Pulse Digital,Starter,72.7,4306,786,Asia Pacific,Manufacturing,12,2023-11-06,,False,-3,13,2025-10-16,5
+CO-7032,Pulse Digital,Starter,85.01,37090,2170,Middle East,Consulting,1,2020-01-22,2021-12-26,True,1,28,2024-11-14,120
+CO-7033,Zenith Inc,Professional,466.53,14520,778,Europe,Media,24,2023-11-14,,False,77,8,2024-12-12,385
+CO-7034,Forge Labs,Professional,298.64,7491,1898,Europe,Education,24,2020-10-20,2022-08-14,True,53,18,2023-12-12,155
+CO-7035,Pulse Solutions,Free,0.0,3341,1503,Asia Pacific,Non-profit,6,2021-11-19,,False,-12,26,2025-09-05,249
+CO-7036,Wave Cloud,Enterprise,3195.64,49868,1730,Latin America,Education,6,2021-04-06,,False,-84,49,2022-10-05,35
+CO-7037,Wave Tech,Starter,84.1,28550,1803,Middle East,Healthcare,1,2021-01-23,,False,72,29,2023-07-23,322
+CO-7038,Acme Systems,Starter,61.58,14590,679,North America,Non-profit,1,2024-02-21,,False,7,33,2024-04-30,212
+CO-7039,Nova Inc,Starter,84.77,2902,1524,Latin America,Government,3,2021-10-29,,False,47,9,2025-08-02,466
+CO-7040,Forge Analytics,Enterprise,1884.66,10412,425,Asia Pacific,Retail,24,2024-11-01,,False,8,46,2025-05-27,463
+CO-7041,Nova Analytics,Professional,434.34,41460,1346,Middle East,Finance,1,2022-04-25,2022-08-17,True,-94,50,2024-05-18,54
+CO-7042,Nimbus Cloud,Professional,283.82,7478,568,Asia Pacific,Government,6,2024-06-11,,False,35,41,2025-09-30,439
+CO-7043,Pulse Corp,Professional,423.56,15578,353,Latin America,Retail,3,2025-01-12,2027-01-13,True,43,0,2025-11-24,191
+CO-7044,Wave Analytics,Professional,238.25,33218,882,Asia Pacific,Healthcare,3,2023-08-02,,False,-63,34,2024-01-24,397
+CO-7045,Spark Digital,Professional,224.19,14545,651,Latin America,Consulting,12,2024-03-20,,False,-68,32,2024-11-22,251
+CO-7046,Wave AI,Professional,144.45,44973,849,Europe,Retail,3,2023-09-04,,False,94,46,2025-07-04,101
+CO-7047,Pulse Cloud,Starter,95.64,49526,664,Latin America,Media,24,2024-03-07,,False,48,43,2025-07-21,392
+CO-7048,Nimbus Labs,Free,0.0,18926,840,North America,Education,3,2023-09-13,2024-07-14,True,44,23,2025-11-16,436
+CO-7049,Vertex Corp,Professional,149.23,14080,1286,Latin America,Finance,24,2022-06-24,,False,-94,37,2024-02-15,340
+CO-7050,Zenith Solutions,Professional,451.51,26517,793,Asia Pacific,Non-profit,3,2023-10-30,,False,-3,4,2025-08-27,374
+CO-7051,Forge Analytics,Professional,105.69,10062,781,Middle East,Retail,1,2023-11-11,,False,14,13,2024-12-26,118
+CO-7052,Acme Digital,Professional,204.26,44495,665,North America,Media,1,2024-03-06,,False,36,8,2024-11-29,181
+CO-7053,Wave Analytics,Starter,92.98,11710,800,Middle East,Finance,1,2023-10-23,,False,-17,7,2024-09-20,404
+CO-7054,Nova Digital,Professional,436.59,17079,304,Asia Pacific,Finance,3,2025-03-02,,False,42,22,2025-03-20,307
+CO-7055,Vertex AI,Starter,91.98,21835,1638,Middle East,Technology,3,2021-07-07,,False,91,16,2021-09-18,145
+CO-7056,Spark Inc,Professional,272.91,11614,1265,Asia Pacific,Non-profit,24,2022-07-15,,False,35,29,2022-12-01,293
+CO-7057,Forge Tech,Free,0.0,39328,587,Latin America,Healthcare,6,2024-05-23,2025-01-05,True,31,42,2025-11-25,196
+CO-7058,Nova Corp,Professional,221.76,7596,881,Europe,Technology,6,2023-08-03,,False,-49,5,2025-02-01,312
+CO-7059,Apex Inc,Enterprise,3738.66,24434,2155,Middle East,Non-profit,6,2020-02-06,,False,-8,8,2022-10-27,121
+CO-7060,Forge Analytics,Enterprise,3466.72,13262,393,Latin America,Healthcare,24,2024-12-03,,False,-87,9,2025-07-29,336
+CO-7061,Nova Tech,Starter,80.34,14066,974,Latin America,Finance,3,2023-05-02,,False,-54,6,2025-06-24,22
+CO-7062,Nova Solutions,Starter,84.62,38761,645,Asia Pacific,Manufacturing,3,2024-03-26,2024-11-09,True,67,49,2025-11-17,432
+CO-7063,Wave Inc,Professional,410.94,29090,1469,Europe,Government,3,2021-12-23,,False,53,47,2022-04-29,372
+CO-7064,Nova Analytics,Starter,55.81,2584,1152,Europe,Healthcare,3,2022-11-05,,False,94,8,2025-05-18,298
+CO-7065,Spark Corp,Starter,78.33,20822,1460,Asia Pacific,Finance,1,2022-01-01,,False,93,23,2023-12-22,455
+CO-7066,Forge Tech,Enterprise,2538.52,139,488,Middle East,Media,3,2024-08-30,2025-09-20,True,12,25,2025-02-07,228
+CO-7067,Wave Cloud,Professional,346.26,13567,573,Middle East,Retail,24,2024-06-06,,False,-51,33,2024-08-28,49
+CO-7068,Zenith Inc,Professional,311.09,46193,1811,Asia Pacific,Consulting,3,2021-01-15,,False,-62,48,2021-02-02,389
+CO-7069,Pulse Corp,Free,0.0,35441,803,Asia Pacific,Finance,3,2023-10-20,,False,37,37,2024-08-23,41
+CO-7070,Spark Inc,Starter,69.46,1959,1882,Latin America,Consulting,1,2020-11-05,,False,20,32,2025-04-10,107
+CO-7071,Vertex Systems,Starter,62.51,9007,1350,Asia Pacific,Government,12,2022-04-21,,False,51,15,2023-10-25,351
+CO-7072,Forge Corp,Starter,39.5,11987,1087,Europe,Education,12,2023-01-09,2023-11-18,True,-11,45,2023-05-01,76
+CO-7073,Wave Analytics,Professional,147.44,19777,523,Middle East,Media,24,2024-07-26,2025-09-16,True,86,44,2025-12-10,143
+CO-7074,Apex Solutions,Enterprise,1635.04,36917,1152,Latin America,Technology,1,2022-11-05,,False,-65,22,2025-12-01,299
+CO-7075,Wave Corp,Starter,59.63,42423,741,Europe,Manufacturing,6,2023-12-21,,False,88,39,2024-03-09,365
+CO-7076,Pulse Cloud,Starter,59.76,48784,2019,Europe,Media,1,2020-06-21,,False,52,13,2021-03-15,213
+CO-7077,Acme AI,Professional,494.76,37757,1592,North America,Finance,3,2021-08-22,,False,-30,15,2023-02-24,126
+CO-7078,Pulse Solutions,Starter,60.53,11495,648,Europe,Government,6,2024-03-23,,False,-83,14,2024-06-10,398
+CO-7079,Nova Tech,Professional,226.81,19452,735,Middle East,Finance,3,2023-12-27,,False,99,24,2025-10-27,40
+CO-7080,Nimbus Labs,Professional,244.24,42262,2173,North America,Finance,24,2020-01-19,,False,-30,15,2025-08-18,446
+CO-7081,Forge Cloud,Professional,155.64,8567,628,North America,Media,24,2024-04-12,,False,57,44,2024-06-16,270
+CO-7082,Acme Systems,Starter,88.17,16997,806,Europe,Healthcare,12,2023-10-17,,False,81,3,2023-12-03,120
+CO-7083,Apex Cloud,Starter,55.47,26080,751,North America,Government,24,2023-12-11,2024-01-11,True,-57,44,2024-06-16,241
+CO-7084,Spark Tech,Starter,61.72,15467,735,Middle East,Healthcare,3,2023-12-27,,False,-92,18,2025-12-03,125
+CO-7085,Nimbus Analytics,Free,0.0,8097,506,Middle East,Manufacturing,6,2024-08-12,2026-06-24,True,9,40,2025-09-08,276
+CO-7086,Apex Digital,Enterprise,2484.68,48331,458,Europe,Government,12,2024-09-29,,False,18,4,2024-11-29,460
+CO-7087,Nova Digital,Professional,465.4,42997,2024,Latin America,Education,6,2020-06-16,,False,73,34,2021-12-26,447
+CO-7088,Apex Labs,Professional,159.3,5348,740,Europe,Media,24,2023-12-22,,False,60,2,2023-12-27,205
+CO-7089,Acme Inc,Starter,44.85,23303,446,North America,Government,6,2024-10-11,,False,-84,42,2025-04-16,213
+CO-7090,Vertex Corp,Professional,464.36,9614,469,Asia Pacific,Retail,3,2024-09-18,,False,29,13,2025-01-12,75
+CO-7091,Wave Inc,Starter,97.81,46158,2076,Europe,Retail,24,2020-04-25,2022-03-30,True,-18,37,2025-02-01,304
+CO-7092,Wave Digital,Free,0.0,30097,1025,Asia Pacific,Media,3,2023-03-12,,False,52,9,2025-01-31,247
+CO-7093,Forge Labs,Starter,33.91,2936,1718,Asia Pacific,Finance,12,2021-04-18,2022-03-25,True,-41,17,2024-03-30,413
+CO-7094,Pulse Digital,Professional,130.69,32891,271,Europe,Retail,24,2025-04-04,2025-08-21,True,-30,49,2025-08-09,197
+CO-7095,Forge Corp,Enterprise,3419.47,40297,223,Middle East,Consulting,1,2025-05-22,2025-11-01,True,68,42,2025-10-05,423
+CO-7096,Nimbus Labs,Professional,427.78,34033,1554,North America,Finance,1,2021-09-29,,False,-86,0,2025-06-30,409
+CO-7097,Apex Solutions,Starter,67.2,2978,1728,Middle East,Government,6,2021-04-08,,False,-56,14,2021-06-27,117
+CO-7098,Forge AI,Starter,50.45,49868,1142,Middle East,Healthcare,6,2022-11-15,2023-02-08,True,3,42,2023-04-21,432
+CO-7099,Pulse Digital,Starter,51.72,24266,1121,Middle East,Consulting,3,2022-12-06,2024-08-30,True,33,20,2025-08-28,384
+CO-7100,Spark Solutions,Enterprise,3745.45,24956,346,North America,Manufacturing,1,2025-01-19,2025-08-16,True,-78,49,2025-10-09,73
+CO-7101,Wave Corp,Professional,165.96,46447,1983,Asia Pacific,Non-profit,12,2020-07-27,2021-07-28,True,39,15,2022-09-02,115
+CO-7102,Spark Digital,Starter,88.81,24613,1116,Asia Pacific,Government,6,2022-12-11,,False,-61,7,2024-06-12,379
+CO-7103,Spark Systems,Professional,462.66,35048,777,Asia Pacific,Healthcare,3,2023-11-15,,False,-69,37,2024-06-17,225
+CO-7104,Spark Cloud,Starter,72.24,1604,2080,North America,Non-profit,1,2020-04-21,,False,100,49,2025-11-15,251
+CO-7105,Forge Cloud,Professional,314.48,49013,990,North America,Non-profit,1,2023-04-16,,False,-23,43,2023-11-05,407
+CO-7106,Nimbus Systems,Enterprise,2317.97,39611,1769,Asia Pacific,Technology,12,2021-02-26,,False,-63,19,2023-01-16,199
+CO-7107,Vertex Corp,Professional,199.43,16363,699,Europe,Retail,6,2024-02-01,,False,-32,13,2024-08-26,477
+CO-7108,Apex Labs,Professional,449.27,40959,814,Europe,Non-profit,6,2023-10-09,,False,-22,35,2024-04-27,78
+CO-7109,Spark Corp,Professional,244.28,20129,476,Europe,Education,1,2024-09-11,,False,-89,44,2024-12-02,3
+CO-7110,Spark Labs,Starter,37.87,21325,1567,Middle East,Healthcare,3,2021-09-16,,False,-13,46,2025-06-26,423
+CO-7111,Apex Solutions,Enterprise,2771.61,8608,2033,Latin America,Manufacturing,3,2020-06-07,2022-08-01,True,-29,50,2020-09-27,130
+CO-7112,Forge Tech,Professional,477.83,46716,573,Middle East,Consulting,1,2024-06-06,2026-06-07,True,-60,4,2025-10-19,192
+CO-7113,Apex Analytics,Starter,40.09,27699,2010,Europe,Education,6,2020-06-30,,False,3,9,2023-10-15,201
+CO-7114,Nova Analytics,Enterprise,1136.42,17896,240,Middle East,Education,3,2025-05-05,,False,-11,0,2025-10-12,386
+CO-7115,Acme Systems,Enterprise,3217.19,6689,1834,North America,Healthcare,1,2020-12-23,,False,40,27,2023-05-12,267
+CO-7116,Nimbus Digital,Enterprise,3964.21,11706,282,Middle East,Consulting,1,2025-03-24,,False,73,12,2025-07-12,200
+CO-7117,Spark Analytics,Professional,177.91,236,860,Europe,Media,6,2023-08-24,2024-10-16,True,42,14,2025-12-23,417
+CO-7118,Pulse Analytics,Enterprise,2360.51,8957,1350,North America,Non-profit,3,2022-04-21,,False,-92,50,2024-07-22,420
+CO-7119,Acme Systems,Professional,408.3,18819,1483,Latin America,Non-profit,24,2021-12-09,,False,72,36,2024-06-26,351
+CO-7120,Nimbus Labs,Professional,201.67,40060,1337,Europe,Education,24,2022-05-04,,False,27,32,2023-05-21,314
+CO-7121,Forge Tech,Professional,243.0,8022,581,North America,Manufacturing,1,2024-05-29,2025-12-05,True,43,48,2024-06-04,475
+CO-7122,Nimbus Solutions,Professional,168.9,20573,1767,Asia Pacific,Technology,1,2021-02-28,,False,25,25,2025-04-13,436
+CO-7123,Nova Digital,Enterprise,740.06,32552,581,Middle East,Government,6,2024-05-29,2024-10-25,True,-46,34,2024-10-28,111
+CO-7124,Nova Solutions,Professional,314.83,27308,330,North America,Finance,3,2025-02-04,,False,89,38,2025-12-25,148
+CO-7125,Forge Cloud,Free,0.0,7732,1434,Asia Pacific,Finance,24,2022-01-27,,False,-24,42,2023-05-10,336
+CO-7126,Apex Solutions,Enterprise,3755.56,46031,1529,Middle East,Media,6,2021-10-24,,False,-77,44,2023-10-15,465
+CO-7127,Wave Corp,Professional,103.25,39889,288,Europe,Manufacturing,24,2025-03-18,,False,32,25,2025-07-04,97
+CO-7128,Wave Cloud,Professional,481.7,46347,335,North America,Finance,12,2025-01-30,,False,68,37,2025-12-22,61
+CO-7129,Apex Inc,Professional,222.15,2389,2168,Asia Pacific,Healthcare,1,2020-01-24,,False,53,2,2024-03-22,330
+CO-7130,Vertex Analytics,Starter,96.73,1701,1907,Asia Pacific,Education,3,2020-10-11,,False,-84,29,2024-08-30,15
+CO-7131,Nova Digital,Enterprise,4990.76,26404,1500,North America,Manufacturing,3,2021-11-22,2022-09-09,True,-97,3,2023-12-08,32
+CO-7132,Zenith Labs,Professional,180.68,12127,2123,Europe,Education,6,2020-03-09,2022-01-09,True,-80,45,2023-10-20,160
+CO-7133,Spark Solutions,Starter,79.19,14994,236,Middle East,Media,6,2025-05-09,,False,25,5,2025-05-29,112
+CO-7134,Vertex Tech,Professional,270.43,27538,724,Latin America,Technology,1,2024-01-07,,False,-8,39,2025-02-08,157
+CO-7135,Acme Analytics,Starter,83.61,19766,258,Latin America,Non-profit,1,2025-04-17,,False,-31,27,2025-06-08,144
+CO-7136,Zenith Corp,Professional,415.54,31377,551,Europe,Media,3,2024-06-28,2025-08-29,True,-91,30,2024-09-17,368
+CO-7137,Zenith Labs,Enterprise,4379.6,15930,2033,North America,Education,3,2020-06-07,,False,-29,38,2025-03-30,235
+CO-7138,Vertex Analytics,Professional,325.65,43421,1614,North America,Consulting,24,2021-07-31,,False,18,3,2022-04-02,251
+CO-7139,Apex Labs,Professional,172.85,35350,2181,North America,Education,24,2020-01-11,2020-05-27,True,76,23,2020-06-28,344
+CO-7140,Wave Solutions,Professional,439.93,8135,1097,Europe,Government,12,2022-12-30,,False,79,18,2023-07-03,457
+CO-7141,Pulse Solutions,Starter,81.13,39236,2180,Europe,Finance,12,2020-01-12,,False,-9,48,2020-06-17,175
+CO-7142,Wave AI,Professional,315.58,9834,1972,North America,Non-profit,12,2020-08-07,,False,-37,9,2025-12-27,468
+CO-7143,Nimbus AI,Professional,177.48,15613,412,Asia Pacific,Manufacturing,3,2024-11-14,2026-04-13,True,64,7,2025-01-15,98
+CO-7144,Acme Systems,Professional,339.95,43578,625,Middle East,Healthcare,6,2024-04-15,,False,72,44,2025-03-09,130
+CO-7145,Nimbus Solutions,Free,0.0,34609,1821,Europe,Media,24,2021-01-05,,False,-64,32,2021-10-07,393
+CO-7146,Wave Digital,Starter,53.53,19622,1195,North America,Education,6,2022-09-23,2024-07-02,True,-12,43,2023-12-08,156
+CO-7147,Wave Inc,Enterprise,4274.92,15759,720,Middle East,Healthcare,24,2024-01-11,2025-10-17,True,-98,35,2024-07-06,46
+CO-7148,Apex Tech,Professional,411.74,12988,656,North America,Media,1,2024-03-15,,False,82,17,2024-04-21,434
+CO-7149,Apex Analytics,Professional,474.51,47283,1313,Latin America,Media,24,2022-05-28,,False,-19,49,2024-01-27,239
+CO-7150,Forge AI,Starter,98.04,4243,676,North America,Healthcare,24,2024-02-24,2025-09-29,True,37,24,2024-08-19,328
+CO-7151,Nova Labs,Free,0.0,36237,345,Europe,Manufacturing,1,2025-01-20,,False,23,11,2025-10-25,322
+CO-7152,Nova Digital,Enterprise,3510.47,40681,2089,Middle East,Manufacturing,12,2020-04-12,,False,-76,44,2023-03-25,341
+CO-7153,Nimbus Digital,Enterprise,4393.44,28749,512,Latin America,Technology,12,2024-08-06,,False,-25,45,2024-10-16,445
+CO-7154,Acme Systems,Professional,282.47,2278,248,Middle East,Healthcare,3,2025-04-27,,False,98,41,2025-04-29,31
+CO-7155,Forge Digital,Enterprise,781.77,21865,473,Middle East,Government,6,2024-09-14,2026-11-13,True,16,3,2024-11-29,126
+CO-7156,Spark Solutions,Starter,30.38,33417,1852,Middle East,Media,24,2020-12-05,,False,-67,40,2024-06-03,484
+CO-7157,Forge Corp,Professional,204.14,25753,955,Europe,Non-profit,1,2023-05-21,,False,37,12,2023-11-29,310
+CO-7158,Nova Inc,Professional,186.73,6241,1364,Asia Pacific,Education,6,2022-04-07,2024-06-06,True,-82,14,2025-12-21,14
+CO-7159,Acme Cloud,Starter,79.87,27267,1423,Asia Pacific,Healthcare,1,2022-02-07,,False,65,37,2022-12-24,317
+CO-7160,Acme Cloud,Professional,162.05,1575,905,Europe,Manufacturing,6,2023-07-10,2024-01-24,True,35,30,2025-09-08,259
+CO-7161,Spark Analytics,Enterprise,3651.4,18768,2141,Asia Pacific,Consulting,12,2020-02-20,2022-04-09,True,16,10,2022-02-07,216
+CO-7162,Forge Corp,Professional,276.49,9889,2085,Latin America,Manufacturing,6,2020-04-16,,False,-33,23,2025-07-27,279
+CO-7163,Spark Labs,Starter,97.71,26964,457,Middle East,Education,3,2024-09-30,,False,39,32,2025-10-28,11
+CO-7164,Vertex Analytics,Starter,96.47,10265,1083,North America,Retail,12,2023-01-13,,False,-62,8,2025-02-16,290
+CO-7165,Spark Inc,Starter,90.89,27127,962,Europe,Retail,12,2023-05-14,2023-08-18,True,19,34,2024-03-18,180
+CO-7166,Nova Tech,Starter,86.9,19856,492,North America,Retail,24,2024-08-26,2025-04-06,True,-91,4,2025-04-10,9
+CO-7167,Apex Digital,Starter,79.5,8106,1371,Asia Pacific,Non-profit,24,2022-03-31,,False,53,30,2023-01-01,414
+CO-7168,Spark Tech,Free,0.0,41133,873,Latin America,Media,3,2023-08-11,2024-11-26,True,11,12,2024-11-14,427
+CO-7169,Spark AI,Professional,371.98,45637,1891,Latin America,Media,1,2020-10-27,,False,77,46,2025-11-19,2
+CO-7170,Spark Systems,Professional,169.27,10376,1003,Europe,Technology,12,2023-04-03,,False,-55,42,2024-07-07,240
+CO-7171,Spark Solutions,Professional,397.37,23198,1831,Europe,Consulting,1,2020-12-26,2022-04-18,True,-96,36,2023-02-18,30
+CO-7172,Nova Systems,Enterprise,3053.84,29269,1599,Latin America,Government,12,2021-08-15,,False,27,11,2023-01-15,483
+CO-7173,Wave Analytics,Professional,301.95,16847,1776,Latin America,Technology,6,2021-02-19,,False,-35,35,2022-08-08,109
+CO-7174,Pulse Digital,Professional,433.36,35215,1169,Middle East,Technology,1,2022-10-19,2023-05-08,True,-28,20,2023-07-19,155
+CO-7175,Nova Digital,Professional,379.0,10806,1871,North America,Finance,1,2020-11-16,,False,33,47,2024-06-13,125
+CO-7176,Pulse Tech,Free,0.0,41029,2147,Asia Pacific,Media,6,2020-02-14,,False,-51,48,2020-08-15,119
+CO-7177,Nova Digital,Starter,46.76,4511,709,Latin America,Finance,24,2024-01-22,2024-08-01,True,-74,41,2025-11-17,8
+CO-7178,Zenith Solutions,Starter,29.01,14544,1888,Asia Pacific,Media,24,2020-10-30,2022-10-15,True,82,3,2024-11-27,276
+CO-7179,Nova Digital,Enterprise,4638.05,47481,243,North America,Manufacturing,3,2025-05-02,2027-07-01,True,40,46,2025-10-09,72
+CO-7180,Pulse Analytics,Enterprise,3178.87,38410,2077,Asia Pacific,Media,3,2020-04-24,2020-11-19,True,60,26,2025-04-28,481
+CO-7181,Pulse Cloud,Professional,183.82,28569,1798,Asia Pacific,Consulting,3,2021-01-28,,False,-40,45,2025-06-14,290
+CO-7182,Wave Corp,Professional,449.28,461,1848,Latin America,Education,1,2020-12-09,,False,-87,1,2024-10-05,359
+CO-7183,Acme Corp,Starter,69.06,17893,1812,Middle East,Government,3,2021-01-14,,False,-95,21,2025-06-09,255
+CO-7184,Vertex Corp,Enterprise,1817.2,45219,338,Middle East,Media,3,2025-01-27,2025-07-08,True,89,5,2025-10-03,387
+CO-7185,Nova Systems,Enterprise,750.88,3794,687,Middle East,Healthcare,12,2024-02-13,,False,11,12,2025-08-29,379
+CO-7186,Apex Inc,Starter,54.74,38378,1160,Latin America,Government,6,2022-10-28,,False,95,7,2024-04-12,151
+CO-7187,Acme Corp,Starter,63.97,49192,2043,Latin America,Technology,24,2020-05-28,,False,25,28,2024-11-04,401
+CO-7188,Apex Corp,Free,0.0,23229,579,North America,Retail,3,2024-05-31,,False,2,16,2024-09-09,473
+CO-7189,Apex Solutions,Professional,328.29,2532,1171,North America,Finance,24,2022-10-17,2024-03-21,True,-86,20,2023-06-08,238
+CO-7190,Nimbus Analytics,Starter,75.77,4564,1041,Middle East,Finance,24,2023-02-24,,False,-30,30,2023-06-10,44
+CO-7191,Acme Tech,Professional,154.43,10193,968,Asia Pacific,Education,3,2023-05-08,,False,86,1,2025-07-20,367
+CO-7192,Pulse Analytics,Starter,30.1,8563,1741,North America,Healthcare,1,2021-03-26,,False,-37,32,2023-01-17,457
+CO-7193,Wave Corp,Professional,136.19,38994,1733,North America,Media,6,2021-04-03,,False,75,23,2025-07-19,324
+CO-7194,Acme Digital,Free,0.0,17644,601,Latin America,Education,24,2024-05-09,,False,-36,44,2024-12-24,425
+CO-7195,Nimbus Tech,Enterprise,3790.3,19173,1334,Europe,Government,12,2022-05-07,,False,-40,15,2025-05-25,90
+CO-7196,Spark Labs,Starter,93.2,33912,2144,Asia Pacific,Healthcare,6,2020-02-17,2020-09-22,True,8,39,2023-03-03,485
+CO-7197,Pulse Systems,Starter,71.89,26188,1416,Europe,Non-profit,24,2022-02-14,,False,65,49,2025-12-24,131
+CO-7198,Apex Systems,Starter,78.41,16627,2073,Europe,Education,3,2020-04-28,2020-10-30,True,-14,32,2021-10-24,51
+CO-7199,Spark Labs,Professional,172.63,11618,1122,Europe,Consulting,24,2022-12-05,,False,0,30,2023-10-10,399
+CO-7200,Spark AI,Starter,87.82,2953,362,Asia Pacific,Manufacturing,24,2025-01-03,,False,59,50,2025-01-22,306
+CO-7201,Apex Solutions,Professional,224.62,31202,2171,North America,Retail,12,2020-01-21,,False,-30,39,2021-01-07,5
+CO-7202,Nimbus Analytics,Starter,51.94,45334,333,Europe,Healthcare,12,2025-02-01,,False,95,7,2025-09-06,38
+CO-7203,Acme Solutions,Professional,421.14,14675,2040,North America,Government,3,2020-05-31,,False,-26,9,2024-04-23,67
+CO-7204,Spark Tech,Starter,94.42,29995,1301,Europe,Media,3,2022-06-09,,False,31,20,2022-08-08,217
+CO-7205,Nova Inc,Professional,290.32,27131,1166,Europe,Technology,1,2022-10-22,,False,-95,21,2025-08-12,303
+CO-7206,Wave Tech,Free,0.0,42885,1147,Latin America,Consulting,12,2022-11-10,,False,44,26,2024-08-16,73
+CO-7207,Nimbus AI,Enterprise,868.77,6336,1289,Asia Pacific,Government,12,2022-06-21,,False,-23,14,2024-04-12,165
+CO-7208,Nimbus Analytics,Starter,90.25,1828,1386,North America,Healthcare,12,2022-03-16,,False,-46,50,2023-08-23,24
+CO-7209,Pulse Systems,Professional,493.36,4330,1787,Europe,Education,3,2021-02-08,,False,-71,5,2025-02-16,180
+CO-7210,Wave Corp,Free,0.0,594,1158,Asia Pacific,Consulting,1,2022-10-30,,False,-87,49,2025-11-22,408
+CO-7211,Wave Analytics,Professional,161.57,49189,418,Asia Pacific,Education,3,2024-11-08,,False,36,28,2025-04-17,334
+CO-7212,Forge Inc,Starter,40.43,44430,1997,North America,Technology,3,2020-07-13,2022-06-23,True,42,33,2024-03-22,311
+CO-7213,Vertex Tech,Free,0.0,39555,605,Middle East,Non-profit,3,2024-05-05,2025-10-14,True,79,15,2025-09-18,336
+CO-7214,Acme Cloud,Free,0.0,40388,661,Latin America,Education,6,2024-03-10,2024-09-07,True,6,17,2025-02-24,58
+CO-7215,Acme Corp,Professional,279.5,11882,1184,North America,Education,24,2022-10-04,,False,-42,7,2024-01-04,425
+CO-7216,Apex Tech,Enterprise,3629.3,9517,2072,Asia Pacific,Government,24,2020-04-29,,False,39,4,2023-09-25,394
+CO-7217,Nova Labs,Starter,40.71,27192,1858,Europe,Technology,1,2020-11-29,,False,7,37,2021-06-25,197
+CO-7218,Nova Solutions,Enterprise,2530.52,17209,450,Asia Pacific,Government,6,2024-10-07,,False,3,6,2025-01-28,320
+CO-7219,Pulse Cloud,Starter,78.48,27090,1173,Asia Pacific,Retail,24,2022-10-15,2023-12-10,True,46,9,2023-04-01,348
+CO-7220,Spark Inc,Free,0.0,12304,947,Latin America,Non-profit,1,2023-05-29,,False,-32,2,2024-12-11,142
+CO-7221,Apex Systems,Professional,299.61,33573,928,Middle East,Retail,1,2023-06-17,,False,-91,12,2024-01-15,416
+CO-7222,Apex Inc,Enterprise,4540.31,23598,850,Europe,Government,12,2023-09-03,,False,-44,47,2025-04-20,146
+CO-7223,Vertex Analytics,Professional,279.34,8449,1067,Latin America,Media,12,2023-01-29,,False,-36,18,2024-05-02,158
+CO-7224,Apex Corp,Professional,388.9,13304,1183,Latin America,Consulting,1,2022-10-05,2023-01-13,True,62,20,2023-12-07,414
+CO-7225,Nova Labs,Professional,187.48,2458,1969,Middle East,Government,6,2020-08-10,2022-02-15,True,-72,4,2023-10-18,220
+CO-7226,Wave Corp,Free,0.0,43480,1786,North America,Retail,1,2021-02-09,,False,17,6,2023-04-06,434
+CO-7227,Acme Cloud,Starter,57.27,47657,1840,Asia Pacific,Technology,6,2020-12-17,,False,-2,19,2021-07-10,330
+CO-7228,Vertex Analytics,Professional,217.97,19409,1779,Middle East,Consulting,6,2021-02-16,2022-12-22,True,69,21,2023-12-18,104
+CO-7229,Nimbus Digital,Professional,313.18,8338,1776,North America,Education,6,2021-02-19,2023-04-08,True,-74,47,2025-12-10,277
+CO-7230,Forge Analytics,Starter,56.44,23864,343,Europe,Technology,6,2025-01-22,,False,74,26,2025-05-10,390
+CO-7231,Acme Cloud,Starter,42.37,59,1311,Latin America,Manufacturing,6,2022-05-30,,False,29,19,2023-05-02,103
+CO-7232,Acme Labs,Professional,352.69,34153,1272,Latin America,Finance,3,2022-07-08,,False,-24,21,2025-05-27,393
+CO-7233,Zenith Labs,Professional,454.82,34594,1241,Latin America,Consulting,6,2022-08-08,,False,9,43,2024-04-19,372
+CO-7234,Forge Tech,Enterprise,1045.59,45739,992,Latin America,Education,24,2023-04-14,2023-06-15,True,-99,10,2023-05-10,285
+CO-7235,Apex AI,Starter,73.59,24053,577,Asia Pacific,Healthcare,1,2024-06-02,,False,38,46,2025-01-14,105
+CO-7236,Wave Inc,Starter,62.96,10301,1476,Asia Pacific,Technology,6,2021-12-16,,False,7,13,2022-08-29,431
+CO-7237,Spark Inc,Free,0.0,26266,1580,Latin America,Healthcare,1,2021-09-03,,False,-75,31,2022-11-29,433
+CO-7238,Vertex Tech,Professional,173.81,3339,642,Middle East,Technology,24,2024-03-29,,False,42,39,2024-05-26,261
+CO-7239,Spark AI,Professional,164.13,32851,1499,Asia Pacific,Education,24,2021-11-23,,False,91,30,2023-07-30,260
+CO-7240,Acme Analytics,Enterprise,2267.67,8266,1192,Asia Pacific,Finance,6,2022-09-26,2022-12-24,True,60,4,2024-11-23,234
+CO-7241,Wave Inc,Professional,224.73,4819,1600,Asia Pacific,Finance,24,2021-08-14,2022-06-07,True,-69,27,2025-10-22,242
+CO-7242,Nova Analytics,Enterprise,1580.79,34800,1628,Asia Pacific,Technology,24,2021-07-17,,False,-18,39,2023-03-13,197
+CO-7243,Apex Labs,Professional,268.76,18446,468,Latin America,Government,1,2024-09-19,,False,-58,32,2024-10-02,133
+CO-7244,Pulse Cloud,Starter,92.54,8948,702,Latin America,Finance,1,2024-01-29,2025-05-14,True,2,38,2024-03-04,272
+CO-7245,Nova Digital,Enterprise,2180.98,28535,1819,Middle East,Education,12,2021-01-07,,False,-47,49,2025-10-20,232
+CO-7246,Pulse Labs,Enterprise,3507.67,31836,504,Europe,Healthcare,3,2024-08-14,,False,-56,15,2025-12-06,488
+CO-7247,Nimbus Corp,Enterprise,3543.14,7414,660,Middle East,Technology,1,2024-03-11,,False,-67,0,2024-06-15,286
+CO-7248,Wave Analytics,Professional,136.75,46903,1265,Middle East,Healthcare,3,2022-07-15,,False,-84,39,2024-09-06,454
+CO-7249,Forge Corp,Professional,494.83,37381,2061,Latin America,Government,24,2020-05-10,,False,-98,10,2023-01-16,17
+CO-7250,Apex Labs,Enterprise,3976.51,49468,1505,Latin America,Retail,12,2021-11-17,,False,45,45,2025-08-18,18
+CO-7251,Apex Solutions,Starter,70.31,7782,1054,Latin America,Consulting,3,2023-02-11,,False,-71,45,2025-11-27,360
+CO-7252,Nova Digital,Professional,467.55,29958,327,North America,Government,6,2025-02-07,,False,90,20,2025-04-27,206
+CO-7253,Vertex Tech,Starter,59.93,25907,740,Asia Pacific,Media,3,2023-12-22,,False,-7,45,2024-07-04,151
+CO-7254,Pulse Digital,Enterprise,3795.2,1546,802,Middle East,Retail,3,2023-10-21,,False,54,13,2025-09-16,334
+CO-7255,Zenith Inc,Enterprise,3717.87,37599,2187,Latin America,Manufacturing,6,2020-01-05,2021-12-19,True,-31,1,2022-07-16,7
+CO-7256,Nova AI,Professional,460.34,47149,1232,Middle East,Media,24,2022-08-17,,False,0,24,2023-01-04,377
+CO-7257,Apex Inc,Professional,321.51,12308,1485,Europe,Consulting,1,2021-12-07,2023-01-03,True,-73,38,2024-04-28,483
+CO-7258,Forge Analytics,Enterprise,2395.67,19112,911,Asia Pacific,Consulting,24,2023-07-04,,False,88,30,2025-02-24,352
+CO-7259,Forge Cloud,Starter,78.11,5882,520,Middle East,Retail,12,2024-07-29,,False,97,11,2024-12-28,245
+CO-7260,Nimbus Inc,Enterprise,530.47,29697,1811,Asia Pacific,Finance,6,2021-01-15,2022-10-14,True,-14,36,2024-09-19,325
+CO-7261,Wave Inc,Free,0.0,14062,1634,Europe,Retail,6,2021-07-11,,False,-40,24,2021-07-17,391
+CO-7262,Acme Tech,Professional,457.23,41518,244,Europe,Education,3,2025-05-01,,False,-29,47,2025-10-23,335
+CO-7263,Pulse Digital,Starter,54.8,34129,1956,Latin America,Healthcare,24,2020-08-23,2022-01-10,True,-73,27,2024-05-30,450
+CO-7264,Forge Corp,Enterprise,3477.09,17061,500,North America,Technology,3,2024-08-18,2026-08-30,True,3,42,2025-03-26,343
+CO-7265,Acme Tech,Free,0.0,48067,608,Asia Pacific,Healthcare,6,2024-05-02,2025-06-11,True,-19,19,2025-01-20,286
+CO-7266,Forge AI,Free,0.0,17675,762,Asia Pacific,Healthcare,12,2023-11-30,,False,1,48,2025-02-24,314
+CO-7267,Zenith Inc,Enterprise,2929.48,35790,1649,Latin America,Technology,12,2021-06-26,,False,-15,30,2024-04-05,440
+CO-7268,Nova Solutions,Professional,413.57,35775,1173,Asia Pacific,Education,24,2022-10-15,,False,-96,36,2023-11-29,479
+CO-7269,Zenith Systems,Professional,478.57,3481,2172,Middle East,Finance,12,2020-01-20,,False,85,14,2023-10-30,379
+CO-7270,Acme Tech,Professional,447.21,27061,772,Middle East,Non-profit,3,2023-11-20,2026-01-18,True,84,36,2024-06-08,114
+CO-7271,Forge AI,Enterprise,1884.3,25633,668,Asia Pacific,Education,12,2024-03-03,,False,-10,49,2024-09-18,340
+CO-7272,Nova Labs,Professional,460.38,34692,749,Middle East,Education,3,2023-12-13,,False,69,24,2025-06-06,311
+CO-7273,Vertex Corp,Professional,470.78,25399,264,Middle East,Consulting,3,2025-04-11,2026-07-05,True,-17,16,2025-12-20,78
+CO-7274,Acme Solutions,Professional,242.49,6115,623,North America,Consulting,6,2024-04-17,,False,2,23,2024-11-28,141
+CO-7275,Vertex Analytics,Enterprise,1862.64,42822,1729,Latin America,Education,24,2021-04-07,,False,21,31,2022-12-15,452
+CO-7276,Acme Systems,Starter,53.16,35778,1421,North America,Retail,24,2022-02-09,,False,54,43,2022-08-15,427
+CO-7277,Vertex AI,Professional,295.63,12331,1204,Middle East,Technology,6,2022-09-14,,False,-76,25,2024-07-28,141
+CO-7278,Nova Digital,Professional,108.59,49847,892,Asia Pacific,Education,24,2023-07-23,2024-06-05,True,48,15,2025-01-20,56
+CO-7279,Zenith Systems,Professional,471.17,47683,1354,Europe,Healthcare,24,2022-04-17,,False,-72,44,2023-09-07,140
+CO-7280,Apex Digital,Professional,234.11,29650,329,Asia Pacific,Government,1,2025-02-05,,False,93,28,2025-08-17,302
+CO-7281,Nova Analytics,Professional,112.74,36643,2133,Middle East,Technology,3,2020-02-28,,False,-47,8,2020-08-08,174
+CO-7282,Spark Corp,Professional,184.03,48709,1304,Asia Pacific,Media,12,2022-06-06,,False,-70,2,2024-05-12,378
+CO-7283,Nova AI,Professional,473.78,41323,1274,North America,Education,3,2022-07-06,2022-12-26,True,84,16,2023-12-20,61
+CO-7284,Nova Systems,Enterprise,1370.78,14532,861,Asia Pacific,Manufacturing,12,2023-08-23,,False,70,48,2024-06-07,417
+CO-7285,Acme AI,Professional,209.11,42204,1371,North America,Retail,1,2022-03-31,2024-03-08,True,-62,20,2022-10-18,418
+CO-7286,Apex Tech,Professional,201.05,2556,1274,Europe,Finance,6,2022-07-06,,False,36,7,2024-08-20,274
+CO-7287,Nova Solutions,Enterprise,1279.02,29988,790,Europe,Manufacturing,6,2023-11-02,,False,-95,2,2025-06-03,353
+CO-7288,Nova Labs,Enterprise,4583.39,10578,243,Latin America,Consulting,3,2025-05-02,,False,52,47,2025-06-19,291
+CO-7289,Pulse Inc,Starter,31.71,23283,1830,North America,Media,3,2020-12-27,,False,-95,37,2025-02-05,354
+CO-7290,Nova Tech,Enterprise,3954.47,12913,1083,Europe,Finance,3,2023-01-13,2024-06-13,True,-15,38,2025-11-15,139
+CO-7291,Wave Labs,Enterprise,1160.86,35092,2172,Europe,Consulting,3,2020-01-20,,False,35,28,2020-06-02,378
+CO-7292,Wave Inc,Free,0.0,5723,483,Europe,Technology,12,2024-09-04,,False,63,13,2024-11-20,41
+CO-7293,Nimbus Cloud,Enterprise,1314.14,2483,2100,Asia Pacific,Consulting,3,2020-04-01,,False,33,17,2023-06-22,273
+CO-7294,Wave Tech,Enterprise,3263.02,8663,400,Middle East,Technology,6,2024-11-26,2026-02-21,True,-4,39,2025-09-01,294
+CO-7295,Acme Inc,Enterprise,1402.1,963,1033,Middle East,Education,6,2023-03-04,,False,1,9,2023-03-21,383
+CO-7296,Nimbus Cloud,Free,0.0,10855,1712,North America,Manufacturing,6,2021-04-24,,False,-53,0,2023-09-03,347
+CO-7297,Forge Inc,Professional,393.78,46201,1594,North America,Retail,1,2021-08-20,,False,-7,24,2023-02-20,23
+CO-7298,Wave Inc,Professional,439.04,20967,800,Asia Pacific,Healthcare,1,2023-10-23,2024-02-10,True,-91,12,2025-04-15,148
+CO-7299,Nimbus Analytics,Professional,305.13,6368,1435,Europe,Healthcare,24,2022-01-26,,False,-55,4,2022-09-21,193
+CO-7300,Nova Labs,Free,0.0,46281,342,Middle East,Media,24,2025-01-23,,False,-100,14,2025-11-22,469
+CO-7301,Acme Labs,Professional,221.71,39469,1854,Europe,Healthcare,6,2020-12-03,,False,55,19,2023-11-09,323
+CO-7302,Forge Corp,Starter,60.0,5995,1778,Europe,Manufacturing,12,2021-02-17,2022-11-19,True,-5,12,2023-07-29,27
+CO-7303,Zenith Inc,Starter,50.91,14788,651,North America,Manufacturing,24,2024-03-20,,False,40,45,2024-08-07,211
+CO-7304,Spark Analytics,Enterprise,3659.73,21150,566,Europe,Retail,12,2024-06-13,,False,-6,25,2024-08-11,247
+CO-7305,Pulse Digital,Professional,136.75,31457,477,Europe,Retail,12,2024-09-10,,False,0,14,2025-02-04,176
+CO-7306,Pulse Digital,Professional,412.2,37178,2173,Asia Pacific,Technology,24,2020-01-19,,False,64,18,2023-05-31,316
+CO-7307,Spark AI,Professional,368.11,25801,370,North America,Healthcare,1,2024-12-26,2026-11-12,True,-43,28,2025-12-30,202
+CO-7308,Forge AI,Professional,170.89,46981,975,Asia Pacific,Consulting,1,2023-05-01,,False,-18,17,2023-05-25,54
+CO-7309,Zenith Systems,Free,0.0,15529,1816,Europe,Non-profit,1,2021-01-10,,False,91,33,2021-10-19,424
+CO-7310,Spark AI,Starter,50.89,39706,1539,Latin America,Healthcare,12,2021-10-14,,False,22,40,2025-08-27,97
+CO-7311,Wave Systems,Professional,487.23,41377,2015,Europe,Consulting,6,2020-06-25,,False,79,28,2022-08-11,383
+CO-7312,Apex Solutions,Professional,250.88,36724,1514,Asia Pacific,Manufacturing,12,2021-11-08,,False,-61,48,2022-11-30,308
+CO-7313,Apex Solutions,Starter,69.29,18216,1063,Middle East,Technology,24,2023-02-02,,False,-1,39,2024-06-02,311
+CO-7314,Nova Analytics,Professional,196.61,27925,772,Middle East,Manufacturing,6,2023-11-20,,False,-2,6,2024-06-02,149
+CO-7315,Nova Digital,Enterprise,701.41,36239,1529,Latin America,Non-profit,3,2021-10-24,2022-07-25,True,48,15,2023-05-27,347
+CO-7316,Apex Analytics,Professional,419.05,13516,973,Asia Pacific,Technology,6,2023-05-03,,False,71,21,2025-04-26,184
+CO-7317,Apex Corp,Free,0.0,41900,519,Europe,Government,3,2024-07-30,,False,82,38,2025-02-13,485
+CO-7318,Pulse AI,Enterprise,3155.77,8515,1077,Latin America,Education,3,2023-01-19,,False,-90,45,2025-07-18,61
+CO-7319,Wave Labs,Professional,248.24,14366,1685,Asia Pacific,Retail,1,2021-05-21,,False,-22,13,2025-03-08,465
+CO-7320,Nimbus Inc,Enterprise,4968.6,39780,1458,Middle East,Government,3,2022-01-03,,False,-34,20,2025-06-16,76
+CO-7321,Spark AI,Enterprise,1140.32,26794,521,Europe,Healthcare,12,2024-07-28,,False,-79,17,2024-11-13,343
+CO-7322,Zenith Cloud,Enterprise,2161.71,9782,1141,Latin America,Education,6,2022-11-16,,False,94,43,2025-04-23,393
+CO-7323,Wave Tech,Professional,438.2,18861,550,Latin America,Manufacturing,12,2024-06-29,,False,26,8,2025-09-21,378
+CO-7324,Zenith Systems,Professional,479.21,17500,1085,Europe,Retail,12,2023-01-11,,False,-36,36,2023-04-12,384
+CO-7325,Vertex Inc,Professional,181.32,48931,1057,Middle East,Technology,3,2023-02-08,2023-05-07,True,-83,45,2024-03-21,292
+CO-7326,Spark Analytics,Professional,481.73,28028,1249,Asia Pacific,Media,24,2022-07-31,,False,-80,14,2024-03-05,226
+CO-7327,Pulse Digital,Starter,54.83,7659,1383,Asia Pacific,Technology,6,2022-03-19,,False,1,40,2024-08-09,215
+CO-7328,Vertex Systems,Free,0.0,33139,1611,North America,Manufacturing,6,2021-08-03,,False,55,50,2022-03-17,223
+CO-7329,Spark Digital,Starter,44.15,39957,582,Latin America,Government,12,2024-05-28,,False,43,8,2025-07-19,202
+CO-7330,Zenith Cloud,Enterprise,3084.26,22557,753,Europe,Finance,24,2023-12-09,,False,-61,33,2025-12-08,201
+CO-7331,Pulse Cloud,Free,0.0,27309,2057,Europe,Non-profit,6,2020-05-14,2021-04-15,True,0,17,2023-02-08,307
+CO-7332,Nimbus Systems,Starter,88.37,13436,541,Latin America,Technology,12,2024-07-08,,False,91,19,2025-08-04,308
+CO-7333,Pulse AI,Starter,66.62,44101,1777,North America,Healthcare,6,2021-02-18,,False,-11,11,2024-09-30,154
+CO-7334,Wave Analytics,Free,0.0,4299,1027,Latin America,Media,12,2023-03-10,,False,-19,50,2023-09-08,141
+CO-7335,Nimbus Digital,Professional,110.95,6449,1812,Asia Pacific,Government,6,2021-01-14,2022-07-31,True,-29,17,2023-11-13,118
+CO-7336,Acme Analytics,Free,0.0,14378,1110,Asia Pacific,Education,24,2022-12-17,2023-03-19,True,92,13,2024-10-25,272
+CO-7337,Nimbus Analytics,Starter,76.91,8403,461,Asia Pacific,Finance,12,2024-09-26,,False,-97,5,2025-05-25,37
+CO-7338,Acme Corp,Professional,132.22,43366,1485,Latin America,Non-profit,12,2021-12-07,,False,-78,16,2023-07-04,2
+CO-7339,Nimbus Labs,Professional,220.73,49063,921,North America,Manufacturing,6,2023-06-24,,False,99,12,2025-03-30,360
+CO-7340,Pulse AI,Professional,212.1,43835,1562,Europe,Manufacturing,6,2021-09-21,,False,37,27,2022-01-21,65
+CO-7341,Zenith Systems,Starter,85.43,26291,1828,North America,Media,6,2020-12-29,,False,58,48,2023-05-09,248
+CO-7342,Vertex Inc,Professional,234.54,36914,1305,North America,Media,12,2022-06-05,,False,7,27,2023-07-22,68
+CO-7343,Zenith Digital,Professional,162.75,24591,1834,Latin America,Finance,24,2020-12-23,,False,-39,13,2024-11-20,276
+CO-7344,Forge Analytics,Free,0.0,18016,404,Europe,Media,3,2024-11-22,2025-05-24,True,-90,2,2025-03-24,285
+CO-7345,Apex Cloud,Starter,91.69,45007,961,Europe,Technology,12,2023-05-15,,False,-19,0,2024-12-07,326
+CO-7346,Zenith Analytics,Starter,77.62,34962,1783,Latin America,Retail,1,2021-02-12,,False,87,16,2021-09-02,461
+CO-7347,Nimbus Corp,Professional,244.43,46300,418,Latin America,Media,1,2024-11-08,,False,74,36,2025-09-19,13
+CO-7348,Pulse Systems,Enterprise,752.59,22402,1817,Latin America,Non-profit,1,2021-01-09,2021-09-03,True,-57,43,2024-08-02,269
+CO-7349,Spark Systems,Enterprise,3995.42,39847,1825,North America,Finance,6,2021-01-01,,False,-2,14,2024-01-27,311
+CO-7350,Vertex Tech,Professional,378.15,13654,1092,Latin America,Non-profit,3,2023-01-04,,False,-42,31,2025-10-12,268
+CO-7351,Forge Analytics,Free,0.0,8187,1940,Latin America,Finance,1,2020-09-08,,False,-77,7,2021-04-20,172
+CO-7352,Nova Digital,Professional,293.34,21584,1583,Middle East,Non-profit,1,2021-08-31,,False,85,5,2021-11-20,482
+CO-7353,Nimbus Systems,Enterprise,2385.65,37596,1370,North America,Media,12,2022-04-01,,False,87,30,2022-09-12,53
+CO-7354,Vertex Cloud,Enterprise,1778.37,28049,605,Asia Pacific,Technology,12,2024-05-05,,False,-56,18,2024-05-05,226
+CO-7355,Spark Systems,Enterprise,561.03,33834,1368,North America,Technology,3,2022-04-03,,False,-83,49,2024-08-09,378
+CO-7356,Pulse Inc,Starter,69.37,28497,1033,Asia Pacific,Media,12,2023-03-04,,False,95,3,2025-04-16,24
+CO-7357,Wave AI,Starter,89.25,25063,1859,Middle East,Retail,1,2020-11-28,,False,-26,13,2023-11-30,300
+CO-7358,Zenith Solutions,Starter,63.28,23351,1068,Middle East,Government,12,2023-01-28,2023-03-11,True,43,8,2024-11-30,48
+CO-7359,Acme Solutions,Starter,65.55,27541,1888,Asia Pacific,Government,3,2020-10-30,,False,-51,9,2021-06-08,97
+CO-7360,Pulse Cloud,Starter,37.48,36652,1330,Middle East,Government,24,2022-05-11,2023-02-28,True,-2,5,2025-02-18,330
+CO-7361,Vertex Inc,Starter,98.43,2205,570,Middle East,Manufacturing,12,2024-06-09,,False,34,33,2024-11-09,78
+CO-7362,Nova Inc,Professional,384.24,36000,696,Europe,Government,6,2024-02-04,,False,82,5,2024-11-26,398
+CO-7363,Acme Systems,Enterprise,2974.14,41270,1286,Latin America,Education,6,2022-06-24,,False,-71,50,2025-02-15,255
+CO-7364,Nimbus Digital,Starter,66.31,43442,468,North America,Education,12,2024-09-19,,False,-25,29,2025-05-18,60
+CO-7365,Nova Labs,Professional,152.1,18743,787,Asia Pacific,Finance,1,2023-11-05,,False,-77,37,2024-05-17,178
+CO-7366,Forge Systems,Starter,95.47,40771,835,North America,Media,24,2023-09-18,,False,-63,10,2024-05-19,7
+CO-7367,Vertex Inc,Professional,477.7,4134,1144,Asia Pacific,Retail,6,2022-11-13,,False,-15,14,2024-05-01,131
+CO-7368,Spark Solutions,Starter,94.45,42494,1563,Latin America,Retail,1,2021-09-20,,False,-13,20,2024-12-03,198
+CO-7369,Acme Solutions,Professional,463.8,30042,455,Latin America,Finance,24,2024-10-02,,False,99,41,2025-05-31,147
+CO-7370,Acme AI,Professional,475.53,3010,911,Asia Pacific,Finance,6,2023-07-04,,False,-25,22,2025-10-12,224
+CO-7371,Spark Solutions,Enterprise,2786.75,37775,1214,Asia Pacific,Healthcare,3,2022-09-04,2022-10-07,True,-62,50,2024-10-20,183
+CO-7372,Forge Systems,Starter,93.09,47178,1646,North America,Media,3,2021-06-29,,False,85,19,2025-12-01,207
+CO-7373,Pulse Digital,Enterprise,3865.28,7398,953,Middle East,Finance,24,2023-05-23,,False,-99,37,2025-06-07,15
+CO-7374,Zenith Solutions,Starter,41.34,13767,2005,North America,Education,3,2020-07-05,,False,2,20,2025-01-29,383
+CO-7375,Apex Tech,Enterprise,1556.96,39595,2173,Europe,Consulting,6,2020-01-19,,False,-68,32,2024-05-08,365
+CO-7376,Nimbus Corp,Enterprise,2370.35,29832,1474,Europe,Government,6,2021-12-18,,False,-35,29,2022-02-16,218
+CO-7377,Apex Corp,Enterprise,3981.7,16872,801,Asia Pacific,Media,12,2023-10-22,2024-07-05,True,62,22,2025-11-13,100
+CO-7378,Acme Analytics,Starter,35.49,24316,994,Europe,Finance,1,2023-04-12,2025-01-06,True,43,6,2023-09-26,68
+CO-7379,Vertex AI,Free,0.0,21431,1465,North America,Non-profit,24,2021-12-27,,False,51,39,2025-05-21,498
+CO-7380,Wave Tech,Professional,426.84,45853,1432,Asia Pacific,Healthcare,12,2022-01-29,2022-06-03,True,17,38,2022-02-17,14
+CO-7381,Acme Analytics,Professional,363.91,39955,1436,North America,Manufacturing,24,2022-01-25,,False,24,13,2022-02-22,356
+CO-7382,Pulse Labs,Professional,459.62,41526,1869,North America,Retail,24,2020-11-18,2021-02-04,True,72,48,2025-08-28,200
+CO-7383,Nimbus Digital,Starter,57.77,48313,287,Asia Pacific,Healthcare,12,2025-03-19,2026-01-27,True,11,31,2025-07-13,170
+CO-7384,Spark Cloud,Professional,428.17,9561,258,Europe,Government,1,2025-04-17,,False,40,20,2025-08-03,221
+CO-7385,Zenith Cloud,Professional,253.59,39644,835,Europe,Retail,6,2023-09-18,,False,21,24,2024-09-23,333
+CO-7386,Acme Solutions,Starter,43.63,27117,1482,Asia Pacific,Finance,24,2021-12-10,2023-12-07,True,-97,34,2025-04-09,335
+CO-7387,Apex Corp,Starter,43.11,11960,1404,Asia Pacific,Consulting,3,2022-02-26,,False,-38,15,2024-08-23,285
+CO-7388,Wave Systems,Free,0.0,15490,1382,Asia Pacific,Manufacturing,12,2022-03-20,,False,86,38,2025-03-06,28
+CO-7389,Nimbus Corp,Starter,32.11,556,1726,Europe,Non-profit,3,2021-04-10,,False,-29,6,2023-04-01,244
+CO-7390,Forge AI,Starter,52.11,433,1168,Europe,Government,24,2022-10-20,,False,88,0,2025-11-29,321
+CO-7391,Nova Tech,Professional,439.04,30017,816,Middle East,Government,6,2023-10-07,2025-09-23,True,85,29,2025-05-07,429
+CO-7392,Nova Digital,Professional,157.37,21993,213,Latin America,Government,6,2025-06-01,,False,3,27,2025-11-26,133
+CO-7393,Wave Corp,Professional,264.89,48721,2006,North America,Media,3,2020-07-04,,False,-87,47,2023-03-10,312
+CO-7394,Acme Digital,Starter,31.01,7735,536,North America,Finance,1,2024-07-13,,False,66,28,2024-10-10,481
+CO-7395,Forge Analytics,Professional,307.71,32410,933,Middle East,Manufacturing,24,2023-06-12,,False,-25,40,2025-03-29,391
+CO-7396,Nova Tech,Professional,365.65,14663,1540,Europe,Manufacturing,3,2021-10-13,2023-08-15,True,-20,4,2022-12-23,42
+CO-7397,Forge Corp,Professional,407.51,21503,1583,North America,Retail,3,2021-08-31,,False,50,32,2023-06-04,188
+CO-7398,Vertex Labs,Professional,162.35,946,1615,North America,Healthcare,6,2021-07-30,,False,-70,34,2023-10-13,396
+CO-7399,Nimbus AI,Professional,231.06,862,1066,Middle East,Healthcare,1,2023-01-30,,False,-45,7,2024-11-01,319
+CO-7400,Acme Analytics,Professional,199.63,49481,1090,Latin America,Finance,3,2023-01-06,,False,-47,46,2023-09-30,378
+CO-7401,Wave Digital,Starter,37.22,21127,435,Latin America,Retail,3,2024-10-22,,False,-28,26,2025-02-24,400
+CO-7402,Zenith Digital,Professional,257.28,13704,941,North America,Education,24,2023-06-04,,False,-89,42,2024-06-07,28
+CO-7403,Nova Solutions,Starter,74.5,31518,861,North America,Healthcare,1,2023-08-23,,False,45,3,2024-10-09,381
+CO-7404,Acme Analytics,Starter,83.8,35771,418,Asia Pacific,Finance,12,2024-11-08,,False,37,30,2025-05-10,186
+CO-7405,Forge Labs,Enterprise,1755.2,17125,965,Latin America,Government,3,2023-05-11,2025-01-03,True,25,40,2024-10-18,325
+CO-7406,Acme Cloud,Professional,465.59,2416,2110,Middle East,Media,6,2020-03-22,,False,-50,36,2022-02-17,118
+CO-7407,Nimbus Digital,Professional,169.72,47546,1925,Latin America,Finance,24,2020-09-23,,False,-24,10,2025-02-15,233
+CO-7408,Spark Labs,Professional,350.01,25383,700,Latin America,Non-profit,1,2024-01-31,,False,-24,26,2025-01-21,444
+CO-7409,Spark Digital,Free,0.0,14031,1555,Asia Pacific,Healthcare,1,2021-09-28,,False,81,45,2023-07-20,186
+CO-7410,Vertex Inc,Professional,340.41,31361,668,Asia Pacific,Finance,1,2024-03-03,,False,-31,10,2025-05-02,351
+CO-7411,Zenith Labs,Enterprise,2109.15,44056,1624,Asia Pacific,Consulting,12,2021-07-21,,False,2,31,2022-05-20,331
+CO-7412,Forge Corp,Starter,86.92,5464,1778,Middle East,Consulting,12,2021-02-17,,False,-98,5,2025-09-07,360
+CO-7413,Pulse Systems,Enterprise,1966.14,46650,1641,Latin America,Finance,12,2021-07-04,,False,-52,7,2025-12-25,54
+CO-7414,Pulse Corp,Starter,67.69,2553,2145,North America,Non-profit,6,2020-02-16,,False,-5,48,2023-01-14,86
+CO-7415,Vertex Tech,Professional,333.53,3369,1575,Latin America,Manufacturing,24,2021-09-08,,False,35,15,2025-06-17,442
+CO-7416,Acme AI,Professional,255.05,44088,2173,North America,Technology,12,2020-01-19,,False,52,33,2023-08-10,1
+CO-7417,Vertex Labs,Enterprise,4441.6,38508,1940,Asia Pacific,Manufacturing,6,2020-09-08,,False,-91,5,2025-06-30,237
+CO-7418,Forge Systems,Free,0.0,36748,636,Asia Pacific,Consulting,12,2024-04-04,,False,-74,44,2024-12-15,84
+CO-7419,Wave Systems,Free,0.0,44382,1321,Latin America,Consulting,12,2022-05-20,2023-10-03,True,-47,16,2022-07-28,225
+CO-7420,Pulse Analytics,Starter,74.81,28606,1618,Middle East,Technology,12,2021-07-27,2022-08-23,True,3,24,2021-08-21,315
+CO-7421,Nimbus Solutions,Professional,142.58,20072,997,Asia Pacific,Healthcare,6,2023-04-09,,False,-11,13,2024-10-15,229
+CO-7422,Forge Solutions,Enterprise,1695.74,43211,2119,Asia Pacific,Non-profit,3,2020-03-13,,False,-28,7,2025-03-12,105
+CO-7423,Spark Inc,Professional,371.26,38099,1749,North America,Finance,1,2021-03-18,,False,44,35,2024-12-21,479
+CO-7424,Nova Corp,Professional,340.51,41270,1631,Europe,Manufacturing,6,2021-07-14,,False,-72,22,2024-06-12,47
+CO-7425,Spark AI,Starter,56.79,11893,2052,Asia Pacific,Retail,24,2020-05-19,,False,98,43,2021-07-30,425
+CO-7426,Nimbus AI,Enterprise,4629.46,35974,1132,Latin America,Retail,3,2022-11-25,,False,-85,14,2025-11-10,231
+CO-7427,Acme Cloud,Professional,163.12,49750,1091,Europe,Government,1,2023-01-05,2023-10-12,True,-23,9,2023-11-21,436
+CO-7428,Nimbus AI,Professional,411.2,34091,318,North America,Media,3,2025-02-16,,False,-87,37,2025-11-07,4
+CO-7429,Spark Corp,Starter,61.32,49054,1743,Middle East,Manufacturing,6,2021-03-24,,False,-79,8,2023-02-06,338
+CO-7430,Wave AI,Free,0.0,47769,847,Latin America,Education,3,2023-09-06,2025-03-15,True,21,15,2025-06-30,289
+CO-7431,Pulse Tech,Free,0.0,36699,915,Middle East,Consulting,24,2023-06-30,,False,35,34,2024-05-22,475
+CO-7432,Forge Labs,Starter,74.46,17462,694,Europe,Consulting,3,2024-02-06,,False,-69,32,2025-01-12,485
+CO-7433,Pulse Analytics,Professional,109.63,20349,396,Asia Pacific,Non-profit,3,2024-11-30,,False,73,25,2025-03-09,259
+CO-7434,Forge AI,Starter,92.54,47839,2188,North America,Manufacturing,1,2020-01-04,,False,-70,47,2022-09-22,59
+CO-7435,Acme Solutions,Professional,180.07,9720,366,Middle East,Finance,6,2024-12-30,,False,-80,11,2025-11-18,181
+CO-7436,Zenith AI,Free,0.0,32513,1782,Middle East,Education,3,2021-02-13,,False,-25,34,2022-06-18,239
+CO-7437,Nimbus Digital,Professional,240.12,7797,849,Latin America,Healthcare,6,2023-09-04,2024-12-15,True,41,14,2025-09-13,290
+CO-7438,Acme Systems,Professional,224.89,26518,1754,Europe,Media,3,2021-03-13,,False,7,20,2021-04-06,167
+CO-7439,Apex AI,Enterprise,4008.35,6619,1934,Europe,Media,6,2020-09-14,2022-03-15,True,59,3,2025-09-22,150
+CO-7440,Pulse Systems,Professional,217.31,37354,397,Middle East,Manufacturing,6,2024-11-29,,False,-62,9,2025-08-01,362
+CO-7441,Nova Systems,Starter,35.27,31024,423,Middle East,Government,3,2024-11-03,,False,-21,27,2024-11-24,344
+CO-7442,Nimbus AI,Professional,308.87,12162,639,Latin America,Consulting,1,2024-04-01,2025-09-15,True,36,42,2025-01-20,66
+CO-7443,Acme Analytics,Enterprise,4484.83,3783,269,Europe,Consulting,12,2025-04-06,2025-08-22,True,15,34,2025-07-11,494
+CO-7444,Zenith Solutions,Enterprise,1958.47,29225,1958,Europe,Technology,6,2020-08-21,2021-03-17,True,33,10,2023-01-12,66
+CO-7445,Wave Corp,Professional,471.93,46647,1170,Europe,Healthcare,12,2022-10-18,,False,18,37,2022-11-27,56
+CO-7446,Zenith Systems,Professional,339.0,44856,2016,Middle East,Media,12,2020-06-24,2021-07-09,True,-11,13,2022-10-02,224
+CO-7447,Wave Systems,Starter,30.64,23415,724,Latin America,Healthcare,12,2024-01-07,,False,-88,41,2024-02-05,239
+CO-7448,Forge Corp,Professional,453.32,49713,1189,Latin America,Finance,3,2022-09-29,2023-09-09,True,51,46,2025-06-19,162
+CO-7449,Forge AI,Professional,362.19,44839,1580,Middle East,Consulting,6,2021-09-03,,False,-86,21,2025-03-09,56
+CO-7450,Spark Digital,Professional,252.75,44379,1084,Latin America,Media,12,2023-01-12,,False,-59,34,2024-03-20,388
+CO-7451,Wave Solutions,Enterprise,2996.69,25869,2001,Europe,Media,12,2020-07-09,,False,-78,27,2023-08-26,275
+CO-7452,Pulse Digital,Professional,492.55,2118,1610,North America,Manufacturing,6,2021-08-04,,False,-66,14,2022-09-14,112
+CO-7453,Vertex Cloud,Enterprise,2194.06,30172,1290,Middle East,Government,1,2022-06-20,,False,-13,14,2024-06-11,209
+CO-7454,Forge Digital,Professional,169.31,29805,890,Europe,Technology,6,2023-07-25,,False,-53,10,2025-12-27,38
+CO-7455,Spark Solutions,Professional,466.32,47331,830,Europe,Government,12,2023-09-23,,False,45,50,2025-08-21,174
+CO-7456,Wave Cloud,Starter,85.29,594,1630,Asia Pacific,Education,3,2021-07-15,,False,-67,13,2023-10-10,360
+CO-7457,Apex Solutions,Professional,347.28,29796,1848,Asia Pacific,Consulting,6,2020-12-09,,False,51,8,2025-06-14,4
+CO-7458,Vertex AI,Starter,87.02,44417,755,Middle East,Healthcare,6,2023-12-07,,False,-82,44,2024-10-04,355
+CO-7459,Zenith Cloud,Professional,438.06,46984,1719,Asia Pacific,Education,3,2021-04-17,,False,-79,31,2023-09-28,142
+CO-7460,Spark AI,Professional,112.76,43231,824,Europe,Education,3,2023-09-29,,False,56,11,2025-07-01,351
+CO-7461,Forge Corp,Professional,301.24,37447,257,Europe,Consulting,1,2025-04-18,,False,-56,29,2025-12-15,69
+CO-7462,Apex Tech,Professional,332.49,6845,1684,Asia Pacific,Media,12,2021-05-22,,False,-44,42,2022-08-26,390
+CO-7463,Apex AI,Professional,323.68,22306,294,North America,Technology,24,2025-03-12,,False,-74,34,2025-05-03,68
+CO-7464,Spark Labs,Starter,35.07,4198,1108,Europe,Healthcare,12,2022-12-19,2024-01-18,True,50,37,2024-10-18,393
+CO-7465,Apex Cloud,Free,0.0,39916,1358,Latin America,Manufacturing,6,2022-04-13,,False,-5,43,2024-10-20,202
+CO-7466,Pulse Cloud,Professional,488.17,36063,836,Europe,Technology,3,2023-09-17,,False,-89,47,2025-05-22,234
+CO-7467,Acme Inc,Free,0.0,18415,1900,Asia Pacific,Non-profit,24,2020-10-18,,False,45,16,2025-10-02,453
+CO-7468,Wave Digital,Professional,367.23,28011,363,North America,Non-profit,3,2025-01-02,,False,99,21,2025-12-27,193
+CO-7469,Nova Tech,Free,0.0,4369,615,North America,Education,12,2024-04-25,,False,-2,13,2024-10-04,236
+CO-7470,Spark Digital,Enterprise,4279.84,45773,1989,Asia Pacific,Technology,6,2020-07-21,,False,-22,6,2022-08-28,208
+CO-7471,Spark Inc,Enterprise,2290.6,12768,1163,Latin America,Non-profit,24,2022-10-25,,False,-91,5,2022-11-28,139
+CO-7472,Apex Digital,Free,0.0,17506,1611,Middle East,Finance,3,2021-08-03,,False,-93,10,2023-11-09,230
+CO-7473,Acme AI,Starter,43.47,7691,1180,Middle East,Government,24,2022-10-08,,False,49,25,2022-12-23,459
+CO-7474,Pulse AI,Starter,78.25,8381,1219,North America,Manufacturing,12,2022-08-30,,False,-51,28,2023-07-06,418
+CO-7475,Pulse Digital,Enterprise,4813.32,39573,426,North America,Manufacturing,24,2024-10-31,,False,7,7,2024-11-20,405
+CO-7476,Nimbus Analytics,Enterprise,674.87,14502,882,Latin America,Technology,6,2023-08-02,,False,7,21,2025-11-02,336
+CO-7477,Spark Digital,Starter,61.41,35354,1718,Middle East,Healthcare,12,2021-04-18,,False,-86,26,2023-12-15,251
+CO-7478,Apex Corp,Enterprise,2000.49,19866,375,Latin America,Consulting,24,2024-12-21,,False,-45,35,2025-04-10,32
+CO-7479,Nova AI,Professional,225.59,12032,248,Middle East,Government,3,2025-04-27,,False,13,29,2025-04-27,366
+CO-7480,Pulse Labs,Enterprise,4357.36,40763,635,Europe,Consulting,12,2024-04-05,,False,94,24,2024-07-05,46
+CO-7481,Spark Solutions,Starter,51.34,3605,451,Europe,Non-profit,6,2024-10-06,,False,-53,46,2025-02-26,175
+CO-7482,Pulse Corp,Professional,379.05,1029,1324,Latin America,Non-profit,1,2022-05-17,,False,-42,10,2024-07-20,279
+CO-7483,Wave Inc,Professional,490.7,12178,743,North America,Education,12,2023-12-19,,False,11,2,2025-02-15,143
+CO-7484,Pulse AI,Starter,31.76,25635,664,Latin America,Retail,12,2024-03-07,,False,82,40,2024-12-06,267
+CO-7485,Nova AI,Starter,89.5,7197,1052,Middle East,Government,3,2023-02-13,,False,65,0,2024-04-29,63
+CO-7486,Apex Tech,Starter,56.98,49835,1704,Asia Pacific,Education,3,2021-05-02,,False,21,26,2025-11-10,221
+CO-7487,Acme Digital,Starter,71.48,11280,1125,Europe,Consulting,12,2022-12-02,,False,-20,1,2025-06-10,348
+CO-7488,Acme AI,Starter,65.42,47018,1099,Latin America,Media,3,2022-12-28,,False,-24,47,2025-04-16,46
+CO-7489,Nova Digital,Starter,42.63,22853,1566,Asia Pacific,Manufacturing,12,2021-09-17,2022-10-16,True,-79,19,2023-03-14,365
+CO-7490,Nova Labs,Professional,400.17,28573,1119,Middle East,Education,3,2022-12-08,,False,15,8,2024-04-12,83
+CO-7491,Vertex Cloud,Professional,149.19,21208,1366,North America,Finance,6,2022-04-05,,False,95,5,2025-07-12,494
+CO-7492,Forge Cloud,Starter,58.96,43109,726,Middle East,Finance,12,2024-01-05,,False,71,33,2025-08-20,81
+CO-7493,Nimbus Cloud,Professional,313.7,8262,1475,North America,Media,3,2021-12-17,,False,-18,43,2025-05-08,312
+CO-7494,Vertex Tech,Starter,47.79,3133,1092,North America,Education,3,2023-01-04,,False,70,13,2023-08-30,83
+CO-7495,Forge Corp,Professional,296.69,40913,1491,Latin America,Non-profit,24,2021-12-01,2023-05-29,True,-15,29,2025-12-05,40
+CO-7496,Vertex Tech,Professional,241.08,27096,1052,Europe,Non-profit,1,2023-02-13,,False,77,43,2024-04-26,263
+CO-7497,Acme Analytics,Free,0.0,24015,1658,Europe,Finance,6,2021-06-17,,False,-29,10,2023-04-28,437
+CO-7498,Pulse Inc,Professional,216.04,8620,350,Asia Pacific,Media,24,2025-01-15,,False,99,48,2025-12-29,69
+CO-7499,Wave Labs,Professional,496.01,370,833,Middle East,Education,1,2023-09-20,,False,-27,32,2023-09-22,84
+CO-7500,Nova Labs,Enterprise,4150.66,41479,978,North America,Education,3,2023-04-28,,False,-13,42,2025-03-06,76
+CO-7501,Nimbus Tech,Professional,178.63,26060,275,Latin America,Manufacturing,24,2025-03-31,,False,-67,49,2025-10-01,348
+CO-7502,Spark Labs,Enterprise,1459.04,34036,1233,Europe,Manufacturing,12,2022-08-16,,False,89,24,2025-07-06,60
+CO-7503,Zenith Inc,Professional,120.02,34945,680,Europe,Manufacturing,1,2024-02-20,,False,-55,27,2024-05-11,454
+CO-7504,Wave Systems,Professional,229.6,41238,789,North America,Education,12,2023-11-03,2024-11-29,True,83,18,2025-10-21,19
+CO-7505,Spark AI,Professional,117.7,13106,826,Europe,Education,1,2023-09-27,2024-01-22,True,64,6,2025-08-24,313
+CO-7506,Spark Inc,Enterprise,3065.89,7741,569,Latin America,Manufacturing,6,2024-06-10,,False,46,43,2024-12-10,326
+CO-7507,Spark Tech,Starter,30.67,6761,1495,Latin America,Non-profit,6,2021-11-27,,False,-84,26,2025-06-13,85
+CO-7508,Acme Digital,Free,0.0,6255,397,Middle East,Media,1,2024-11-29,,False,-70,41,2025-05-28,272
+CO-7509,Zenith Inc,Enterprise,3062.33,7081,1278,North America,Consulting,1,2022-07-02,,False,-8,45,2023-05-12,385
+CO-7510,Pulse Digital,Professional,219.28,11883,469,North America,Consulting,6,2024-09-18,,False,-4,30,2025-10-17,359
+CO-7511,Zenith Systems,Professional,348.6,17592,1387,North America,Non-profit,1,2022-03-15,2024-04-05,True,-33,4,2024-02-16,104
+CO-7512,Apex Digital,Professional,449.91,12267,1618,Europe,Finance,1,2021-07-27,,False,63,6,2023-01-10,329
+CO-7513,Wave Cloud,Enterprise,1654.68,31328,1800,Europe,Manufacturing,3,2021-01-26,2021-10-02,True,41,17,2025-08-17,34
+CO-7514,Forge Systems,Starter,33.56,49686,1481,Middle East,Retail,1,2021-12-11,2023-11-22,True,-95,14,2024-08-18,52
+CO-7515,Wave Labs,Enterprise,2184.76,398,979,Europe,Non-profit,12,2023-04-27,,False,-82,44,2023-07-25,288
+CO-7516,Vertex Solutions,Starter,81.55,19724,1740,North America,Retail,1,2021-03-27,,False,87,22,2021-11-24,217
+CO-7517,Nimbus Solutions,Free,0.0,15417,777,Middle East,Healthcare,6,2023-11-15,,False,-2,35,2024-04-04,334
+CO-7518,Spark Solutions,Professional,428.55,17078,434,Middle East,Education,1,2024-10-23,2025-12-09,True,19,27,2025-09-25,296
+CO-7519,Apex Corp,Free,0.0,29440,1344,Latin America,Media,1,2022-04-27,,False,-13,19,2023-11-25,131
+CO-7520,Wave Tech,Professional,183.99,8775,456,North America,Government,6,2024-10-01,2026-06-15,True,95,7,2024-12-26,398
+CO-7521,Zenith Inc,Professional,238.86,3091,1612,North America,Non-profit,3,2021-08-02,,False,16,27,2021-10-14,5
+CO-7522,Forge Corp,Professional,330.81,3243,1470,Latin America,Manufacturing,12,2021-12-22,,False,51,7,2025-04-25,407
+CO-7523,Forge Analytics,Starter,81.35,49644,382,Asia Pacific,Media,1,2024-12-14,,False,-15,17,2025-11-28,153
+CO-7524,Nova Corp,Starter,59.4,35676,1863,Asia Pacific,Government,12,2020-11-24,,False,29,11,2021-03-27,214
+CO-7525,Forge AI,Professional,413.0,35365,1926,North America,Finance,1,2020-09-22,2021-04-07,True,-44,39,2023-12-01,174
+CO-7526,Nova Digital,Professional,444.55,34618,438,Latin America,Media,6,2024-10-19,,False,-64,0,2024-11-17,467
+CO-7527,Vertex Tech,Starter,79.86,46917,699,North America,Government,3,2024-02-01,,False,-41,2,2025-02-03,386
+CO-7528,Wave Corp,Starter,37.22,29942,1092,Latin America,Healthcare,24,2023-01-04,,False,13,34,2023-03-09,61
+CO-7529,Spark Systems,Professional,347.65,25353,546,Latin America,Government,24,2024-07-03,,False,73,7,2025-08-29,385
+CO-7530,Nova Cloud,Starter,81.83,5529,501,Asia Pacific,Non-profit,1,2024-08-17,,False,-36,7,2025-09-22,314
+CO-7531,Wave Labs,Starter,74.04,32100,1726,Asia Pacific,Media,1,2021-04-10,,False,96,32,2022-01-14,114
+CO-7532,Vertex Analytics,Enterprise,921.65,32014,459,Latin America,Finance,24,2024-09-28,,False,-56,22,2024-12-19,144
+CO-7533,Acme AI,Professional,344.22,46871,571,North America,Media,6,2024-06-08,,False,-13,5,2024-09-30,371
+CO-7534,Apex Digital,Professional,176.76,31691,351,North America,Media,12,2025-01-14,2025-12-14,True,6,10,2025-09-18,173
+CO-7535,Forge Cloud,Professional,194.28,16259,982,Latin America,Manufacturing,3,2023-04-24,,False,-8,22,2023-11-21,489
+CO-7536,Wave Inc,Enterprise,1975.93,16252,1284,Latin America,Consulting,3,2022-06-26,,False,-3,44,2022-07-28,319
+CO-7537,Forge AI,Professional,208.55,23368,1070,North America,Education,3,2023-01-26,,False,-41,32,2023-08-26,126
+CO-7538,Wave Tech,Free,0.0,2080,996,Europe,Technology,1,2023-04-10,2025-06-12,True,-99,3,2024-08-25,64
+CO-7539,Nova Digital,Professional,469.74,2414,1410,Middle East,Technology,6,2022-02-20,,False,67,45,2022-12-07,492
+CO-7540,Vertex Analytics,Professional,152.55,37993,439,North America,Government,12,2024-10-18,,False,1,3,2025-07-25,91
+CO-7541,Apex Digital,Professional,109.63,33236,329,North America,Consulting,1,2025-02-05,,False,69,32,2025-08-06,199
+CO-7542,Zenith Inc,Starter,44.41,32366,982,Latin America,Media,24,2023-04-24,,False,19,19,2024-02-19,300
+CO-7543,Forge Tech,Starter,83.16,16568,629,North America,Manufacturing,12,2024-04-11,,False,-68,12,2025-04-09,245
+CO-7544,Acme Cloud,Starter,53.25,922,614,Middle East,Technology,3,2024-04-26,,False,-49,16,2024-07-01,264
+CO-7545,Pulse Inc,Professional,197.9,44824,680,Middle East,Retail,1,2024-02-20,,False,26,50,2024-08-30,241
+CO-7546,Zenith Analytics,Professional,128.51,34203,1286,North America,Technology,12,2022-06-24,,False,-39,19,2024-02-05,497
+CO-7547,Wave Inc,Starter,77.01,27139,1764,North America,Non-profit,24,2021-03-03,,False,-71,49,2022-08-29,66
+CO-7548,Acme Digital,Professional,467.98,16463,2095,Middle East,Government,6,2020-04-06,,False,-49,47,2022-09-17,408
+CO-7549,Nova Solutions,Professional,305.27,8386,1228,Asia Pacific,Manufacturing,6,2022-08-21,,False,72,35,2024-11-18,42
+CO-7550,Spark Solutions,Starter,33.91,41310,2111,Middle East,Technology,3,2020-03-21,2020-10-14,True,50,37,2021-05-15,257
+CO-7551,Pulse Digital,Free,0.0,24686,965,Europe,Non-profit,1,2023-05-11,,False,43,43,2024-03-15,93
+CO-7552,Spark Digital,Professional,156.35,1367,1605,Asia Pacific,Manufacturing,24,2021-08-09,,False,92,15,2025-06-08,154
+CO-7553,Pulse Inc,Enterprise,4492.55,31677,719,Middle East,Consulting,6,2024-01-12,2024-07-21,True,0,30,2025-11-28,178
+CO-7554,Nimbus Cloud,Enterprise,2980.86,38823,505,North America,Finance,24,2024-08-13,,False,-87,35,2025-05-31,495
+CO-7555,Nimbus AI,Professional,493.54,16924,1305,Latin America,Education,24,2022-06-05,2023-01-30,True,63,11,2024-02-22,329
+CO-7556,Pulse Cloud,Professional,102.69,49900,1510,Middle East,Education,24,2021-11-12,2023-07-27,True,83,1,2024-05-01,99
+CO-7557,Pulse Inc,Professional,170.56,20905,1338,Middle East,Technology,3,2022-05-03,2023-06-10,True,82,12,2025-07-22,15
+CO-7558,Pulse Analytics,Starter,41.58,42694,1037,Middle East,Consulting,3,2023-02-28,,False,20,17,2023-04-02,346
+CO-7559,Apex Corp,Professional,290.68,47423,1979,Asia Pacific,Media,1,2020-07-31,2022-07-12,True,86,25,2022-01-16,449
+CO-7560,Nimbus Corp,Professional,472.37,26293,1577,Latin America,Retail,1,2021-09-06,,False,35,34,2023-11-08,63
+CO-7561,Forge Labs,Professional,437.79,8284,1327,North America,Education,6,2022-05-14,,False,-62,16,2023-05-16,179
+CO-7562,Spark Inc,Starter,38.93,40559,1577,North America,Non-profit,12,2021-09-06,,False,-18,26,2022-04-26,179
+CO-7563,Zenith Inc,Professional,197.73,38940,1937,North America,Healthcare,12,2020-09-11,,False,-70,19,2020-11-16,127
+CO-7564,Nimbus Analytics,Enterprise,606.34,42457,441,Middle East,Education,12,2024-10-16,,False,-70,1,2024-11-17,244
+CO-7565,Pulse AI,Free,0.0,674,814,Europe,Government,6,2023-10-09,,False,99,44,2024-05-26,114
+CO-7566,Wave Corp,Enterprise,4880.74,6182,1492,Latin America,Healthcare,12,2021-11-30,,False,84,4,2023-02-28,179
+CO-7567,Vertex Inc,Starter,60.65,18672,1566,Europe,Government,1,2021-09-17,,False,63,24,2024-07-06,173
+CO-7568,Vertex Tech,Starter,80.52,19052,817,Latin America,Healthcare,6,2023-10-06,,False,-40,41,2025-09-10,320
+CO-7569,Acme Corp,Professional,402.14,14631,1348,North America,Media,12,2022-04-23,,False,-83,31,2023-08-15,342
+CO-7570,Apex Tech,Starter,88.4,19540,1629,Latin America,Education,12,2021-07-16,,False,-84,8,2025-01-07,52
+CO-7571,Apex AI,Starter,73.27,2428,1324,North America,Government,24,2022-05-17,,False,-69,33,2024-10-18,26
+CO-7572,Zenith Inc,Professional,343.05,4775,751,Latin America,Non-profit,24,2023-12-11,2024-09-19,True,26,26,2024-11-17,79
+CO-7573,Zenith Labs,Professional,200.46,19340,1920,Europe,Healthcare,12,2020-09-28,2022-04-08,True,33,27,2022-01-16,80
+CO-7574,Forge Cloud,Free,0.0,25292,1969,Middle East,Healthcare,1,2020-08-10,,False,-51,31,2024-07-14,482
+CO-7575,Nimbus Analytics,Professional,284.06,12716,1951,Europe,Education,24,2020-08-28,,False,-13,2,2024-03-21,100
+CO-7576,Nova Digital,Professional,244.52,41084,1674,Middle East,Technology,1,2021-06-01,,False,-29,35,2024-07-25,151
+CO-7577,Acme Corp,Starter,41.52,43737,1300,Europe,Retail,3,2022-06-10,,False,4,34,2023-02-27,381
+CO-7578,Apex Solutions,Enterprise,3000.85,3862,594,Latin America,Healthcare,6,2024-05-16,,False,-84,13,2024-09-26,488
+CO-7579,Apex Solutions,Enterprise,2399.35,40542,297,North America,Government,1,2025-03-09,2025-05-11,True,-71,1,2025-10-09,223
+CO-7580,Pulse Inc,Starter,46.69,39666,652,Latin America,Retail,24,2024-03-19,,False,-17,35,2024-03-21,126
+CO-7581,Pulse Labs,Professional,323.32,43567,1806,Middle East,Government,6,2021-01-20,,False,-96,18,2022-09-16,111
+CO-7582,Pulse Cloud,Starter,90.88,15315,1955,North America,Technology,12,2020-08-24,,False,-46,2,2021-04-26,140
+CO-7583,Wave Analytics,Professional,139.5,39691,1573,Middle East,Finance,6,2021-09-10,,False,-25,45,2022-06-06,350
+CO-7584,Zenith Labs,Free,0.0,8853,1221,Asia Pacific,Non-profit,12,2022-08-28,,False,-29,1,2023-04-11,312
+CO-7585,Nova Analytics,Starter,47.2,3517,1506,Asia Pacific,Government,12,2021-11-16,2022-10-02,True,-51,17,2023-02-12,179
+CO-7586,Vertex Inc,Enterprise,2597.72,44628,280,North America,Government,6,2025-03-26,,False,-85,2,2025-08-18,434
+CO-7587,Nova Systems,Starter,58.46,32131,1087,Europe,Education,24,2023-01-09,,False,42,0,2025-04-07,204
+CO-7588,Forge Labs,Professional,177.37,18291,1687,Asia Pacific,Media,6,2021-05-19,,False,97,4,2023-07-04,413
+CO-7589,Nimbus Analytics,Starter,40.3,29271,1691,North America,Consulting,24,2021-05-15,,False,83,32,2024-09-03,235
+CO-7590,Apex Inc,Free,0.0,4227,648,North America,Consulting,12,2024-03-23,,False,57,21,2024-10-21,317
+CO-7591,Acme Analytics,Starter,42.23,47514,1929,Europe,Technology,24,2020-09-19,,False,-46,15,2025-07-24,207
+CO-7592,Acme Inc,Free,0.0,46335,676,Middle East,Education,6,2024-02-24,,False,52,21,2025-06-22,172
+CO-7593,Vertex AI,Enterprise,3190.04,5505,2126,North America,Government,1,2020-03-06,,False,73,1,2021-06-21,56
+CO-7594,Pulse Tech,Starter,41.79,48093,1369,Europe,Healthcare,3,2022-04-02,2022-11-24,True,-79,5,2023-11-10,169
+CO-7595,Apex Cloud,Enterprise,4337.35,36559,449,Asia Pacific,Consulting,1,2024-10-08,,False,52,48,2025-06-22,41
+CO-7596,Apex Corp,Starter,80.3,29098,1301,Latin America,Government,3,2022-06-09,2023-01-26,True,77,43,2024-10-08,145
+CO-7597,Wave Analytics,Professional,362.36,43941,1973,Latin America,Technology,6,2020-08-06,,False,-12,16,2022-11-08,326
+CO-7598,Forge Systems,Professional,222.32,23229,2098,Latin America,Government,24,2020-04-03,,False,-58,47,2023-03-10,208
+CO-7599,Wave Corp,Starter,51.6,18295,1718,North America,Government,3,2021-04-18,2022-06-15,True,68,23,2022-01-10,207
+CO-7600,Wave AI,Enterprise,2326.07,35947,536,Middle East,Non-profit,6,2024-07-13,,False,52,29,2025-12-01,481
+CO-7601,Apex Corp,Enterprise,1494.44,23445,1342,Asia Pacific,Non-profit,3,2022-04-29,,False,13,11,2023-10-11,34
+CO-7602,Acme AI,Starter,39.55,40796,1199,Middle East,Technology,1,2022-09-19,,False,-80,44,2022-10-04,207
+CO-7603,Forge Analytics,Professional,418.03,21784,280,Europe,Technology,3,2025-03-26,,False,-8,16,2025-07-04,186
+CO-7604,Acme Solutions,Professional,329.83,44859,888,Europe,Education,3,2023-07-27,,False,-60,20,2025-03-11,278
+CO-7605,Wave Solutions,Professional,406.13,35335,617,Latin America,Technology,24,2024-04-23,2025-04-12,True,-25,36,2025-01-15,84
+CO-7606,Apex Solutions,Starter,50.91,24804,368,Europe,Retail,24,2024-12-28,,False,-25,34,2025-01-05,115
+CO-7607,Nova Digital,Starter,43.16,29503,340,Asia Pacific,Media,24,2025-01-25,2025-04-05,True,-79,13,2025-10-12,187
+CO-7608,Zenith Analytics,Free,0.0,31842,1369,Middle East,Consulting,1,2022-04-02,,False,87,22,2022-06-09,230
+CO-7609,Spark Analytics,Free,0.0,37524,1196,Latin America,Education,1,2022-09-22,2024-03-24,True,93,38,2023-02-05,386
+CO-7610,Acme AI,Starter,67.18,28898,1958,North America,Healthcare,6,2020-08-21,,False,63,2,2020-11-15,409
+CO-7611,Pulse Digital,Enterprise,4060.72,557,691,North America,Healthcare,12,2024-02-09,2026-03-10,True,28,30,2025-05-19,495
+CO-7612,Acme Corp,Starter,98.29,38951,858,Middle East,Government,3,2023-08-26,,False,-11,43,2025-03-14,60
+CO-7613,Apex Inc,Enterprise,3293.97,37436,1229,North America,Education,24,2022-08-20,,False,-66,0,2023-10-15,346
+CO-7614,Forge Labs,Enterprise,4059.5,45998,1713,Middle East,Finance,3,2021-04-23,,False,51,48,2022-05-14,476
+CO-7615,Zenith Labs,Starter,74.08,12836,702,Middle East,Media,1,2024-01-29,,False,-36,47,2025-07-30,84
+CO-7616,Spark Systems,Professional,482.36,26331,1073,Asia Pacific,Government,24,2023-01-23,,False,-4,1,2023-08-17,466
+CO-7617,Nova Inc,Starter,54.0,10978,1522,Asia Pacific,Finance,24,2021-10-31,2022-05-13,True,-19,34,2023-04-18,44
+CO-7618,Nimbus AI,Professional,492.86,15942,1208,Middle East,Retail,3,2022-09-10,,False,53,0,2024-09-26,287
+CO-7619,Apex Tech,Enterprise,2876.77,12930,1173,North America,Education,1,2022-10-15,,False,-53,50,2025-06-06,413
+CO-7620,Acme Solutions,Starter,32.62,15750,314,North America,Government,12,2025-02-20,2026-12-04,True,67,3,2025-10-29,274
+CO-7621,Forge Analytics,Enterprise,2498.39,40358,1428,Asia Pacific,Retail,24,2022-02-02,,False,-45,33,2025-06-18,161
+CO-7622,Forge Analytics,Enterprise,3153.76,26899,828,North America,Healthcare,6,2023-09-25,,False,-83,26,2023-11-19,149
+CO-7623,Acme Digital,Starter,30.98,34340,1796,Latin America,Consulting,24,2021-01-30,,False,-6,42,2024-08-16,468
+CO-7624,Nova Digital,Professional,162.59,37107,1949,Europe,Consulting,3,2020-08-30,2020-11-10,True,-67,50,2023-11-18,158
+CO-7625,Vertex Cloud,Starter,47.59,25154,331,North America,Consulting,6,2025-02-03,2027-02-19,True,-48,26,2025-03-03,442
+CO-7626,Apex Tech,Starter,77.9,20848,502,Europe,Non-profit,1,2024-08-16,,False,57,17,2025-08-16,340
+CO-7627,Acme Solutions,Enterprise,3192.07,43142,1080,Europe,Government,12,2023-01-16,2024-07-04,True,4,10,2024-02-29,247
+CO-7628,Forge Cloud,Free,0.0,28597,1229,Middle East,Education,24,2022-08-20,,False,27,7,2024-04-20,132
+CO-7629,Nimbus Solutions,Enterprise,2577.72,17238,1739,Europe,Finance,6,2021-03-28,,False,-75,19,2024-01-24,18
+CO-7630,Zenith Solutions,Professional,467.59,34022,2046,Middle East,Non-profit,24,2020-05-25,2021-06-28,True,44,37,2021-08-23,6
+CO-7631,Wave Analytics,Starter,73.49,42960,501,Europe,Government,12,2024-08-17,,False,10,30,2025-07-04,137
+CO-7632,Spark Cloud,Professional,280.96,22669,1253,North America,Technology,12,2022-07-27,,False,-77,43,2025-03-05,282
+CO-7633,Nova Labs,Enterprise,4478.68,20981,2100,Latin America,Consulting,1,2020-04-01,,False,62,50,2023-10-12,90
+CO-7634,Nova Labs,Enterprise,4645.63,4842,1622,Asia Pacific,Media,6,2021-07-23,,False,90,11,2025-08-02,432

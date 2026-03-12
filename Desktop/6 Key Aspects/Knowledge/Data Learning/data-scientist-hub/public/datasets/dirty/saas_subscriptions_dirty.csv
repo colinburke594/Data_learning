@@ -1,0 +1,1636 @@
+account_id,company_name,industry,plan,signup_date,churn_date,churned,mrr_usd,seats,monthly_active_users,usage_events,support_tickets_90d,nps_score,account_age_days,contract_type,region
+ACC-10937,Company_937,retail,freemium,12/03/2021,2022-05-19,1,1859.85,250,185.0,,4.0,4.0,1177,Yearly,APAC
+ACC-11097,,fintech,Free,2023-03-23,,0,$5.06K,90,62.0,,21.0,2.0,436,MONTHLY,Latin America
+ACC-10813,Company_813,retail,Pro,12/08/2022,,0,,161,162.0,,17.0,0.0,659,month-to-month,Europe
+ACC-10607,Company_607,Software,free,2020-01-10,2021-04-27,1,107.81,28,29.0,,1.0,8.0,1604,month-to-month,EU
+ACC-11304,Company_1304,Education,Prof,03/13/2022,,0,$52,385,130.0,"1,381 events",8.0,9.0,811,monthly,US
+ACC-11074,Company_1074,Tech,free,27/07/2021,,0,$29,240,149.0,9.9K,24.0,1.0,1040,2-Year,EMEA
+ACC-10839,Company_839,EdTech,free,12/23/2020,,0,$194.7,392,341.0,43271,5.0,0.0,1256,Annual,NA
+ACC-10809,,TECH,Starter Plan,2020-02-24,,0,,448,278.0,30094,14.0,3.0,1559,annual,US
+ACC-11237,Company_1237,fintech,STARTER,25/04/2020,,0,$192,302,216.0,4409,7.0,9.0,1498,Monthly,APAC
+ACC-10271,Company_271,Technology,Free Trial,2022-01-07,2026-06-01,1,5466.44,77,54.0,,5.0,8.0,-40,multi-year,Europe
+ACC-10464,Company_464,edtech,enterprise,2021-02-06,,0,$1033,302,107.0,"47,304 events",6.0,,1211,multi-year,EU
+ACC-11582,Company_1582,edtech,ENT,25/06/2022,,0,28.04,99,108.0,35.1K,8.0,,707,annual,Americas
+ACC-11457,Company_1457,Software,STARTER,2022-04-22,,0,$531.02,488,398.0,2986,24.0,2.0,771,Monthly,US
+ACC-11027,Company_1027,Health,FREE,2023-03-16,,0,184.76,464,490.0,"39,478 events",0.4202843901154805,,443,multi-year,EU
+ACC-10730,Company_730,education,Free Trial,2021-06-21,,0,$30,263,186.0,,0.8504142082999022,0.0,1076,multi-year,NA
+ACC-10462,Company_462,Retail,Ent,2022-11-09,,0,194.46,452,262.0,"41,579 events",19.0,5.0,570,Yearly,latam
+ACC-10483,Company_483,Education,STARTER,2020-07-05,,0,$47,26,13.0,,0.46406672721249825,3.0,1427,2-Year,APAC
+ACC-10522,Company_522,,Pro,25/01/2023,2023-09-23,1,$44.88,69,74.0,28675,10.0,7.0,493,annual,NA
+ACC-11428,Company_1428,education,freemium,08/08/2020,,0,,343,191.0,28.4K,14.0,3.0,1393,month-to-month,latam
+ACC-10590,Company_590,finance,Professional,2022-07-13,,0,"$1,067.87",454,274.0,"9,919 events",2.0,10.0,689,Yearly,EU
+ACC-10548,Company_548,healthcare,start,2020-09-05,,0,,30,27.0,49705,7.0,7.0,1365,Annual,North America
+ACC-10678,Company_678,education,Ent,2020-09-26,,0,1982.66,422,424.0,"29,458 events",6.0,10.0,1344,yearly,EMEA
+ACC-11096,Company_1096,education,,2021-04-02,2022-05-15,1,$539,9,5.0,"6,909 events",24.0,4.0,1156,monthly,
+ACC-10631,Company_631,EdTech,enterprise,2022-12-23,2023-08-28,1,$50.90,174,182.0,,2.0,2.0,526,2-Year,apac
+ACC-10611,Company_611,Software,starter,2021-05-24,,0,$191,143,54.0,26878,4.0,8.0,1104,ANNUAL,US
+ACC-10944,Company_944,education,starter,03/23/2020,2021-05-27,1,4846.94,299,269.0,,12.0,2.0,1531,Multi-Year,LATAM
+ACC-10485,Company_485,E-Commerce,STARTER,21/11/2020,,0,$28,399,430.0,,2.0,3.0,1288,,apac
+ACC-10416,Company_416,E-Commerce,Ent,2020-07-03,,0,$1.05K,495,327.0,26808,2.0,6.0,1429,Annual,latam
+ACC-10745,Company_745,SaaS,start,03/08/2022,2022-09-22,1,$195.13,101,,"5,146 events",11.0,1.0,668,monthly,latam
+ACC-10070,,Healthcare,freemium,18/04/2021,,0,,293,261.0,950,23.0,-5.0,1140,multi-year,North America
+ACC-11007,Company_1007,EdTech,starter,12/01/2021,,TRUE,$52,281,268.0,0.6K,20.0,6.0,913,ANNUAL,
+ACC-10203,Company_203,fintech,ENTERPRISE,20/07/2020,2021-10-19,1,$194.70,391,308.0,7.2K,17.0,7.0,1412,Monthly,LATAM
+ACC-11023,Company_1023,tech,ENTERPRISE,10/12/2022,2024-07-12,1,,390,361.0,"21,230 events",1.0,9.0,598,Annual,Latin America
+ACC-10361,Company_361,Health,Starter,16/08/2020,2022-05-05,1,$96.67,304,232.0,"45,023 events",3.0,4.0,1385,MONTHLY,Americas
+ACC-11447,Company_1447,fintech,Free,2022-12-20,,0,4741.26,448,402.0,"6,576 events",3.0,2.0,529,MONTHLY,APAC
+ACC-11160,Company_1160,tech,Pro,03/10/2023,,0,,137,81.0,"14,702 events",8.0,,449,yearly,
+ACC-10997,Company_997,Retail,Ent,2021-04-18,,0,$90.52,234,231.0,"11,343 events",22.0,9.0,1140,multi-year,
+ACC-10275,Company_275,Healthcare,free,27/11/2022,,0,$212.07,370,230.0,"20,253 events",11.0,,552,Annual,NA
+ACC-10029,Company_29,SaaS,Ent,07/02/2021,2022-03-19,1,$200,121,131.0,32222,2.0,3.0,1210,ANNUAL,Latin America
+ACC-11268,Company_1268,,starter,08/01/2023,2023-12-03,1,$980,285,97.0,"47,592 events",14.0,3.0,510,,US
+ACC-10289,Company_289,Retail,ENTERPRISE,2021-11-28,,0,$103.0,94,89.0,"45,515 events",20.0,0.0,916,yearly,Europe
+ACC-11441,Company_1441,education,FREE,07/15/2022,,0,$106.30,341,275.0,24.1K,15.0,4.0,687,monthly,EMEA
+ACC-10570,Company_570,healthcare,professional,2020-03-26,,0,$49.22,394,270.0,"27,836 events",6.0,10.0,1528,multi-year,
+ACC-10030,Company_30,Health,Free Trial,10/02/2023,,0,,267,111.0,39.5K,8.0,,477,ANNUAL,emea
+ACC-10339,Company_339,saas,enterprise,27/09/2020,2022-08-29,1,,447,451.0,10904,1.0,0.0,1343,,Latin America
+ACC-11461,Company_1461,edtech,start,27/09/2022,2023-07-14,1,,167,72.0,34637,24.0,4.0,-106,multi-year,US
+ACC-10529,Company_529,education,Ent,2021-03-26,,0,,156,137.0,,23.0,8.0,1163,annual,EMEA
+ACC-10493,Company_493,E-Commerce,ENT,22/01/2020,,0,,278,,5.5K,8.0,1.0,1592,multi-year,NA
+ACC-10251,,TECH,Starter Plan,06/18/2021,,0,$1046,303,94.0,"48,062 events",11.0,7.0,1079,annual,Americas
+ACC-10342,Company_342,Education,Pro,09/02/2022,,0,,258,239.0,6.9K,17.0,6.0,638,monthly,emea
+ACC-10300,Company_300,healthcare,free,01/14/2023,,0,$28.99,267,112.0,,2.0,,504,month-to-month,Latin America
+ACC-11246,Company_1246,Technology,,16/12/2022,,0,$29.85,139,91.0,"23,349 events",0.8891719153893478,100.0,533,Multi-Year,NA
+ACC-10551,Company_551,Technology,Professional,01/31/2021,,0,$191.08,343,364.0,,4.0,3.0,1217,Yearly,US
+ACC-10930,,healthcare,starter,06/10/2020,,0,905.52,307,331.0,"33,105 events",0.0,8.0,1334,2-Year,Americas
+ACC-10847,Company_847,saas,Ent,12/02/2021,,0,1871.13,474,350.0,37.5K,17.0,4.0,1205,,Americas
+ACC-10478,Company_478,FinTech,FREE,2020-01-05,,0,,84,32.0,29.2K,2.0,8.0,1609,annual,Latin America
+ACC-10351,Company_351,edtech,STARTER,17/02/2022,,Yes,44.31,444,417.0,4.4K,4.0,2.0,835,yearly,Latin America
+ACC-10433,Company_433,healthcare,Enterprise,14/07/2021,,0,,136,145.0,,14.0,9.0,1053,Multi-Year,Americas
+ACC-10065,Company_65,Software,Free,2020-07-21,2022-07-03,1,$5216,243,143.0,"7,958 events",7.0,0.0,1411,2-Year,emea
+ACC-10598,Company_598,Technology,,2022-09-25,,0,,152,103.0,"30,609 events",13.0,1.0,615,month-to-month,North America
+ACC-11355,Company_1355,education,professional,07/20/2021,,0,,35,,40561,9.0,0.0,1047,yearly,EMEA
+ACC-10185,Company_185,E-Commerce,STARTER,28/04/2020,2020-12-24,1,$195.32,168,50.0,"40,126 events",2.0,10.0,1495,annual,Asia Pacific
+ACC-10982,Company_982,edtech,pro,19/03/2023,2024-01-09,1,$5364,171,124.0,11.8K,7.0,7.0,440,MONTHLY,apac
+ACC-10023,Company_23,Tech,ENTERPRISE,2023-01-30,,0,,443,,2.8K,6.0,7.0,488,2-Year,EMEA
+ACC-10244,Company_244,Tech,starter,12/22/2020,,churned,,260,108.0,"33,361 events",0.4125389539226192,0.0,1257,MONTHLY,Asia Pacific
+ACC-10032,Company_32,TECH,FREE,10/28/2022,2023-03-31,1,$31.39,329,337.0,40.4K,2.0,7.0,582,yearly,NA
+ACC-11301,Company_1301,Technology,Starter,10/01/2021,2021-12-02,1,$1862,206,123.0,31.5K,0.8886873801708227,6.0,1238,Monthly,apac
+ACC-10173,Company_173,Tech,free,2021-05-13,,0,$44,440,210.0,,6.0,9.0,1115,month-to-month,
+ACC-10432,Company_432,Technology,start,17/08/2021,,0,$188.86,117,114.0,13.3K,14.0,-5.0,1019,Multi-Year,Europe
+ACC-11393,Company_1393,retail,Enterprise,28/09/2020,2021-11-19,1,$48.47,64,33.0,27061,21.0,1.0,1342,Yearly,US
+ACC-11156,Company_1156,EdTech,ENTERPRISE,24/03/2022,,No,$31.72,350,364.0,"6,692 events",16.0,,800,month-to-month,emea
+ACC-11174,Company_1174,Technology,pro,17/09/2020,,0,$53,209,94.0,4.5K,6.0,7.0,1353,yearly,latam
+ACC-11486,Company_1486,Healthcare,professional,2021-04-01,,0,,67,36.0,"36,621 events",21.0,1.0,1157,multi-year,Europe
+ACC-10910,Company_910,retail,PRO,2022-06-02,,0,$911.33,117,42.0,6.1K,5.0,10.0,730,,Europe
+ACC-10303,Company_303,,freemium,11/17/2022,,0,"$1,867.50",495,389.0,"45,145 events",3.0,,562,monthly,emea
+ACC-11161,Company_1161,SaaS,professional,12/24/2022,,0,$26.19,333,324.0,,19.0,8.0,525,ANNUAL,Americas
+ACC-10603,Company_603,ecommerce,PRO,06/15/2020,2022-02-04,1,$47.99,434,369.0,2.8K,17.0,1.0,1447,multi-year,latam
+ACC-11598,Company_1598,ecommerce,professional,04/14/2022,,0,$93,367,179.0,"21,788 events",0.0,4.0,779,MONTHLY,EU
+ACC-10059,Company_59,Tech,ENT,12/08/2022,,0,$30,24,23.0,14.8K,11.0,8.0,541,,APAC
+ACC-11049,Company_1049,education,Free,2021-09-18,,0,186.74,2,,,24.0,3.0,987,ANNUAL,APAC
+ACC-10069,Company_69,,start,01/06/2021,2027-05-29,1,$468,430,282.0,27719,18.0,8.0,1242,month-to-month,LATAM
+ACC-10626,Company_626,Tech,pro,28/06/2022,,0,$29.82,412,,"33,521 events",18.0,,704,,US
+ACC-11445,,saas,professional,21/03/2020,,0,"$1,049.40",453,496.0,20799,7.0,1.0,1533,Annual,Asia Pacific
+ACC-11058,Company_1058,Software,free,2020-01-14,,0,4807.17,323,294.0,,3.0,,1600,Multi-Year,NA
+ACC-10298,Company_298,fintech,,20/06/2020,,0,$1009,118,113.0,9.5K,18.0,,1442,yearly,Asia Pacific
+ACC-11319,,saas,professional,2022-06-28,,0,31.6,207,226.0,,15.0,2.0,704,2-Year,EU
+ACC-11176,Company_1176,Technology,pro,12/11/2022,,0,"$1,933.88",7,5.0,"46,220 events",14.0,3.0,538,ANNUAL,EU
+ACC-10193,,healthcare,start,07/13/2021,,0,$203.75,164,163.0,9428,23.0,9.0,1054,Yearly,Americas
+ACC-11211,,Retail,ENT,20/12/2020,,0,$31.52,232,119.0,,11.0,5.0,1259,Multi-Year,Latin America
+ACC-10124,Company_124,TECH,starter,01/03/2021,,0,,483,421.0,"7,184 events",21.0,6.0,1188,annual,US
+ACC-10976,Company_976,healthcare,Professional,2020-05-19,,0,$196,174,114.0,,15.0,10.0,1474,,emea
+ACC-10987,Company_987,SaaS,ENT,06/09/2020,2027-03-06,1,$47.85,154,60.0,,12.0,,1364,Multi-Year,EU
+ACC-11315,Company_1315,finance,Free Trial,2023-01-12,,0,$53,408,298.0,"49,245 events",4.0,7.0,506,month-to-month,US
+ACC-10247,Company_247,Health,Enterprise,04/06/2023,,0,97.23,122,60.0,"13,931 events",4.0,9.0,422,monthly,apac
+ACC-10099,Company_99,education,professional,2021-02-27,2022-03-24,1,485.42,262,246.0,"41,434 events",22.0,7.0,1190,Monthly,Europe
+ACC-10353,Company_353,Healthcare,enterprise,05/03/2023,,0,"$5,476.68",486,430.0,,4.0,9.0,454,multi-year,emea
+ACC-10530,Company_530,Retail,start,26/09/2021,2021-12-29,1,$536.51,240,222.0,"46,261 events",6.0,8.0,979,,NA
+ACC-11187,Company_1187,Tech,Pro,19/02/2023,,0,28.1,403,301.0,"47,641 events",17.0,1.0,468,monthly,latam
+ACC-11091,Company_1091,Retail,Enterprise,18/03/2021,,0,$208.62,114,50.0,9.3K,18.0,4.0,1171,Monthly,latam
+ACC-10755,Company_755,SaaS,Starter Plan,2020-10-28,2021-10-16,1,$29,315,,,17.0,6.0,1312,month-to-month,Latin America
+ACC-11587,Company_1587,fintech,Enterprise,04/11/2021,,0,$48,223,127.0,"17,790 events",10.0,7.0,940,Annual,latam
+ACC-10712,Company_712,,Ent,04/30/2021,2022-09-29,1,"$1,890.49",246,,4.6K,10.0,,1128,Multi-Year,latam
+ACC-10345,Company_345,Healthcare,freemium,2022-06-05,,,480.82,137,60.0,30.2K,0.7419251796036955,7.0,727,Yearly,North America
+ACC-11308,Company_1308,tech,ENTERPRISE,2022-09-21,,0,,173,88.0,41368,20.0,8.0,619,multi-year,US
+ACC-11073,Company_1073,E-Commerce,Prof,2022-04-11,,0,$52.85,419,220.0,,7.0,,782,Monthly,emea
+ACC-11408,Company_1408,,enterprise,10/02/2022,2024-05-23,1,,142,77.0,42.5K,15.0,4.0,608,Yearly,North America
+ACC-10651,Company_651,healthcare,FREE,09/25/2020,,0,,180,180.0,"36,748 events",16.0,9.0,1345,multi-year,APAC
+ACC-10721,Company_721,Technology,Free,08/08/2021,,0,"$2,116.62",10,7.0,"26,568 events",1.0,2.0,1028,Yearly,EU
+ACC-10588,Company_588,E-Commerce,,2021-10-25,,0,$4545,184,72.0,"34,042 events",14.0,7.0,950,Yearly,Latin America
+ACC-11083,Company_1083,Healthcare,pro,06/02/2020,,0,$524,388,,,11.0,3.0,1460,month-to-month,EU
+ACC-10405,Company_405,Health,ENT,08/04/2021,,0,$5128,140,106.0,"42,614 events",2.0,4.0,1032,month-to-month,Latin America
+ACC-10621,Company_621,TECH,Ent,2022-03-23,,0,$31,354,136.0,31.5K,23.0,1.0,801,Annual,EU
+ACC-10324,Company_324,,professional,02/02/2021,2026-11-09,1,"$4,646.02",241,117.0,48188,12.0,9.0,1215,Monthly,NA
+ACC-10914,Company_914,Finance,ENTERPRISE,26/11/2022,2024-08-21,1,28.29,362,,"8,029 events",20.0,1.0,553,Multi-Year,
+ACC-11578,Company_1578,saas,Free,07/18/2021,,0,$202.76,304,132.0,4.3K,4.0,3.0,1049,monthly,APAC
+ACC-11325,Company_1325,fintech,freemium,2020-11-01,,0,$44.82,331,296.0,"27,356 events",11.0,10.0,1308,multi-year,EU
+ACC-11521,Company_1521,EdTech,free,16/12/2022,,0,$30,43,27.0,"1,352 events",3.0,8.0,533,Annual,latam
+ACC-10672,Company_672,TECH,ENTERPRISE,07/22/2020,,0,$1038,450,231.0,"24,938 events",4.0,8.0,1410,annual,APAC
+ACC-11269,Company_1269,,Enterprise,01/03/2021,2022-01-12,1,$992.91,3,1.0,22.0K,7.0,10.0,1245,MONTHLY,EU
+ACC-10576,Company_576,tech,pro,2020-12-19,2021-11-27,1,,189,205.0,35.2K,15.0,2.0,1260,Annual,Latin America
+ACC-11540,Company_1540,EdTech,starter,2021-08-14,,0,$537,191,106.0,"6,497 events",24.0,-5.0,1022,Monthly,emea
+ACC-10237,Company_237,Software,Ent,2022-04-09,,0,$469.58,141,143.0,,24.0,3.0,784,Multi-Year,apac
+ACC-10049,Company_49,finance,Free,11/14/2021,,0,$179.74,59,37.0,3.4K,15.0,8.0,930,Monthly,US
+ACC-11138,Company_1138,EdTech,pro,02/21/2020,,0,$499.08,171,,"25,913 events",18.0,0.0,1562,multi-year,EU
+ACC-11329,Company_1329,E-Commerce,Free Trial,2021-08-31,2022-01-30,1,"$4,864.89",43,31.0,48239,22.0,10.0,1005,Multi-Year,LATAM
+ACC-10764,Company_764,FinTech,Prof,2020-07-06,,0,$209.27,143,132.0,22.1K,20.0,4.0,-196,Multi-Year,Latin America
+ACC-10414,,Technology,Enterprise,21/03/2023,,0,,447,478.0,6.0K,23.0,10.0,438,multi-year,NA
+ACC-11137,,saas,Enterprise,04/04/2023,,0,$47.6,93,33.0,41179,5.0,5.0,424,Monthly,Asia Pacific
+ACC-10766,Company_766,EdTech,Enterprise,2022-05-12,2023-06-17,1,$49.57,370,390.0,559,20.0,2.0,751,annual,
+ACC-10398,Company_398,tech,ENT,11/27/2021,,0,$509.73,204,130.0,,13.0,5.0,917,ANNUAL,US
+ACC-10952,Company_952,saas,freemium,2020-05-24,2022-04-14,1,$1.82K,11,9.0,45.5K,0.6390718857077902,0.0,1469,Monthly,
+ACC-11581,Company_1581,healthcare,start,2021-10-06,,0,$539.11,363,212.0,,21.0,2.0,-68,Multi-Year,Asia Pacific
+ACC-10670,Company_670,education,ENT,2021-04-11,2021-10-16,1,,232,83.0,28682,0.5627080711368813,7.0,-18,2-Year,Asia Pacific
+ACC-10429,Company_429,Healthcare,Prof,05/06/2020,,0,$196.77,295,301.0,49789,15.0,2.0,1457,monthly,
+ACC-10135,Company_135,Education,FREE,06/27/2022,2023-02-05,1,$953.75,381,266.0,10.7K,21.0,10.0,705,Monthly,US
+ACC-11209,Company_1209,retail,start,18/01/2021,2021-03-14,1,$193,118,46.0,,20.0,0.0,1230,multi-year,EU
+ACC-10886,Company_886,E-Commerce,Free Trial,2020-01-17,,0,"$1,896.43",470,,167 events,16.0,2.0,1597,MONTHLY,APAC
+ACC-10482,Company_482,Education,Free,01/03/2021,,0,$471.87,471,141.0,,11.0,6.0,1188,2-Year,EMEA
+ACC-10720,Company_720,education,freemium,2021-12-10,2027-02-23,1,"$2,061.10",359,134.0,32211,13.0,1.0,904,Monthly,Americas
+ACC-11159,Company_1159,ecommerce,Pro,2021-02-16,,0,$188.54,251,171.0,22.7K,5.0,7.0,1201,Annual,Europe
+ACC-11517,Company_1517,Healthcare,Prof,03/27/2021,2022-02-02,1,$45.59,133,54.0,20500,22.0,10.0,1162,month-to-month,Latin America
+ACC-10073,Company_73,TECH,Prof,05/14/2022,,0,"$2,011.40",150,162.0,10.5K,6.0,9.0,749,multi-year,Latin America
+ACC-10109,Company_109,finance,Starter Plan,30/01/2022,,0,$1017,415,441.0,"8,532 events",11.0,4.0,853,Yearly,Europe
+ACC-10451,Company_451,,Enterprise,01/08/2022,,FALSE,$30.41,462,269.0,"39,768 events",2.0,8.0,670,annual,Latin America
+ACC-11292,Company_1292,E-Commerce,professional,04/12/2022,,0,$4679,347,376.0,"30,342 events",3.0,5.0,-65,2-Year,US
+ACC-10583,Company_583,retail,Free,2021-09-02,,0,,229,88.0,22.4K,19.0,5.0,1003,Multi-Year,LATAM
+ACC-11338,Company_1338,finance,Prof,2021-11-04,2022-03-13,1,$50.05,254,122.0,22058,9.0,5.0,940,Yearly,latam
+ACC-11116,Company_1116,saas,Free,03/06/2022,,0,945.96,120,68.0,"43,956 events",11.0,2.0,729,monthly,North America
+ACC-10240,Company_240,Software,Enterprise,08/17/2021,,0,$47,222,202.0,"47,150 events",2.0,6.0,1019,month-to-month,Americas
+ACC-11140,Company_1140,edtech,Pro,01/31/2023,,Yes,,48,32.0,48107,22.0,9.0,487,ANNUAL,EU
+ACC-10051,Company_51,tech,pro,08/09/2022,,0,$909.67,90,58.0,40966,13.0,6.0,662,,APAC
+ACC-10076,Company_76,Retail,Free Trial,17/01/2023,2025-01-11,1,$1010,404,331.0,32.2K,24.0,1.0,501,Monthly,emea
+ACC-11398,Company_1398,fintech,PRO,10/22/2020,,0,"$5,454.11",94,100.0,,10.0,8.0,1318,,EMEA
+ACC-10316,Company_316,Software,,02/05/2020,,0,$94.16,19,8.0,,0.0,7.0,-5,Monthly,Asia Pacific
+ACC-10162,Company_162,retail,FREE,07/10/2021,,No,$26.81,325,125.0,"11,770 events",0.0,7.0,968,month-to-month,apac
+ACC-10331,Company_331,retail,Enterprise,10/16/2022,,0,"$4,573.27",149,141.0,"42,430 events",5.0,5.0,594,2-Year,Latin America
+ACC-11251,Company_1251,retail,Pro,05/04/2020,,0,$48.48,16,10.0,49.5K,3.0,1.0,1489,Multi-Year,latam
+ACC-11444,Company_1444,Retail,Enterprise,07/01/2022,,0,$27.85,140,97.0,37.1K,22.0,,701,monthly,EU
+ACC-10123,Company_123,E-Commerce,starter,2022-06-09,,0,$27.18,47,31.0,,22.0,,723,monthly,North America
+ACC-11131,Company_1131,Healthcare,free,06/25/2022,,0,$198.40,83,52.0,"31,963 events",11.0,5.0,707,annual,EMEA
+ACC-10168,Company_168,SaaS,ENT,29/01/2022,2023-02-14,1,$536.80,222,218.0,"15,619 events",0.0,,854,annual,EU
+ACC-10679,Company_679,fintech,Ent,29/04/2021,,0,$90.34,157,86.0,"29,431 events",1.0,6.0,1129,Monthly,APAC
+ACC-11379,Company_1379,fintech,Free,2021-07-18,,0,$185.47,471,312.0,"6,418 events",8.0,8.0,1049,Monthly,Asia Pacific
+ACC-10602,Company_602,Health,Pro,10/03/2021,,FALSE,$209.47,488,307.0,2.1K,21.0,8.0,1179,multi-year,Americas
+ACC-11563,Company_1563,finance,Ent,2022-03-11,,0,"$2,062.09",89,40.0,26539,23.0,2.0,813,,US
+ACC-10261,Company_261,finance,Pro,2022-05-30,,0,"$1,984.13",287,175.0,25427,0.07556737891905758,9.0,-116,MONTHLY,North America
+ACC-11405,Company_1405,education,Starter,2021-06-07,,0,$100,122,85.0,11100,11.0,1.0,1090,multi-year,apac
+ACC-10560,Company_560,finance,Enterprise,11/02/2021,,0,$28.92,176,169.0,22359,1.0,5.0,1206,yearly,
+ACC-11419,Company_1419,SaaS,,10/07/2022,,0,$90.91,245,186.0,24707,0.0,1.0,603,Annual,NA
+ACC-11573,Company_1573,tech,ENTERPRISE,2022-05-11,2023-10-11,1,$29.93,345,330.0,21500,16.0,,752,annual,LATAM
+ACC-10067,Company_67,Retail,Ent,05/15/2021,2021-09-18,1,$1864,216,78.0,18115,14.0,8.0,1113,Multi-Year,EU
+ACC-10427,Company_427,Education,,30/11/2020,,0,$203.28,188,190.0,36507,3.0,0.0,1279,Annual,EMEA
+ACC-11227,Company_1227,fintech,Free,02/09/2023,,Yes,94.87,392,402.0,29594,9.0,10.0,478,2-Year,Asia Pacific
+ACC-10141,Company_141,Software,FREE,28/02/2021,2022-02-15,1,1800.65,130,126.0,17923,4.0,5.0,1189,Monthly,Latin America
+ACC-10332,Company_332,Health,Prof,02/24/2022,2022-06-17,1,$5.40K,439,,303,13.0,8.0,828,yearly,EMEA
+ACC-10774,Company_774,EdTech,ENTERPRISE,20/06/2022,,0,$4547,365,287.0,,16.0,15.0,712,month-to-month,APAC
+ACC-11027,Company_1027,Health,FREE,2023-03-16,,0,184.76,464,490.0,"39,478 events",0.4202843901154805,,443,multi-year,EU
+ACC-11192,Company_1192,Healthcare,enterprise,2021-05-12,,0,,101,109.0,3744,15.0,,1116,2-Year,Europe
+ACC-10591,,Education,FREE,18/01/2020,,0,$1063,308,218.0,"38,118 events",5.0,,1596,monthly,Europe
+ACC-11318,Company_1318,finance,PRO,02/24/2022,,0,,159,152.0,"4,059 events",18.0,8.0,828,Multi-Year,apac
+ACC-11163,Company_1163,EdTech,start,09/26/2022,,0,$485.03,10,5.0,"8,220 events",17.0,,614,ANNUAL,Europe
+ACC-10899,Company_899,,professional,02/07/2020,,0,"$1,055.71",162,100.0,"23,565 events",11.0,2.0,1576,MONTHLY,APAC
+ACC-10669,Company_669,Health,ENTERPRISE,04/03/2022,,0,$198,56,27.0,"40,715 events",4.0,1.0,790,,North America
+ACC-10806,Company_806,finance,professional,01/04/2020,,0,$51.28,309,180.0,14760,0.0,7.0,1522,annual,latam
+ACC-10861,Company_861,FinTech,ENTERPRISE,11/09/2022,,0,$108.37,111,80.0,,12.0,4.0,570,Monthly,
+ACC-11560,Company_1560,finance,free,14/11/2022,,0,26.62,429,261.0,,9.0,3.0,565,month-to-month,latam
+ACC-10184,Company_184,SaaS,,03/09/2020,,0,$5.35K,462,457.0,26074,11.0,8.0,1545,MONTHLY,Latin America
+ACC-11107,Company_1107,Education,FREE,01/11/2023,2024-09-02,1,"$4,940.03",486,184.0,"46,849 events",14.0,9.0,507,multi-year,North America
+ACC-10453,Company_453,finance,Free Trial,23/02/2022,2023-08-24,1,$48.55,109,84.0,"46,821 events",5.0,4.0,829,Annual,US
+ACC-10422,Company_422,,pro,2020-01-20,,0,$940,340,364.0,,6.0,7.0,1594,ANNUAL,US
+ACC-11217,Company_1217,finance,start,12/02/2021,,0,,456,289.0,31.0K,24.0,6.0,1205,ANNUAL,Americas
+ACC-11450,Company_1450,Education,enterprise,02/09/2023,,0,$938.94,336,338.0,"6,107 events",10.0,1.0,478,monthly,apac
+ACC-11009,Company_1009,Software,,11/02/2021,,0,,467,261.0,"37,637 events",9.0,3.0,1206,ANNUAL,APAC
+ACC-11200,Company_1200,Retail,Professional,05/01/2022,,0,$489,120,107.0,"31,584 events",7.0,4.0,878,MONTHLY,Americas
+ACC-10486,Company_486,,,2020-03-03,,0,28.46,382,299.0,"46,251 events",22.0,7.0,1551,monthly,LATAM
+ACC-11356,Company_1356,TECH,PRO,2022-08-03,2024-03-01,1,$91,15,16.0,"25,949 events",20.0,8.0,668,month-to-month,North America
+ACC-11505,Company_1505,healthcare,ENTERPRISE,10/26/2022,,0,492.0,433,175.0,,2.0,3.0,584,yearly,EMEA
+ACC-10408,Company_408,Health,Free,03/31/2020,2021-03-16,1,$505.5,251,85.0,33607,0.20608846623729307,,1523,yearly,EU
+ACC-10350,Company_350,FinTech,Ent,04/08/2021,,,30.57,50,15.0,27813,5.0,9.0,1032,yearly,North America
+ACC-11093,Company_1093,,ENTERPRISE,22/07/2021,,0,$26.97,228,122.0,"49,854 events",2.0,15.0,1045,Multi-Year,Americas
+ACC-10874,Company_874,EdTech,professional,12/03/2020,2021-04-03,1,939.25,455,250.0,,0.2781565182020118,,1542,yearly,North America
+ACC-10481,Company_481,fintech,professional,2020-10-01,2021-05-21,1,$47.53,367,315.0,,8.0,5.0,1339,Yearly,Europe
+ACC-10754,,SaaS,Pro,21/09/2022,2023-04-24,1,51.57,147,93.0,"12,283 events",5.0,,619,Multi-Year,APAC
+ACC-10270,Company_270,retail,PRO,2020-08-23,,0,,66,54.0,47725,1.0,1.0,-20,,
+ACC-11178,Company_1178,healthcare,Starter Plan,07/22/2020,,0,2000.25,206,176.0,"44,482 events",15.0,,1410,monthly,NA
+ACC-11415,Company_1415,Education,professional,20/06/2020,,0,,260,214.0,,14.0,10.0,1442,Annual,Asia Pacific
+ACC-10420,Company_420,SaaS,freemium,02/15/2023,2023-07-04,1,$27.42,494,408.0,30.1K,2.0,6.0,472,month-to-month,APAC
+ACC-10243,Company_243,ecommerce,FREE,2022-04-16,,0,,377,191.0,"44,409 events",16.0,8.0,777,2-Year,apac
+ACC-10917,Company_917,Healthcare,pro,2021-10-06,2023-10-03,1,,418,283.0,,23.0,6.0,969,MONTHLY,Europe
+ACC-10832,Company_832,Tech,starter,24/06/2021,,0,,63,40.0,47980,7.0,2.0,1073,Multi-Year,emea
+ACC-10780,Company_780,retail,STARTER,11/13/2022,,0,$214.56,121,59.0,"6,654 events",21.0,-5.0,566,monthly,EMEA
+ACC-10383,,edtech,start,2020-08-27,,0,$185.63,369,235.0,"47,963 events",4.0,,1374,monthly,LATAM
+ACC-11394,Company_1394,finance,professional,11/19/2021,,0,$193.82,208,142.0,"9,432 events",2.0,,925,monthly,emea
+ACC-11491,Company_1491,E-Commerce,PRO,07/10/2021,,0,943.51,77,73.0,28.0K,17.0,6.0,-31,Annual,Latin America
+ACC-11128,Company_1128,finance,Free,01/08/2021,2022-11-19,1,$4744,92,30.0,21996,5.0,3.0,1035,ANNUAL,Europe
+ACC-10239,Company_239,TECH,Enterprise,03/30/2020,,0,$913.55,53,38.0,"27,489 events",10.0,9.0,1524,Yearly,apac
+ACC-10842,Company_842,edtech,Starter,29/09/2021,2026-06-26,1,$522.88,234,215.0,,14.0,100.0,976,month-to-month,Latin America
+ACC-11339,Company_1339,Finance,Free,10/06/2022,,0,$4.87K,282,109.0,"34,201 events",16.0,9.0,604,month-to-month,
+ACC-10170,Company_170,tech,start,09/03/2021,2023-03-28,1,$27.12,368,164.0,5467,23.0,2.0,1002,annual,NA
+ACC-11112,Company_1112,edtech,,12/18/2021,,0,$30,462,497.0,1.0K,22.0,0.0,896,Multi-Year,Europe
+ACC-11310,Company_1310,Finance,professional,11/03/2022,,0,$104,234,91.0,4.8K,3.0,0.0,576,monthly,Europe
+ACC-10650,Company_650,tech,ENT,07/03/2022,,0,1815.44,18,,"14,669 events",4.0,,-43,ANNUAL,APAC
+ACC-10044,Company_44,retail,Starter Plan,2020-09-10,,0,457.18,53,23.0,"29,880 events",11.0,7.0,1360,Multi-Year,APAC
+ACC-10411,,retail,Starter,07/03/2020,,0,"$5,252.11",400,140.0,3977,12.0,1.0,1429,monthly,APAC
+ACC-11551,Company_1551,Retail,Professional,2023-03-11,2023-07-25,1,180.29,444,333.0,11549,0.867577533042006,0.0,448,,Americas
+ACC-10986,Company_986,Finance,STARTER,04/02/2022,2023-05-26,1,$491.74,455,193.0,"13,343 events",8.0,0.0,791,,Europe
+ACC-10589,Company_589,tech,PRO,02/21/2020,,0,"$5,209.61",445,225.0,"42,542 events",8.0,3.0,1562,multi-year,Asia Pacific
+ACC-10714,Company_714,healthcare,freemium,2022-01-16,,0,$27.28,270,98.0,11574,0.0,-5.0,867,ANNUAL,Americas
+ACC-10366,Company_366,EdTech,professional,08/04/2020,,0,$5007,293,304.0,"45,176 events",8.0,5.0,1515,multi-year,Europe
+ACC-10888,Company_888,Software,ENT,04/25/2020,,0,$30,41,27.0,"5,251 events",16.0,4.0,1498,month-to-month,North America
+ACC-11236,Company_1236,saas,Ent,2021-10-27,2022-11-20,1,924.06,390,388.0,"46,403 events",20.0,9.0,948,Multi-Year,EU
+ACC-10561,Company_561,tech,ENTERPRISE,2020-02-04,,0,"$1,911.14",354,297.0,33317,19.0,7.0,1579,MONTHLY,North America
+ACC-10297,Company_297,education,PRO,02/18/2022,,0,$1014,444,229.0,"7,324 events",17.0,7.0,834,,NA
+ACC-11468,Company_1468,retail,Pro,04/01/2022,,0,1969.69,249,123.0,10.4K,6.0,6.0,879,multi-year,emea
+ACC-10115,Company_115,saas,pro,2020-12-24,2021-11-10,1,$1839,157,78.0,"40,051 events",0.0,6.0,1255,monthly,Latin America
+ACC-10394,Company_394,education,ENTERPRISE,11/08/2022,,0,$47.45,38,16.0,26.8K,23.0,6.0,660,2-Year,Americas
+ACC-10425,Company_425,tech,Professional,08/12/2022,,0,$1914,113,51.0,"14,259 events",12.0,8.0,659,MONTHLY,North America
+ACC-11471,Company_1471,FinTech,Starter,26/03/2021,,0,$51.34,109,67.0,"3,569 events",23.0,10.0,1163,yearly,LATAM
+ACC-10220,Company_220,Retail,,2020-10-08,,0,$99,438,333.0,,7.0,0.0,1332,2-Year,EMEA
+ACC-10532,Company_532,Health,start,10/03/2020,,0,$101.75,410,418.0,43834,13.0,9.0,1544,monthly,emea
+ACC-10426,Company_426,tech,Pro,12/08/2020,,0,$26.57,295,276.0,"13,715 events",15.0,9.0,1389,Monthly,US
+ACC-10915,Company_915,fintech,Pro,15/04/2020,,0,$527.83,274,263.0,,19.0,10.0,1508,Yearly,Latin America
+ACC-10175,Company_175,edtech,Starter Plan,2021-08-13,2023-04-14,1,,196,207.0,26641,10.0,,1023,,emea
+ACC-10787,Company_787,,free,28/01/2021,2022-07-26,1,1014.69,405,186.0,"35,950 events",17.0,6.0,1220,Multi-Year,latam
+ACC-10942,Company_942,education,STARTER,07/12/2022,2023-07-04,1,$28,206,204.0,"41,237 events",18.0,7.0,-37,Multi-Year,latam
+ACC-11383,Company_1383,tech,free,2022-07-16,,churned,$106,436,469.0,12952,19.0,1.0,686,,emea
+ACC-10344,Company_344,TECH,pro,16/02/2023,,0,$29.67,266,141.0,"39,353 events",13.0,0.0,471,multi-year,apac
+ACC-10078,Company_78,EdTech,Enterprise,05/12/2022,2022-06-13,1,$48.4,301,92.0,"49,808 events",6.0,100.0,751,month-to-month,NA
+ACC-10374,Company_374,E-Commerce,Free Trial,04/07/2020,,0,$2032,455,250.0,,4.0,7.0,1428,2-Year,US
+ACC-11507,Company_1507,education,starter,2021-07-08,,0,$899.13,340,319.0,28.5K,6.0,7.0,1059,,NA
+ACC-10543,Company_543,Tech,STARTER,2020-04-29,2020-11-18,1,,381,125.0,"23,718 events",20.0,5.0,1494,Multi-Year,North America
+ACC-10756,Company_756,EdTech,Ent,15/08/2021,,0,$28.02,417,150.0,9.8K,10.0,5.0,1021,ANNUAL,North America
+ACC-10212,Company_212,,,30/08/2020,,0,2096.47,145,105.0,"46,735 events",2.0,,1371,annual,
+ACC-10259,Company_259,Tech,ENT,15/08/2021,,0,1996.05,379,381.0,"19,769 events",14.0,5.0,1021,Annual,emea
+ACC-10705,Company_705,EdTech,enterprise,2023-01-30,,0,$210.45,8,6.0,41984,17.0,0.0,488,ANNUAL,emea
+ACC-10617,Company_617,retail,enterprise,2020-04-22,,0,$30,422,425.0,17.3K,21.0,0.0,1501,,North America
+ACC-10198,Company_198,tech,FREE,09/20/2020,2021-10-16,1,91.01,27,14.0,48903,2.0,1.0,1350,Annual,Europe
+ACC-10015,Company_15,finance,Pro,2022-03-31,2022-06-10,1,"$1,029.09",44,25.0,"37,339 events",6.0,7.0,793,month-to-month,NA
+ACC-10582,Company_582,edtech,ENT,2021-09-02,,0,$454.89,214,,,23.0,8.0,1003,Annual,EMEA
+ACC-11145,Company_1145,ecommerce,FREE,2021-07-31,,0,"$2,110.76",477,271.0,,3.0,9.0,1036,,emea
+ACC-10382,Company_382,,free,12/24/2022,,0,$189,434,411.0,10.2K,0.0,9.0,525,Monthly,Americas
+ACC-10618,Company_618,fintech,Free Trial,2020-07-01,,TRUE,$105.74,458,206.0,"5,928 events",14.0,2.0,1431,annual,Europe
+ACC-11350,Company_1350,finance,Ent,05/09/2020,2021-08-02,1,$190.82,34,19.0,48596,0.506816871453989,8.0,1484,monthly,apac
+ACC-10490,Company_490,EdTech,Ent,2022-11-12,2024-01-08,1,$962.80,493,299.0,7571,3.0,0.0,567,multi-year,emea
+ACC-10199,Company_199,Technology,STARTER,20/02/2020,,0,$182,12,6.0,"1,186 events",3.0,7.0,1563,multi-year,EU
+ACC-11391,Company_1391,education,ENT,2020-09-20,2021-09-26,1,"$5,243.24",299,206.0,8.2K,2.0,4.0,1350,yearly,EU
+ACC-11344,Company_1344,ecommerce,PRO,2021-01-05,2022-05-12,1,"$1,072.48",332,198.0,"31,438 events",5.0,1.0,1243,monthly,North America
+ACC-11047,Company_1047,Healthcare,ENT,27/01/2020,,FALSE,,176,126.0,,14.0,2.0,1587,month-to-month,LATAM
+ACC-11492,Company_1492,Technology,ENTERPRISE,2023-04-07,2025-03-07,1,"$1,042.57",221,185.0,,17.0,3.0,421,multi-year,EU
+ACC-10438,Company_438,Healthcare,Enterprise,12/07/2020,,0,$982,58,55.0,28252,0.7215134952075011,3.0,1420,multi-year,Asia Pacific
+ACC-11583,Company_1583,Tech,Starter Plan,25/03/2023,,0,207.59,66,34.0,17186,6.0,0.0,434,2-Year,NA
+ACC-11034,Company_1034,healthcare,Starter Plan,08/06/2020,,0,"$4,914.40",147,109.0,16858,18.0,1.0,1454,Yearly,apac
+ACC-11111,Company_1111,saas,ENT,2020-12-05,,0,$106,368,,"5,314 events",20.0,10.0,1274,annual,LATAM
+ACC-10056,Company_56,finance,freemium,25/10/2022,,0,30.29,379,354.0,"8,705 events",19.0,-5.0,585,Yearly,apac
+ACC-10450,Company_450,Retail,freemium,01/08/2023,,Yes,"$1,025.22",215,79.0,,6.0,,510,Monthly,latam
+ACC-10043,Company_43,Health,ENTERPRISE,27/09/2020,,0,,332,224.0,"45,457 events",1.0,-5.0,-90,Yearly,NA
+ACC-10100,Company_100,SaaS,ENTERPRISE,07/02/2023,,TRUE,"$1,860.45",260,251.0,,7.0,7.0,480,Monthly,EU
+ACC-10274,Company_274,Technology,ENTERPRISE,2021-05-23,,0,185.46,155,,,14.0,9.0,1105,Annual,LATAM
+ACC-11193,Company_1193,ecommerce,starter,15/12/2020,,0,"$1,936.43",398,395.0,,5.0,1.0,1264,annual,Latin America
+ACC-10101,Company_101,Education,enterprise,12/04/2021,,0,$99.83,154,149.0,19.7K,13.0,2.0,1146,monthly,apac
+ACC-11244,Company_1244,Healthcare,Starter,21/02/2023,,0,,474,228.0,"4,502 events",13.0,7.0,466,Monthly,EU
+ACC-10107,Company_107,saas,pro,2020-07-19,,0,$506.57,464,,"34,261 events",20.0,,1413,,EU
+ACC-11229,Company_1229,retail,Free,2022-11-18,,0,,261,240.0,,8.0,6.0,-71,Monthly,Asia Pacific
+ACC-10701,Company_701,education,pro,2022-12-13,,0,191.71,430,254.0,,3.0,9.0,536,monthly,Latin America
+ACC-10613,Company_613,FinTech,Ent,09/03/2021,,0,$48,85,58.0,"9,847 events",11.0,7.0,1180,Annual,APAC
+ACC-10526,Company_526,Tech,FREE,2022-04-11,2022-05-20,1,$45.52,307,202.0,,13.0,1.0,782,yearly,EMEA
+ACC-10352,Company_352,saas,start,2022-03-28,,0,,25,16.0,"5,394 events",15.0,0.0,796,yearly,APAC
+ACC-10614,Company_614,tech,,11/12/2021,,0,$984,121,60.0,,8.0,8.0,932,MONTHLY,latam
+ACC-11205,Company_1205,TECH,Starter Plan,2023-02-23,2025-02-08,1,$30.71,475,490.0,,24.0,4.0,464,multi-year,LATAM
+ACC-11270,Company_1270,saas,starter,01/17/2020,,0,,445,215.0,,0.5900560183913063,10.0,1597,MONTHLY,APAC
+ACC-10128,,Health,Free,2020-12-06,,0,$46.13,449,298.0,35639,0.0,8.0,1273,ANNUAL,apac
+ACC-10844,Company_844,Technology,free,07/20/2021,,0,$107.14,417,240.0,33295,12.0,5.0,1047,MONTHLY,US
+ACC-10497,Company_497,edtech,Pro,06/26/2020,,Yes,$473,332,224.0,"35,939 events",6.0,8.0,1436,Multi-Year,emea
+ACC-10810,Company_810,Health,Enterprise,11/02/2021,2022-09-14,1,$2065,378,206.0,"9,412 events",18.0,0.0,1206,2-Year,latam
+ACC-11359,,ecommerce,ENTERPRISE,2023-02-08,,0,$29.46,101,86.0,19139,14.0,10.0,479,ANNUAL,US
+ACC-10736,Company_736,finance,professional,10/02/2022,2024-09-13,1,$452,202,167.0,,11.0,10.0,608,MONTHLY,emea
+ACC-11053,Company_1053,Retail,start,15/12/2022,,0,$489.50,282,262.0,"42,968 events",4.0,8.0,534,MONTHLY,EU
+ACC-10901,Company_901,Finance,Starter,2023-01-01,2023-12-11,1,$31.63,487,216.0,19.9K,0.7266868534775912,6.0,517,month-to-month,EMEA
+ACC-10514,Company_514,,ENT,28/02/2021,,0,$913.68,342,270.0,"20,548 events",21.0,1.0,1189,ANNUAL,APAC
+ACC-11061,Company_1061,TECH,starter,04/03/2023,,No,$108,11,4.0,35006,14.0,10.0,425,2-Year,emea
+ACC-10413,Company_413,education,FREE,05/24/2022,,TRUE,$4.69K,153,79.0,17124,11.0,4.0,739,annual,North America
+ACC-11502,Company_1502,ecommerce,professional,28/06/2022,2024-05-27,1,$105,423,222.0,46653,12.0,-5.0,704,annual,North America
+ACC-10843,Company_843,fintech,Pro,2020-10-11,,No,$920.42,53,33.0,"49,498 events",0.0,,1329,multi-year,Europe
+ACC-10575,Company_575,healthcare,starter,25/08/2022,,0,$183.4,165,101.0,"43,321 events",3.0,8.0,646,multi-year,Americas
+ACC-10367,Company_367,retail,start,19/07/2021,2023-01-06,1,,329,305.0,,18.0,,1048,ANNUAL,Asia Pacific
+ACC-11353,Company_1353,saas,free,12/07/2020,,0,$30,178,64.0,"32,604 events",22.0,5.0,1420,yearly,Asia Pacific
+ACC-11203,Company_1203,tech,Professional,10/06/2021,,0,5256.74,251,241.0,40.4K,23.0,7.0,969,yearly,APAC
+ACC-11181,Company_1181,ecommerce,Enterprise,01/11/2022,,0,"$1,863.06",1,1.0,14102,6.0,7.0,872,,Europe
+ACC-10798,Company_798,Technology,Starter Plan,05/14/2021,,0,$976,196,211.0,"12,086 events",19.0,,1114,Yearly,APAC
+ACC-10696,Company_696,saas,Starter Plan,2020-05-19,,churned,$46.36,384,236.0,"49,588 events",0.0,1.0,1474,monthly,LATAM
+ACC-10226,Company_226,EdTech,Starter Plan,17/03/2020,2021-02-14,1,$1.92K,330,177.0,"10,567 events",24.0,7.0,1537,,Asia Pacific
+ACC-10231,,finance,free,2021-12-07,,0,$2133,452,139.0,"25,189 events",22.0,0.0,907,2-Year,APAC
+ACC-11001,Company_1001,retail,Starter,27/09/2020,,0,,444,294.0,24532,1.0,5.0,1343,,emea
+ACC-11395,Company_1395,Tech,starter,09/02/2020,,0,$548,323,297.0,8.4K,21.0,2.0,1574,monthly,Europe
+ACC-10479,Company_479,retail,professional,15/01/2023,,TRUE,$99.45,111,59.0,"4,582 events",23.0,8.0,503,Multi-Year,EMEA
+ACC-10163,,Health,starter,10/10/2021,2022-10-28,1,$26,464,218.0,"44,713 events",4.0,1.0,965,month-to-month,LATAM
+ACC-11470,Company_1470,FinTech,Ent,19/03/2020,2021-03-07,1,"$2,051.49",209,121.0,,18.0,5.0,1535,MONTHLY,Americas
+ACC-10552,Company_552,tech,Pro,10/08/2021,,0,48.45,84,,308 events,22.0,7.0,967,MONTHLY,NA
+ACC-10266,Company_266,fintech,Professional,07/04/2022,2023-12-24,1,4688.81,20,17.0,9756,9.0,2.0,786,month-to-month,North America
+ACC-10148,Company_148,finance,STARTER,2020-10-26,2026-08-25,1,$5.34K,262,231.0,"25,494 events",10.0,1.0,1314,Multi-Year,Asia Pacific
+ACC-10567,Company_567,education,Free Trial,12/17/2020,,0,50.08,332,232.0,"20,110 events",0.22049741690777927,6.0,1262,MONTHLY,APAC
+ACC-10811,Company_811,retail,starter,2021-09-25,2026-08-12,1,$1967,291,181.0,"1,032 events",0.696628473799775,0.0,980,month-to-month,North America
+ACC-11481,Company_1481,Education,Free,2020-02-14,,0,$547.39,326,198.0,20.5K,0.0,,1569,monthly,Americas
+ACC-11288,Company_1288,tech,STARTER,03/07/2022,,0,,83,82.0,"23,496 events",13.0,6.0,817,Annual,LATAM
+ACC-10306,Company_306,Technology,PRO,2023-01-01,,0,"$1,938.94",382,190.0,"36,974 events",5.0,1.0,-10,monthly,Europe
+ACC-10192,Company_192,Tech,Professional,08/24/2022,2023-05-27,1,508.31,193,,10967,5.0,0.0,647,annual,Asia Pacific
+ACC-10309,Company_309,Tech,free,01/25/2022,,0,$47.69,29,21.0,,8.0,,858,Yearly,EMEA
+ACC-11330,Company_1330,finance,Starter,04/08/2021,2021-11-29,1,,24,14.0,10397,14.0,10.0,1150,2-Year,APAC
+ACC-10063,Company_63,ecommerce,enterprise,27/03/2023,2025-03-25,1,,179,79.0,"24,770 events",3.0,7.0,432,Yearly,North America
+ACC-10983,Company_983,education,Professional,2022-09-11,,0,,164,104.0,"17,718 events",18.0,9.0,629,Monthly,latam
+ACC-11510,Company_1510,Technology,free,08/21/2021,2022-07-14,1,$215,376,344.0,"29,969 events",17.0,5.0,1015,yearly,North America
+ACC-11375,Company_1375,Health,freemium,06/30/2021,,0,$4927,235,88.0,17.5K,1.0,0.0,1067,MONTHLY,Europe
+ACC-11175,Company_1175,Technology,Enterprise,12/06/2022,,,$2070,157,89.0,"27,675 events",21.0,0.0,720,,latam
+ACC-11295,Company_1295,Finance,Professional,2020-12-29,,0,$5113,12,7.0,25.8K,14.0,5.0,1250,annual,North America
+ACC-10371,Company_371,E-Commerce,Professional,03/23/2020,,0,$908,168,87.0,21631,4.0,7.0,1531,ANNUAL,Europe
+ACC-10905,Company_905,Health,ENTERPRISE,16/02/2023,,0,$44,414,410.0,11.9K,4.0,6.0,471,annual,EMEA
+ACC-10925,Company_925,edtech,ENT,02/08/2023,,0,$27.56,466,,"12,055 events",3.0,2.0,479,Annual,EMEA
+ACC-10664,Company_664,FinTech,professional,01/28/2021,,Yes,,419,387.0,"3,598 events",20.0,3.0,1220,,Latin America
+ACC-10218,Company_218,Health,FREE,19/12/2020,,0,"$5,282.45",34,12.0,"30,035 events",5.0,2.0,1260,Multi-Year,Latin America
+ACC-10711,,healthcare,freemium,05/12/2021,,0,,139,147.0,"27,191 events",7.0,10.0,909,Monthly,Europe
+ACC-10286,Company_286,TECH,pro,2022-08-10,,0,$28,58,54.0,25.2K,20.0,6.0,661,annual,APAC
+ACC-11173,Company_1173,,PRO,10/05/2021,,0,$47.10,148,85.0,"1,385 events",9.0,1.0,1118,2-Year,
+ACC-11314,Company_1314,saas,STARTER,28/03/2021,,0,$2185,406,131.0,32.4K,14.0,1.0,1161,monthly,apac
+ACC-10988,,Healthcare,STARTER,2021-04-25,2022-03-05,1,$2.06K,308,264.0,"12,401 events",24.0,2.0,1133,MONTHLY,EMEA
+ACC-11261,Company_1261,saas,freemium,06/06/2022,,0,$4719,179,171.0,"47,649 events",24.0,4.0,726,Monthly,LATAM
+ACC-11146,Company_1146,Education,Pro,15/08/2022,,Yes,$514,178,140.0,"37,276 events",0.6291206985348331,4.0,656,Multi-Year,EMEA
+ACC-11222,Company_1222,Healthcare,ENT,25/10/2022,,0,$522.20,413,380.0,,0.2005689625514026,,585,annual,latam
+ACC-11342,Company_1342,Education,Free Trial,03/15/2022,,0,"$2,114.24",496,341.0,,24.0,2.0,809,ANNUAL,EU
+ACC-11586,Company_1586,healthcare,Starter,2021-09-17,,0,$545,446,419.0,"41,586 events",14.0,10.0,988,month-to-month,emea
+ACC-11312,Company_1312,education,enterprise,05/27/2020,2020-09-09,1,$5.47K,293,291.0,40775,9.0,8.0,1466,yearly,latam
+ACC-11190,Company_1190,Technology,Free,06/04/2021,2021-06-03,1,$102.58,196,150.0,276,10.0,8.0,1152,ANNUAL,North America
+ACC-11006,Company_1006,Healthcare,Free Trial,24/07/2021,,0,526.62,154,109.0,"10,514 events",0.784671025196101,7.0,1043,Yearly,APAC
+ACC-10628,Company_628,fintech,PRO,2020-02-29,,0,$1014,409,208.0,"23,666 events",6.0,8.0,1554,annual,EMEA
+ACC-11168,Company_1168,,professional,12/01/2022,,0,"$4,697.22",202,204.0,694,22.0,2.0,871,monthly,Europe
+ACC-10415,Company_415,Finance,Free Trial,2021-06-12,,0,$189.52,449,206.0,,9.0,7.0,1085,annual,EU
+ACC-10743,Company_743,Health,Prof,24/10/2022,,0,,287,141.0,"9,112 events",13.0,9.0,586,Annual,apac
+ACC-11273,Company_1273,Retail,Free Trial,04/12/2021,2022-12-06,1,,272,149.0,,6.0,6.0,910,month-to-month,APAC
+ACC-10535,Company_535,Technology,pro,02/08/2021,,0,1987.41,473,,"15,297 events",5.0,6.0,1209,Annual,EMEA
+ACC-11424,Company_1424,Finance,Starter,2023-03-22,,0,$44.78,293,213.0,12247,3.0,8.0,437,ANNUAL,Americas
+ACC-10381,Company_381,saas,Enterprise,2022-08-14,,0,$99.22,246,94.0,43556,0.0,10.0,657,,LATAM
+ACC-10881,Company_881,Retail,Enterprise,10/09/2021,,0,,107,48.0,4.3K,14.0,3.0,966,ANNUAL,LATAM
+ACC-10744,Company_744,saas,professional,31/07/2022,,0,$461.41,124,127.0,"2,391 events",23.0,4.0,671,Monthly,LATAM
+ACC-10554,Company_554,finance,professional,03/30/2023,,0,$474,332,196.0,,5.0,1.0,429,Monthly,apac
+ACC-11341,Company_1341,tech,ENT,2022-03-12,,0,$92.97,414,247.0,40202,13.0,,812,MONTHLY,APAC
+ACC-11285,,Software,Pro,2021-01-24,,0,$92.54,187,131.0,37270,7.0,,1224,multi-year,Latin America
+ACC-11078,Company_1078,edtech,FREE,2021-03-14,2021-06-23,1,1074.37,158,126.0,24249,0.6423956079889485,1.0,1175,,LATAM
+ACC-10277,Company_277,FinTech,ENT,12/02/2022,,0,105.24,368,178.0,37749,24.0,3.0,547,Annual,Europe
+ACC-11265,Company_1265,Healthcare,Starter Plan,10/09/2022,2023-06-18,1,$45,226,121.0,,8.0,,601,Annual,North America
+ACC-10999,Company_999,Education,FREE,2022-07-10,2024-05-22,1,$210.42,56,36.0,22.8K,0.0,5.0,692,2-Year,apac
+ACC-10518,Company_518,Tech,Starter Plan,2020-12-18,,0,910.89,415,362.0,"11,842 events",19.0,5.0,1261,Annual,NA
+ACC-10836,Company_836,Finance,FREE,03/20/2021,,0,$29,205,146.0,"34,491 events",14.0,0.0,1169,Annual,North America
+ACC-10236,Company_236,TECH,,22/09/2021,,0,50.55,185,65.0,"11,596 events",17.0,2.0,983,Annual,Americas
+ACC-10707,,Tech,Prof,03/12/2023,,TRUE,,470,,"40,795 events",20.0,,-166,,latam
+ACC-11360,Company_1360,EdTech,Starter,10/12/2022,,0,$46.18,490,354.0,14.9K,13.0,1.0,539,yearly,North America
+ACC-11575,Company_1575,Software,Enterprise,2022-02-23,,0,$46.88,45,34.0,,0.42398049867619436,,829,2-Year,LATAM
+ACC-10846,Company_846,finance,enterprise,2022-09-09,,0,$5.30K,368,326.0,4367,7.0,8.0,631,month-to-month,LATAM
+ACC-11208,Company_1208,healthcare,Starter,12/14/2022,2023-07-11,1,$529.39,74,30.0,6014,17.0,1.0,535,month-to-month,Asia Pacific
+ACC-11210,Company_1210,Technology,ENT,01/28/2023,,0,$537,309,230.0,,15.0,1.0,490,ANNUAL,Europe
+ACC-10208,Company_208,Retail,start,2023-03-22,2024-12-13,1,"$1,073.60",177,111.0,,13.0,4.0,437,2-Year,Asia Pacific
+ACC-10767,Company_767,Retail,Free Trial,2020-03-01,2020-12-23,1,51.4,157,146.0,840,1.0,9.0,1553,monthly,latam
+ACC-11277,Company_1277,retail,Prof,2023-02-19,2023-06-11,1,"$2,046.05",145,113.0,"2,631 events",21.0,10.0,468,Multi-Year,EMEA
+ACC-10051,Company_51,tech,pro,08/09/2022,,0,$909.67,90,58.0,40966,13.0,6.0,662,,APAC
+ACC-10058,Company_58,EdTech,pro,05/30/2020,,0,$911,473,337.0,"33,407 events",24.0,9.0,1463,Monthly,NA
+ACC-11169,Company_1169,retail,Enterprise,2020-07-26,,0,$211.05,186,175.0,,12.0,2.0,-128,monthly,latam
+ACC-10495,,saas,Free,2022-01-22,,0,,360,253.0,"21,050 events",21.0,4.0,861,MONTHLY,
+ACC-11469,Company_1469,education,Professional,11/20/2022,,0,$50.10,96,46.0,,0.0,8.0,559,yearly,emea
+ACC-10865,Company_865,education,ENTERPRISE,02/14/2023,2023-05-14,1,$5.43K,439,185.0,16.7K,9.0,10.0,473,annual,latam
+ACC-11429,Company_1429,fintech,pro,2022-10-28,2023-01-25,1,5065.02,99,,,23.0,7.0,582,Yearly,
+ACC-10363,Company_363,Healthcare,STARTER,02/17/2021,,0,29.55,349,313.0,"17,147 events",15.0,9.0,1200,multi-year,Europe
+ACC-10513,,EdTech,Prof,2021-11-19,,0,$548,483,340.0,"34,758 events",24.0,,925,Multi-Year,
+ACC-10354,Company_354,SaaS,,2020-11-28,,0,$217.87,352,327.0,"30,098 events",5.0,7.0,-1,,latam
+ACC-10892,Company_892,retail,,04/13/2023,2023-10-02,1,"$5,218.64",103,110.0,47431,4.0,5.0,415,,US
+ACC-11313,Company_1313,Retail,ENT,26/07/2021,2023-01-31,1,$486.77,119,86.0,,15.0,7.0,-104,yearly,Latin America
+ACC-11484,Company_1484,Software,FREE,26/10/2022,,0,5072.79,356,138.0,"48,126 events",20.0,7.0,584,yearly,North America
+ACC-11232,Company_1232,finance,Starter Plan,12/16/2020,2021-05-25,1,$29.87,62,,"34,215 events",20.0,0.0,1263,Multi-Year,Europe
+ACC-10985,Company_985,healthcare,free,2021-08-27,2022-07-15,1,$30,59,24.0,33643,22.0,0.0,1009,monthly,LATAM
+ACC-10292,Company_292,healthcare,Pro,04/01/2021,,0,$526.41,34,32.0,42.3K,21.0,3.0,1157,2-Year,EU
+ACC-10584,Company_584,SaaS,ENT,2022-09-30,,0,$28.13,451,251.0,4.4K,12.0,10.0,-21,MONTHLY,North America
+ACC-11253,Company_1253,EdTech,enterprise,2022-09-23,,0,$182.62,313,110.0,18921,16.0,4.0,617,annual,Asia Pacific
+ACC-10566,Company_566,Software,Free,2023-04-01,,0,5424.29,169,93.0,"24,391 events",23.0,1.0,427,monthly,Latin America
+ACC-10973,Company_973,Education,starter,11/11/2021,,0,$30,95,58.0,13838,7.0,8.0,933,Monthly,Latin America
+ACC-10834,,Education,Starter Plan,30/07/2020,,0,$203.24,4,2.0,,13.0,4.0,1402,multi-year,US
+ACC-10534,Company_534,Education,Starter,07/24/2022,,0,$4996,212,146.0,36819,9.0,,678,ANNUAL,Europe
+ACC-10233,Company_233,Healthcare,Professional,01/15/2023,,0,"$4,860.22",387,385.0,"44,562 events",0.18068616162592852,5.0,-180,monthly,NA
+ACC-10619,Company_619,education,starter,2021-07-01,,0,"$1,966.17",211,126.0,34.3K,0.0,3.0,1066,ANNUAL,Europe
+ACC-11455,,TECH,starter,09/04/2023,,0,$29,182,88.0,,2.0,3.0,419,,Americas
+ACC-10196,Company_196,Tech,Prof,2020-03-20,2021-01-18,1,1936.52,14,7.0,13580,19.0,3.0,1534,,North America
+ACC-11201,Company_1201,education,Starter Plan,04/07/2022,2022-05-18,1,"$5,366.67",270,171.0,,14.0,,786,,EU
+ACC-11377,Company_1377,FinTech,Free,09/07/2021,2023-02-17,1,$510.00,154,114.0,27.0K,7.0,9.0,1058,annual,Latin America
+ACC-11368,Company_1368,,enterprise,2020-09-17,2021-02-18,1,$1022,221,126.0,"13,552 events",0.6957952974061903,6.0,1353,,EU
+ACC-10081,Company_81,finance,FREE,2022-05-25,2023-04-30,1,$195,132,,4559,18.0,9.0,738,monthly,apac
+ACC-11530,Company_1530,EdTech,STARTER,03/04/2020,,0,100.72,24,9.0,6496,20.0,8.0,1520,Annual,LATAM
+ACC-10494,Company_494,E-Commerce,STARTER,2023-03-14,,,"$1,913.52",484,170.0,"2,035 events",0.8422983338489674,-5.0,445,MONTHLY,US
+ACC-11255,Company_1255,TECH,Prof,2021-10-10,2023-03-08,1,$30.68,46,14.0,32897,22.0,8.0,965,MONTHLY,EU
+ACC-10224,Company_224,healthcare,PRO,2021-12-03,,0,$103,424,401.0,"13,793 events",1.0,10.0,911,MONTHLY,US
+ACC-10380,Company_380,education,start,2020-03-21,2022-02-05,1,$30.51,263,,"10,184 events",17.0,9.0,1533,Yearly,EMEA
+ACC-10111,Company_111,tech,FREE,05/02/2020,,0,$518.32,453,251.0,"28,381 events",16.0,,1491,Monthly,Europe
+ACC-11386,Company_1386,fintech,,2020-09-03,,0,$30.38,354,210.0,"42,479 events",17.0,2.0,1367,annual,latam
+ACC-10932,Company_932,edtech,Starter Plan,02/05/2021,2026-07-30,1,$1866,426,263.0,"43,215 events",1.0,5.0,1212,month-to-month,apac
+ACC-11376,Company_1376,edtech,Pro,04/03/2020,,0,$45.47,480,276.0,48100,13.0,10.0,1550,2-Year,LATAM
+ACC-10816,Company_816,Finance,STARTER,01/24/2020,,0,$90.93,414,353.0,,5.0,,1590,ANNUAL,Asia Pacific
+ACC-11374,Company_1374,healthcare,Starter,10/04/2023,,0,$211.93,493,214.0,18.2K,9.0,10.0,418,monthly,emea
+ACC-10859,Company_859,FinTech,enterprise,2020-01-19,,0,$52.67,155,92.0,"13,274 events",0.18184671571040642,,1595,Yearly,NA
+ACC-11134,Company_1134,healthcare,Free,04/28/2021,,0,$47.43,259,87.0,,0.10075726546392076,9.0,1130,Annual,APAC
+ACC-10310,Company_310,saas,pro,2022-11-17,,0,$45.61,328,171.0,,22.0,3.0,562,,Europe
+ACC-10704,Company_704,healthcare,start,10/09/2021,,0,$548,174,142.0,"41,444 events",11.0,9.0,995,annual,APAC
+ACC-11198,Company_1198,E-Commerce,pro,04/17/2020,,0,$100,405,435.0,13.6K,1.0,1.0,1506,month-to-month,EMEA
+ACC-10527,Company_527,E-Commerce,FREE,22/01/2022,,0,518.97,221,86.0,,2.0,8.0,861,Annual,Europe
+ACC-10636,Company_636,Software,Starter Plan,03/06/2020,,0,1082.11,61,38.0,,10.0,7.0,1459,multi-year,LATAM
+ACC-11346,Company_1346,edtech,enterprise,08/22/2021,2022-12-03,1,,48,37.0,"41,043 events",5.0,0.0,1014,,North America
+ACC-11518,Company_1518,Software,enterprise,06/22/2022,,0,"$1,020.71",237,198.0,29939,18.0,,710,ANNUAL,EU
+ACC-11206,,Finance,,28/01/2023,2023-12-31,1,2059.3,142,87.0,23703,8.0,3.0,490,Yearly,EMEA
+ACC-11440,Company_1440,EdTech,ENTERPRISE,04/09/2021,2023-02-01,1,,428,183.0,3.1K,9.0,1.0,1001,Yearly,North America
+ACC-10900,Company_900,Software,professional,10/22/2020,,0,$47.22,478,451.0,6550,16.0,6.0,1318,monthly,Americas
+ACC-10604,Company_604,Software,free,11/20/2020,,0,,169,57.0,"29,038 events",12.0,5.0,1289,,
+ACC-11114,Company_1114,TECH,ENTERPRISE,2021-11-03,2022-12-25,1,$28.76,355,208.0,"22,773 events",3.0,,941,multi-year,Latin America
+ACC-10637,Company_637,edtech,Prof,11/21/2020,,0,,299,208.0,14.4K,9.0,8.0,1288,,US
+ACC-10948,Company_948,edtech,Free,03/07/2023,2024-03-04,1,$188.9,29,17.0,"36,162 events",0.8300516049690235,7.0,452,ANNUAL,APAC
+ACC-10471,Company_471,edtech,Starter Plan,10/13/2021,,0,"$4,904.93",266,87.0,45444,6.0,,962,ANNUAL,Asia Pacific
+ACC-11568,Company_1568,Technology,STARTER,2022-09-27,2024-09-15,1,$48.92,74,49.0,"19,971 events",10.0,1.0,613,MONTHLY,NA
+ACC-10597,Company_597,Tech,Ent,10/27/2021,,0,$2164,412,298.0,10676,16.0,3.0,948,ANNUAL,NA
+ACC-10555,Company_555,saas,ENTERPRISE,2020-02-04,,0,$181.67,465,397.0,16.9K,1.0,15.0,1579,MONTHLY,Americas
+ACC-11426,Company_1426,EdTech,PRO,25/03/2023,,Yes,$107.28,414,250.0,20.3K,8.0,,434,Annual,North America
+ACC-11366,Company_1366,Software,Pro,27/08/2022,,0,,411,,17481,5.0,3.0,644,Annual,emea
+ACC-11596,,education,FREE,2021-08-30,,0,$197,467,375.0,,13.0,3.0,1006,yearly,Latin America
+ACC-10808,Company_808,,professional,02/08/2020,2021-01-31,1,$52.44,43,23.0,611 events,13.0,6.0,1575,Yearly,apac
+ACC-10904,Company_904,Finance,Ent,03/16/2020,,0,$480.77,489,185.0,,20.0,,-88,multi-year,LATAM
+ACC-10327,Company_327,edtech,Ent,2020-07-31,,0,"$1,955.34",158,170.0,49342,0.0,7.0,1401,Multi-Year,Asia Pacific
+ACC-10254,,fintech,Ent,19/10/2020,,0,$211.52,420,200.0,37355,14.0,6.0,1321,Annual,latam
+ACC-10727,,Retail,ENTERPRISE,2022-12-03,,0,$938.06,154,124.0,10.4K,23.0,9.0,546,Multi-Year,EU
+ACC-10322,Company_322,Tech,FREE,2021-11-10,,0,211.41,273,,16329,0.6681574980177301,10.0,934,MONTHLY,NA
+ACC-11185,,education,Enterprise,17/06/2020,,0,$198.37,233,186.0,44.2K,18.0,9.0,1445,Multi-Year,NA
+ACC-10538,Company_538,Finance,start,29/10/2022,,0,182.18,235,111.0,37816,12.0,1.0,581,yearly,Latin America
+ACC-10722,Company_722,Retail,PRO,04/02/2020,,churned,,368,129.0,"47,775 events",20.0,9.0,1521,MONTHLY,US
+ACC-11458,Company_1458,retail,professional,2021-09-16,2023-05-07,1,$483.53,63,34.0,7250,19.0,2.0,989,multi-year,US
+ACC-11378,Company_1378,EdTech,Professional,09/07/2020,,0,$510.38,285,132.0,24200,5.0,10.0,1363,,latam
+ACC-10610,Company_610,E-Commerce,starter,14/09/2021,,0,$29.25,432,258.0,"39,502 events",24.0,9.0,991,month-to-month,Latin America
+ACC-11010,,EdTech,pro,12/08/2022,,,$537.28,464,305.0,,1.0,10.0,659,yearly,emea
+ACC-10015,Company_15,finance,Pro,2022-03-31,2022-06-10,1,"$1,029.09",44,25.0,"37,339 events",6.0,7.0,793,month-to-month,NA
+ACC-11005,Company_1005,E-Commerce,pro,2022-11-30,,Yes,$1.03K,479,431.0,22257,22.0,10.0,549,2-Year,NA
+ACC-10086,Company_86,Technology,ENT,06/09/2022,2024-02-17,1,$45.05,265,262.0,"39,141 events",15.0,,723,Annual,apac
+ACC-10878,Company_878,Healthcare,free,2020-08-27,2022-06-26,1,$101,53,39.0,"35,733 events",3.0,9.0,1374,Multi-Year,APAC
+ACC-11548,Company_1548,education,start,2022-05-27,,0,$499.78,358,173.0,4433,3.0,4.0,736,,EMEA
+ACC-10365,Company_365,education,starter,07/10/2021,,0,$2047,464,252.0,"48,705 events",11.0,10.0,968,multi-year,NA
+ACC-11239,Company_1239,Software,enterprise,25/03/2020,2020-05-21,1,91.73,356,196.0,,23.0,10.0,1529,Annual,APAC
+ACC-10265,Company_265,Tech,starter,07/01/2022,,0,"$2,095.75",432,131.0,"30,244 events",5.0,10.0,701,monthly,APAC
+ACC-10287,Company_287,,,10/11/2022,2023-07-31,1,$1847,43,46.0,,8.0,,569,annual,Asia Pacific
+ACC-10875,Company_875,Education,professional,19/03/2022,2023-08-25,1,"$1,888.58",78,25.0,1.9K,4.0,15.0,805,multi-year,Asia Pacific
+ACC-10358,Company_358,EdTech,,2022-01-29,,0,$97.72,231,111.0,45.4K,12.0,3.0,854,annual,EMEA
+ACC-10054,Company_54,healthcare,Ent,09/09/2021,2023-03-05,1,,426,459.0,23333,21.0,9.0,996,yearly,emea
+ACC-11125,Company_1125,saas,free,2022-01-28,,0,$453.67,224,232.0,,6.0,8.0,855,2-Year,North America
+ACC-11226,,finance,ENT,2022-10-06,,0,$98.54,321,123.0,,9.0,8.0,604,month-to-month,emea
+ACC-10950,Company_950,E-Commerce,pro,2020-05-19,2021-02-19,1,$5416,44,45.0,,8.0,1.0,1474,Monthly,NA
+ACC-11033,Company_1033,,Free,07/07/2021,,0,,39,26.0,17928,2.0,,1060,,EU
+ACC-10660,Company_660,,freemium,06/02/2022,2024-01-08,1,$29,3,1.0,"25,808 events",6.0,9.0,846,Multi-Year,Asia Pacific
+ACC-11230,Company_1230,SaaS,ENT,2021-04-13,2022-10-18,1,$45,388,119.0,,7.0,,1145,Multi-Year,Europe
+ACC-11108,Company_1108,Retail,enterprise,06/07/2020,,0,$921.51,266,166.0,"20,893 events",7.0,8.0,1426,Multi-Year,Americas
+ACC-10221,Company_221,TECH,,09/05/2021,,0,,77,66.0,30.6K,22.0,0.0,1000,MONTHLY,EMEA
+ACC-10113,Company_113,healthcare,,2020-11-22,2021-07-08,1,$1035,27,17.0,"47,733 events",2.0,6.0,1287,Annual,
+ACC-10680,Company_680,Retail,ENT,07/02/2023,,0,,494,462.0,44.9K,3.0,10.0,480,month-to-month,emea
+ACC-11591,Company_1591,retail,starter,20/11/2020,,0,$217.05,441,,37946,19.0,100.0,1289,2-Year,latam
+ACC-10692,Company_692,retail,starter,2022-09-19,,0,$4.90K,144,72.0,18.8K,14.0,1.0,621,monthly,NA
+ACC-10174,Company_174,Healthcare,Ent,2020-09-17,,0,$46,492,175.0,,0.0,100.0,1353,Annual,US
+ACC-10544,Company_544,Healthcare,ENTERPRISE,22/08/2022,,0,$28.04,72,45.0,30858,20.0,7.0,649,Multi-Year,Asia Pacific
+ACC-10829,Company_829,,ENT,25/08/2022,2023-11-10,1,$97,37,39.0,,18.0,9.0,646,Annual,US
+ACC-10506,Company_506,Healthcare,ENT,04/07/2022,2022-09-05,1,$31.15,483,205.0,"31,216 events",15.0,7.0,786,multi-year,EMEA
+ACC-11276,Company_1276,Finance,STARTER,27/12/2021,2022-02-08,1,$52.57,221,92.0,33.0K,12.0,,887,Yearly,EMEA
+ACC-10018,Company_18,Health,ENTERPRISE,01/29/2021,,0,$101,343,109.0,,13.0,,1219,Annual,US
+ACC-10423,Company_423,Retail,Prof,2020-11-25,,0,$1.01K,325,286.0,,0.6404991362467064,9.0,1284,,apac
+ACC-11179,Company_1179,SaaS,ENTERPRISE,08/17/2020,,0,"$4,673.46",468,164.0,2.4K,24.0,7.0,1384,ANNUAL,latam
+ACC-10285,Company_285,education,Free Trial,11/11/2020,,0,$467.04,216,133.0,,0.6263264803065371,10.0,1298,Yearly,APAC
+ACC-11296,Company_1296,retail,professional,15/02/2020,,0,$29.54,36,13.0,"9,227 events",17.0,3.0,1568,Annual,Latin America
+ACC-10428,Company_428,,enterprise,2020-09-13,,0,1041.06,466,200.0,"19,551 events",0.8633186259547105,1.0,1357,Yearly,EU
+ACC-11234,,finance,Prof,16/03/2023,,0,,434,175.0,19613,13.0,5.0,443,,Americas
+ACC-11516,Company_1516,saas,free,2022-05-14,2023-10-06,1,$932.48,46,,41593,10.0,8.0,749,MONTHLY,LATAM
+ACC-11579,Company_1579,fintech,,18/12/2021,,0,,140,81.0,"10,142 events",9.0,2.0,896,2-Year,apac
+ACC-10031,Company_31,tech,Ent,05/04/2022,,0,$926.79,334,317.0,"18,695 events",12.0,8.0,788,ANNUAL,Americas
+ACC-11054,Company_1054,edtech,freemium,12/18/2020,,0,$483.77,227,139.0,44.7K,19.0,5.0,1261,MONTHLY,APAC
+ACC-10210,Company_210,healthcare,enterprise,11/11/2020,,0,$31.64,83,41.0,46408,22.0,6.0,1298,annual,latam
+ACC-10439,Company_439,,Prof,2020-11-24,,0,$1048,408,410.0,1.8K,16.0,5.0,1285,MONTHLY,APAC
+ACC-10634,Company_634,finance,enterprise,11/27/2021,,0,$106.03,498,464.0,40.8K,23.0,,917,month-to-month,
+ACC-10181,Company_181,Tech,Free Trial,2022-07-21,2023-08-16,1,$198.24,316,274.0,7.0K,23.0,-5.0,681,2-Year,LATAM
+ACC-10214,Company_214,fintech,freemium,03/12/2023,,0,$107.51,110,46.0,"47,120 events",16.0,4.0,447,annual,Asia Pacific
+ACC-10979,Company_979,EdTech,Ent,2022-05-16,2023-05-20,1,$31.10,179,90.0,27.3K,13.0,1.0,747,,APAC
+ACC-10938,,ecommerce,Free,05/11/2021,,0,$2.17K,141,74.0,,0.3639468618887162,2.0,1117,annual,latam
+ACC-10968,Company_968,Technology,Enterprise,06/09/2021,2022-10-10,1,$102,61,43.0,"4,434 events",11.0,9.0,999,month-to-month,
+ACC-11384,Company_1384,SaaS,Professional,2021-12-13,,0,"$1,811.75",320,314.0,12533,10.0,8.0,901,Multi-Year,Latin America
+ACC-10326,Company_326,Software,STARTER,03/22/2022,,0,507.18,288,88.0,35.7K,4.0,,802,Yearly,EMEA
+ACC-11546,Company_1546,Tech,Free,11/18/2021,,churned,2189.27,296,187.0,"18,042 events",10.0,2.0,926,monthly,APAC
+ACC-10838,Company_838,Technology,STARTER,2020-04-21,,0,215.19,394,129.0,"2,323 events",0.0,5.0,1502,annual,EU
+ACC-10188,Company_188,E-Commerce,Starter,09/10/2022,,0,$514.68,353,356.0,"21,741 events",16.0,0.0,601,yearly,APAC
+ACC-11523,Company_1523,Software,free,2022-08-03,2024-07-14,1,$920.60,183,113.0,4526,15.0,0.0,668,Multi-Year,Americas
+ACC-10946,Company_946,finance,Starter Plan,2022-11-06,,0,90.36,62,32.0,"37,012 events",15.0,,573,yearly,latam
+ACC-10341,Company_341,Education,starter,2022-01-11,2022-03-22,1,,82,82.0,11.1K,7.0,3.0,872,annual,apac
+ACC-10147,Company_147,Finance,enterprise,2021-05-07,2023-05-06,1,$181,396,208.0,25.2K,2.0,7.0,1121,Annual,APAC
+ACC-10360,,Education,FREE,19/03/2022,,0,105.87,406,168.0,"6,904 events",0.48812480789722457,2.0,805,ANNUAL,US
+ACC-10083,Company_83,FinTech,Ent,09/04/2023,2024-05-05,1,46.87,341,355.0,"19,459 events",23.0,5.0,419,MONTHLY,EMEA
+ACC-10048,Company_48,TECH,ENT,2022-01-03,2022-02-09,1,1861.91,43,33.0,6546,21.0,7.0,880,annual,apac
+ACC-10468,Company_468,finance,FREE,07/14/2021,,churned,$213,186,85.0,,17.0,4.0,1053,MONTHLY,emea
+ACC-10155,Company_155,Tech,start,2021-02-13,,0,"$4,908.64",316,338.0,"15,932 events",0.6591998645397702,1.0,1204,Multi-Year,US
+ACC-10962,Company_962,Finance,professional,31/01/2021,2022-11-20,1,$989.42,398,396.0,"11,230 events",15.0,3.0,1217,ANNUAL,APAC
+ACC-11351,Company_1351,saas,professional,15/10/2022,,0,$4616,70,50.0,"47,817 events",12.0,-5.0,595,Monthly,apac
+ACC-10966,Company_966,Health,freemium,06/14/2020,,0,,244,259.0,37.2K,8.0,3.0,1448,ANNUAL,Latin America
+ACC-11335,Company_1335,healthcare,enterprise,2022-03-03,,0,$492.26,100,87.0,30.3K,11.0,2.0,821,MONTHLY,Americas
+ACC-10500,Company_500,saas,pro,2023-02-03,,0,$101,389,404.0,"10,153 events",10.0,6.0,-59,multi-year,latam
+ACC-10179,Company_179,E-Commerce,Free Trial,02/06/2021,2021-05-10,1,"$1,823.98",226,173.0,13.6K,5.0,8.0,1211,Multi-Year,Europe
+ACC-10772,Company_772,Tech,Starter,07/02/2021,,0,"$2,138.12",250,240.0,13603,24.0,0.0,1210,ANNUAL,Europe
+ACC-10777,Company_777,Healthcare,freemium,2021-01-31,,0,$4.92K,490,463.0,9964,9.0,1.0,1217,monthly,EMEA
+ACC-11323,Company_1323,Technology,Enterprise,01/23/2020,,0,$31.09,173,163.0,35997,4.0,2.0,1591,annual,Europe
+ACC-10528,Company_528,healthcare,,14/01/2020,,0,"$1,935.88",380,140.0,44.6K,24.0,2.0,1600,Multi-Year,EMEA
+ACC-10346,Company_346,ecommerce,start,2022-07-23,,0,$90.73,350,218.0,32850,9.0,5.0,-158,multi-year,latam
+ACC-11087,Company_1087,Tech,start,2021-05-08,2021-11-08,1,,76,,"31,230 events",22.0,,1120,MONTHLY,LATAM
+ACC-11599,,Education,ENTERPRISE,2022-04-12,,0,$186.12,58,18.0,34700,20.0,15.0,781,ANNUAL,LATAM
+ACC-11473,Company_1473,FinTech,ENTERPRISE,11/11/2021,2023-08-07,1,$99.29,291,206.0,"32,240 events",8.0,6.0,933,monthly,EMEA
+ACC-10781,Company_781,tech,ENTERPRISE,22/08/2022,,0,,132,70.0,26447,0.0,3.0,649,Annual,US
+ACC-10700,Company_700,retail,STARTER,2021-10-14,,0,$29.63,21,10.0,"18,748 events",14.0,6.0,-165,monthly,EMEA
+ACC-10243,Company_243,ecommerce,FREE,2022-04-16,,0,,377,191.0,"44,409 events",16.0,8.0,777,2-Year,apac
+ACC-11202,Company_1202,Software,Free Trial,22/01/2021,,0,$52.97,283,196.0,,20.0,8.0,1226,ANNUAL,APAC
+ACC-10312,Company_312,,Ent,2021-08-27,2023-02-07,1,"$5,482.74",397,333.0,"18,124 events",6.0,4.0,1009,month-to-month,Europe
+ACC-10435,Company_435,Healthcare,Prof,28/06/2021,,0,"$1,986.44",135,96.0,,19.0,3.0,1069,multi-year,EMEA
+ACC-11547,Company_1547,Technology,free,06/12/2021,,0,$1939,464,273.0,"23,263 events",16.0,,1085,Multi-Year,EU
+ACC-11013,Company_1013,Education,start,2021-12-28,,FALSE,$105,249,96.0,29.9K,16.0,8.0,886,yearly,latam
+ACC-10308,Company_308,FinTech,Ent,11/22/2021,2023-03-13,1,$918,173,82.0,"12,827 events",21.0,2.0,922,MONTHLY,EMEA
+ACC-10430,Company_430,Health,Free,11/07/2022,,0,$45.05,63,48.0,"28,053 events",11.0,9.0,572,Annual,Asia Pacific
+ACC-10370,Company_370,,ENT,2022-07-16,2023-12-08,1,$31,447,429.0,22.1K,4.0,9.0,686,month-to-month,Americas
+ACC-10677,Company_677,saas,Pro,07/09/2020,,0,"$5,436.30",254,131.0,,0.0,1.0,-102,Yearly,NA
+ACC-10181,Company_181,Tech,Free Trial,2022-07-21,2023-08-16,1,$198.24,316,274.0,7.0K,23.0,-5.0,681,2-Year,LATAM
+ACC-10601,Company_601,FinTech,ENTERPRISE,25/06/2022,,TRUE,$2036,394,158.0,3110,3.0,9.0,707,Yearly,latam
+ACC-11235,Company_1235,ecommerce,ENT,2023-01-25,2025-01-01,1,$47.92,421,287.0,6.2K,4.0,0.0,493,ANNUAL,APAC
+ACC-10820,Company_820,education,professional,09/12/2021,,0,$185.03,4,3.0,,17.0,0.0,993,2-Year,apac
+ACC-11552,Company_1552,Education,ENTERPRISE,2021-09-05,,0,$89.14,486,520.0,"34,762 events",17.0,6.0,1000,multi-year,EU
+ACC-10296,Company_296,Finance,Free Trial,02/17/2021,2022-07-24,1,$53.75,231,155.0,37200,4.0,6.0,1200,annual,Americas
+ACC-11272,Company_1272,TECH,Free,04/14/2022,2022-09-13,1,$1025,429,236.0,"5,520 events",6.0,,779,month-to-month,Europe
+ACC-10461,Company_461,Education,professional,05/24/2021,,0,28.72,172,165.0,12493,4.0,2.0,1104,annual,latam
+ACC-11144,,,Ent,11/02/2022,2024-04-05,1,108.7,348,213.0,,7.0,,577,annual,emea
+ACC-11050,Company_1050,healthcare,Free Trial,07/12/2020,2021-05-12,1,$106.01,222,,23.2K,7.0,7.0,1420,Monthly,apac
+ACC-10377,Company_377,edtech,Starter Plan,14/01/2023,,0,$943.21,451,342.0,38801,17.0,8.0,504,2-Year,
+ACC-10867,Company_867,retail,PRO,2020-04-19,,0,,291,189.0,11936,6.0,7.0,1504,multi-year,LATAM
+ACC-10126,,Healthcare,Enterprise,2022-04-27,,0,,184,144.0,"37,540 events",12.0,5.0,-108,MONTHLY,Americas
+ACC-10864,Company_864,fintech,STARTER,2022-06-20,,0,$30.32,470,264.0,"6,884 events",17.0,3.0,712,ANNUAL,APAC
+ACC-11537,Company_1537,education,Pro,2022-09-24,,0,53.14,88,62.0,,14.0,10.0,616,Annual,Europe
+ACC-10355,Company_355,edtech,Enterprise,09/19/2021,,0,,297,160.0,,7.0,3.0,986,Multi-Year,
+ACC-11324,Company_1324,Tech,Ent,09/03/2022,,0,1988.46,14,4.0,27659,18.0,10.0,815,2-Year,emea
+ACC-10209,Company_209,Technology,FREE,29/11/2020,2022-07-03,1,$1886,454,315.0,"36,678 events",19.0,2.0,1280,monthly,APAC
+ACC-10140,Company_140,EdTech,freemium,06/21/2022,,0,$5.01K,296,,"20,813 events",10.0,,711,Annual,EMEA
+ACC-11385,Company_1385,Retail,FREE,02/03/2022,2024-01-15,1,$2065,311,333.0,48106,9.0,9.0,822,Monthly,Asia Pacific
+ACC-11090,Company_1090,SaaS,start,07/06/2022,,0,"$4,537.24",490,387.0,"37,150 events",11.0,5.0,-30,Monthly,US
+ACC-10993,Company_993,Software,PRO,07/07/2022,,0,$31.75,265,142.0,30.7K,19.0,,695,Yearly,NA
+ACC-11289,,E-Commerce,professional,06/13/2022,,0,,349,281.0,19108,19.0,5.0,-67,Annual,apac
+ACC-11305,Company_1305,Technology,ENTERPRISE,29/06/2022,2023-07-24,1,$4906,198,167.0,"47,820 events",0.0,7.0,703,yearly,Americas
+ACC-10620,Company_620,Healthcare,Enterprise,04/07/2022,,0,$51.68,289,109.0,,2.0,7.0,698,Annual,US
+ACC-11040,Company_1040,E-Commerce,professional,10/11/2022,,0,,24,14.0,"35,233 events",23.0,4.0,569,2-Year,Latin America
+ACC-10599,Company_599,FinTech,start,02/18/2020,2020-07-26,1,$1073,236,,49.4K,0.700650226410529,5.0,1565,Yearly,Europe
+ACC-11026,Company_1026,EdTech,freemium,03/21/2023,2024-04-20,1,$28,60,33.0,29.9K,0.7681927173602534,8.0,-7,month-to-month,North America
+ACC-10010,Company_10,Retail,Professional,10/28/2020,,0,$499.52,357,197.0,21360,7.0,,1312,annual,Latin America
+ACC-10855,,Technology,enterprise,2022-08-29,,0,,81,25.0,"23,272 events",8.0,5.0,642,month-to-month,Latin America
+ACC-10282,,saas,professional,08/11/2022,,0,$209.28,83,70.0,"17,830 events",20.0,3.0,-173,annual,apac
+ACC-10291,Company_291,Tech,Prof,21/01/2023,,0,$992.2,2,2.0,"11,978 events",18.0,,497,multi-year,LATAM
+ACC-10654,Company_654,Finance,Pro,2021-09-21,,0,$1858,206,220.0,29636,0.0,5.0,984,,APAC
+ACC-10596,Company_596,finance,PRO,01/11/2023,,0,28.42,181,89.0,"5,174 events",8.0,7.0,507,Monthly,Latin America
+ACC-10129,Company_129,Healthcare,freemium,2020-05-20,,0,$526.67,402,388.0,"39,013 events",10.0,6.0,1473,Annual,EMEA
+ACC-10323,Company_323,Education,start,11/02/2021,,0,$45,359,282.0,,11.0,10.0,942,monthly,Latin America
+ACC-10807,Company_807,edtech,Professional,31/03/2023,,0,$26.64,84,64.0,"5,456 events",9.0,5.0,428,annual,EU
+ACC-10585,Company_585,tech,Enterprise,01/11/2022,,0,45.21,325,352.0,45926,22.0,6.0,872,Multi-Year,Latin America
+ACC-10668,Company_668,edtech,freemium,2023-03-17,,0,"$1,962.77",222,201.0,"31,701 events",8.0,3.0,442,monthly,EMEA
+ACC-10629,Company_629,education,Ent,03/05/2022,,0,101.01,425,461.0,39.7K,2.0,,760,Monthly,EU
+ACC-11029,Company_1029,healthcare,ENT,06/17/2020,,0,$93.24,466,337.0,41.1K,24.0,10.0,1445,ANNUAL,NA
+ACC-10782,Company_782,Education,Pro,2023-02-21,,0,$1967,202,107.0,,5.0,2.0,466,,EU
+ACC-10741,Company_741,ecommerce,freemium,02/23/2022,2023-03-30,1,$993.77,405,281.0,"6,318 events",17.0,,829,MONTHLY,emea
+ACC-10158,Company_158,retail,enterprise,2021-03-29,,0,,210,80.0,"37,437 events",16.0,6.0,1160,Yearly,EU
+ACC-11436,Company_1436,,professional,2020-09-18,,0,203.89,289,132.0,3.2K,11.0,5.0,1352,,North America
+ACC-10516,Company_516,Software,enterprise,04/09/2023,,0,$47.73,235,85.0,"36,886 events",10.0,6.0,419,Monthly,apac
+ACC-11164,,FinTech,free,01/01/2021,2022-10-16,1,,236,93.0,0.3K,1.0,0.0,1247,ANNUAL,Latin America
+ACC-10195,Company_195,Tech,Starter Plan,04/22/2020,,0,$47.95,70,61.0,47.3K,19.0,9.0,1501,annual,Americas
+ACC-11347,Company_1347,Health,Free Trial,01/07/2021,,FALSE,,481,277.0,49.0K,18.0,3.0,1241,month-to-month,Latin America
+ACC-11133,Company_1133,retail,freemium,2022-03-22,,0,$962,288,86.0,"4,813 events",19.0,2.0,802,multi-year,Europe
+ACC-10410,Company_410,finance,,02/26/2020,,0,1028.79,289,288.0,"42,125 events",13.0,4.0,1557,multi-year,emea
+ACC-10096,Company_96,Healthcare,Ent,2022-10-17,,0,$501.32,294,,23166,17.0,,593,annual,NA
+ACC-10693,Company_693,Tech,start,2020-09-07,,,53.22,112,101.0,"44,292 events",23.0,3.0,1363,monthly,US
+ACC-11231,,retail,freemium,2022-06-08,,0,$30,383,121.0,"1,838 events",12.0,4.0,724,multi-year,EMEA
+ACC-10156,Company_156,finance,Pro,27/09/2022,,0,$105.37,422,361.0,48368,0.0,9.0,613,Annual,North America
+ACC-10419,Company_419,saas,pro,07/05/2021,2022-08-15,1,$1087,480,406.0,"38,106 events",14.0,9.0,1121,ANNUAL,EU
+ACC-10757,Company_757,education,STARTER,03/31/2023,,0,$51.99,444,340.0,17.1K,17.0,6.0,428,multi-year,emea
+ACC-10477,,healthcare,Enterprise,29/06/2021,2022-09-23,1,$186.34,397,184.0,13.2K,19.0,5.0,1068,2-Year,Latin America
+ACC-10724,Company_724,TECH,Free Trial,2022-11-04,,0,"$1,036.58",348,355.0,,11.0,4.0,575,Monthly,
+ACC-10765,,Software,enterprise,2020-03-26,,0,$103.22,476,445.0,9.4K,7.0,10.0,1528,Multi-Year,emea
+ACC-11527,Company_1527,EdTech,free,2020-11-29,2022-08-20,1,196.07,240,184.0,"13,880 events",20.0,9.0,1280,MONTHLY,APAC
+ACC-10447,Company_447,Technology,starter,06/04/2020,,0,$192.08,271,198.0,"28,593 events",23.0,,1458,multi-year,NA
+ACC-11094,Company_1094,ecommerce,starter,12/23/2022,,0,"$1,050.16",415,406.0,"29,590 events",2.0,6.0,526,monthly,EMEA
+ACC-10178,Company_178,Tech,,03/19/2023,2025-03-13,1,$203,440,304.0,"15,167 events",3.0,0.0,440,2-Year,LATAM
+ACC-10390,Company_390,Software,starter,2021-04-10,,churned,$49,22,11.0,"24,822 events",10.0,7.0,1148,Yearly,US
+ACC-10578,Company_578,EdTech,STARTER,23/10/2022,,0,$450.10,308,256.0,"46,034 events",15.0,7.0,587,2-Year,Latin America
+ACC-11402,Company_1402,,pro,2022-10-15,2024-07-20,1,$104.04,107,32.0,"33,427 events",15.0,0.0,595,MONTHLY,EU
+ACC-10759,Company_759,Software,Starter Plan,2021-04-04,,0,,177,188.0,27.9K,23.0,8.0,1154,annual,LATAM
+ACC-11348,Company_1348,education,enterprise,26/09/2022,,0,$515.69,88,39.0,25068,5.0,,614,annual,apac
+ACC-11155,Company_1155,EdTech,FREE,2020-07-09,2022-05-26,1,4663.24,35,24.0,"49,096 events",17.0,10.0,1423,MONTHLY,EU
+ACC-10682,Company_682,Education,start,12/15/2022,,0,$2.02K,276,125.0,45.1K,20.0,4.0,534,annual,Asia Pacific
+ACC-10752,Company_752,fintech,Enterprise,10/21/2022,,0,$499,21,15.0,,0.014600409331533393,5.0,589,multi-year,Europe
+ACC-10142,Company_142,healthcare,professional,06/24/2022,2024-01-16,1,$517.01,409,144.0,7517,11.0,4.0,708,Yearly,latam
+ACC-11240,Company_1240,Tech,Ent,08/08/2022,,0,$989.32,239,184.0,"23,469 events",13.0,6.0,663,MONTHLY,Americas
+ACC-10939,Company_939,E-Commerce,freemium,05/10/2022,,0,,347,212.0,,22.0,10.0,605,2-Year,emea
+ACC-10887,Company_887,Technology,enterprise,11/05/2021,,0,,483,362.0,19983,16.0,5.0,-168,annual,Latin America
+ACC-10965,,Tech,Starter Plan,27/02/2023,,0,"$1,075.48",428,155.0,,17.0,8.0,460,month-to-month,Europe
+ACC-10615,Company_615,Tech,FREE,2021-01-02,,0,$215.45,282,124.0,17225,23.0,2.0,1246,annual,EMEA
+ACC-10294,Company_294,retail,Starter Plan,2020-05-09,2020-08-18,1,$935,138,75.0,12.4K,0.5980893223093801,6.0,1484,Yearly,Latin America
+ACC-10643,Company_643,finance,Enterprise,18/09/2022,2024-08-06,1,$450.06,355,307.0,,22.0,9.0,622,multi-year,Americas
+ACC-11550,Company_1550,Retail,start,11/26/2021,,0,"$4,542.34",371,387.0,32.1K,5.0,0.0,918,Yearly,Latin America
+ACC-10088,Company_88,EdTech,enterprise,03/27/2021,,0,$53.39,221,88.0,"34,750 events",16.0,5.0,1162,MONTHLY,Latin America
+ACC-10041,Company_41,Technology,ENTERPRISE,2021-07-05,,0,$26.11,329,344.0,"8,543 events",11.0,0.0,1062,ANNUAL,EU
+ACC-11577,Company_1577,EdTech,Free,06/04/2023,,0,$30,399,232.0,"38,594 events",22.0,0.0,422,Annual,APAC
+ACC-10131,Company_131,healthcare,ENTERPRISE,2022-05-27,,0,$4.73K,459,167.0,45.0K,0.1530130560936913,,736,Annual,latam
+ACC-10694,Company_694,,enterprise,29/12/2021,,0,$31.17,419,217.0,"3,465 events",0.4443554198651016,3.0,885,month-to-month,latam
+ACC-10926,Company_926,Technology,starter,17/03/2022,2026-06-14,1,"$2,138.50",185,129.0,"17,594 events",11.0,7.0,807,multi-year,APAC
+ACC-11557,Company_1557,education,Starter,2020-05-07,,0,$47.27,231,,29.7K,0.30234893949447134,8.0,1486,Yearly,NA
+ACC-11512,Company_1512,saas,start,2020-05-26,,0,$907,149,84.0,7.2K,1.0,100.0,1467,,LATAM
+ACC-11465,Company_1465,ecommerce,Free Trial,12/06/2022,,0,"$2,058.38",167,145.0,"38,747 events",7.0,1.0,720,annual,North America
+ACC-10164,Company_164,TECH,ENT,15/10/2020,,0,"$5,044.02",437,445.0,9979,10.0,,-85,month-to-month,EU
+ACC-10290,Company_290,E-Commerce,enterprise,28/01/2022,,,$4761,57,27.0,,6.0,9.0,855,Multi-Year,US
+ACC-11545,Company_1545,Tech,freemium,2023-01-15,,churned,$49.66,272,180.0,40894,24.0,7.0,503,yearly,emea
+ACC-10706,Company_706,Tech,Starter Plan,2020-12-13,,0,$1067,127,123.0,0.6K,15.0,9.0,1266,Yearly,NA
+ACC-10348,Company_348,edtech,Starter,01/28/2022,,0,$4788,66,49.0,,22.0,0.0,855,multi-year,Americas
+ACC-10571,Company_571,Education,freemium,10/07/2022,,0,"$1,047.24",78,,,9.0,100.0,603,annual,Americas
+ACC-10674,Company_674,Healthcare,start,12/10/2020,2022-09-29,1,$1085,257,108.0,"48,103 events",22.0,0.0,1328,2-Year,Latin America
+ACC-11538,Company_1538,SaaS,starter,08/16/2021,,0,$50.94,413,389.0,26.1K,1.0,6.0,1020,monthly,Asia Pacific
+ACC-10819,Company_819,Software,Pro,04/14/2023,,0,$46.41,64,34.0,"17,710 events",18.0,7.0,414,multi-year,
+ACC-10990,Company_990,healthcare,FREE,10/27/2021,,0,$207.60,9,5.0,49493,21.0,3.0,948,monthly,Asia Pacific
+ACC-11075,Company_1075,Healthcare,Free,24/05/2022,2023-06-30,1,$983,451,350.0,13715,0.0,0.0,739,2-Year,LATAM
+ACC-10710,Company_710,E-Commerce,,2020-05-31,,0,$31,113,93.0,14.3K,5.0,3.0,1462,annual,latam
+ACC-10458,Company_458,Retail,free,12/23/2021,2023-08-20,1,$98.63,194,194.0,43502,0.4043764031392448,7.0,891,MONTHLY,Europe
+ACC-10375,Company_375,Healthcare,free,09/20/2022,,churned,,278,294.0,"21,059 events",17.0,1.0,620,annual,LATAM
+ACC-10333,Company_333,Health,start,09/03/2020,,0,$93,488,222.0,"5,731 events",13.0,,1367,month-to-month,Americas
+ACC-10903,Company_903,Education,ENTERPRISE,11/06/2021,,0,$29.45,348,296.0,44692,0.5166375864499441,4.0,1086,yearly,emea
+ACC-11439,Company_1439,ecommerce,start,2022-03-09,,FALSE,$1093,401,358.0,,9.0,9.0,815,Monthly,US
+ACC-11188,Company_1188,fintech,Professional,2021-12-05,,0,$1880,9,7.0,13.0K,11.0,-5.0,909,ANNUAL,EU
+ACC-10841,,E-Commerce,starter,05/16/2021,,0,$988,487,338.0,"16,695 events",20.0,0.0,1112,2-Year,LATAM
+ACC-11526,Company_1526,EdTech,PRO,08/10/2022,,0,,255,91.0,,14.0,100.0,661,month-to-month,NA
+ACC-11514,Company_1514,Education,enterprise,18/02/2023,2024-10-12,1,$54,102,56.0,"11,325 events",5.0,2.0,469,MONTHLY,APAC
+ACC-11172,,saas,ENT,08/07/2022,,0,$53,280,177.0,21.5K,2.0,10.0,-26,Multi-Year,
+ACC-10328,Company_328,saas,Enterprise,04/13/2022,2023-10-31,1,$216,217,184.0,7417,15.0,6.0,780,annual,US
+ACC-11079,Company_1079,healthcare,freemium,11/13/2022,,0,"$2,105.68",290,110.0,"45,735 events",12.0,7.0,566,2-Year,NA
+ACC-10318,Company_318,Technology,Free Trial,04/12/2022,,0,$93,200,96.0,"6,807 events",15.0,5.0,781,Monthly,emea
+ACC-11252,Company_1252,Finance,starter,04/26/2020,,0,"$5,406.77",221,183.0,,11.0,5.0,1497,month-to-month,US
+ACC-11106,Company_1106,healthcare,STARTER,2021-09-04,,0,26.57,160,108.0,19376,11.0,5.0,-100,Multi-Year,Latin America
+ACC-11420,Company_1420,fintech,pro,2020-05-15,,0,$494.81,154,64.0,3586,19.0,1.0,1478,MONTHLY,Americas
+ACC-10167,Company_167,FinTech,freemium,18/12/2021,,0,$201.75,53,48.0,19070,23.0,1.0,896,Monthly,APAC
+ACC-10012,Company_12,healthcare,start,2020-10-24,,TRUE,$211.27,416,,,1.0,3.0,1316,multi-year,Europe
+ACC-10171,Company_171,education,professional,04/01/2022,2022-04-26,1,,187,70.0,20.4K,16.0,10.0,879,ANNUAL,apac
+ACC-10649,Company_649,saas,pro,2020-09-06,2020-11-11,1,$2.08K,306,96.0,41742,1.0,9.0,1364,ANNUAL,APAC
+ACC-10260,Company_260,SaaS,ENTERPRISE,16/03/2020,,0,,167,50.0,"10,672 events",21.0,3.0,-185,,
+ACC-11280,Company_1280,E-Commerce,,28/10/2022,2023-01-25,1,$30.44,369,344.0,"12,710 events",5.0,,582,multi-year,Europe
+ACC-10258,Company_258,edtech,Pro,12/23/2022,,0,"$4,753.61",1,0.0,,5.0,1.0,526,Yearly,North America
+ACC-11425,Company_1425,Tech,ENT,04/08/2020,2027-04-17,1,$4.84K,76,43.0,"9,360 events",21.0,,1397,Monthly,Americas
+ACC-10138,Company_138,Health,ENT,26/01/2023,,0,$1075,307,,,3.0,0.0,492,ANNUAL,North America
+ACC-10549,Company_549,tech,Prof,2021-08-13,,0,$91.68,232,133.0,"17,886 events",16.0,4.0,-32,2-Year,Americas
+ACC-11105,Company_1105,Technology,pro,22/03/2020,,churned,"$5,237.02",386,170.0,"31,809 events",14.0,1.0,1532,Multi-Year,EMEA
+ACC-11249,Company_1249,EdTech,enterprise,2021-04-26,,,$47.30,19,6.0,,21.0,15.0,1132,MONTHLY,Latin America
+ACC-11361,Company_1361,ecommerce,starter,13/07/2021,2022-02-21,1,48.44,41,26.0,15.9K,21.0,4.0,1054,Annual,NA
+ACC-11566,Company_1566,Finance,enterprise,05/20/2020,,0,$26.80,398,199.0,"22,429 events",0.835298165405402,0.0,1473,ANNUAL,emea
+ACC-10558,Company_558,finance,Professional,2023-01-03,,0,2043.74,443,151.0,23423,3.0,2.0,515,Monthly,APAC
+ACC-10139,Company_139,saas,start,25/02/2023,,0,30.47,128,44.0,,19.0,,462,ANNUAL,apac
+ACC-11422,Company_1422,saas,start,06/26/2022,,0,$50.41,376,115.0,"32,537 events",18.0,0.0,706,Annual,emea
+ACC-10531,Company_531,Health,ENT,07/09/2020,,0,$48.72,280,107.0,37.8K,12.0,2.0,1423,,latam
+ACC-10224,Company_224,healthcare,PRO,2021-12-03,,0,$103,424,401.0,"13,793 events",1.0,10.0,911,MONTHLY,US
+ACC-11565,Company_1565,,PRO,2021-03-28,,0,$210.97,1,,"5,863 events",22.0,1.0,1161,multi-year,EU
+ACC-10409,Company_409,Health,ENT,01/28/2022,2023-08-01,1,$509.61,452,,"37,410 events",16.0,4.0,855,ANNUAL,Asia Pacific
+ACC-10325,Company_325,tech,FREE,02/05/2021,,0,$184,427,,"17,725 events",0.0,2.0,1126,annual,NA
+ACC-10818,Company_818,ecommerce,ENT,2022-07-15,,0,,170,51.0,40.8K,21.0,6.0,687,Yearly,
+ACC-10299,Company_299,Finance,Free,13/10/2021,2023-01-28,1,,322,,"22,914 events",14.0,2.0,962,MONTHLY,Asia Pacific
+ACC-11036,Company_1036,FinTech,Free Trial,07/19/2021,2026-11-26,1,"$1,964.64",420,279.0,,0.8913154816376274,2.0,1048,Multi-Year,Americas
+ACC-11594,Company_1594,education,FREE,2022-01-21,2023-03-28,1,$188.23,140,86.0,"37,426 events",1.0,8.0,862,Annual,EU
+ACC-10879,Company_879,retail,Free Trial,2021-07-31,,0,461.86,14,5.0,"7,129 events",5.0,7.0,1036,monthly,EU
+ACC-11212,Company_1212,saas,enterprise,2021-04-30,,0,$983.71,249,95.0,"3,630 events",2.0,1.0,1128,yearly,
+ACC-10193,,healthcare,start,07/13/2021,,0,$203.75,164,163.0,9428,23.0,9.0,1054,Yearly,Americas
+ACC-10440,Company_440,,ENT,03/03/2023,,0,,197,214.0,,0.7732615037129579,10.0,456,multi-year,Europe
+ACC-10573,,edtech,Ent,24/07/2021,,0,216.05,441,444.0,"2,720 events",10.0,7.0,1043,monthly,Latin America
+ACC-10503,Company_503,tech,start,07/14/2021,,0,$990,447,293.0,"11,455 events",12.0,0.0,1053,,North America
+ACC-10605,Company_605,finance,Free,2023-04-14,,FALSE,,290,277.0,13566,12.0,-5.0,414,month-to-month,latam
+ACC-10909,Company_909,Finance,Prof,16/11/2022,,0,$27,26,16.0,19.9K,10.0,2.0,563,yearly,emea
+ACC-10722,Company_722,Retail,PRO,04/02/2020,,churned,,368,129.0,"47,775 events",20.0,9.0,1521,MONTHLY,US
+ACC-10003,Company_3,finance,Professional,16/08/2021,,0,$90.27,375,256.0,28134,9.0,,1020,ANNUAL,EMEA
+ACC-10907,,E-Commerce,ENT,2021-04-21,,0,$207.02,101,51.0,4822,15.0,10.0,1137,Multi-Year,APAC
+ACC-10467,Company_467,ecommerce,professional,07/17/2022,,0,,468,175.0,"11,912 events",5.0,3.0,685,Multi-Year,Europe
+ACC-10321,,Technology,STARTER,12/01/2021,,0,$204,27,18.0,,8.0,1.0,913,Monthly,APAC
+ACC-10005,Company_5,Technology,ENT,2022-09-19,,0,$998.02,471,240.0,22645,17.0,6.0,621,MONTHLY,APAC
+ACC-10222,Company_222,education,Starter Plan,01/07/2023,,0,45.92,380,316.0,43497,2.0,7.0,511,MONTHLY,EU
+ACC-10547,Company_547,Tech,Ent,22/02/2022,2022-06-21,1,,229,239.0,,9.0,0.0,830,monthly,Europe
+ACC-10893,Company_893,finance,Prof,19/03/2023,,0,$538.48,160,,"19,761 events",6.0,3.0,440,month-to-month,emea
+ACC-10039,Company_39,Healthcare,freemium,20/03/2023,,No,$914.02,65,58.0,"46,082 events",19.0,4.0,439,month-to-month,Latin America
+ACC-10542,,Healthcare,STARTER,05/21/2021,2027-04-18,1,"$1,887.32",318,315.0,12207,9.0,-5.0,1107,yearly,EMEA
+ACC-10242,Company_242,Health,Starter Plan,12/24/2020,,0,$1.84K,4,1.0,47.1K,10.0,3.0,1255,,EU
+ACC-10136,Company_136,Technology,pro,28/07/2021,,0,,349,310.0,,23.0,0.0,1039,ANNUAL,North America
+ACC-11435,Company_1435,tech,enterprise,02/01/2022,2023-08-04,1,$103.57,373,143.0,35083,17.0,5.0,881,yearly,EU
+ACC-11287,Company_1287,TECH,freemium,30/08/2022,,0,1024.25,119,78.0,8172,5.0,0.0,641,,EMEA
+ACC-10715,Company_715,Healthcare,Enterprise,2021-11-03,,0,$476.19,207,75.0,"21,313 events",9.0,8.0,941,month-to-month,North America
+ACC-10923,Company_923,fintech,ENT,28/07/2021,,0,$1.84K,243,259.0,,22.0,8.0,1039,Monthly,latam
+ACC-10802,Company_802,Tech,ENTERPRISE,09/03/2022,,0,"$4,949.61",115,92.0,31.3K,14.0,10.0,815,MONTHLY,latam
+ACC-11157,Company_1157,Retail,professional,17/07/2022,2023-06-29,1,$935.40,497,180.0,27471,22.0,10.0,685,yearly,North America
+ACC-11570,Company_1570,edtech,Starter,11/04/2023,,0,$911.83,171,,24.5K,23.0,8.0,417,annual,apac
+ACC-11489,Company_1489,tech,Ent,2022-03-26,,churned,$28.67,240,103.0,"26,742 events",3.0,-5.0,798,MONTHLY,Asia Pacific
+ACC-10581,Company_581,SaaS,,14/01/2021,2022-06-09,1,$197.19,72,73.0,22196,17.0,,1234,multi-year,Latin America
+ACC-11442,Company_1442,education,pro,27/06/2020,,0,31.27,459,246.0,21210,23.0,6.0,1435,monthly,latam
+ACC-10782,Company_782,Education,Pro,2023-02-21,,0,$1967,202,107.0,,5.0,2.0,466,,EU
+ACC-10661,Company_661,Tech,Ent,06/02/2020,,0,$96,457,414.0,,18.0,3.0,1460,MONTHLY,Americas
+ACC-10940,Company_940,education,Enterprise,04/08/2023,,0,,431,312.0,33.1K,0.3497743192732337,10.0,420,2-Year,Asia Pacific
+ACC-11513,Company_1513,finance,Pro,01/02/2020,,0,$31.82,319,227.0,4.4K,20.0,,1612,multi-year,Latin America
+ACC-10376,Company_376,Finance,Professional,2020-05-14,,0,,276,182.0,"34,472 events",3.0,5.0,1479,monthly,NA
+ACC-10314,Company_314,Healthcare,starter,03/23/2023,,0,,353,168.0,"28,594 events",0.3984600025767313,,436,,apac
+ACC-10442,Company_442,saas,STARTER,16/11/2021,,0,107.66,219,83.0,"38,787 events",7.0,9.0,928,monthly,emea
+ACC-10319,Company_319,tech,Pro,12/09/2022,,0,5017.8,439,303.0,"4,931 events",0.621427711840475,4.0,540,,EU
+ACC-10963,Company_963,Retail,enterprise,2021-05-03,2022-09-05,1,44.85,320,276.0,"30,334 events",7.0,5.0,1125,MONTHLY,LATAM
+ACC-10792,Company_792,tech,freemium,05/16/2022,2023-04-19,1,$94.72,202,179.0,"36,228 events",15.0,9.0,747,annual,latam
+ACC-11088,Company_1088,fintech,pro,09/02/2020,,0,$185,136,81.0,38338,10.0,4.0,1368,2-Year,apac
+ACC-11228,Company_1228,Software,professional,05/01/2020,2021-04-13,1,$28.35,28,,15.4K,16.0,5.0,1492,monthly,apac
+ACC-10424,Company_424,EdTech,Professional,2021-11-01,2023-04-27,1,$46,1,0.0,"39,343 events",1.0,2.0,943,multi-year,Asia Pacific
+ACC-10553,Company_553,Retail,pro,2022-04-08,,0,$107.71,17,10.0,,5.0,3.0,-187,Multi-Year,emea
+ACC-10594,Company_594,finance,Starter Plan,08/21/2021,2022-09-20,1,,6,3.0,2.7K,22.0,10.0,1015,ANNUAL,Europe
+ACC-10368,Company_368,Healthcare,Free Trial,10/14/2020,2022-01-10,1,974.34,84,27.0,8893,13.0,3.0,1326,month-to-month,Asia Pacific
+ACC-11519,Company_1519,saas,start,02/28/2023,,0,$207,253,108.0,47092,0.2723527907472247,7.0,459,monthly,EU
+ACC-10918,Company_918,Healthcare,freemium,07/05/2022,,0,$2.06K,421,233.0,"11,692 events",21.0,6.0,756,2-Year,
+ACC-11322,Company_1322,Healthcare,Professional,2022-03-06,,0,$903,170,80.0,,3.0,7.0,818,2-Year,APAC
+ACC-11479,Company_1479,education,freemium,2022-10-17,2026-06-14,1,$2119,232,213.0,33655,0.0,4.0,593,Multi-Year,APAC
+ACC-10227,Company_227,retail,professional,10/06/2020,,0,94.82,261,221.0,41646,23.0,4.0,1452,monthly,apac
+ACC-10845,,education,,2020-12-22,,0,,284,232.0,"7,473 events",7.0,4.0,1257,ANNUAL,latam
+ACC-11132,,Retail,STARTER,31/01/2023,,0,,241,172.0,31.3K,16.0,8.0,487,,US
+ACC-11084,Company_1084,Health,Free Trial,03/04/2020,2020-10-21,1,$213.60,143,146.0,"47,333 events",3.0,6.0,1520,ANNUAL,North America
+ACC-10817,Company_817,Health,pro,2022-05-17,,0,5050.06,178,97.0,45922,15.0,7.0,746,yearly,emea
+ACC-10066,Company_66,,Ent,14/03/2023,,0,$46.65,67,51.0,41034,11.0,,445,month-to-month,EMEA
+ACC-10393,,saas,freemium,2020-11-13,2022-02-08,1,$4609,80,69.0,5.2K,7.0,6.0,1296,Yearly,Latin America
+ACC-10579,Company_579,Retail,Pro,2022-09-15,,0,1084.79,179,109.0,"28,355 events",1.0,10.0,625,ANNUAL,Americas
+ACC-10024,Company_24,Education,Ent,10/16/2022,,0,$105,46,32.0,,8.0,6.0,594,Multi-Year,
+ACC-10211,Company_211,saas,ENTERPRISE,2020-08-30,2022-08-04,1,$1997,159,113.0,"8,192 events",13.0,10.0,-117,ANNUAL,Asia Pacific
+ACC-11258,Company_1258,TECH,pro,05/27/2022,,0,$45,436,447.0,,0.0,8.0,736,monthly,Americas
+ACC-11041,Company_1041,FinTech,Free,08/10/2020,,0,103.79,3,1.0,25.1K,18.0,2.0,1332,,APAC
+ACC-10536,Company_536,fintech,Enterprise,08/03/2022,,0,$507.80,96,98.0,"19,700 events",12.0,0.0,668,Annual,APAC
+ACC-10921,Company_921,education,Ent,01/27/2021,,0,,471,438.0,"25,771 events",14.0,9.0,1221,ANNUAL,Europe
+ACC-10785,Company_785,TECH,Free,20/10/2020,2021-04-18,1,$53,166,89.0,"27,409 events",14.0,2.0,-107,monthly,EU
+ACC-10085,Company_85,EdTech,freemium,2020-08-08,,0,$218.45,383,343.0,"20,074 events",0.0,1.0,1393,annual,latam
+ACC-11472,Company_1472,Health,Professional,2021-10-04,,0,$28,323,230.0,"6,018 events",7.0,0.0,971,Multi-Year,Latin America
+ACC-10272,Company_272,finance,Pro,2022-02-12,,0,1857.95,50,23.0,,19.0,8.0,840,Yearly,Europe
+ACC-11326,,SaaS,Professional,2020-02-04,,0,$2058,59,32.0,,21.0,8.0,1579,annual,EU
+ACC-10936,Company_936,healthcare,ENT,17/04/2022,,0,$188.89,166,93.0,"33,214 events",0.5385735627045242,8.0,-13,,APAC
+ACC-11504,Company_1504,Software,Starter Plan,06/10/2020,2021-07-13,1,$487,133,47.0,"19,367 events",2.0,8.0,1452,Annual,Latin America
+ACC-11474,,healthcare,,09/26/2020,,0,$94.36,185,66.0,,16.0,10.0,1344,,APAC
+ACC-10630,Company_630,healthcare,Pro,05/02/2021,,Yes,31.37,86,81.0,"31,410 events",23.0,9.0,1126,Multi-Year,latam
+ACC-11118,,Education,Free Trial,2020-05-07,,churned,$510.13,155,111.0,35322,5.0,9.0,1486,MONTHLY,North America
+ACC-11525,Company_1525,Retail,starter,01/31/2020,,0,$99,490,537.0,"25,235 events",4.0,4.0,1583,monthly,NA
+ACC-11117,Company_1117,Retail,professional,2022-10-30,,0,$202.67,4,4.0,15651,17.0,10.0,580,multi-year,EU
+ACC-10505,Company_505,EdTech,Pro,07/03/2023,,0,$103,475,,3475,0.0,2.0,452,,North America
+ACC-10273,,Finance,Starter,08/16/2021,2022-06-03,1,$536,374,289.0,34023,21.0,,1020,ANNUAL,latam
+ACC-10857,Company_857,Healthcare,ENTERPRISE,2020-07-13,,0,1004.22,331,309.0,,24.0,15.0,1419,Monthly,Europe
+ACC-11225,Company_1225,Technology,enterprise,08/11/2022,,0,$102.64,460,210.0,,6.0,2.0,571,Annual,North America
+ACC-10362,,E-Commerce,PRO,09/10/2020,2022-01-13,1,211.93,395,211.0,47227,8.0,2.0,1331,MONTHLY,NA
+ACC-11320,Company_1320,Education,professional,2022-11-17,2024-06-28,1,106.79,401,328.0,,0.793948180019276,8.0,562,Monthly,
+ACC-10622,Company_622,fintech,Ent,05/15/2021,,,533.96,393,405.0,"48,978 events",21.0,4.0,1113,MONTHLY,US
+ACC-10002,Company_2,ecommerce,pro,09/04/2021,,0,"$1,037.86",269,,,24.0,8.0,1149,annual,LATAM
+ACC-10006,Company_6,Health,start,09/16/2021,,0,$216.54,250,265.0,19279,14.0,5.0,989,,APAC
+ACC-10311,Company_311,tech,,04/08/2021,2022-06-01,1,,472,243.0,17.3K,12.0,7.0,1032,Yearly,apac
+ACC-11103,Company_1103,healthcare,PRO,05/04/2020,,0,"$5,085.54",33,15.0,6313,0.0,0.0,1489,annual,EU
+ACC-10786,Company_786,retail,pro,27/05/2021,,0,$26.22,154,138.0,"41,066 events",21.0,6.0,1101,2-Year,US
+ACC-10665,Company_665,ecommerce,ENT,08/06/2022,2023-09-27,1,$105,64,54.0,"15,622 events",11.0,,665,Yearly,NA
+ACC-10364,Company_364,education,STARTER,04/30/2020,,0,$947.82,141,81.0,971 events,13.0,100.0,1493,annual,NA
+ACC-11198,Company_1198,E-Commerce,pro,04/17/2020,,0,$100,405,435.0,13.6K,1.0,1.0,1506,month-to-month,EMEA
+ACC-10215,Company_215,education,FREE,2021-07-08,,0,$100.60,397,345.0,4741,0.2512787553275752,10.0,1059,Multi-Year,EU
+ACC-10812,Company_812,Technology,STARTER,04/12/2022,2023-12-25,1,$47,298,204.0,19215,0.8775420824228135,-5.0,781,annual,North America
+ACC-10027,Company_27,FinTech,,19/11/2020,,0,$48.07,436,369.0,,12.0,3.0,1290,ANNUAL,apac
+ACC-11170,,Finance,PRO,2020-01-18,,,$101.53,489,222.0,49619,5.0,4.0,1596,yearly,LATAM
+ACC-10525,Company_525,,FREE,02/10/2023,,0,$473,409,290.0,21.9K,15.0,3.0,477,Monthly,Asia Pacific
+ACC-11496,Company_1496,Tech,Pro,17/02/2020,,0,$547,46,49.0,20.9K,24.0,5.0,-107,monthly,Americas
+ACC-10803,Company_803,TECH,Pro,29/03/2021,,0,$94,234,144.0,30.3K,20.0,8.0,1160,annual,Latin America
+ACC-10638,,healthcare,Starter,2023-02-12,,0,$906,182,88.0,"18,100 events",7.0,,475,annual,NA
+ACC-11151,,SaaS,start,01/14/2023,,0,$922.55,318,302.0,42.5K,3.0,2.0,504,ANNUAL,
+ACC-10718,Company_718,edtech,professional,2020-09-23,2022-07-22,1,$200.93,91,80.0,,24.0,4.0,1347,Monthly,US
+ACC-10691,Company_691,Finance,Pro,03/07/2020,,0,950.54,420,408.0,,0.46164856328156545,6.0,-151,Monthly,NA
+ACC-10989,Company_989,edtech,starter,01/11/2021,,0,"$2,103.43",20,10.0,"33,098 events",14.0,7.0,943,2-Year,
+ACC-10624,,Health,freemium,10/17/2020,2022-06-13,1,$452.61,235,249.0,20498,9.0,3.0,1323,Multi-Year,NA
+ACC-11018,Company_1018,FinTech,Prof,2022-12-07,,0,,269,201.0,"33,817 events",2.0,9.0,542,Monthly,Asia Pacific
+ACC-10256,Company_256,SaaS,Prof,06/04/2021,,0,$52.44,468,319.0,"2,294 events",0.0,3.0,1093,month-to-month,Americas
+ACC-10025,Company_25,EdTech,ENT,21/02/2021,,0,$964.29,471,161.0,38758,17.0,1.0,1196,Multi-Year,LATAM
+ACC-10336,Company_336,saas,professional,08/08/2021,,0,$199.86,386,340.0,"26,826 events",9.0,7.0,-133,Annual,APAC
+ACC-10572,Company_572,Health,professional,2020-08-15,,0,26.52,466,379.0,"28,111 events",19.0,3.0,1386,Annual,Asia Pacific
+ACC-10047,Company_47,Retail,start,2020-11-07,,0,$490.45,29,12.0,46.0K,8.0,0.0,1302,Multi-Year,NA
+ACC-10106,Company_106,ecommerce,FREE,02/09/2021,2022-05-06,1,"$1,094.41",430,,30160,19.0,10.0,1208,Yearly,EU
+ACC-10349,Company_349,Education,Professional,2022-02-17,2022-08-14,1,$99.27,493,206.0,11.2K,3.0,5.0,835,monthly,APAC
+ACC-10055,Company_55,finance,Starter,10/08/2022,,0,$44.52,451,489.0,"12,878 events",22.0,8.0,661,multi-year,NA
+ACC-11089,Company_1089,Software,Prof,2020-05-04,2021-08-24,1,$29.87,197,150.0,"2,340 events",22.0,9.0,1489,month-to-month,NA
+ACC-10213,Company_213,Software,enterprise,08/13/2020,,0,$200.45,183,,,10.0,1.0,1388,2-Year,latam
+ACC-10120,Company_120,ecommerce,enterprise,2022-02-12,,0,27.21,15,8.0,10218,14.0,4.0,840,monthly,emea
+ACC-11030,Company_1030,TECH,free,2020-05-30,,0,29.71,177,124.0,,2.0,5.0,-37,,apac
+ACC-10873,Company_873,SaaS,Free,03/17/2020,2021-08-04,1,$509.8,393,317.0,"18,261 events",4.0,7.0,1537,monthly,EU
+ACC-10793,,education,Ent,26/08/2022,,0,$5179,487,224.0,"7,541 events",5.0,7.0,645,yearly,Asia Pacific
+ACC-10072,Company_72,fintech,ENT,04/04/2023,2025-01-13,1,$97.73,127,111.0,"6,790 events",3.0,1.0,424,Annual,North America
+ACC-11555,Company_1555,edtech,pro,2020-09-23,,0,$194.89,349,236.0,"33,717 events",17.0,1.0,1347,Yearly,LATAM
+ACC-10931,Company_931,Finance,Free,2021-01-15,,0,$49.31,463,206.0,28.5K,1.0,4.0,-189,Yearly,LATAM
+ACC-11418,Company_1418,tech,Starter Plan,15/01/2023,2023-08-08,1,$26.48,88,79.0,15.0K,16.0,3.0,503,Multi-Year,emea
+ACC-10045,,,FREE,09/03/2021,2023-07-19,1,$934.04,148,155.0,11595,7.0,1.0,1002,monthly,Latin America
+ACC-11392,Company_1392,saas,pro,08/07/2022,,0,1831.64,57,50.0,38891,18.0,9.0,694,month-to-month,emea
+ACC-10523,Company_523,EdTech,Starter Plan,2023-01-26,,0,451.65,31,13.0,"18,870 events",21.0,1.0,492,month-to-month,EMEA
+ACC-10232,Company_232,Finance,Starter,20/11/2022,2023-09-22,1,1871.6,381,,40615,20.0,8.0,559,2-Year,Americas
+ACC-10943,Company_943,Health,ENTERPRISE,2020-06-12,,0,$198.09,424,,27583,15.0,8.0,1450,multi-year,latam
+ACC-11196,Company_1196,TECH,Enterprise,02/25/2020,,0,,106,52.0,24690,19.0,2.0,1558,monthly,latam
+ACC-10949,Company_949,fintech,free,30/03/2021,2022-12-21,1,"$1,888.63",366,325.0,3737,12.0,8.0,1159,Multi-Year,Asia Pacific
+ACC-10533,Company_533,finance,ENTERPRISE,2020-10-12,2022-02-15,1,$1034,364,375.0,"38,092 events",21.0,6.0,1328,Multi-Year,EMEA
+ACC-11233,Company_1233,Technology,PRO,22/10/2022,2024-06-24,1,53.05,185,98.0,"39,879 events",20.0,0.0,588,2-Year,apac
+ACC-10603,Company_603,ecommerce,PRO,06/15/2020,2022-02-04,1,$47.99,434,369.0,2.8K,17.0,1.0,1447,multi-year,latam
+ACC-10465,Company_465,Education,PRO,2021-03-01,2021-09-12,1,$4717,409,253.0,920 events,16.0,10.0,-67,month-to-month,Latin America
+ACC-10974,,SaaS,Professional,10/24/2020,,0,$5353,211,119.0,45.1K,5.0,8.0,1316,monthly,apac
+ACC-10788,Company_788,Finance,pro,2021-01-03,,0,$185.84,354,286.0,"23,678 events",6.0,6.0,1245,annual,APAC
+ACC-11388,Company_1388,Software,ENT,08/24/2020,,0,$50,199,159.0,19.4K,5.0,4.0,1377,multi-year,Americas
+ACC-11279,Company_1279,finance,Prof,2022-08-31,2024-08-01,1,,142,100.0,,2.0,6.0,640,MONTHLY,APAC
+ACC-11067,Company_1067,education,Starter Plan,27/06/2021,,0,$1.04K,36,,40.2K,8.0,8.0,1070,yearly,latam
+ACC-10060,Company_60,education,PRO,2022-07-13,,0,,346,120.0,45917,4.0,0.0,689,Annual,EMEA
+ACC-11037,,edtech,freemium,2020-03-05,,0,"$5,059.64",138,,"30,179 events",14.0,7.0,1549,,Latin America
+ACC-10092,Company_92,Education,enterprise,2021-11-26,2023-04-23,1,"$1,914.18",45,30.0,"23,311 events",21.0,,918,Yearly,US
+ACC-10666,Company_666,finance,professional,2021-08-05,2022-09-08,1,$27,49,,,16.0,9.0,1031,Monthly,Asia Pacific
+ACC-11558,Company_1558,,enterprise,03/08/2022,,churned,$27,105,62.0,,2.0,2.0,816,ANNUAL,Americas
+ACC-10194,Company_194,Tech,ENT,2023-03-13,,0,$986.16,67,65.0,"42,035 events",6.0,4.0,446,MONTHLY,
+ACC-10280,Company_280,finance,,2021-05-16,,0,,250,239.0,,4.0,6.0,1112,Multi-Year,Europe
+ACC-10695,Company_695,education,starter,11/19/2022,,0,$194,112,114.0,,7.0,4.0,560,monthly,latam
+ACC-10359,Company_359,Retail,Professional,17/01/2020,,0,$496.48,112,50.0,,20.0,5.0,1597,ANNUAL,Americas
+ACC-10519,Company_519,Retail,,03/01/2020,,0,$90,391,153.0,"9,384 events",5.0,4.0,1553,ANNUAL,EMEA
+ACC-11022,Company_1022,finance,Starter,04/20/2022,,0,$44.68,124,79.0,"34,263 events",21.0,10.0,773,monthly,US
+ACC-10916,Company_916,healthcare,pro,09/15/2021,,0,"$2,124.58",397,147.0,,14.0,10.0,990,Yearly,North America
+ACC-10182,Company_182,Healthcare,enterprise,18/03/2022,,0,$460.94,102,109.0,,20.0,8.0,806,Multi-Year,latam
+ACC-11113,Company_1113,,STARTER,2022-09-10,,0,5494.72,87,80.0,49417,19.0,8.0,630,ANNUAL,latam
+ACC-11286,Company_1286,,Free,10/24/2022,,0,$104.40,368,312.0,"38,618 events",10.0,6.0,586,annual,Latin America
+ACC-10110,Company_110,Technology,Free Trial,11/15/2020,2022-05-02,1,"$1,960.75",239,212.0,"36,128 events",24.0,10.0,1294,Yearly,Asia Pacific
+ACC-10994,,fintech,Prof,30/01/2020,,0,$193.88,28,15.0,"22,170 events",24.0,4.0,-38,yearly,
+ACC-10042,Company_42,education,,07/18/2022,,0,$1.10K,469,,"13,933 events",8.0,6.0,684,Annual,apac
+ACC-10746,Company_746,Health,Pro,05/19/2021,,0,$203,381,204.0,25128,13.0,7.0,1109,ANNUAL,Europe
+ACC-10125,Company_125,edtech,FREE,2022-11-10,2024-09-13,1,"$4,568.39",283,148.0,20360,8.0,4.0,569,month-to-month,APAC
+ACC-10204,Company_204,Finance,Ent,02/22/2023,,0,"$5,166.70",468,482.0,"39,931 events",22.0,,465,MONTHLY,apac
+ACC-11401,Company_1401,E-Commerce,Pro,15/10/2021,2022-03-31,1,$205.3,411,188.0,"19,571 events",14.0,0.0,960,Annual,APAC
+ACC-10052,Company_52,ecommerce,pro,21/02/2022,,0,,362,372.0,38.1K,1.0,2.0,831,ANNUAL,LATAM
+ACC-11220,Company_1220,EdTech,,07/14/2020,,0,$99.41,295,139.0,25.5K,4.0,1.0,1418,Annual,Asia Pacific
+ACC-10545,Company_545,retail,Prof,07/10/2022,,0,"$5,052.65",300,214.0,"21,839 events",13.0,10.0,692,yearly,Americas
+ACC-10068,Company_68,Retail,Free,24/01/2022,2023-03-12,1,$101,401,229.0,"47,128 events",16.0,7.0,859,Annual,Europe
+ACC-11149,Company_1149,Finance,start,2020-06-17,2021-08-11,1,$44.64,21,14.0,"19,526 events",8.0,5.0,1445,2-Year,Latin America
+ACC-10507,Company_507,TECH,PRO,2020-01-24,,0,$49,278,302.0,"31,482 events",11.0,7.0,1590,month-to-month,
+ACC-11588,Company_1588,edtech,FREE,30/05/2020,2020-10-12,1,,375,156.0,49065,7.0,2.0,1463,Monthly,North America
+ACC-10329,Company_329,Healthcare,ENT,14/05/2020,,0,"$5,301.91",275,,,23.0,-5.0,1479,month-to-month,LATAM
+ACC-10898,Company_898,retail,Starter Plan,08/13/2022,2024-01-31,1,"$1,026.69",259,150.0,47.6K,24.0,,658,Annual,APAC
+ACC-10183,Company_183,E-Commerce,professional,2023-02-21,,0,"$1,098.29",146,105.0,49540,5.0,4.0,466,,EMEA
+ACC-10137,Company_137,FinTech,Free Trial,22/09/2022,,0,$30.15,350,128.0,15096,21.0,1.0,618,,NA
+ACC-10796,Company_796,healthcare,start,2022-03-28,,Yes,$44.39,76,33.0,"18,213 events",20.0,0.0,796,Monthly,North America
+ACC-10132,Company_132,Technology,Professional,02/13/2021,,0,$30.73,31,19.0,"24,889 events",24.0,,1204,monthly,EU
+ACC-10080,Company_80,healthcare,Starter Plan,2022-11-29,2024-02-18,1,$5.22K,113,114.0,"38,283 events",16.0,3.0,550,Yearly,US
+ACC-11317,Company_1317,tech,,12/06/2022,,0,$914,466,235.0,,0.3562754975460249,0.0,543,month-to-month,Europe
+ACC-10105,Company_105,SaaS,starter,29/09/2021,2021-11-22,1,$1079,152,,37069,18.0,3.0,976,MONTHLY,NA
+ACC-11262,Company_1262,SaaS,Free Trial,02/12/2020,,0,$483,355,250.0,,16.0,3.0,1277,Multi-Year,LATAM
+ACC-10541,Company_541,ecommerce,Free Trial,2022-03-08,2023-03-15,1,$5.36K,474,299.0,"11,237 events",2.0,0.0,816,Monthly,EMEA
+ACC-11309,Company_1309,fintech,start,2022-06-08,,0,$182.39,499,,19635,13.0,15.0,724,Annual,EMEA
+ACC-10480,,TECH,free,11/27/2022,,0,1917.29,407,281.0,40.9K,17.0,6.0,552,multi-year,apac
+ACC-10165,Company_165,EdTech,Starter Plan,06/02/2020,2022-02-02,1,$99.09,148,90.0,,17.0,9.0,1460,multi-year,Asia Pacific
+ACC-10248,Company_248,ecommerce,ENTERPRISE,03/02/2021,2021-04-21,1,$52,331,213.0,"40,231 events",13.0,6.0,1214,multi-year,North America
+ACC-10307,Company_307,healthcare,pro,19/04/2022,2024-01-28,1,$29.69,191,200.0,,3.0,8.0,774,Monthly,Asia Pacific
+ACC-10446,Company_446,SaaS,FREE,28/02/2021,,0,$95.11,266,267.0,"19,780 events",5.0,0.0,1189,Multi-Year,LATAM
+ACC-10889,Company_889,TECH,STARTER,12/05/2022,,0,"$1,941.17",334,159.0,"13,320 events",9.0,8.0,751,,Latin America
+ACC-10858,Company_858,Retail,Enterprise,07/19/2021,,0,"$1,957.47",218,73.0,,1.0,-5.0,1048,2-Year,APAC
+ACC-10334,Company_334,TECH,Pro,23/12/2020,2022-03-26,1,,255,,25.8K,15.0,0.0,1256,yearly,APAC
+ACC-10978,Company_978,EdTech,start,05/29/2020,2020-08-08,1,$973,462,252.0,,10.0,10.0,1464,monthly,EMEA
+ACC-10849,Company_849,edtech,pro,09/11/2020,,0,,19,14.0,23162,8.0,,1300,Annual,apac
+ACC-10097,Company_97,saas,FREE,2022-03-31,,0,$915,393,328.0,49.4K,20.0,8.0,793,MONTHLY,North America
+ACC-10906,Company_906,,PRO,23/11/2020,,0,45.33,137,103.0,"19,612 events",1.0,8.0,1286,MONTHLY,North America
+ACC-10919,Company_919,EdTech,Pro,12/31/2022,,0,$183.00,226,119.0,,12.0,4.0,518,monthly,NA
+ACC-10737,Company_737,E-Commerce,FREE,2022-11-06,,0,$4.92K,252,254.0,,18.0,8.0,573,multi-year,latam
+ACC-11031,Company_1031,E-Commerce,starter,07/23/2020,,0,$1868,346,297.0,0.8K,6.0,3.0,1409,monthly,NA
+ACC-11004,Company_1004,healthcare,pro,11/29/2021,2023-02-20,1,495.34,326,265.0,26.7K,0.6276524988637696,10.0,915,MONTHLY,emea
+ACC-10421,Company_421,,Professional,21/08/2022,2024-06-29,1,$99.74,239,236.0,"28,510 events",0.7273745557845251,6.0,650,annual,NA
+ACC-10102,Company_102,Finance,free,28/10/2022,,0,45.6,139,,,17.0,9.0,582,Annual,EMEA
+ACC-10434,Company_434,ecommerce,Prof,2022-05-17,,0,$944.69,27,11.0,"16,958 events",9.0,2.0,746,multi-year,latam
+ACC-10074,Company_74,EdTech,Enterprise,01/05/2022,2023-04-30,1,$29.64,25,,39.4K,15.0,4.0,878,multi-year,emea
+ACC-11463,Company_1463,saas,professional,2021-08-17,,0,$29,468,331.0,2.0K,20.0,6.0,1019,annual,LATAM
+ACC-10964,Company_964,Education,Ent,08/22/2022,,0,$48.52,112,107.0,"20,908 events",24.0,0.0,649,Yearly,EU
+ACC-10228,Company_228,edtech,FREE,2020-08-04,,0,"$4,611.66",409,423.0,"9,204 events",9.0,7.0,1397,month-to-month,EMEA
+ACC-11483,Company_1483,EdTech,professional,11/11/2022,,0,$4655,238,231.0,10534,1.0,4.0,568,monthly,EMEA
+ACC-10302,Company_302,,start,14/06/2020,,0,$107,316,182.0,24.9K,23.0,8.0,1448,annual,Europe
+ACC-11406,Company_1406,Health,FREE,2022-09-16,2023-04-17,1,$204,183,140.0,"15,418 events",6.0,1.0,624,month-to-month,North America
+ACC-11454,Company_1454,Finance,starter,11/21/2021,,0,$949.48,370,223.0,"44,166 events",0.0,2.0,923,Multi-Year,NA
+ACC-11328,Company_1328,SaaS,Free Trial,15/09/2021,,churned,,212,196.0,12.0K,14.0,7.0,-199,yearly,EU
+ACC-10824,Company_824,retail,professional,13/01/2022,,0,"$4,828.75",343,291.0,42444,23.0,9.0,870,ANNUAL,Latin America
+ACC-10762,Company_762,education,PRO,2022-04-11,2022-08-11,1,$95.98,84,25.0,"27,996 events",11.0,9.0,782,yearly,North America
+ACC-10733,Company_733,E-Commerce,PRO,08/08/2021,,0,,421,252.0,"33,015 events",18.0,1.0,1028,Annual,
+ACC-10388,Company_388,SaaS,PRO,2021-09-11,,0,$957.54,386,274.0,38.4K,9.0,7.0,-70,2-Year,NA
+ACC-10235,Company_235,Software,professional,10/29/2021,,0,,494,424.0,"31,703 events",10.0,,946,multi-year,EU
+ACC-11352,Company_1352,Tech,Ent,07/20/2020,2022-05-07,1,$5.14K,342,120.0,16070,0.48951064532947053,9.0,1412,Multi-Year,EU
+ACC-10267,Company_267,education,Starter Plan,09/01/2020,,0,$29.03,432,208.0,"8,400 events",7.0,10.0,1605,ANNUAL,
+ACC-10305,Company_305,Healthcare,STARTER,03/02/2023,,0,108.32,59,,48.0K,0.05617551779137988,5.0,457,Multi-Year,LATAM
+ACC-11087,Company_1087,Tech,start,2021-05-08,2021-11-08,1,,76,,"31,230 events",22.0,,1120,MONTHLY,LATAM
+ACC-10941,Company_941,retail,STARTER,2021-09-30,,0,$970.12,272,164.0,"46,093 events",8.0,0.0,975,Annual,latam
+ACC-10117,Company_117,tech,start,26/10/2020,,0,$96,205,114.0,"27,445 events",4.0,,1314,Yearly,EMEA
+ACC-11316,Company_1316,fintech,free,09/02/2021,,0,$54,172,180.0,20.7K,1.0,1.0,1003,MONTHLY,Americas
+ACC-10673,Company_673,SaaS,enterprise,14/11/2022,,0,$191,237,100.0,49850,21.0,,565,,LATAM
+ACC-10249,Company_249,Education,,28/09/2022,,0,"$1,037.84",483,456.0,,5.0,10.0,612,yearly,North America
+ACC-11362,Company_1362,EdTech,FREE,18/09/2021,,0,1065.91,77,26.0,,12.0,2.0,987,2-Year,LATAM
+ACC-11167,Company_1167,finance,free,03/08/2022,,0,$1819,21,21.0,20758,2.0,10.0,668,multi-year,Europe
+ACC-10071,Company_71,EdTech,Free,08/08/2020,,0,$96.34,239,220.0,"36,420 events",10.0,,-5,monthly,Europe
+ACC-10094,Company_94,edtech,Starter Plan,22/05/2020,,0,$506.24,300,198.0,27133,5.0,5.0,1471,Annual,APAC
+ACC-11370,Company_1370,fintech,pro,07/26/2021,2021-12-06,1,$31,349,308.0,28576,18.0,3.0,1041,MONTHLY,Europe
+ACC-10033,Company_33,saas,Ent,2022-06-22,,0,"$5,343.73",335,231.0,10299,16.0,4.0,710,monthly,Asia Pacific
+ACC-10799,Company_799,Finance,PRO,01/14/2022,,0,$30.26,439,,"21,203 events",15.0,1.0,869,month-to-month,Asia Pacific
+ACC-11191,Company_1191,Health,enterprise,2021-09-19,,0,$2051,27,14.0,48272,17.0,9.0,986,yearly,APAC
+ACC-11387,Company_1387,Technology,,03/10/2021,,0,,334,210.0,"36,044 events",16.0,7.0,1179,Multi-Year,North America
+ACC-10448,Company_448,Health,,01/15/2021,,0,$530.43,275,110.0,"7,022 events",21.0,10.0,1233,Multi-Year,Latin America
+ACC-10445,Company_445,education,ENTERPRISE,2020-07-16,,0,$507.79,145,117.0,"24,316 events",12.0,3.0,1416,month-to-month,EU
+ACC-10771,Company_771,saas,start,01/26/2020,,0,$31.13,148,132.0,24353,17.0,9.0,1588,Yearly,Americas
+ACC-10716,Company_716,edtech,Ent,25/09/2021,2023-02-14,1,"$5,218.12",124,75.0,"33,566 events",15.0,2.0,980,annual,EMEA
+ACC-10574,,education,Ent,2020-05-24,2020-10-10,1,4629.02,94,98.0,29148,5.0,1.0,1469,multi-year,NA
+ACC-11490,Company_1490,ecommerce,freemium,2021-05-23,,0,$536.24,144,56.0,"18,845 events",21.0,9.0,1105,MONTHLY,LATAM
+ACC-10000,Company_0,Retail,FREE,08/04/2023,,0,,486,502.0,15.1K,0.031560132262440824,0.0,420,2-Year,latam
+ACC-11340,Company_1340,Retail,professional,02/26/2020,2021-06-21,1,$457.6,449,231.0,,17.0,9.0,1557,month-to-month,Americas
+ACC-11120,Company_1120,E-Commerce,FREE,21/02/2023,,0,$31,214,80.0,36.1K,1.0,6.0,466,,Asia Pacific
+ACC-10077,Company_77,Retail,freemium,2022-10-10,,0,957.67,93,74.0,9681,24.0,6.0,600,Annual,apac
+ACC-10084,Company_84,saas,Enterprise,10/22/2021,,0,$939.83,451,206.0,"6,059 events",2.0,,953,annual,Latin America
+ACC-11000,Company_1000,education,STARTER,12/02/2020,2021-08-28,1,"$5,078.34",465,,46.1K,19.0,10.0,1277,ANNUAL,LATAM
+ACC-10082,Company_82,tech,FREE,13/12/2022,,0,$2.01K,19,17.0,"21,736 events",13.0,9.0,536,yearly,Europe
+ACC-10457,Company_457,fintech,Prof,03/22/2020,,0,$525.44,360,210.0,34548,24.0,0.0,1532,Multi-Year,NA
+ACC-11057,Company_1057,edtech,Pro,01/12/2021,,0,27.59,269,89.0,,17.0,0.0,913,Multi-Year,emea
+ACC-10676,Company_676,Software,Ent,2022-05-11,,0,$206.03,27,9.0,24.7K,1.0,2.0,752,month-to-month,
+ACC-11571,Company_1571,E-Commerce,FREE,2022-01-20,,0,$965,384,117.0,42.5K,18.0,10.0,863,,Europe
+ACC-11165,Company_1165,ecommerce,starter,31/07/2020,2021-06-09,1,$31.87,217,190.0,"31,712 events",8.0,7.0,1401,multi-year,Europe
+ACC-10436,Company_436,Education,Free Trial,03/09/2020,,0,$193.95,208,227.0,"28,860 events",24.0,2.0,1367,Multi-Year,apac
+ACC-10770,Company_770,Education,PRO,01/05/2022,,0,$46,442,183.0,45.9K,6.0,1.0,878,month-to-month,NA
+ACC-10869,Company_869,SaaS,,01/09/2021,,No,"$2,054.53",228,146.0,,4.0,1.0,1239,Multi-Year,EU
+ACC-10644,Company_644,fintech,PRO,04/17/2022,,0,50.16,402,264.0,"12,259 events",0.47593356189115177,8.0,776,Annual,apac
+ACC-10862,Company_862,FinTech,FREE,22/08/2022,,0,,22,,"23,758 events",9.0,,649,multi-year,Europe
+ACC-10984,Company_984,Technology,ENT,2020-03-30,,0,$213.93,82,72.0,12.9K,12.0,0.0,1524,Yearly,
+ACC-11052,Company_1052,education,Enterprise,2020-07-30,,0,,192,143.0,11654,20.0,2.0,1402,yearly,EU
+ACC-11543,Company_1543,FinTech,free,18/07/2022,,0,$191,32,27.0,,11.0,9.0,-192,Annual,latam
+ACC-11214,Company_1214,Technology,STARTER,16/07/2020,,0,$49.17,227,168.0,45266,20.0,,1416,Monthly,Asia Pacific
+ACC-10404,Company_404,Education,pro,05/08/2022,,0,$194,471,327.0,"10,784 events",22.0,,755,monthly,Latin America
+ACC-11416,Company_1416,fintech,Enterprise,07/22/2022,2023-08-29,1,$48,196,146.0,"29,147 events",23.0,5.0,680,Yearly,Europe
+ACC-11063,Company_1063,healthcare,start,04/25/2021,,0,$217.61,118,109.0,"20,846 events",4.0,0.0,1133,monthly,NA
+ACC-11293,Company_1293,finance,start,12/28/2020,,TRUE,$1018,423,462.0,,19.0,8.0,1251,month-to-month,NA
+ACC-10104,Company_104,healthcare,FREE,07/21/2021,2022-05-22,1,,424,316.0,32370,13.0,6.0,1046,monthly,North America
+ACC-10609,Company_609,Technology,STARTER,2021-04-02,,0,102.16,158,84.0,"47,287 events",17.0,10.0,1156,Multi-Year,apac
+ACC-10998,Company_998,Retail,Starter Plan,2020-08-13,,0,,30,22.0,20303,21.0,2.0,1388,monthly,Asia Pacific
+ACC-11182,Company_1182,edtech,Prof,2020-01-23,2020-11-08,1,51.07,90,91.0,11474,8.0,10.0,1591,,latam
+ACC-10688,Company_688,Tech,Enterprise,20/09/2020,,0,190.86,230,85.0,655 events,0.7534583209005831,3.0,1350,multi-year,LATAM
+ACC-11068,,fintech,enterprise,2020-04-30,,0,$1082,299,190.0,23016,0.35591335668103424,5.0,1493,month-to-month,US
+ACC-10826,Company_826,Technology,ENTERPRISE,2023-03-04,,0,$1.90K,225,223.0,"34,921 events",2.0,8.0,455,,US
+ACC-11242,Company_1242,Retail,Starter,05/01/2021,,0,$483.19,189,73.0,,7.0,9.0,1127,2-Year,
+ACC-11085,Company_1085,,starter,02/15/2022,,0,$541,428,398.0,"11,714 events",6.0,10.0,837,Yearly,LATAM
+ACC-10062,Company_62,FinTech,ENTERPRISE,2023-03-15,,0,"$1,907.73",6,4.0,"11,682 events",0.10498432797769942,3.0,444,Annual,EMEA
+ACC-10281,,FinTech,professional,06/25/2020,,0,,421,207.0,"26,688 events",11.0,1.0,1437,multi-year,LATAM
+ACC-10852,Company_852,Finance,,05/30/2020,,,"$1,064.12",315,287.0,12.7K,7.0,1.0,1463,Yearly,emea
+ACC-10778,Company_778,Healthcare,STARTER,24/12/2022,,0,"$1,937.22",426,325.0,21631,24.0,,525,Monthly,emea
+ACC-11101,Company_1101,E-Commerce,Enterprise,07/08/2022,,0,$27.4,294,293.0,"37,932 events",2.0,0.0,664,month-to-month,latam
+ACC-10238,Company_238,EdTech,STARTER,01/28/2023,,0,$210,492,500.0,27.1K,17.0,3.0,490,month-to-month,
+ACC-10223,Company_223,TECH,Starter Plan,03/08/2021,2022-03-18,1,,8,7.0,,2.0,2.0,1181,Yearly,emea
+ACC-10145,Company_145,Finance,ENTERPRISE,2023-02-12,2024-12-19,1,$5063,380,412.0,,0.3122517569599996,3.0,475,month-to-month,emea
+ACC-11524,Company_1524,ecommerce,Pro,10/25/2021,,0,$1078,222,240.0,10510,12.0,10.0,950,Yearly,apac
+ACC-10373,Company_373,tech,pro,19/05/2022,,0,$5.23K,62,20.0,,14.0,0.0,744,ANNUAL,EU
+ACC-11334,Company_1334,EdTech,FREE,09/27/2021,,churned,"$1,843.90",155,116.0,5.5K,8.0,,-122,multi-year,emea
+ACC-10118,Company_118,education,Free Trial,08/29/2021,2023-08-20,1,49.01,85,65.0,"8,448 events",0.0,3.0,1007,yearly,Asia Pacific
+ACC-11223,Company_1223,tech,Starter,2022-07-25,,0,53.33,203,207.0,,21.0,4.0,677,annual,EU
+ACC-11221,Company_1221,Technology,pro,12/22/2022,,0,"$4,805.79",322,231.0,36.2K,0.5595573720054087,9.0,527,annual,Americas
+ACC-10250,Company_250,fintech,Professional,10/20/2020,,TRUE,$46.21,261,264.0,"6,577 events",15.0,,1320,Multi-Year,Asia Pacific
+ACC-11574,Company_1574,Finance,start,02/19/2021,,0,4808.52,296,,35.3K,20.0,6.0,1198,Yearly,EU
+ACC-11311,Company_1311,EdTech,starter,06/25/2021,2022-10-23,1,107.03,269,149.0,"30,537 events",19.0,8.0,1072,annual,North America
+ACC-11043,Company_1043,ecommerce,ENTERPRISE,18/11/2022,2023-10-17,1,"$2,195.57",44,16.0,,16.0,,561,monthly,
+ACC-10009,Company_9,Tech,Free Trial,2022-04-11,,0,$196.42,366,292.0,"15,190 events",14.0,8.0,782,multi-year,
+ACC-10449,Company_449,FinTech,freemium,2021-08-22,2022-08-14,1,$491.64,176,90.0,,0.7333851920320555,,1014,Multi-Year,apac
+ACC-11260,Company_1260,Education,ENTERPRISE,12/30/2020,,0,$51.02,224,176.0,"23,146 events",5.0,1.0,1249,MONTHLY,EU
+ACC-11035,Company_1035,Education,Pro,26/10/2022,,0,"$2,182.02",73,74.0,"45,024 events",4.0,9.0,584,Multi-Year,latam
+ACC-10708,Company_708,education,enterprise,07/08/2022,2023-11-14,1,,116,96.0,"21,432 events",14.0,0.0,694,annual,NA
+ACC-10255,Company_255,FinTech,STARTER,09/29/2021,,0,$99.05,158,151.0,"36,881 events",24.0,3.0,976,monthly,EU
+ACC-10882,Company_882,SaaS,Starter Plan,14/08/2022,,0,27.74,64,20.0,"37,167 events",0.0,4.0,657,Monthly,APAC
+ACC-10593,Company_593,Education,Ent,02/12/2021,,0,"$1,074.11",28,10.0,6142,23.0,3.0,1205,yearly,Asia Pacific
+ACC-10389,Company_389,Healthcare,freemium,07/01/2021,,0,$185,373,158.0,12593,0.26790488661781825,1.0,1066,MONTHLY,APAC
+ACC-11281,Company_1281,fintech,professional,04/08/2021,,0,$476.97,115,115.0,27043,20.0,7.0,1032,month-to-month,EU
+ACC-11303,Company_1303,tech,Starter Plan,07/04/2020,,0,$1.01K,227,69.0,"2,359 events",17.0,7.0,1516,MONTHLY,Americas
+ACC-10557,Company_557,ecommerce,ENT,08/21/2021,,0,$30.51,360,,"27,949 events",19.0,,1015,month-to-month,Americas
+ACC-10908,,edtech,Professional,2022-05-06,2024-04-08,1,$105.41,396,145.0,2755,24.0,3.0,757,,US
+ACC-10924,Company_924,Healthcare,Free Trial,2020-06-20,,No,$30,407,170.0,"34,908 events",6.0,5.0,1442,ANNUAL,emea
+ACC-11449,Company_1449,Software,pro,2021-04-20,,0,$908,3,3.0,"36,985 events",7.0,10.0,1138,,NA
+ACC-11245,,edtech,Starter,12/07/2020,,0,538.81,10,4.0,49533,0.2251383868531929,10.0,1272,annual,LATAM
+ACC-10460,Company_460,Technology,Prof,2020-04-28,,0,"$1,098.29",418,358.0,5875,11.0,3.0,-131,Multi-Year,NA
+ACC-10723,,E-Commerce,ENT,25/02/2020,,0,$95,462,389.0,,1.0,6.0,1558,Monthly,emea
+ACC-11102,Company_1102,Education,,2022-05-19,,0,$4692,261,213.0,48144,3.0,10.0,-147,MONTHLY,latam
+ACC-11506,Company_1506,retail,Starter Plan,2022-08-05,,0,91.12,81,26.0,42892,23.0,4.0,666,MONTHLY,apac
+ACC-10144,Company_144,Retail,starter,07/15/2022,,0,$2030,428,443.0,"41,978 events",0.37901168531312174,,687,Monthly,Americas
+ACC-10958,Company_958,,freemium,06/09/2020,,0,,335,220.0,27.7K,8.0,4.0,1364,ANNUAL,latam
+ACC-10501,Company_501,Finance,Free Trial,24/06/2021,,0,$104.96,482,423.0,,16.0,7.0,1073,Monthly,NA
+ACC-10922,Company_922,fintech,Professional,21/05/2022,2023-08-27,1,$960.21,386,358.0,41895,4.0,7.0,742,,NA
+ACC-11189,Company_1189,healthcare,Free,12/24/2020,,0,,388,247.0,"32,704 events",0.0,3.0,1255,Multi-Year,apac
+ACC-10739,Company_739,Tech,Professional,02/08/2020,,0,506.72,476,467.0,28.1K,18.0,8.0,1575,,EU
+ACC-11509,Company_1509,E-Commerce,,01/17/2021,2021-09-29,1,$28.77,474,376.0,"6,921 events",0.7443860409750565,,1231,multi-year,North America
+ACC-10868,Company_868,healthcare,STARTER,2021-09-01,,0,$206.31,22,17.0,"3,711 events",20.0,,1004,multi-year,EMEA
+ACC-10731,Company_731,healthcare,ENT,2020-07-12,,0,"$1,917.53",281,219.0,3270,0.18402422766052978,-5.0,1420,ANNUAL,EMEA
+ACC-10539,Company_539,E-Commerce,free,25/12/2020,,0,46.36,199,66.0,"22,132 events",13.0,-5.0,1254,,EU
+ACC-10177,Company_177,Education,Pro,28/05/2022,2023-02-16,1,$941,362,162.0,"12,474 events",21.0,7.0,735,MONTHLY,apac
+ACC-11576,Company_1576,Healthcare,professional,05/12/2021,,0,,260,162.0,13.3K,0.0,6.0,1116,Multi-Year,Latin America
+ACC-10697,Company_697,FinTech,FREE,2022-03-16,2024-02-07,1,"$4,876.29",363,335.0,,11.0,8.0,808,,EMEA
+ACC-11520,Company_1520,ecommerce,FREE,2021-05-27,,0,2096.04,109,71.0,"7,967 events",8.0,2.0,1101,Yearly,APAC
+ACC-11345,Company_1345,FinTech,Professional,2021-04-28,2026-10-06,1,$531.73,276,181.0,22.1K,21.0,8.0,1130,Monthly,LATAM
+ACC-11121,,Education,enterprise,2023-04-01,,0,98.14,390,176.0,19727,16.0,0.0,427,yearly,Asia Pacific
+ACC-11046,Company_1046,EdTech,Free Trial,01/01/2023,,0,$525.15,498,309.0,"20,129 events",6.0,,517,multi-year,Asia Pacific
+ACC-10308,Company_308,FinTech,Ent,11/22/2021,2023-03-13,1,$918,173,82.0,"12,827 events",21.0,2.0,922,MONTHLY,EMEA
+ACC-10007,Company_7,retail,freemium,31/05/2021,,No,$45,446,,38709,12.0,1.0,1097,Multi-Year,APAC
+ACC-10372,Company_372,TECH,pro,02/11/2021,,0,$101.84,108,71.0,"29,011 events",23.0,8.0,942,multi-year,NA
+ACC-10667,,,Pro,08/21/2022,,0,,347,194.0,"9,246 events",17.0,6.0,650,monthly,Americas
+ACC-11259,Company_1259,edtech,,08/18/2021,,0,$181.92,291,277.0,"5,814 events",10.0,7.0,1018,,Asia Pacific
+ACC-11417,Company_1417,ecommerce,Pro,06/05/2021,,0,510.13,339,188.0,7.0K,19.0,,1122,month-to-month,Europe
+ACC-10357,,healthcare,,2021-11-26,2023-10-05,1,$31.75,81,35.0,"22,828 events",21.0,15.0,918,monthly,Asia Pacific
+ACC-10967,Company_967,Software,PRO,26/08/2022,,0,$4638,475,246.0,33.9K,14.0,6.0,645,month-to-month,latam
+ACC-10783,Company_783,edtech,PRO,24/11/2021,2023-06-06,1,$90,291,200.0,"38,661 events",13.0,0.0,920,ANNUAL,
+ACC-10735,Company_735,Technology,Pro,18/07/2020,,,$45.77,142,121.0,"39,752 events",14.0,2.0,1414,Yearly,North America
+ACC-10970,Company_970,Health,free,11/01/2022,,0,,444,411.0,23024,13.0,0.0,872,Multi-Year,latam
+ACC-11247,Company_1247,E-Commerce,STARTER,02/04/2023,,0,31.53,7,6.0,"30,479 events",21.0,15.0,426,Yearly,Americas
+ACC-11212,Company_1212,saas,enterprise,2021-04-30,,0,$983.71,249,95.0,"3,630 events",2.0,1.0,1128,yearly,
+ACC-11216,Company_1216,Education,,2022-01-26,,0,$100.83,419,354.0,22.9K,1.0,10.0,857,Annual,North America
+ACC-11567,Company_1567,Technology,Prof,10/14/2020,,0,$108,320,172.0,,3.0,3.0,1326,,Latin America
+ACC-11427,Company_1427,SaaS,,03/11/2021,,0,$539.45,197,97.0,,12.0,1.0,1178,MONTHLY,EU
+ACC-10885,Company_885,education,STARTER,10/20/2020,,0,$181,200,140.0,"43,881 events",16.0,5.0,-141,MONTHLY,apac
+ACC-10079,Company_79,SaaS,STARTER,04/07/2022,,0,210.7,383,216.0,,7.0,8.0,786,month-to-month,North America
+ACC-10814,Company_814,ecommerce,professional,09/27/2021,2027-04-08,1,"$5,348.87",41,,14024,19.0,3.0,978,MONTHLY,
+ACC-11055,Company_1055,Software,starter,01/17/2021,2022-05-06,1,$99.57,158,55.0,"49,728 events",4.0,6.0,1231,ANNUAL,emea
+ACC-10671,Company_671,edtech,pro,2022-08-22,,0,$204.52,470,340.0,"28,087 events",9.0,10.0,649,multi-year,NA
+ACC-11453,Company_1453,E-Commerce,Free Trial,2020-12-03,2021-05-16,1,$192.86,434,354.0,3634,0.662973928656896,1.0,1276,yearly,APAC
+ACC-10057,,Software,STARTER,01/30/2020,,0,$50.01,157,47.0,9616,23.0,,1584,yearly,EMEA
+ACC-10133,Company_133,finance,Prof,23/11/2021,,0,$449.82,41,24.0,5396,3.0,10.0,921,Annual,US
+ACC-10933,Company_933,Tech,starter,2022-01-28,,0,$97.97,248,127.0,,16.0,2.0,855,monthly,apac
+ACC-11443,Company_1443,ecommerce,Enterprise,2020-11-29,,0,995.85,86,77.0,46475,20.0,-5.0,1280,Annual,LATAM
+ACC-10823,,tech,Prof,11/20/2022,,No,$1818,445,395.0,"20,774 events",6.0,3.0,559,2-Year,
+ACC-10504,Company_504,retail,starter,09/11/2021,,Yes,$53,45,31.0,"37,364 events",1.0,7.0,-21,yearly,Latin America
+ACC-11452,Company_1452,TECH,Professional,01/04/2021,,0,$4735,361,264.0,19643,20.0,7.0,1157,annual,emea
+ACC-10347,Company_347,ecommerce,Professional,2020-10-20,,0,,442,272.0,5.8K,20.0,8.0,1320,,EU
+ACC-10386,Company_386,healthcare,freemium,13/06/2022,,0,$201,132,110.0,"9,534 events",2.0,,719,yearly,Americas
+ACC-11024,Company_1024,Healthcare,Enterprise,18/10/2022,,0,$47.79,3,2.0,"17,242 events",4.0,10.0,592,,NA
+ACC-10894,Company_894,fintech,,08/04/2022,,0,$5113,17,10.0,"31,971 events",2.0,,667,monthly,North America
+ACC-10828,Company_828,ecommerce,ENTERPRISE,06/08/2021,2021-12-11,1,$954,25,15.0,18925,7.0,6.0,1030,yearly,apac
+ACC-11542,Company_1542,FinTech,Starter Plan,02/08/2022,2022-12-09,1,"$1,071.87",77,,"35,310 events",8.0,,844,multi-year,LATAM
+ACC-10475,Company_475,tech,Pro,07/22/2021,,0,$208.45,359,,1035,18.0,4.0,-122,monthly,apac
+ACC-11283,Company_1283,Retail,starter,2020-11-14,,0,,342,275.0,"11,760 events",14.0,15.0,1295,monthly,LATAM
+ACC-10652,Company_652,Finance,starter,02/04/2022,,FALSE,$937.52,392,255.0,"9,672 events",3.0,0.0,791,yearly,latam
+ACC-10172,,SaaS,PRO,03/22/2023,,0,27.0,291,97.0,,11.0,6.0,437,Monthly,Asia Pacific
+ACC-10038,Company_38,Tech,Enterprise,04/04/2022,2022-11-14,1,$988.06,21,13.0,,7.0,1.0,789,2-Year,Americas
+ACC-10713,Company_713,Finance,Starter,2022-03-18,,0,$5218,288,174.0,47276,11.0,2.0,806,Annual,US
+ACC-10090,Company_90,Tech,start,2021-10-05,,0,$48,293,149.0,"20,810 events",24.0,3.0,970,MONTHLY,US
+ACC-11580,,E-Commerce,professional,2021-03-04,2022-07-01,1,"$4,623.04",438,,39.8K,20.0,5.0,1185,Annual,Americas
+ACC-10875,Company_875,Education,professional,19/03/2022,2023-08-25,1,"$1,888.58",78,25.0,1.9K,4.0,15.0,805,multi-year,Asia Pacific
+ACC-11278,,education,Ent,08/23/2022,2022-11-13,1,$26.45,199,70.0,31.7K,6.0,8.0,648,annual,EU
+ACC-11110,,Finance,ENTERPRISE,28/06/2021,,0,$913.78,321,222.0,"12,734 events",1.0,2.0,1069,annual,Asia Pacific
+ACC-11597,Company_1597,TECH,Free,01/19/2022,,0,$218.54,482,475.0,45931,18.0,8.0,864,Annual,APAC
+ACC-10499,Company_499,healthcare,FREE,10/11/2021,,0,$47.25,48,43.0,6519,12.0,2.0,964,Yearly,North America
+ACC-10338,Company_338,Software,professional,2022-10-25,,0,"$1,896.84",73,,48.3K,0.7324770021760111,1.0,585,monthly,EU
+ACC-10028,Company_28,Health,STARTER,2022-07-13,,0,$106.87,262,288.0,45.9K,15.0,6.0,689,month-to-month,Europe
+ACC-11080,Company_1080,Finance,STARTER,10/14/2021,,0,99.84,409,211.0,"47,572 events",24.0,7.0,961,Multi-Year,NA
+ACC-11493,Company_1493,Education,professional,09/04/2021,,FALSE,$469,431,139.0,,15.0,6.0,1149,,US
+ACC-10945,Company_945,tech,Pro,02/04/2020,,0,$210,493,220.0,4324,2.0,15.0,1521,2-Year,Asia Pacific
+ACC-10169,Company_169,Finance,Pro,2020-10-13,,0,,140,45.0,,0.0,5.0,1327,Monthly,NA
+ACC-10912,Company_912,TECH,pro,18/06/2021,2021-11-15,1,$194.34,427,,5149,15.0,4.0,1079,ANNUAL,Europe
+ACC-10491,Company_491,Technology,start,12/30/2021,,0,$95.54,334,128.0,"10,049 events",9.0,6.0,884,yearly,emea
+ACC-10953,Company_953,Finance,start,06/14/2022,,0,$92,454,276.0,"41,833 events",14.0,0.0,718,monthly,North America
+ACC-11032,Company_1032,saas,start,10/19/2020,,0,$97.24,304,261.0,41431,3.0,100.0,1321,annual,APAC
+ACC-10587,Company_587,saas,start,03/08/2020,,0,1870.59,109,38.0,9510,8.0,,1546,monthly,Asia Pacific
+ACC-10750,,finance,enterprise,10/28/2022,,0,$185.92,5,2.0,11.8K,3.0,7.0,582,yearly,Latin America
+ACC-10657,,education,PRO,09/07/2022,2024-08-10,1,"$1,007.47",142,121.0,"12,139 events",7.0,4.0,633,monthly,North America
+ACC-10234,Company_234,Health,Prof,2023-02-05,,0,"$1,859.51",59,43.0,"19,586 events",22.0,3.0,482,2-Year,Europe
+ACC-10732,Company_732,education,Prof,04/29/2021,,0,$104.94,31,24.0,"18,074 events",15.0,,1129,annual,apac
+ACC-11197,Company_1197,Technology,Ent,2022-01-12,,0,,124,41.0,33.9K,0.5670714860087587,9.0,871,MONTHLY,emea
+ACC-11333,Company_1333,E-Commerce,Starter Plan,13/02/2023,,0,$202.28,150,84.0,,23.0,4.0,474,multi-year,North America
+ACC-10934,Company_934,SaaS,ENTERPRISE,01/02/2020,2021-06-14,1,"$5,475.07",333,110.0,,13.0,,1612,ANNUAL,EMEA
+ACC-11065,Company_1065,ecommerce,ENT,12/11/2021,,0,$5286,342,113.0,30.5K,10.0,7.0,903,month-to-month,EU
+ACC-10108,Company_108,Tech,Pro,2022-05-25,,0,$5097,204,99.0,"33,208 events",19.0,,738,monthly,latam
+ACC-11263,Company_1263,Retail,Professional,04/07/2021,,0,$1912,167,61.0,,20.0,,1151,Annual,
+ACC-10568,Company_568,Technology,ENT,10/11/2020,2020-12-14,1,,481,390.0,"12,134 events",11.0,1.0,1299,yearly,Americas
+ACC-10890,Company_890,Retail,pro,21/01/2021,,0,$108.33,69,71.0,,19.0,2.0,1227,month-to-month,North America
+ACC-10947,Company_947,EdTech,professional,2020-03-15,2021-03-09,1,$46.97,234,168.0,"46,434 events",5.0,1.0,1539,,emea
+ACC-11048,Company_1048,EdTech,Enterprise,2022-11-02,,0,4725.03,47,43.0,,22.0,10.0,577,monthly,Asia Pacific
+ACC-11100,Company_1100,education,,2021-10-30,2023-02-24,1,"$4,539.87",476,311.0,"31,281 events",11.0,100.0,945,annual,Europe
+ACC-10884,Company_884,Tech,start,02/04/2022,2022-09-25,1,30.17,7,4.0,49300,7.0,7.0,848,MONTHLY,EMEA
+ACC-11373,Company_1373,education,enterprise,2022-07-28,,0,$4707,307,233.0,,10.0,3.0,674,Annual,US
+ACC-10850,Company_850,Finance,PRO,01/15/2021,,0,1933.46,381,203.0,16586,7.0,7.0,1233,month-to-month,NA
+ACC-10734,Company_734,fintech,Enterprise,01/12/2020,,0,$98,272,127.0,,21.0,,1602,Yearly,LATAM
+ACC-10717,Company_717,E-Commerce,Ent,12/05/2022,,0,$456,206,220.0,8.0K,12.0,4.0,544,monthly,latam
+ACC-10454,,Software,Starter,30/03/2022,2022-10-30,1,"$4,584.39",149,81.0,"1,195 events",5.0,0.0,794,Annual,US
+ACC-10264,Company_264,Retail,start,14/03/2021,2023-01-07,1,$28,345,199.0,20.5K,14.0,,1175,ANNUAL,emea
+ACC-10075,,education,Ent,24/10/2022,,0,$216,271,230.0,2498,1.0,3.0,586,,NA
+ACC-10444,Company_444,Software,Starter Plan,2020-04-22,,0,"$4,734.65",208,149.0,,9.0,1.0,1501,Annual,
+ACC-10395,Company_395,TECH,Starter,2021-01-14,,0,"$5,468.71",65,38.0,18255,10.0,9.0,1234,MONTHLY,Europe
+ACC-10176,,Health,Ent,2020-10-25,,0,"$1,033.21",96,31.0,15541,16.0,,1315,Yearly,latam
+ACC-11042,Company_1042,Tech,Enterprise,27/06/2022,,Yes,$4807,415,452.0,"2,498 events",17.0,10.0,705,Yearly,Americas
+ACC-11423,Company_1423,E-Commerce,professional,2022-03-08,,0,$1060,480,417.0,,21.0,7.0,816,Yearly,
+ACC-11142,Company_1142,saas,Enterprise,2020-11-13,,0,$90,379,349.0,,5.0,100.0,1296,annual,Asia Pacific
+ACC-11124,Company_1124,E-Commerce,Enterprise,2022-09-30,,0,$27.29,400,120.0,25.0K,3.0,,610,annual,EU
+ACC-10595,Company_595,saas,Starter Plan,21/05/2022,,0,$105.70,9,9.0,14.0K,15.0,3.0,742,Monthly,NA
+ACC-10061,Company_61,Healthcare,Ent,06/06/2020,,0,$89.47,16,7.0,,3.0,3.0,1456,month-to-month,EU
+ACC-10872,Company_872,Software,free,12/01/2021,,0,$90.80,349,,33809,13.0,,1236,multi-year,US
+ACC-11302,Company_1302,Software,starter,2022-12-13,,0,"$4,966.09",210,180.0,"23,123 events",14.0,2.0,536,Monthly,US
+ACC-11532,,Health,enterprise,17/03/2023,,0,$201.63,150,138.0,"29,416 events",0.6327743390173765,5.0,442,Yearly,APAC
+ACC-10278,Company_278,Retail,ENTERPRISE,23/12/2021,2023-05-14,1,$463,81,62.0,28.8K,8.0,8.0,891,multi-year,NA
+ACC-10036,Company_36,Technology,STARTER,2023-03-05,,0,$4665,490,291.0,38520,14.0,10.0,454,,latam
+ACC-10662,Company_662,Retail,Starter Plan,2022-03-11,,0,,29,26.0,,1.0,2.0,813,Monthly,LATAM
+ACC-11475,Company_1475,FinTech,Prof,02/17/2023,2024-01-11,1,$917,185,192.0,"44,102 events",16.0,15.0,470,Annual,Americas
+ACC-11177,Company_1177,Software,Free Trial,02/03/2022,,0,$29.19,454,411.0,"37,287 events",21.0,3.0,822,Multi-Year,Europe
+ACC-10977,Company_977,Healthcare,professional,2020-08-28,2021-05-06,1,$1941,140,60.0,"39,498 events",7.0,10.0,1373,month-to-month,EMEA
+ACC-10738,Company_738,tech,Free,04/15/2020,,0,$108,432,270.0,,5.0,1.0,1508,,Americas
+ACC-10191,Company_191,Tech,PRO,12/13/2020,,0,$1.91K,418,286.0,127 events,0.5205627845753373,10.0,1266,annual,latam
+ACC-10919,Company_919,EdTech,Pro,12/31/2022,,0,$183.00,226,119.0,,12.0,4.0,518,monthly,NA
+ACC-10456,Company_456,Software,Free,2022-01-11,2022-06-30,1,$542,303,208.0,"10,044 events",12.0,10.0,872,yearly,apac
+ACC-10675,Company_675,E-Commerce,FREE,06/28/2022,,0,$530.96,419,414.0,"34,183 events",7.0,7.0,704,Monthly,North America
+ACC-10760,Company_760,E-Commerce,Starter Plan,16/02/2020,2021-09-04,1,$53.82,454,249.0,21.3K,19.0,,1567,ANNUAL,latam
+ACC-11476,Company_1476,SaaS,enterprise,2023-03-01,,0,$29,322,261.0,40.9K,21.0,15.0,458,Monthly,EU
+ACC-10728,Company_728,saas,freemium,2023-03-04,,0,$180.33,461,,,0.0,0.0,455,,LATAM
+ACC-10412,Company_412,fintech,Enterprise,2022-05-01,,0,$194.29,390,188.0,48664,6.0,0.0,762,ANNUAL,emea
+ACC-11098,,saas,ENT,11/29/2022,,0,27.25,412,179.0,,1.0,7.0,550,Monthly,NA
+ACC-10825,,healthcare,professional,25/09/2020,,0,5460.49,274,100.0,21.0K,9.0,0.0,1345,,Americas
+ACC-10616,Company_616,FinTech,Prof,30/12/2020,,0,96.25,323,281.0,41873,17.0,8.0,1249,multi-year,EMEA
+ACC-10114,Company_114,tech,Professional,2022-07-21,2024-03-06,1,$92.80,60,50.0,22959,3.0,5.0,681,Yearly,latam
+ACC-10417,Company_417,tech,ENTERPRISE,04/13/2022,,0,$907,36,13.0,27.3K,14.0,1.0,780,ANNUAL,Asia Pacific
+ACC-11556,Company_1556,,Professional,2021-06-28,,0,$193.45,439,406.0,"12,602 events",0.0,3.0,1069,monthly,
+ACC-10969,Company_969,edtech,Free,21/11/2021,,No,"$4,745.56",116,87.0,,0.291684062962702,2.0,923,multi-year,
+ACC-10604,Company_604,Software,free,11/20/2020,,0,,169,57.0,"29,038 events",12.0,5.0,1289,,
+ACC-11562,,EdTech,starter,07/11/2022,2023-08-16,1,$1992,189,193.0,11172,0.8631142311880065,7.0,691,Yearly,NA
+ACC-10089,Company_89,healthcare,professional,05/29/2021,,TRUE,1031.86,270,176.0,"27,770 events",21.0,,1099,MONTHLY,APAC
+ACC-10848,Company_848,education,Free,03/07/2021,,0,$473.03,216,,"44,965 events",13.0,10.0,1182,monthly,apac
+ACC-11298,Company_1298,ecommerce,FREE,16/10/2022,,0,"$4,932.39",66,63.0,7.8K,15.0,1.0,594,Multi-Year,Latin America
+ACC-11561,Company_1561,finance,Free,07/07/2022,,0,$91.47,28,21.0,"19,653 events",19.0,6.0,695,2-Year,LATAM
+ACC-10753,Company_753,Health,Free Trial,22/03/2022,2023-03-24,1,$5.19K,493,529.0,21702,24.0,,802,MONTHLY,apac
+ACC-10498,Company_498,E-Commerce,free,2022-01-03,2022-10-12,1,$26.15,368,201.0,,12.0,,880,ANNUAL,
+ACC-10011,Company_11,Technology,freemium,09/01/2022,2022-12-05,1,4709.56,108,46.0,"44,620 events",23.0,,874,month-to-month,LATAM
+ACC-10396,Company_396,Technology,Ent,04/03/2022,,0,$4711,494,429.0,,18.0,10.0,790,ANNUAL,EU
+ACC-10284,Company_284,tech,professional,2020-07-28,,0,31.07,433,264.0,"29,928 events",7.0,3.0,1404,month-to-month,US
+ACC-11066,Company_1066,finance,Starter Plan,14/02/2021,,0,$209.29,78,80.0,"13,856 events",11.0,,1203,yearly,EMEA
+ACC-10690,Company_690,SaaS,enterprise,2022-07-14,,0,$28,42,29.0,"17,031 events",13.0,6.0,688,Monthly,APAC
+ACC-11336,Company_1336,edtech,STARTER,08/03/2020,2020-12-20,1,31.05,84,72.0,"2,096 events",0.08865664653724252,2.0,1546,2-Year,apac
+ACC-11529,Company_1529,Software,pro,20/03/2020,2020-11-05,1,$212.21,394,419.0,"3,729 events",6.0,7.0,1534,MONTHLY,EMEA
+ACC-10689,,FinTech,enterprise,12/12/2021,2026-09-04,1,$101.59,204,,"5,012 events",0.6692244090473942,0.0,902,monthly,APAC
+ACC-10851,Company_851,SaaS,Ent,05/05/2020,,0,$100.37,139,93.0,,1.0,6.0,1488,Annual,Latin America
+ACC-10159,Company_159,finance,,08/21/2021,,0,$27.39,38,36.0,12555,0.6940165383283605,0.0,1015,MONTHLY,US
+ACC-10895,Company_895,E-Commerce,start,08/28/2022,,0,$50.51,167,143.0,18.5K,6.0,5.0,643,ANNUAL,Latin America
+ACC-11290,,Finance,Ent,08/06/2022,2024-07-20,1,$929.09,180,133.0,40997,4.0,8.0,665,Multi-Year,APAC
+ACC-10257,Company_257,Retail,,2022-11-12,,0,$95.83,455,433.0,,17.0,10.0,567,Yearly,Latin America
+ACC-10335,Company_335,Health,ENTERPRISE,11/02/2021,,0,$45.73,353,126.0,7235,12.0,3.0,942,monthly,Asia Pacific
+ACC-11533,Company_1533,EdTech,FREE,11/23/2022,,0,$106.28,373,245.0,42130,11.0,10.0,556,MONTHLY,Latin America
+ACC-11039,Company_1039,TECH,Free,10/10/2020,,0,,361,378.0,,8.0,6.0,1330,ANNUAL,APAC
+ACC-10515,Company_515,finance,pro,10/05/2021,,0,190.46,106,99.0,14050,17.0,10.0,970,MONTHLY,North America
+ACC-11015,Company_1015,edtech,professional,06/18/2020,,0,$204.08,211,205.0,29.5K,16.0,4.0,1444,annual,Europe
+ACC-10768,Company_768,finance,STARTER,2020-06-26,2021-12-11,1,539.07,4,3.0,"1,934 events",20.0,6.0,1436,multi-year,Asia Pacific
+ACC-11431,Company_1431,edtech,Prof,11/04/2020,2021-02-06,1,490.72,254,195.0,2287,3.0,2.0,1305,month-to-month,EU
+ACC-10761,,Tech,professional,2022-04-16,,0,$997.16,312,216.0,,22.0,6.0,777,annual,Americas
+ACC-11299,Company_1299,,start,02/04/2022,,TRUE,$192,344,289.0,"49,017 events",8.0,-5.0,791,Yearly,North America
+ACC-10947,Company_947,EdTech,professional,2020-03-15,2021-03-09,1,$46.97,234,168.0,"46,434 events",5.0,1.0,1539,,emea
+ACC-10521,Company_521,Tech,FREE,2021-03-16,2021-12-07,1,$29.06,156,126.0,,13.0,5.0,1173,monthly,Latin America
+ACC-10022,Company_22,Tech,ENT,05/25/2020,,0,4976.43,307,136.0,,0.33428764722822923,10.0,1468,Monthly,apac
+ACC-10356,Company_356,Finance,Pro,04/10/2020,2021-11-21,1,$53.72,469,493.0,"43,565 events",12.0,5.0,1513,ANNUAL,EMEA
+ACC-11381,,tech,start,06/05/2020,,0,,298,,,3.0,9.0,1457,,Latin America
+ACC-10340,Company_340,healthcare,,24/09/2020,,0,50.31,484,247.0,"42,097 events",10.0,100.0,-49,Annual,Latin America
+ACC-10431,Company_431,retail,freemium,2021-08-04,,0,,182,198.0,24664,6.0,,-104,annual,apac
+ACC-10473,Company_473,fintech,Starter,20/12/2022,,0,29.66,138,108.0,"41,603 events",21.0,6.0,529,multi-year,US
+ACC-10217,Company_217,tech,start,2020-05-03,2021-08-23,1,$501.14,260,89.0,13303,24.0,10.0,1490,ANNUAL,EMEA
+ACC-10911,Company_911,saas,professional,2021-07-04,,0,201.93,100,59.0,,1.0,0.0,1063,annual,North America
+ACC-11307,Company_1307,healthcare,Starter Plan,03/23/2021,2021-12-02,1,,269,114.0,44371,3.0,8.0,1166,MONTHLY,
+ACC-11011,,,PRO,03/03/2021,2022-12-28,1,$46.79,437,362.0,,14.0,6.0,1186,2-Year,Americas
+ACC-11590,Company_1590,SaaS,start,11/17/2021,,0,,129,134.0,,11.0,9.0,927,Yearly,APAC
+ACC-10093,Company_93,FinTech,Prof,2020-08-25,2021-11-23,1,,281,303.0,,3.0,7.0,1376,2-Year,NA
+ACC-11008,Company_1008,Finance,FREE,03/07/2023,,0,$206,129,54.0,,16.0,4.0,-95,2-Year,Asia Pacific
+ACC-11070,Company_1070,finance,ENT,2023-01-01,,0,544.84,467,264.0,424 events,1.0,9.0,517,Annual,emea
+ACC-11092,Company_1092,retail,ENTERPRISE,12/07/2022,,0,$989.54,474,199.0,"5,643 events",12.0,6.0,690,Yearly,Latin America
+ACC-10696,Company_696,saas,Starter Plan,2020-05-19,,churned,$46.36,384,236.0,"49,588 events",0.0,1.0,1474,monthly,LATAM
+ACC-11464,Company_1464,ecommerce,start,2021-11-16,2022-06-21,1,$2139,11,5.0,3.3K,14.0,3.0,928,month-to-month,Asia Pacific
+ACC-10996,Company_996,TECH,Ent,23/10/2021,,0,527.91,294,181.0,,0.0,2.0,952,annual,LATAM
+ACC-10153,Company_153,,Professional,17/09/2020,,0,$2155,390,123.0,3027,16.0,,1353,Yearly,US
+ACC-11099,Company_1099,SaaS,enterprise,18/06/2022,,0,$95.63,434,158.0,14.8K,20.0,6.0,714,,
+ACC-11412,Company_1412,Tech,professional,2021-05-04,,0,$209,232,127.0,"42,224 events",18.0,5.0,1124,annual,apac
+ACC-10379,Company_379,Health,pro,06/04/2023,,0,473.07,127,,,23.0,,422,Annual,emea
+ACC-10789,Company_789,Health,,03/07/2023,,0,$32,332,347.0,"37,727 events",14.0,10.0,452,Annual,Americas
+ACC-10580,Company_580,Healthcare,start,08/05/2021,,0,$533.70,307,285.0,19086,15.0,1.0,1031,multi-year,Americas
+ACC-10703,,Tech,Enterprise,2020-04-11,,0,$46.81,315,281.0,,13.0,0.0,1512,Multi-Year,EU
+ACC-11522,Company_1522,Retail,Free,30/08/2022,,0,$542.45,286,,,22.0,1.0,641,,emea
+ACC-10487,,Healthcare,Pro,02/09/2020,,0,,350,175.0,,14.0,1.0,-143,Multi-Year,Europe
+ACC-10559,Company_559,Finance,Free,2020-02-18,,0,"$1,092.82",52,47.0,38.1K,18.0,9.0,1565,multi-year,emea
+ACC-11141,Company_1141,EdTech,Enterprise,02/21/2020,,0,$465.10,411,424.0,,3.0,4.0,1562,ANNUAL,latam
+ACC-11119,Company_1119,healthcare,Prof,2021-09-06,,0,31.37,430,,33.9K,12.0,,999,yearly,emea
+ACC-10801,,,Free Trial,22/07/2020,2022-05-08,1,$207.22,161,154.0,17659,0.6286375026853902,5.0,1410,ANNUAL,EU
+ACC-10512,Company_512,E-Commerce,Professional,2021-01-18,,0,$981.99,377,166.0,28014,0.7437137329494097,15.0,1230,Monthly,North America
+ACC-10633,Company_633,Healthcare,STARTER,2023-02-03,,FALSE,$542,208,126.0,"21,095 events",8.0,0.0,484,Monthly,North America
+ACC-11204,Company_1204,Finance,,12/06/2021,2022-03-23,1,480.21,130,46.0,"17,883 events",0.0,-5.0,1085,Annual,apac
+ACC-11460,Company_1460,Education,Prof,03/09/2021,,0,$93.71,26,27.0,,15.0,7.0,1002,monthly,LATAM
+ACC-11150,Company_1150,Education,enterprise,2021-03-04,,0,$44.83,186,,49844,13.0,3.0,1185,Multi-Year,North America
+ACC-10790,Company_790,ecommerce,FREE,10/23/2020,,0,2072.0,369,143.0,"30,732 events",20.0,8.0,1317,Yearly,
+ACC-10116,Company_116,edtech,starter,11/03/2021,,0,$495.54,442,180.0,29.5K,19.0,6.0,-114,Yearly,US
+ACC-10740,Company_740,fintech,Prof,08/19/2022,,0,,273,158.0,"30,053 events",0.6872652506776561,0.0,652,,LATAM
+ACC-11081,Company_1081,Health,Free,10/01/2022,,0,31.75,88,66.0,"5,435 events",1.0,,609,2-Year,Americas
+ACC-10830,Company_830,edtech,ENT,04/11/2022,,0,$1.01K,125,101.0,,20.0,0.0,782,annual,North America
+ACC-10119,Company_119,TECH,enterprise,04/28/2022,,0,$31,311,180.0,"36,955 events",10.0,1.0,765,Annual,US
+ACC-10656,Company_656,FinTech,Ent,16/02/2022,2022-05-09,1,$2013,186,188.0,"28,056 events",6.0,0.0,836,multi-year,Latin America
+ACC-11553,Company_1553,Tech,Starter,08/03/2020,,0,$30.47,98,66.0,"9,027 events",8.0,10.0,1546,Multi-Year,North America
+ACC-10635,Company_635,Education,Free Trial,06/13/2021,,0,$5412,300,205.0,"31,312 events",17.0,100.0,1084,MONTHLY,
+ACC-10369,Company_369,EdTech,STARTER,2022-04-23,,0,$181.04,279,,27504,16.0,0.0,770,ANNUAL,latam
+ACC-10268,Company_268,Retail,free,06/02/2020,2020-10-04,1,$957.24,167,88.0,"4,217 events",8.0,1.0,1577,Yearly,Europe
+ACC-10655,Company_655,Technology,Prof,05/02/2022,,0,"$5,429.98",372,223.0,"21,752 events",21.0,10.0,-106,Monthly,APAC
+ACC-10935,Company_935,fintech,Enterprise,2020-06-12,,0,$193.48,272,239.0,"6,434 events",7.0,0.0,1450,yearly,
+ACC-10822,Company_822,saas,Enterprise,10/25/2021,,churned,102.99,490,445.0,"39,815 events",21.0,,950,,Latin America
+ACC-10866,Company_866,TECH,start,04/24/2022,2026-10-08,1,,428,387.0,21242,22.0,,769,,EMEA
+ACC-10046,Company_46,Technology,Starter Plan,01/31/2020,,0,$906,160,90.0,"17,642 events",4.0,8.0,1583,Yearly,APAC
+ACC-11403,Company_1403,EdTech,ENTERPRISE,2020-07-04,2022-04-15,1,52.56,475,401.0,358 events,2.0,10.0,1428,monthly,Europe
+ACC-10991,Company_991,fintech,freemium,18/05/2020,2021-03-22,1,$943,449,218.0,26235,7.0,8.0,-12,annual,North America
+ACC-10876,Company_876,EdTech,freemium,2023-01-03,2023-06-29,1,$28.74,366,301.0,10.1K,4.0,4.0,515,Yearly,North America
+ACC-10773,Company_773,FinTech,FREE,03/13/2020,,0,98.09,179,176.0,46984,0.2311499346831399,6.0,1541,MONTHLY,emea
+ACC-11219,Company_1219,fintech,STARTER,15/03/2020,,0,$492.78,229,205.0,1597,1.0,4.0,1539,Yearly,NA
+ACC-10188,Company_188,E-Commerce,Starter,09/10/2022,,0,$514.68,353,356.0,"21,741 events",16.0,0.0,601,yearly,APAC
+ACC-10004,Company_4,Healthcare,freemium,08/02/2020,,0,,234,137.0,18518,1.0,0.0,1399,MONTHLY,US
+ACC-11003,Company_1003,EdTech,Ent,30/12/2020,,FALSE,$918,428,130.0,"9,841 events",21.0,6.0,1249,,US
+ACC-11414,Company_1414,tech,Free Trial,03/27/2020,,0,"$5,030.40",3,2.0,,0.0793667230209082,-5.0,1527,,Asia Pacific
+ACC-10263,Company_263,SaaS,,07/09/2020,,0,$215,57,47.0,"35,881 events",0.3877241903589158,1.0,1363,ANNUAL,Asia Pacific
+ACC-11284,,SaaS,STARTER,2022-10-24,2023-03-31,1,"$2,033.46",48,49.0,2663,0.6070699442664255,9.0,586,MONTHLY,apac
+ACC-11494,Company_1494,healthcare,starter,04/12/2020,2022-04-29,1,$955.48,485,186.0,5705,20.0,7.0,1275,2-Year,APAC
+ACC-10443,Company_443,edtech,pro,02/11/2020,,0,89.29,486,401.0,,24.0,1.0,1307,Yearly,Americas
+ACC-11002,Company_1002,EdTech,Starter,2022-10-18,2023-05-08,1,$107.50,255,82.0,46.3K,2.0,7.0,592,MONTHLY,US
+ACC-11077,Company_1077,Education,Free,05/05/2022,,0,522.34,301,307.0,2.4K,22.0,9.0,758,ANNUAL,
+ACC-10837,Company_837,fintech,pro,26/03/2021,2021-12-31,1,$29,179,119.0,17877,24.0,-5.0,1163,month-to-month,Americas
+ACC-11462,Company_1462,saas,Ent,2020-10-03,2022-01-15,1,$4935,297,168.0,37932,10.0,7.0,1337,MONTHLY,Americas
+ACC-10304,Company_304,Education,professional,16/01/2022,,churned,$502,335,246.0,"47,084 events",8.0,3.0,867,Annual,
+ACC-11274,Company_1274,EdTech,Free Trial,12/15/2022,,0,,314,249.0,37736,1.0,1.0,534,Multi-Year,EMEA
+ACC-10313,Company_313,healthcare,Ent,06/09/2021,2022-11-21,1,31.07,418,370.0,45502,23.0,6.0,1088,ANNUAL,
+ACC-10149,Company_149,saas,enterprise,01/30/2022,,0,$47,153,146.0,45832,1.0,1.0,853,,EU
+ACC-11148,Company_1148,Education,FREE,2020-01-06,2021-01-17,1,$31.49,275,128.0,44534,8.0,9.0,1608,2-Year,Americas
+ACC-11213,Company_1213,Healthcare,pro,10/14/2022,,0,$53,181,89.0,"12,674 events",1.0,,596,MONTHLY,Europe
+ACC-10574,,education,Ent,2020-05-24,2020-10-10,1,4629.02,94,98.0,29148,5.0,1.0,1469,multi-year,NA
+ACC-10050,Company_50,FinTech,pro,2020-12-07,,0,1965.12,490,519.0,,17.0,2.0,1272,month-to-month,EU
+ACC-11271,Company_1271,EdTech,FREE,25/02/2021,2021-04-08,1,$1070,92,42.0,"17,031 events",22.0,3.0,1192,MONTHLY,US
+ACC-10726,Company_726,,FREE,10/15/2021,,0,$4982,181,161.0,"18,998 events",14.0,7.0,-198,ANNUAL,EU
+ACC-10833,Company_833,finance,starter,06/07/2020,,0,$105.68,355,369.0,40647,3.0,6.0,1455,ANNUAL,Asia Pacific
+ACC-11115,Company_1115,Software,start,26/08/2021,,0,,404,347.0,"27,815 events",0.286561784182381,2.0,1010,Yearly,EMEA
+ACC-11166,Company_1166,ecommerce,starter,2022-05-05,2024-02-05,1,$28,103,77.0,"36,980 events",14.0,8.0,-119,Monthly,LATAM
+ACC-10470,Company_470,education,start,2021-02-03,,0,$49.13,158,90.0,,0.833758419930999,,1214,ANNUAL,Asia Pacific
+ACC-10971,Company_971,Education,Enterprise,2020-02-09,2022-01-08,1,,312,265.0,29706,16.0,4.0,-33,monthly,US
+ACC-10653,Company_653,EdTech,ENTERPRISE,01/21/2021,,0,$903.60,319,226.0,"6,234 events",8.0,8.0,1227,MONTHLY,Latin America
+ACC-10399,,Technology,professional,2022-09-08,,TRUE,"$2,058.43",421,247.0,35885,0.6961579444843001,10.0,632,annual,Asia Pacific
+ACC-10511,Company_511,finance,Free,2021-04-26,2023-01-15,1,53.21,238,207.0,,13.0,9.0,1132,month-to-month,EU
+ACC-10320,Company_320,Technology,Enterprise,05/08/2022,,0,$27.67,49,53.0,"13,075 events",11.0,1.0,666,Monthly,EMEA
+ACC-10019,Company_19,Software,pro,2021-02-01,,0,$1095,179,118.0,13.0K,15.0,,1216,Yearly,apac
+ACC-10684,Company_684,saas,STARTER,2021-06-29,,0,29.26,144,140.0,"3,137 events",4.0,4.0,-12,Monthly,EU
+ACC-10035,Company_35,finance,freemium,2022-08-09,,0,,391,126.0,"7,412 events",11.0,5.0,662,MONTHLY,NA
+ACC-10902,Company_902,FinTech,Starter,03/12/2021,2022-01-30,1,$196.32,388,266.0,"28,609 events",15.0,2.0,911,Yearly,EMEA
+ACC-10827,Company_827,SaaS,freemium,10/11/2020,,0,$201,47,36.0,1312,17.0,,1299,Multi-Year,US
+ACC-11467,Company_1467,education,FREE,06/29/2020,,0,927.04,75,78.0,35.3K,9.0,10.0,1433,,LATAM
+ACC-10407,Company_407,ecommerce,Professional,06/06/2021,,0,$49,98,,,0.39889885774970174,2.0,1091,ANNUAL,
+ACC-10920,Company_920,fintech,Enterprise,03/27/2023,2023-11-14,1,$105,235,,,20.0,10.0,432,MONTHLY,Asia Pacific
+ACC-10537,Company_537,Software,pro,06/12/2020,,0,4564.11,330,259.0,,0.0,1.0,1273,annual,US
+ACC-10758,Company_758,retail,Starter,2023-03-30,,0,,449,157.0,6045,7.0,7.0,429,Annual,
+ACC-11062,Company_1062,healthcare,starter,21/08/2020,,0,$48.11,35,32.0,"21,845 events",15.0,7.0,1380,ANNUAL,US
+ACC-11199,Company_1199,Health,Ent,17/03/2022,,0,$28.42,472,213.0,"12,427 events",3.0,3.0,807,,Americas
+ACC-10245,Company_245,EdTech,FREE,02/03/2021,2023-01-17,1,"$4,642.10",456,288.0,,16.0,0.0,1187,Annual,Europe
+ACC-11127,Company_1127,saas,PRO,12/06/2021,,0,$1095,430,432.0,15536,3.0,0.0,1085,2-Year,APAC
+ACC-10784,Company_784,Technology,pro,2021-05-03,2021-06-29,1,$50.31,327,112.0,25474,0.0,,1125,yearly,LATAM
+ACC-10489,,healthcare,Pro,2021-05-29,,0,$26.87,42,15.0,"32,207 events",6.0,10.0,1099,Annual,North America
+ACC-10154,,Education,STARTER,07/21/2022,,0,$971.71,35,23.0,40.1K,11.0,0.0,681,Multi-Year,EMEA
+ACC-10961,Company_961,,FREE,03/01/2022,,0,$26.48,65,26.0,,10.0,-5.0,823,Monthly,EMEA
+ACC-10853,Company_853,Health,Starter Plan,06/05/2021,,0,$4820,226,80.0,35.0K,18.0,9.0,1122,Annual,
+ACC-10625,Company_625,healthcare,Enterprise,04/07/2022,,0,491.94,392,216.0,3960,20.0,15.0,786,MONTHLY,Latin America
+ACC-10685,Company_685,EdTech,Free Trial,27/03/2021,,0,$5042,59,24.0,39218,6.0,8.0,1162,Yearly,emea
+ACC-10569,Company_569,Health,start,15/09/2021,,0,,12,10.0,38.3K,20.0,6.0,990,Monthly,EU
+ACC-11554,Company_1554,fintech,Starter,07/01/2020,,0,"$5,468.67",225,243.0,"19,625 events",14.0,5.0,1607,Annual,Asia Pacific
+ACC-10017,Company_17,SaaS,Starter Plan,2020-10-10,,0,5293.01,324,348.0,"49,875 events",21.0,1.0,1330,month-to-month,North America
+ACC-10127,Company_127,Retail,ENT,01/28/2022,,0,$4526,200,155.0,"36,479 events",4.0,0.0,855,Monthly,EMEA
+ACC-10468,Company_468,finance,FREE,07/14/2021,,churned,$213,186,85.0,,17.0,4.0,1053,MONTHLY,emea
+ACC-10927,Company_927,healthcare,professional,08/02/2020,,0,"$4,527.92",418,253.0,49.2K,23.0,0.0,1575,Yearly,
+ACC-10980,Company_980,Education,ENT,10/22/2022,,0,,33,16.0,12.9K,1.0,2.0,588,MONTHLY,latam
+ACC-10319,Company_319,tech,Pro,12/09/2022,,0,5017.8,439,303.0,"4,931 events",0.621427711840475,4.0,540,,EU
+ACC-10190,Company_190,Healthcare,enterprise,11/05/2021,,0,$4605,68,42.0,"35,153 events",0.018671502415332754,8.0,1117,MONTHLY,emea
+ACC-11139,Company_1139,Technology,Enterprise,2020-03-19,,0,$202.60,20,13.0,19.4K,17.0,9.0,1535,monthly,US
+ACC-10992,Company_992,education,enterprise,01/05/2020,,0,$97.18,187,81.0,"37,376 events",23.0,10.0,1609,MONTHLY,emea
+ACC-11595,Company_1595,TECH,enterprise,22/07/2022,,0,$4534,100,102.0,"20,253 events",24.0,1.0,680,monthly,Latin America
+ACC-11358,Company_1358,tech,Starter Plan,2022-06-05,2024-04-18,1,$26.38,323,353.0,"20,024 events",16.0,3.0,727,annual,LATAM
+ACC-10606,Company_606,saas,Professional,2022-10-01,2023-05-01,1,$26.18,406,315.0,3947,22.0,1.0,609,MONTHLY,Asia Pacific
+ACC-10180,Company_180,healthcare,Professional,01/16/2021,,FALSE,$27.95,390,183.0,"1,167 events",5.0,8.0,1232,2-Year,
+ACC-10301,Company_301,saas,Free Trial,21/09/2020,,0,$31.52,238,191.0,6688,23.0,1.0,1349,2-Year,emea
+ACC-10496,Company_496,saas,pro,09/19/2020,2021-08-02,1,"$4,738.32",372,225.0,47.4K,16.0,2.0,1351,yearly,EMEA
+ACC-11404,Company_1404,Health,professional,2022-03-27,,0,$30.55,368,141.0,"22,331 events",13.0,7.0,797,Multi-Year,
+ACC-11456,Company_1456,Health,ENT,05/04/2020,,0,29.44,82,44.0,38533,19.0,1.0,1518,2-Year,Latin America
+ACC-11343,Company_1343,E-Commerce,ENTERPRISE,17/02/2023,2024-08-20,1,$4785,447,354.0,,21.0,7.0,470,annual,latam
+ACC-10517,,saas,ENTERPRISE,2022-01-27,,0,$184.75,354,187.0,648 events,0.8296265928154523,8.0,856,Monthly,APAC
+ACC-11069,Company_1069,Education,pro,2021-10-21,,0,$108,314,311.0,,17.0,1.0,954,ANNUAL,Americas
+ACC-10476,Company_476,Tech,Starter,17/12/2021,,0,$1.94K,143,100.0,21719,23.0,2.0,897,,latam
+ACC-10157,Company_157,ecommerce,Ent,08/26/2020,,0,$501,267,105.0,"41,171 events",14.0,7.0,1375,,latam
+ACC-11243,Company_1243,FinTech,PRO,05/31/2022,,0,$28.66,126,89.0,"14,037 events",0.5781705111309519,,732,annual,NA
+ACC-11195,Company_1195,Software,freemium,2023-03-26,,0,$30,38,27.0,13904,20.0,15.0,433,monthly,apac
+ACC-10016,,Tech,PRO,2021-10-03,,0,209.49,327,321.0,0.5K,15.0,9.0,972,month-to-month,NA
+ACC-11072,Company_1072,retail,start,12/16/2022,,0,$988.81,187,,45233,2.0,6.0,533,multi-year,LATAM
+ACC-10916,Company_916,healthcare,pro,09/15/2021,,0,"$2,124.58",397,147.0,,14.0,10.0,990,Yearly,North America
+ACC-10546,Company_546,education,professional,06/05/2022,,0,493.66,240,209.0,44244,0.5817711621521456,,727,Yearly,emea
+ACC-10658,Company_658,education,Pro,29/09/2022,2023-01-27,1,$218.16,412,,"29,543 events",9.0,8.0,611,MONTHLY,Latin America
+ACC-11331,Company_1331,fintech,ENT,30/03/2021,2022-05-04,1,"$4,676.17",481,419.0,34.2K,5.0,4.0,1159,ANNUAL,Asia Pacific
+ACC-11019,Company_1019,Tech,PRO,20/04/2020,,0,,187,145.0,,16.0,3.0,1503,ANNUAL,EMEA
+ACC-11364,Company_1364,Health,Starter Plan,10/08/2020,,0,$492.07,11,8.0,,22.0,8.0,1332,Monthly,Europe
+ACC-10959,Company_959,,STARTER,2020-08-21,,churned,26.98,415,313.0,23505,22.0,7.0,1380,Annual,Latin America
+ACC-11535,Company_1535,Education,Starter,2021-08-20,,0,4985.56,426,448.0,,24.0,6.0,1016,monthly,Asia Pacific
+ACC-10283,Company_283,Finance,Professional,01/04/2022,2023-01-18,1,,302,,,24.0,0.0,792,,APAC
+ACC-10797,Company_797,Health,freemium,14/08/2020,,0,,341,320.0,,18.0,10.0,1387,Multi-Year,EU
+ACC-11368,Company_1368,,enterprise,2020-09-17,2021-02-18,1,$1022,221,126.0,"13,552 events",0.6957952974061903,6.0,1353,,EU
+ACC-10225,Company_225,Technology,Professional,19/03/2022,,0,$195.58,129,55.0,"38,883 events",19.0,100.0,805,Annual,US
+ACC-10026,Company_26,E-Commerce,Ent,08/12/2020,,0,$30,67,60.0,48066,3.0,2.0,1271,MONTHLY,Europe
+ACC-11448,Company_1448,Retail,FREE,10/01/2020,,0,28.97,113,38.0,"30,175 events",0.0,9.0,1339,2-Year,EU
+ACC-10437,Company_437,education,STARTER,01/18/2022,,0,$200.65,393,340.0,,6.0,3.0,865,Multi-Year,Europe
+ACC-11589,Company_1589,Health,starter,05/20/2020,,0,$490.28,449,236.0,43395,21.0,0.0,1473,ANNUAL,Europe
+ACC-10229,Company_229,Retail,professional,2022-08-04,,0,$49.96,234,253.0,"49,643 events",14.0,10.0,667,Yearly,Europe
+ACC-10037,Company_37,retail,Starter,17/02/2021,,0,91.2,347,225.0,14102,18.0,2.0,1200,Annual,US
+ACC-10749,Company_749,Health,Prof,26/11/2022,,0,46.95,320,143.0,,6.0,0.0,553,month-to-month,Americas
+ACC-11045,Company_1045,Healthcare,Prof,2021-09-07,2023-08-21,1,$513.27,368,,41.6K,23.0,,998,Yearly,Latin America
+ACC-10469,Company_469,Retail,starter,11/11/2020,,0,$26.82,47,51.0,"20,173 events",9.0,7.0,1298,ANNUAL,Asia Pacific
+ACC-11389,Company_1389,Healthcare,Starter Plan,03/18/2021,,0,"$2,081.33",168,110.0,"42,643 events",0.3135961214555526,-5.0,1171,Monthly,US
+ACC-10860,Company_860,tech,Prof,2022-05-27,2023-06-19,1,,120,119.0,"32,017 events",13.0,7.0,736,Yearly,LATAM
+ACC-10687,Company_687,Retail,starter,2020-10-09,,0,1029.37,498,428.0,45.6K,23.0,3.0,1331,yearly,Americas
+ACC-11503,Company_1503,fintech,Pro,07/15/2022,,0,$928.01,466,203.0,,5.0,,687,Yearly,APAC
+ACC-10639,Company_639,edtech,PRO,2022-10-23,,0,$44.88,382,301.0,"8,588 events",6.0,15.0,587,multi-year,emea
+ACC-11407,Company_1407,finance,enterprise,20/02/2023,,0,"$1,030.05",151,55.0,15334,5.0,1.0,467,annual,Americas
+ACC-11218,Company_1218,Health,free,12/26/2020,,0,,288,123.0,"1,116 events",0.8657334173364214,10.0,1253,Monthly,North America
+ACC-11158,Company_1158,Healthcare,Pro,2021-12-01,,0,$208.57,300,165.0,,4.0,,913,Multi-Year,
+ACC-11357,Company_1357,healthcare,FREE,06/14/2022,2023-08-23,1,$212.59,292,310.0,26.7K,21.0,4.0,718,,Europe
+ACC-11300,Company_1300,finance,ENT,11/25/2022,,0,$26.97,246,240.0,4686,8.0,2.0,554,ANNUAL,
+ACC-11487,Company_1487,SaaS,Ent,03/18/2022,,0,31.1,66,24.0,49075,15.0,2.0,806,Multi-Year,Europe
+ACC-10800,Company_800,EdTech,starter,22/02/2020,2022-01-23,1,$93.31,374,402.0,"39,240 events",0.5514601312900218,15.0,1561,annual,emea
+ACC-10160,Company_160,edtech,PRO,01/23/2023,2024-11-07,1,$49.87,119,,"39,486 events",22.0,8.0,495,yearly,
+ACC-10956,Company_956,TECH,Prof,2022-04-02,,churned,529.14,274,114.0,,6.0,2.0,791,Annual,Asia Pacific
+ACC-11186,Company_1186,tech,,2020-04-04,,0,$1033,392,322.0,"17,520 events",1.0,10.0,1519,Annual,EMEA
+ACC-10821,Company_821,E-Commerce,,28/09/2022,,0,30.3,296,265.0,496,14.0,,612,monthly,
+ACC-11380,Company_1380,Technology,free,28/06/2020,,0,$519.19,413,156.0,1596,2.0,6.0,1434,yearly,North America
+ACC-10877,Company_877,Education,Starter Plan,03/02/2021,,0,$31,233,211.0,,5.0,5.0,1214,Multi-Year,Asia Pacific
+ACC-10913,Company_913,saas,free,13/12/2020,,0,$48.76,396,284.0,43344,4.0,7.0,1266,multi-year,EU
+ACC-10152,Company_152,Finance,Starter Plan,2020-12-04,2022-04-02,1,$50.91,277,160.0,"18,833 events",9.0,7.0,1275,annual,Asia Pacific
+ACC-11498,Company_1498,,,09/24/2020,,0,2198.02,81,72.0,"3,645 events",11.0,5.0,1346,monthly,NA
+ACC-10509,Company_509,tech,Prof,17/04/2021,2022-07-11,1,$53,41,15.0,,18.0,7.0,1141,,apac
+ACC-11135,Company_1135,retail,starter,12/22/2022,,0,$965,383,276.0,"21,976 events",4.0,2.0,527,ANNUAL,EU
+ACC-11250,Company_1250,Retail,Professional,2023-02-19,,0,"$4,759.87",467,195.0,22748,16.0,,468,month-to-month,Latin America
+ACC-11365,Company_1365,saas,free,08/05/2022,,0,$503.74,469,272.0,29.8K,1.0,100.0,666,Monthly,apac
+ACC-10103,,edtech,Enterprise,2022-02-01,2022-10-01,1,$981.02,258,120.0,,16.0,8.0,851,month-to-month,EU
+ACC-10586,,ecommerce,FREE,10/02/2020,2021-11-30,1,$105.62,297,323.0,5.0K,22.0,,1338,Multi-Year,North America
+ACC-11446,Company_1446,Finance,start,01/27/2020,,0,,332,117.0,"19,502 events",16.0,1.0,1587,Monthly,latam
+ACC-11143,Company_1143,SaaS,Free,04/01/2021,,0,$492.93,190,143.0,,5.0,,1157,multi-year,Europe
+ACC-10053,Company_53,Education,professional,09/26/2021,,0,$104.28,35,20.0,"47,644 events",21.0,5.0,979,monthly,Latin America
+ACC-10151,Company_151,education,STARTER,2022-10-27,,Yes,$1091,108,84.0,4.9K,0.16327583161304113,,583,Yearly,APAC
+ACC-10403,Company_403,Finance,Free Trial,2021-11-14,2022-07-12,1,$1878,165,58.0,"3,747 events",11.0,0.0,930,Multi-Year,
+ACC-11585,Company_1585,Education,professional,2021-12-03,,0,53.15,396,135.0,"38,343 events",13.0,4.0,911,Multi-Year,NA
+ACC-10207,Company_207,Software,professional,2022-01-07,,0,$1024,268,140.0,"11,375 events",23.0,,876,multi-year,NA
+ACC-11544,Company_1544,fintech,pro,30/11/2020,,0,$944.06,427,,20.3K,12.0,8.0,1279,yearly,apac
+ACC-11122,Company_1122,Healthcare,Starter,04/10/2022,,0,$104.48,481,496.0,"28,928 events",23.0,10.0,606,MONTHLY,APAC
+ACC-11433,Company_1433,retail,Free Trial,11/29/2022,,0,$48.79,35,12.0,,0.0,4.0,550,Yearly,apac
+ACC-10008,Company_8,saas,,2021-02-04,,0,$461,332,123.0,"26,240 events",1.0,7.0,-10,Monthly,
+ACC-11014,Company_1014,FinTech,Free,05/29/2021,,0,$53,194,133.0,1803,23.0,0.0,1099,Monthly,apac
+ACC-11466,Company_1466,Technology,Starter Plan,2021-11-03,2023-07-19,1,$44.98,280,208.0,48285,15.0,9.0,941,multi-year,Latin America
+ACC-11060,Company_1060,fintech,Free,08/11/2022,,0,$956.91,173,,5371,9.0,10.0,571,Multi-Year,Americas
+ACC-10452,Company_452,E-Commerce,professional,05/07/2021,,0,$97.85,455,227.0,"26,056 events",6.0,6.0,1121,multi-year,EMEA
+ACC-10253,Company_253,E-Commerce,ENTERPRISE,2021-06-12,,0,$931.31,387,151.0,"34,038 events",11.0,9.0,1085,,Americas
+ACC-11327,,Health,Starter,10/08/2022,,0,$511.8,427,188.0,1581,0.3756099288855914,1.0,661,Multi-Year,Americas
+ACC-10896,Company_896,fintech,freemium,01/03/2020,,0,$459,17,12.0,33656,21.0,2.0,1611,monthly,EU
+ACC-11421,Company_1421,,freemium,2020-07-12,2021-04-03,1,$45.94,279,176.0,,0.0,4.0,1420,annual,EMEA
+ACC-10880,Company_880,Finance,Starter,2020-07-25,,0,,75,71.0,28.8K,23.0,5.0,1407,yearly,North America
+ACC-11539,Company_1539,finance,STARTER,03/05/2021,,0,,45,36.0,"33,095 events",3.0,2.0,1125,monthly,Americas
+ACC-10623,Company_623,fintech,ENT,07/28/2022,,0,$98.45,478,231.0,,10.0,100.0,674,monthly,emea
+ACC-10345,Company_345,Healthcare,freemium,2022-06-05,,,480.82,137,60.0,30.2K,0.7419251796036955,7.0,727,Yearly,North America
+ACC-11399,Company_1399,Software,professional,2023-02-28,,0,$531.24,417,193.0,561 events,8.0,5.0,459,monthly,
+ACC-10262,Company_262,Retail,Free,18/07/2021,,0,1093.07,172,73.0,49820,12.0,10.0,1049,Annual,latam
+ACC-11321,Company_1321,Finance,Ent,2022-12-29,,0,$912,263,,,10.0,5.0,520,Multi-Year,emea
+ACC-10150,Company_150,Healthcare,Professional,2023-03-15,,,$490.16,127,94.0,15615,5.0,8.0,444,ANNUAL,emea
+ACC-10472,Company_472,edtech,,10/31/2020,,0,$522.53,414,,,17.0,4.0,1309,Multi-Year,NA
+ACC-10640,Company_640,education,starter,16/01/2021,2022-05-13,1,46.24,42,41.0,,23.0,0.0,1232,yearly,EU
+ACC-10815,Company_815,Health,FREE,07/07/2021,,0,$1851,215,82.0,41.6K,15.0,,1060,MONTHLY,North America
+ACC-11536,Company_1536,Retail,ENTERPRISE,01/11/2022,,0,$91,299,188.0,40619,21.0,1.0,578,2-Year,LATAM
+ACC-10550,Company_550,E-Commerce,,2020-09-19,,0,$29.4,278,96.0,,10.0,,1351,Annual,Latin America
+ACC-10928,,Technology,Starter Plan,07/01/2023,,0,"$5,123.34",24,19.0,13.2K,11.0,,511,MONTHLY,LATAM
+ACC-10488,Company_488,edtech,Professional,2022-08-03,2024-01-07,1,$46.29,356,183.0,34335,13.0,3.0,668,month-to-month,North America
+ACC-11480,Company_1480,,Ent,2023-04-12,,0,$1.03K,248,263.0,"45,099 events",17.0,7.0,416,Monthly,US
+ACC-11171,,Finance,Ent,11/08/2020,,Yes,,284,86.0,"16,881 events",13.0,9.0,1390,yearly,apac
+ACC-10146,Company_146,tech,PRO,02/24/2023,2024-10-03,1,,169,,3.1K,0.6455393843128425,1.0,463,multi-year,EMEA
+ACC-11572,Company_1572,Education,ENTERPRISE,03/30/2023,,0,$546,84,71.0,"10,793 events",19.0,,429,multi-year,Asia Pacific
+ACC-10402,Company_402,tech,STARTER,03/07/2021,,0,$4819,365,,44.1K,5.0,,-62,MONTHLY,Asia Pacific
+ACC-10954,Company_954,healthcare,Professional,2021-01-01,2021-12-25,1,$2.03K,107,109.0,"7,726 events",13.0,7.0,1247,2-Year,emea
+ACC-11531,Company_1531,Healthcare,Starter,01/09/2023,,0,$198.94,31,31.0,39902,2.0,2.0,509,,EMEA
+ACC-10659,Company_659,Health,ENTERPRISE,01/14/2022,2023-02-24,1,$544.32,278,159.0,14406,19.0,3.0,869,monthly,apac
+ACC-11372,Company_1372,Education,Professional,08/31/2022,,0,"$2,190.32",406,422.0,35847,6.0,9.0,640,annual,Americas
+ACC-10463,Company_463,Education,enterprise,05/04/2021,2022-03-02,1,"$1,085.81",430,386.0,"46,901 events",0.0,0.0,1153,Monthly,latam
+ACC-11349,Company_1349,Health,professional,2023-01-08,,0,$47.27,187,66.0,"6,721 events",14.0,7.0,510,Monthly,Europe
+ACC-10186,Company_186,E-Commerce,Starter Plan,01/04/2020,2020-05-19,1,48.25,383,154.0,"17,921 events",3.0,3.0,1522,multi-year,EU
+ACC-11147,Company_1147,retail,PRO,2021-01-01,,0,45.5,97,105.0,21057,14.0,3.0,1247,Yearly,US
+ACC-11224,Company_1224,education,Starter Plan,12/20/2021,2022-05-23,1,$515,424,364.0,,23.0,,894,ANNUAL,apac
+ACC-10608,Company_608,TECH,ENT,2022-02-21,,0,$492.51,212,187.0,,23.0,8.0,831,annual,latam
+ACC-10143,Company_143,saas,Professional,18/05/2021,,0,"$1,097.85",44,25.0,,17.0,,1110,multi-year,EU
+ACC-10751,Company_751,tech,start,02/07/2021,,0,$26.46,341,253.0,"15,283 events",22.0,8.0,1065,Multi-Year,LATAM
+ACC-10981,,Software,ENT,07/05/2022,2022-11-26,1,$961.03,430,192.0,"10,861 events",18.0,15.0,697,Multi-Year,latam
+ACC-10197,Company_197,FinTech,Free Trial,11/01/2022,,0,31.49,120,94.0,29.6K,4.0,10.0,872,month-to-month,Latin America
+ACC-10883,Company_883,fintech,Ent,10/01/2023,,0,$51.50,78,54.0,20.5K,9.0,-5.0,508,annual,LATAM
+ACC-10279,Company_279,Education,pro,2023-03-24,,0,$5.18K,467,410.0,48.6K,16.0,7.0,435,Annual,US
+ACC-10293,Company_293,TECH,ENTERPRISE,08/01/2022,,0,$48.6,225,147.0,33677,21.0,10.0,670,MONTHLY,APAC
+ACC-11488,Company_1488,saas,pro,10/31/2020,2021-06-01,1,525.55,172,117.0,"1,468 events",4.0,6.0,1309,month-to-month,latam
+ACC-10400,Company_400,,Enterprise,01/09/2022,2023-12-12,1,,240,118.0,22064,21.0,15.0,639,MONTHLY,apac
+ACC-10122,,E-Commerce,Ent,2020-05-27,2022-04-27,1,$48.99,121,39.0,3007,5.0,9.0,-191,yearly,Latin America
+ACC-11207,Company_1207,SaaS,Free,01/28/2023,,0,4831.86,71,76.0,"37,480 events",16.0,0.0,490,Annual,emea
+ACC-10202,Company_202,Finance,Starter Plan,2020-05-18,,0,$4.91K,80,47.0,,2.0,0.0,1475,month-to-month,Asia Pacific
+ACC-10835,Company_835,ecommerce,Prof,07/10/2020,,0,$199,136,63.0,,0.0,1.0,1333,ANNUAL,APAC
+ACC-10246,Company_246,ecommerce,starter,2022-07-28,,0,$1948,403,436.0,"21,690 events",14.0,,-16,yearly,
+ACC-11549,Company_1549,healthcare,PRO,2020-04-11,2021-12-08,1,"$2,123.57",497,,,6.0,7.0,1512,annual,Europe
+ACC-11534,Company_1534,Finance,FREE,11/28/2022,,0,$97.12,217,100.0,"42,456 events",17.0,1.0,551,month-to-month,EMEA
+ACC-11153,Company_1153,Health,Professional,12/19/2022,2023-04-23,1,"$1,925.24",126,102.0,"45,786 events",5.0,5.0,530,multi-year,apac
+ACC-10384,Company_384,EdTech,Ent,05/08/2022,,0,30.12,435,,"37,900 events",18.0,15.0,755,annual,Asia Pacific
+ACC-11438,Company_1438,retail,Free Trial,20/04/2022,,0,31.12,436,441.0,17960,3.0,7.0,773,2-Year,Latin America
+ACC-10854,,fintech,Enterprise,2020-04-18,,0,,319,247.0,39.6K,20.0,2.0,1505,yearly,Americas
+ACC-10219,Company_219,finance,,2021-05-05,2022-10-16,1,4972.73,485,493.0,"9,492 events",13.0,3.0,1123,Annual,Americas
+ACC-10641,Company_641,ecommerce,Starter,06/08/2021,,0,$48.42,277,208.0,36677,23.0,7.0,1030,,APAC
+ACC-10001,Company_1,Software,Enterprise,11/19/2022,,0,27.87,472,420.0,"6,733 events",9.0,,560,annual,North America
+ACC-10112,Company_112,E-Commerce,ENTERPRISE,08/06/2022,2023-01-08,1,480.28,228,155.0,,12.0,0.0,665,month-to-month,North America
+ACC-10698,Company_698,Education,Starter Plan,2022-10-23,,0,$27.40,45,45.0,,12.0,2.0,587,,EU
+ACC-11559,Company_1559,Retail,start,2020-01-04,,0,$105,438,266.0,39.9K,16.0,5.0,1610,2-Year,APAC
+ACC-10951,Company_951,Healthcare,Professional,11/01/2021,,0,$194,310,211.0,"29,048 events",9.0,9.0,943,,Europe
+ACC-11432,Company_1432,retail,ENTERPRISE,23/10/2020,,0,$44.22,31,16.0,46838,0.18384746208585337,8.0,1317,multi-year,Latin America
+ACC-11410,Company_1410,Finance,STARTER,07/05/2021,,0,30.45,414,441.0,"49,725 events",5.0,2.0,1121,Annual,Europe
+ACC-11409,Company_1409,TECH,enterprise,02/27/2023,,FALSE,$31,350,156.0,29180,0.4702804388631699,4.0,460,2-Year,Americas
+ACC-11291,Company_1291,E-Commerce,freemium,2021-01-29,2022-12-24,1,515.37,168,75.0,3.9K,9.0,,1219,Multi-Year,EU
+ACC-11477,Company_1477,E-Commerce,STARTER,06/22/2022,,0,"$4,920.01",134,127.0,"14,924 events",12.0,9.0,710,multi-year,apac
+ACC-10441,Company_441,Software,start,2020-08-24,,0,$449.25,327,192.0,20480,21.0,0.0,1377,Multi-Year,LATAM
+ACC-11136,Company_1136,Tech,Pro,2022-10-26,2024-06-14,1,,36,35.0,"23,566 events",21.0,10.0,584,,
+ACC-11256,Company_1256,edtech,Enterprise,05/15/2022,2022-10-30,1,$548.24,127,95.0,24593,9.0,,748,Multi-Year,Americas
+ACC-11397,Company_1397,TECH,Professional,03/02/2022,,0,$211.82,317,171.0,8.5K,16.0,8.0,822,ANNUAL,Asia Pacific
+ACC-10663,Company_663,Tech,Free Trial,03/13/2021,2021-05-19,1,$29.00,399,421.0,"34,969 events",8.0,3.0,1176,Multi-Year,apac
+ACC-11497,Company_1497,retail,Starter,06/08/2020,2022-02-26,1,$461,341,370.0,"38,400 events",13.0,7.0,1395,annual,emea
+ACC-11257,Company_1257,saas,Enterprise,2022-11-28,,0,"$4,655.53",78,56.0,"7,004 events",17.0,6.0,551,Multi-Year,emea
+ACC-11564,Company_1564,fintech,Prof,12/12/2022,2023-01-28,1,$527.25,266,244.0,,12.0,0.0,537,annual,EU
+ACC-10317,Company_317,SaaS,enterprise,15/08/2021,,0,214.43,26,11.0,"10,309 events",0.030957381908468817,7.0,1021,multi-year,Europe
+ACC-10648,Company_648,Health,Professional,16/03/2021,2021-09-15,1,,71,55.0,49529,20.0,6.0,1173,Multi-Year,apac
+ACC-11434,Company_1434,Health,enterprise,09/04/2021,,0,$48,370,352.0,28368,11.0,,1001,multi-year,latam
+ACC-10709,Company_709,tech,PRO,19/10/2020,,No,$479.06,235,191.0,"35,488 events",17.0,5.0,1321,2-Year,North America
+ACC-11382,Company_1382,FinTech,enterprise,2022-03-02,,0,$218.86,425,148.0,"35,547 events",7.0,9.0,822,Annual,
+ACC-11282,Company_1282,retail,ENTERPRISE,07/10/2021,,0,$1098,284,122.0,35513,0.00625413986421901,-5.0,1057,annual,Latin America
+ACC-10972,,saas,starter,16/02/2021,,0,"$1,986.34",297,210.0,,19.0,1.0,1201,,Europe
+ACC-10627,Company_627,,starter,03/12/2020,,0,"$1,948.88",307,253.0,,22.0,3.0,1542,Multi-Year,Latin America
+ACC-10632,Company_632,TECH,pro,28/09/2021,,0,$27.96,428,240.0,"21,796 events",9.0,4.0,977,Multi-Year,emea
+ACC-11306,Company_1306,Tech,professional,2023-01-04,2023-10-05,1,"$5,125.46",312,191.0,"19,978 events",21.0,2.0,514,yearly,Europe
+ACC-11400,Company_1400,Technology,Enterprise,2022-10-17,,0,992.62,304,314.0,30001,15.0,7.0,593,Multi-Year,EU
+ACC-11408,Company_1408,,enterprise,10/02/2022,2024-05-23,1,,142,77.0,42.5K,15.0,4.0,608,Yearly,North America
+ACC-11248,Company_1248,TECH,starter,2022-01-01,,0,$489.36,259,166.0,"14,032 events",14.0,0.0,882,MONTHLY,emea
+ACC-11593,Company_1593,saas,start,01/04/2022,2023-11-13,1,$50.88,488,308.0,47.3K,6.0,8.0,792,Yearly,LATAM
+ACC-11254,Company_1254,saas,PRO,09/16/2021,,0,$969.98,311,260.0,49077,19.0,7.0,989,month-to-month,Europe
+ACC-11371,Company_1371,,PRO,19/01/2023,,0,"$1,019.22",133,110.0,"40,086 events",11.0,4.0,499,month-to-month,LATAM
+ACC-11354,Company_1354,Finance,free,07/01/2020,,0,,261,,"35,614 events",0.8767965302028723,4.0,1431,Multi-Year,emea
+ACC-11569,Company_1569,retail,Starter,2022-05-10,2024-01-17,1,$53,449,226.0,"2,488 events",0.3041530775364609,,753,yearly,LATAM
+ACC-10145,Company_145,Finance,ENTERPRISE,2023-02-12,2024-12-19,1,$5063,380,412.0,,0.3122517569599996,3.0,475,month-to-month,emea
+ACC-10795,,,pro,2022-06-05,,0,217.73,36,25.0,"12,557 events",9.0,10.0,727,2-Year,apac
+ACC-10645,Company_645,ecommerce,Ent,06/25/2021,,0,$189.60,425,286.0,"39,158 events",13.0,0.0,1072,,Asia Pacific
+ACC-11012,Company_1012,,Professional,2020-03-14,2020-04-19,1,"$5,285.68",361,123.0,33.1K,8.0,6.0,1540,month-to-month,LATAM
+ACC-10556,Company_556,education,Free Trial,31/01/2020,,0,,97,44.0,20.3K,16.0,5.0,-187,multi-year,apac
+ACC-10681,Company_681,TECH,freemium,2022-10-14,2023-08-23,1,$500,375,267.0,,23.0,1.0,596,ANNUAL,Latin America
+ACC-10577,Company_577,TECH,freemium,2021-11-13,,0,$189,63,50.0,"7,799 events",8.0,3.0,931,Monthly,Asia Pacific
+ACC-11109,Company_1109,TECH,starter,2021-07-28,,0,$97.23,482,387.0,39483,24.0,1.0,1039,yearly,North America
+ACC-11266,Company_1266,Software,Free Trial,26/01/2023,,0,2077.25,406,417.0,,9.0,2.0,492,monthly,LATAM
+ACC-11183,,EdTech,,09/25/2022,,0,$28.60,18,6.0,4645,22.0,9.0,615,month-to-month,emea
+ACC-10524,,healthcare,Free Trial,12/03/2021,,0,$497.19,353,,"30,943 events",21.0,,911,yearly,
+ACC-11059,Company_1059,finance,freemium,10/07/2021,,0,$29.88,197,64.0,,1.0,9.0,1057,Yearly,EMEA
+ACC-10540,Company_540,Health,enterprise,09/01/2020,,0,$218.54,203,114.0,24551,23.0,6.0,1369,Monthly,
+ACC-11194,Company_1194,TECH,professional,2020-05-10,,0,527.9,1,0.0,34.8K,21.0,7.0,1483,multi-year,Europe
+ACC-10748,,ecommerce,Professional,2022-10-09,2023-01-20,1,$52,69,37.0,,13.0,5.0,601,MONTHLY,Americas
+ACC-11511,Company_1511,Technology,starter,2020-09-05,,0,$30.46,252,237.0,47205,15.0,5.0,1365,Annual,EU
+ACC-11430,Company_1430,Tech,STARTER,2021-10-24,,0,210.06,235,79.0,"47,552 events",0.2054808668156534,6.0,951,ANNUAL,EMEA
+ACC-10484,Company_484,retail,Free,02/28/2023,,Yes,198.61,436,415.0,"29,447 events",12.0,,459,monthly,APAC
+ACC-10095,Company_95,Retail,ENTERPRISE,2020-07-31,,churned,"$1,055.17",475,510.0,20249,2.0,3.0,1401,ANNUAL,emea
+ACC-11020,Company_1020,TECH,Starter,21/07/2020,2020-12-21,1,,11,8.0,"8,712 events",12.0,2.0,1411,monthly,Americas
+ACC-10563,Company_563,finance,Starter Plan,29/03/2021,2021-11-14,1,$960.28,416,427.0,21039,0.6530950234907157,9.0,1160,Monthly,APAC
+ACC-11264,Company_1264,SaaS,Prof,2021-02-09,,TRUE,$217.47,443,299.0,14375,22.0,8.0,1208,multi-year,LATAM
+ACC-10742,Company_742,Health,Free Trial,05/09/2022,,0,$1.01K,101,33.0,49124,2.0,0.0,754,ANNUAL,LATAM
+ACC-10863,Company_863,SaaS,Free,05/01/2021,,0,$2.09K,214,124.0,,0.3874923721561198,1.0,1127,2-Year,US
+ACC-10891,Company_891,Healthcare,Prof,2021-04-05,,0,$30,253,209.0,37933,12.0,3.0,1153,2-Year,Latin America
+ACC-11038,Company_1038,education,professional,2022-07-02,,0,529.77,176,107.0,"19,137 events",12.0,9.0,700,yearly,Americas
+ACC-10206,,retail,STARTER,15/10/2020,,0,$1.03K,161,125.0,"41,289 events",12.0,8.0,1325,monthly,APAC
+ACC-10392,Company_392,Technology,start,04/23/2021,,0,$2.17K,231,119.0,"6,252 events",18.0,9.0,1135,month-to-month,emea
+ACC-10794,,ecommerce,Professional,2020-07-27,,TRUE,$548,412,401.0,,11.0,3.0,1405,annual,Europe
+ACC-10870,Company_870,E-Commerce,pro,06/05/2020,,0,"$1,014.50",435,256.0,44.2K,2.0,10.0,1487,month-to-month,Europe
+ACC-10397,Company_397,ecommerce,Free Trial,30/06/2022,,0,$184.60,105,105.0,"23,099 events",15.0,1.0,702,MONTHLY,North America
+ACC-10766,Company_766,EdTech,Enterprise,2022-05-12,2023-06-17,1,$49.57,370,390.0,559,20.0,2.0,751,annual,
+ACC-11501,Company_1501,,Prof,2021-03-25,,0,"$1,066.94",480,381.0,37.5K,20.0,3.0,1164,annual,
+ACC-11241,Company_1241,EdTech,Starter,15/11/2021,,0,$199.98,359,224.0,,23.0,5.0,929,Multi-Year,NA
+ACC-11028,Company_1028,fintech,Professional,2021-04-26,2022-12-31,1,$182.81,181,140.0,"4,277 events",4.0,8.0,1132,,apac
+ACC-10642,Company_642,Healthcare,Prof,15/09/2020,,0,$482,399,,17938,0.19516687180809072,,1355,2-Year,LATAM
+ACC-11541,Company_1541,FinTech,enterprise,2023-02-17,2024-12-29,1,"$5,409.24",221,237.0,31.2K,0.0279680279853606,0.0,470,Yearly,NA
+ACC-10612,Company_612,Healthcare,Ent,2021-03-01,,0,$48.63,88,78.0,"11,755 events",6.0,3.0,1188,annual,NA
+ACC-10960,,EdTech,,13/02/2022,,0,$51.00,329,257.0,,7.0,5.0,839,MONTHLY,Latin America
+ACC-10725,Company_725,Health,Free Trial,08/25/2021,,0,1079.39,466,155.0,38.0K,13.0,,1011,month-to-month,NA
+ACC-10683,Company_683,tech,ENT,05/07/2020,,0,$5.23K,283,268.0,"12,370 events",0.48344933897840536,8.0,1486,ANNUAL,
+ACC-10098,,Education,Prof,11/24/2022,2023-03-02,1,49.06,486,300.0,33858,14.0,3.0,555,2-Year,latam
+ACC-10804,,Healthcare,Starter,2022-10-27,,0,464.24,458,226.0,44896,0.6034411064755778,,583,2-Year,apac
+ACC-10406,,Retail,ENTERPRISE,2021-05-29,,0,,170,137.0,24855,8.0,10.0,1099,,emea
+ACC-10502,Company_502,,freemium,2021-12-01,2023-09-18,1,,460,426.0,"27,464 events",7.0,100.0,913,yearly,EMEA
+ACC-11071,Company_1071,FinTech,professional,09/02/2021,2022-06-09,1,$26.61,112,41.0,,5.0,5.0,1208,yearly,Europe
+ACC-11056,Company_1056,Retail,Ent,20/11/2021,,0,$31.88,358,180.0,"16,332 events",9.0,,924,ANNUAL,emea
+ACC-10929,Company_929,saas,Starter,2021-03-16,,0,$495.29,307,195.0,36.0K,20.0,7.0,1173,multi-year,
+ACC-10779,Company_779,Finance,Pro,17/12/2022,,0,$5297,405,237.0,,19.0,15.0,532,yearly,latam
+ACC-10200,Company_200,Finance,STARTER,06/24/2020,,0,$2048,248,77.0,46.4K,13.0,2.0,1438,Monthly,APAC
+ACC-10134,Company_134,Retail,FREE,2020-04-29,,0,"$1,065.94",2,1.0,27232,18.0,,1494,month-to-month,apac
+ACC-11051,Company_1051,TECH,professional,01/19/2023,2024-11-29,1,$4.56K,457,152.0,"48,562 events",13.0,7.0,499,MONTHLY,Asia Pacific
+ACC-10040,Company_40,ecommerce,STARTER,02/22/2020,,0,,36,10.0,,18.0,,1561,month-to-month,Americas
+ACC-11017,Company_1017,Health,Prof,05/24/2022,,,,479,363.0,"6,276 events",21.0,0.0,739,2-Year,
+ACC-10230,Company_230,Technology,starter,09/06/2022,,0,"$4,961.46",310,145.0,"36,848 events",3.0,10.0,723,MONTHLY,Asia Pacific
+ACC-10378,Company_378,,,03/25/2021,2021-06-30,1,$46.71,131,78.0,44697,9.0,,1164,multi-year,EMEA
+ACC-10288,Company_288,Education,Starter Plan,09/09/2022,,0,29.21,343,357.0,"44,000 events",2.0,2.0,631,Yearly,
+ACC-10418,Company_418,retail,Free Trial,02/05/2023,,Yes,,35,32.0,6.3K,23.0,2.0,482,2-Year,APAC
+ACC-10391,Company_391,education,Prof,11/05/2021,,0,,85,90.0,32212,15.0,9.0,-107,annual,Europe
+ACC-10592,Company_592,Tech,free,2023-04-08,,0,"$1,938.81",217,238.0,24.5K,14.0,7.0,420,monthly,North America
+ACC-11162,Company_1162,TECH,Professional,16/01/2021,,0,$1.82K,118,65.0,27733,1.0,8.0,1232,Yearly,EMEA
+ACC-11086,Company_1086,Education,Free Trial,13/03/2021,,0,$530,199,77.0,"48,632 events",16.0,,1176,Yearly,emea
+ACC-11495,Company_1495,Finance,Starter Plan,17/12/2021,,,$5323,232,213.0,"45,306 events",6.0,9.0,897,ANNUAL,Americas
+ACC-10647,Company_647,,ENT,02/24/2022,2024-02-06,1,93.44,139,108.0,"17,727 events",14.0,8.0,828,MONTHLY,Europe
+ACC-11152,Company_1152,healthcare,ENT,2020-06-17,,0,$496,102,44.0,,3.0,,1445,,Latin America
+ACC-11367,Company_1367,EdTech,PRO,19/03/2021,,0,$31,353,296.0,"15,558 events",15.0,2.0,1170,MONTHLY,Asia Pacific
+ACC-10520,Company_520,EdTech,freemium,06/21/2021,,,$51,455,,"5,846 events",3.0,9.0,1076,month-to-month,EU
+ACC-10064,Company_64,Technology,free,06/03/2023,,0,,165,67.0,"6,093 events",14.0,,453,monthly,EU
+ACC-10014,Company_14,Health,Enterprise,04/18/2021,2021-12-05,1,$502,177,59.0,46.2K,6.0,6.0,1140,MONTHLY,LATAM
+ACC-11180,,Tech,enterprise,01/14/2022,,0,$208.89,353,193.0,"24,572 events",15.0,1.0,869,ANNUAL,APAC
+ACC-11064,Company_1064,,Pro,2021-11-05,,0,1890.19,302,177.0,"15,748 events",20.0,1.0,-7,MONTHLY,EMEA
+ACC-10492,Company_492,education,ENTERPRISE,2022-05-01,,0,$462.79,392,192.0,33612,21.0,100.0,762,month-to-month,LATAM
+ACC-10379,Company_379,Health,pro,06/04/2023,,0,473.07,127,,,23.0,,422,Annual,emea
+ACC-10187,Company_187,Software,,01/01/2020,,0,,107,70.0,3.6K,23.0,7.0,1613,Monthly,Asia Pacific
+ACC-10763,Company_763,Technology,Enterprise,01/03/2020,,0,$108,409,383.0,"30,602 events",22.0,1.0,1553,Yearly,
+ACC-10216,Company_216,fintech,FREE,01/31/2020,,0,$49.50,111,70.0,"29,225 events",10.0,1.0,1583,ANNUAL,NA
+ACC-10791,Company_791,Finance,start,15/03/2023,,0,,409,390.0,"42,485 events",3.0,4.0,444,Multi-Year,emea
+ACC-11076,Company_1076,finance,Free,2020-06-12,,Yes,104.64,104,46.0,"23,610 events",1.0,5.0,1450,Multi-Year,Asia Pacific
+ACC-10878,Company_878,Healthcare,free,2020-08-27,2022-06-26,1,$101,53,39.0,"35,733 events",3.0,9.0,1374,Multi-Year,APAC
+ACC-10337,Company_337,TECH,starter,01/11/2021,,0,$29,141,66.0,,14.0,-5.0,943,MONTHLY,EMEA
+ACC-10719,Company_719,SaaS,enterprise,2020-06-03,,0,2141.89,11,,"45,497 events",18.0,4.0,1459,2-Year,Americas
+ACC-10295,,Technology,ENTERPRISE,06/25/2021,2021-10-16,1,$48,473,476.0,"47,529 events",22.0,,1072,month-to-month,apac
+ACC-11016,Company_1016,retail,free,05/17/2022,,0,,354,214.0,,9.0,9.0,746,,latam
+ACC-11275,Company_1275,finance,free,11/02/2022,,0,"$5,476.53",285,235.0,,0.6234690340270087,6.0,841,MONTHLY,US
+ACC-11485,Company_1485,Software,freemium,05/09/2021,,0,$472.01,353,,,0.8579588741732088,4.0,1119,Multi-Year,EU
+ACC-10455,Company_455,SaaS,,25/02/2022,,0,89.16,240,212.0,,21.0,10.0,827,Annual,latam
+ACC-11073,Company_1073,E-Commerce,Prof,2022-04-11,,0,$52.85,419,220.0,,7.0,,782,Monthly,emea
+ACC-10815,Company_815,Health,FREE,07/07/2021,,0,$1851,215,82.0,41.6K,15.0,,1060,MONTHLY,North America
+ACC-10269,Company_269,,free,04/04/2020,,0,$192,415,179.0,"36,631 events",15.0,,-135,2-Year,EMEA
+ACC-10995,Company_995,,ENTERPRISE,28/02/2020,,0,1023.95,146,134.0,33682,20.0,9.0,1555,ANNUAL,US
+ACC-10201,Company_201,FinTech,Professional,02/17/2023,,0,$1883,31,32.0,,21.0,5.0,470,Multi-Year,Latin America
+ACC-10161,Company_161,E-Commerce,Pro,07/10/2022,2022-10-02,1,$104.4,286,251.0,"16,933 events",22.0,8.0,692,ANNUAL,NA
+ACC-10729,Company_729,education,ENTERPRISE,27/09/2021,2023-02-15,1,"$5,175.99",195,117.0,"14,380 events",4.0,5.0,978,Annual,latam
+ACC-10401,Company_401,education,Enterprise,02/17/2022,,0,$32,214,160.0,,21.0,5.0,835,annual,EU
+ACC-10702,Company_702,fintech,Pro,2022-03-15,,0,$485.67,437,331.0,"8,530 events",22.0,1.0,809,yearly,US
+ACC-11500,Company_1500,fintech,Prof,09/05/2021,2021-08-14,1,$52,394,306.0,2.8K,13.0,,1119,Annual,North America
+ACC-11129,Company_1129,healthcare,Free Trial,07/12/2021,,0,$208,189,191.0,29.2K,8.0,,907,monthly,APAC
+ACC-10565,,,FREE,16/07/2021,,0,5422.69,91,58.0,5.7K,0.0,,1051,2-Year,apac
+ACC-11413,Company_1413,TECH,pro,11/03/2020,,0,538.92,101,95.0,27924,14.0,4.0,1543,multi-year,Europe
+ACC-11021,Company_1021,Tech,start,2022-05-25,,0,$46,298,92.0,35365,11.0,2.0,738,annual,emea
+ACC-11025,Company_1025,Education,PRO,05/23/2020,,0,,227,157.0,12.0K,24.0,100.0,1470,annual,LATAM
+ACC-11411,Company_1411,tech,Professional,28/07/2020,,0,$514,41,27.0,"12,611 events",11.0,0.0,1404,,apac
+ACC-11104,Company_1104,Finance,Professional,2020-06-20,,0,$1078,255,91.0,,0.5608111634849117,,1442,MONTHLY,US
+ACC-10205,Company_205,Education,enterprise,04/28/2022,,0,$30.87,245,243.0,1183,0.16924873858183687,3.0,765,2-Year,EMEA
+ACC-10034,Company_34,Health,ENT,03/15/2022,,0,48.28,318,247.0,47.4K,14.0,2.0,809,Monthly,apac
+ACC-10775,Company_775,SaaS,freemium,12/12/2021,2023-09-13,1,$205.04,237,189.0,16096,20.0,4.0,902,MONTHLY,EU
+ACC-10508,Company_508,saas,Prof,01/01/2022,,,$46,92,95.0,4.9K,12.0,,882,Yearly,Asia Pacific
+ACC-11451,Company_1451,finance,Free Trial,2020-06-26,,0,,485,254.0,41574,11.0,3.0,1436,Multi-Year,
+ACC-11478,Company_1478,ecommerce,freemium,06/30/2020,,0,985.3,402,370.0,32.8K,22.0,8.0,1432,,Asia Pacific
+ACC-10826,Company_826,Technology,ENTERPRISE,2023-03-04,,0,$1.90K,225,223.0,"34,921 events",2.0,8.0,455,,US
+ACC-11390,Company_1390,edtech,Enterprise,2022-11-22,,0,,68,33.0,,23.0,0.0,557,month-to-month,emea
+ACC-10091,Company_91,saas,PRO,2022-10-19,,Yes,$948,468,,"49,820 events",0.18576430313111997,6.0,591,ANNUAL,EMEA
+ACC-11363,Company_1363,education,FREE,2020-05-03,2021-08-02,1,,170,66.0,"18,860 events",23.0,,1490,annual,North America
+ACC-10897,Company_897,TECH,Free Trial,2020-10-19,,0,$27,55,51.0,,1.0,,1321,Yearly,US
+ACC-10564,Company_564,E-Commerce,Enterprise,10/05/2021,,0,"$4,997.87",410,197.0,"43,614 events",0.6774439864997772,9.0,-160,Multi-Year,LATAM
+ACC-11369,Company_1369,healthcare,STARTER,2020-03-27,,0,"$4,505.41",194,179.0,6.7K,1.0,2.0,1527,MONTHLY,Latin America
+ACC-10776,Company_776,TECH,Professional,03/24/2021,,FALSE,$201,399,160.0,"6,815 events",16.0,9.0,-146,ANNUAL,LATAM
+ACC-10241,Company_241,EdTech,freemium,21/01/2020,,0,$106.74,473,268.0,"15,640 events",4.0,2.0,1593,MONTHLY,Europe
+ACC-10013,Company_13,retail,Free,2021-12-01,,0,,274,271.0,"46,728 events",5.0,9.0,913,month-to-month,North America
+ACC-10315,Company_315,Retail,FREE,01/09/2021,,0,$5030,440,212.0,34.5K,5.0,7.0,1004,Yearly,Europe
+ACC-10600,Company_600,Software,Starter,2022-02-17,,0,$212.07,295,,"29,217 events",12.0,5.0,835,Monthly,Americas
+ACC-10387,Company_387,Education,STARTER,2022-07-14,2022-08-26,1,$50,401,297.0,"42,311 events",11.0,1.0,-13,month-to-month,US
+ACC-11297,Company_1297,FinTech,ENTERPRISE,2020-05-29,2020-12-06,1,$907.83,142,83.0,,23.0,8.0,1464,,EU
+ACC-10166,Company_166,tech,enterprise,06/13/2020,,0,$50.45,478,225.0,,0.8942344217301997,,1449,yearly,EU
+ACC-10840,Company_840,tech,enterprise,16/04/2020,,0,$28.54,81,88.0,"42,202 events",12.0,3.0,1507,MONTHLY,North America
+ACC-10020,Company_20,retail,Free,13/07/2022,2026-09-15,1,$194.68,87,82.0,,20.0,,689,multi-year,NA
+ACC-10646,Company_646,Retail,FREE,31/12/2022,,0,$30.04,376,324.0,"46,063 events",9.0,7.0,518,,Latin America
+ACC-11508,Company_1508,tech,Free Trial,05/03/2023,2024-06-19,1,$4.97K,18,12.0,22210,14.0,,454,monthly,Europe
+ACC-11154,Company_1154,Healthcare,Professional,2021-02-14,,0,$2008,80,35.0,1.7K,0.05302414461986034,4.0,1203,monthly,North America
+ACC-11528,Company_1528,tech,Starter Plan,2021-04-04,,0,,55,43.0,"29,338 events",0.5847857762959727,6.0,1154,monthly,LATAM
+ACC-10831,Company_831,Finance,Pro,01/07/2023,,0,$183,475,,43632,8.0,10.0,511,multi-year,emea
+ACC-11267,Company_1267,TECH,ENTERPRISE,07/10/2021,,0,$44.61,366,254.0,"25,558 events",0.3263940024829309,,1057,ANNUAL,EMEA
+ACC-10562,Company_562,E-Commerce,Free Trial,06/03/2022,2023-06-06,1,$182.43,12,5.0,16.1K,23.0,0.0,729,,Latin America
+ACC-11592,Company_1592,education,starter,23/07/2020,2021-09-08,1,$916.16,33,36.0,"27,074 events",8.0,,1409,annual,Asia Pacific
+ACC-10686,Company_686,Health,starter,2022-02-21,,0,"$1,932.35",164,62.0,7606,5.0,7.0,831,Multi-Year,LATAM
+ACC-10957,Company_957,finance,ENT,09/13/2021,,0,$2071,429,252.0,42.0K,22.0,10.0,992,Monthly,Americas
+ACC-10189,Company_189,saas,PRO,2022-06-20,,0,961.64,453,430.0,31.1K,16.0,4.0,712,Multi-Year,Americas
+ACC-10975,Company_975,Retail,starter,2021-10-18,,0,$929.40,436,463.0,"36,922 events",21.0,6.0,957,ANNUAL,LATAM
+ACC-10699,Company_699,Retail,ENTERPRISE,13/08/2022,,0,5373.38,172,160.0,"15,984 events",5.0,10.0,658,yearly,
+ACC-11499,Company_1499,Healthcare,ENT,04/15/2022,,0,975.3,143,56.0,8418,1.0,0.0,778,MONTHLY,US
+ACC-10510,,Software,ENT,2022-08-31,,0,$47.64,244,229.0,"30,635 events",18.0,5.0,640,month-to-month,Americas
+ACC-11082,Company_1082,finance,Free Trial,09/04/2020,,0,,395,244.0,"40,085 events",13.0,6.0,1366,annual,EMEA
+ACC-10474,Company_474,retail,ENTERPRISE,2021-06-28,,0,2140.54,368,202.0,"42,582 events",20.0,-5.0,1069,Monthly,NA
+ACC-11584,Company_1584,Software,Pro,2020-01-28,,0,$92.19,22,13.0,,21.0,6.0,1586,Multi-Year,APAC
+ACC-10856,Company_856,tech,Enterprise,2020-02-24,,0,985.16,112,122.0,22681,12.0,,1559,,
+ACC-10747,Company_747,Education,pro,09/26/2021,,0,"$5,135.00",455,197.0,11058,4.0,9.0,979,month-to-month,APAC
+ACC-10252,Company_252,fintech,Prof,2022-02-21,2024-02-07,1,$1062,10,5.0,,9.0,6.0,831,month-to-month,Americas
+ACC-10021,Company_21,finance,Prof,01/12/2021,,0,$28.42,68,45.0,45127,23.0,4.0,913,Multi-Year,US
+ACC-11337,Company_1337,SaaS,starter,2022-01-14,2023-08-15,1,218.62,264,196.0,11967,8.0,3.0,869,Annual,North America
+ACC-10459,Company_459,Finance,starter,26/10/2021,,0,$4710,301,181.0,,23.0,,949,annual,EMEA
+ACC-11184,Company_1184,retail,ENTERPRISE,11/13/2021,,0,508.57,141,122.0,,22.0,9.0,931,annual,Asia Pacific
+ACC-10276,,Healthcare,Free Trial,10/30/2021,,0,,442,473.0,14.5K,6.0,3.0,945,MONTHLY,latam
+ACC-10955,Company_955,fintech,Enterprise,2022-01-24,2023-10-11,1,$948.89,258,237.0,,12.0,0.0,859,,Americas
+ACC-11215,Company_1215,Finance,PRO,01/02/2020,,0,96.44,51,20.0,"40,489 events",21.0,1.0,1612,annual,North America
+ACC-10385,Company_385,education,starter,2021-09-28,,0,,177,98.0,"8,747 events",8.0,5.0,977,annual,Latin America
+ACC-10805,Company_805,EdTech,start,25/06/2020,,0,27.09,114,80.0,33069,20.0,3.0,1437,annual,LATAM
+ACC-11437,Company_1437,,Pro,2020-04-12,,0,"$5,297.57",259,159.0,15096,18.0,5.0,1511,month-to-month,US
+ACC-11515,,Education,Starter,2022-11-19,,0,$30.29,289,274.0,"41,090 events",24.0,10.0,560,,EMEA
+ACC-10343,Company_343,edtech,ENT,23/04/2020,,0,,335,237.0,20741,13.0,,1500,multi-year,Americas
+ACC-10769,Company_769,ecommerce,STARTER,2020-03-17,,0,"$5,022.93",165,117.0,"21,915 events",13.0,2.0,1537,Monthly,apac
+ACC-11332,Company_1332,Education,Free Trial,02/03/2020,,0,$96.37,458,142.0,33446,21.0,,1552,month-to-month,apac
+ACC-10130,Company_130,ecommerce,,29/07/2022,,0,1087.51,82,86.0,,7.0,10.0,673,ANNUAL,APAC
+ACC-10871,Company_871,Education,enterprise,2022-06-21,2024-02-26,1,$104.28,232,200.0,,19.0,9.0,711,Monthly,NA
+ACC-11123,Company_1123,Health,starter,10/30/2020,2022-10-04,1,$49.15,277,96.0,28727,11.0,,1310,MONTHLY,North America
+ACC-11396,Company_1396,Healthcare,Pro,2022-11-03,,0,,210,217.0,21616,2.0,7.0,576,Monthly,NA
+ACC-10087,,ecommerce,Enterprise,05/15/2020,,0,,2,1.0,"7,645 events",0.14547992243337252,7.0,1478,annual,US
+ACC-11482,Company_1482,SaaS,Starter,28/11/2020,,0,46.75,149,112.0,32322,14.0,9.0,1281,Annual,Americas
+ACC-10330,Company_330,education,Starter,04/14/2022,,0,106.91,496,279.0,13.5K,15.0,,779,Multi-Year,
+ACC-11238,Company_1238,healthcare,Pro,03/07/2021,,0,$2009,314,330.0,,18.0,2.0,1064,yearly,
+ACC-10466,Company_466,finance,Starter Plan,2022-01-31,,0,"$1,814.34",183,83.0,"29,405 events",14.0,2.0,852,yearly,EMEA
+ACC-10121,Company_121,FinTech,freemium,08/22/2020,,0,$97,167,97.0,,1.0,2.0,1379,multi-year,latam
+ACC-11044,Company_1044,FinTech,Enterprise,2021-09-08,,0,$107.24,174,,15056,18.0,7.0,997,2-Year,US
+ACC-11095,Company_1095,finance,Pro,23/12/2021,2022-04-07,1,512.77,104,69.0,"3,359 events",2.0,4.0,891,ANNUAL,apac
+ACC-11130,Company_1130,healthcare,PRO,2021-12-18,,0,"$2,084.24",73,52.0,,0.8649370865942401,9.0,-78,Multi-Year,latam
+ACC-11294,Company_1294,education,professional,05/18/2021,2022-08-13,1,$53.66,345,186.0,48.6K,3.0,2.0,1110,2-Year,Americas
+ACC-10860,Company_860,tech,Prof,2022-05-27,2023-06-19,1,,120,119.0,"32,017 events",13.0,7.0,736,Yearly,LATAM
+ACC-11459,Company_1459,Healthcare,Free,01/01/2020,,0,$513.42,397,225.0,22332,8.0,3.0,-169,annual,apac
+ACC-11126,Company_1126,Education,Starter Plan,2020-08-22,,0,$98,286,251.0,"4,195 events",0.48334494531642425,3.0,1379,multi-year,EU
